@@ -130,11 +130,12 @@ class Handler(BaseHTTPRequestHandler):
 
     def do_POST(self):
         path = urlparse(self.path).path
-        if path == '/test':              # 原比赛单病例入口
+        if path == '/test':              # 原比赛单病例入口（复用进程内共享 Store，避免多写者）
             body = self._body()
             try:
                 from my_doctor_agent import MyDoctorAgent
-                agent = MyDoctorAgent(fake=os.environ.get('HOSPITAL_FAKE_LLM') == '1')
+                agent = MyDoctorAgent(fake=os.environ.get('HOSPITAL_FAKE_LLM') == '1',
+                                      store=_store, bus=_bus)
                 return self._send(200, agent.test(body))
             except Exception as exc:     # 诚实边界：如实返回错误，不伪造成功
                 return self._send(500, {'error': str(exc)})

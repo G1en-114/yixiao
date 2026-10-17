@@ -26,7 +26,7 @@ SKILLS_DIR = os.path.join(ROOT, 'data', 'skills')
 class MyDoctorAgent:
     """结构：BasicAgent / MyDoctorAgent → Orchestrator → 8 角色实例 → SDK submission。"""
 
-    def __init__(self, fake=False):
+    def __init__(self, fake=False, data_dir=None, store=None, bus=None):
         cfg = load_config(ROOT)
         if fake:
             from agent.runtime.fake_script import build_script
@@ -34,9 +34,10 @@ class MyDoctorAgent:
         else:
             self.llm = LLMClient(cfg)
         self.kb = KnowledgeBase(SKILLS_DIR)
-        os.makedirs(DATA_DIR, exist_ok=True)
-        self.store = Store(os.path.join(DATA_DIR, 'hospital_demo.db'))
-        self.bus = EventBus(self.store, os.path.join(DATA_DIR, 'events'))
+        data_dir = data_dir or DATA_DIR
+        os.makedirs(data_dir, exist_ok=True)
+        self.store = store or Store(os.path.join(data_dir, 'hospital_demo.db'))
+        self.bus = bus or EventBus(self.store, os.path.join(data_dir, 'events'))
         self.orch = Orchestrator(self.bus, self.store)
         self.pipeline = Pipeline(self.orch, self.bus, self.store, self.kb, self.llm)
 
@@ -60,8 +61,12 @@ class MyDoctorAgent:
             time.sleep(0.5)
         final = (self.store.get_case(case_id) or {}).get('final')
         events = self.store.events_for(case_id)
-        return {'case_id': case_id, 'events': len(events),
-                'stats': self.orch.stats_for(case_id), 'final': final}
+        result = {'case_id': case_id, 'events': len(events),
+                  'stats': self.orch.stats_for(case_id), 'final': final}
+        if final is None:                # 如实带回错误，不伪造成功
+            view = self.pipeline.view(case_id)
+            result['error'] = (view or {}).get('error') or '流程未在时限内完成'
+        return result
 
 
 def _parse_args():
