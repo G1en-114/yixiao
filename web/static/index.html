@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>医晓 Hospital Agent · 多智能体临床决策平台</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<!-- 登录页：动态视频感背景 + 服务端会话登录 -->
+<div id="login-view" class="login-view hidden">
+  <div class="bg-grid"></div>
+  <div class="orb orb-1"></div><div class="orb orb-2"></div><div class="orb orb-3"></div>
+  <div class="login-card">
+    <div class="login-kicker">AI+超级智能体赛道 · 高校组 · 参赛作品</div>
+    <div class="login-title">医晓 <span>HOSPITAL AGENT</span></div>
+    <div class="login-sub">多智能体临床决策平台 —— 八个智能体接力完成一次完整的临床推理</div>
+    <div class="login-chips">
+      <span class="chip c">8 Agents</span><span class="chip g">19 科室</span>
+      <span class="chip c">584 疾病 Skill</span><span class="chip g">837 检查目录</span>
+    </div>
+    <form id="login-form">
+      <input id="login-user" placeholder="演示账号" autocomplete="username">
+      <input id="login-pass" type="password" placeholder="密码" autocomplete="current-password">
+      <button type="submit">登录临床指挥台</button>
+      <div id="login-error" class="login-error"></div>
+    </form>
+    <div class="login-hint">演示账号：demo / yixiao2026 · 服务端会话登录</div>
+    <div class="login-footer">输出仅用于教学演示与临床决策辅助研究，不替代真实医疗诊断、处方或急救</div>
+  </div>
+</div>
+
+<!-- 工作台：左病例 / 中编排 / 右安全闸门 / 底审计 -->
+<div id="app-view" class="app-view hidden">
+  <header class="topbar">
+    <div class="brand">医晓 <span>HOSPITAL AGENT</span><em>多智能体临床决策平台</em></div>
+    <div class="topstats">
+      <div class="ts"><b id="st-events">0</b><span>事件</span></div>
+      <div class="ts"><b id="st-calls">0</b><span>模型调用</span></div>
+      <div class="ts"><b id="st-tokens">0</b><span>tokens</span></div>
+      <div class="ts model"><b id="st-model">—</b><span>基座模型</span></div>
+    </div>
+    <div class="top-right"><span id="kb-stats"></span><button id="btn-logout" class="ghost">退出</button></div>
+  </header>
+
+  <main class="grid">
+    <!-- 左：病例创建 + 历史病例 -->
+    <aside class="col left">
+      <section class="panel">
+        <h3>病例创建 <i>自由输入主诉，不选模板</i></h3>
+        <label>主诉 *</label>
+        <textarea id="in-complaint" rows="2" placeholder="如：胸口疼并伴有呼吸困难，持续半小时"></textarea>
+        <div class="row2">
+          <div><label>年龄</label><input id="in-age" type="number" value="56"></div>
+          <div><label>性别</label>
+            <select id="in-sex"><option>男</option><option>女</option></select></div>
+        </div>
+        <label>持续时间</label>
+        <input id="in-duration" value="半小时">
+        <label>症状（逗号分隔）</label>
+        <input id="in-symptoms" value="胸痛, 呼吸困难">
+        <label>既往史</label><input id="in-history" value="高血压">
+        <label>过敏史</label><input id="in-allergies" placeholder="如：青霉素">
+        <label>当前用药</label><input id="in-meds" placeholder="如：硝酸甘油（选填）">
+        <button id="btn-create" class="primary">创建病例 · 启动八 Agent 协作</button>
+      </section>
+      <section class="panel">
+        <h3>历史病例</h3>
+        <ul id="case-list" class="case-list"><li class="empty">暂无病例</li></ul>
+      </section>
+    </aside>
+
+    <!-- 中：编排器 + 对话 + 检查 + 报告 -->
+    <section class="col center">
+      <section class="panel">
+        <h3>编排器 <i id="stage-label">八智能体接力 · 双专科并行</i></h3>
+        <div class="rail" id="stage-rail">
+          <div class="node" data-s="triage"><b>①</b>分诊</div>
+          <div class="node" data-s="interview"><b>②</b>问诊</div>
+          <div class="node" data-s="differential"><b>③</b>鉴别</div>
+          <div class="node" data-s="examination"><b>④</b>检查</div>
+          <div class="node pair" data-s="specialist"><b>⑤</b>专科 A/B<div class="lane"><span>Specialist A</span><span>Specialist B</span></div></div>
+          <div class="node" data-s="attending"><b>⑥</b>主治</div>
+          <div class="node" data-s="safety"><b>⑦</b>安全</div>
+          <div class="node" data-s="audit"><b>⑧</b>审计</div>
+        </div>
+      </section>
+      <section class="panel" id="panel-cases">
+        <h3>病例状态 <i id="case-headline">未选择病例</i></h3>
+        <div id="intake-brief" class="intake-brief"></div>
+        <div id="qa-area" class="qa-area"></div>
+        <div id="exam-area" class="exam-area"></div>
+        <div id="report-area" class="report-area"></div>
+        <div id="error-area" class="error-area hidden"></div>
+      </section>
+    </section>
+
+    <!-- 右：Safety Gate + 结论 -->
+    <aside class="col right">
+      <section class="panel safety-panel">
+        <h3>Safety Gate <i>拥有驳回权</i></h3>
+        <div id="safety-badge" class="badge idle">STANDBY</div>
+        <div id="safety-list" class="safety-list"><div class="empty">等待审查</div></div>
+      </section>
+      <section class="panel">
+        <h3>当前结论</h3>
+        <div id="conclusion" class="conclusion"><div class="empty">—</div></div>
+      </section>
+    </aside>
+  </main>
+
+  <!-- 底：审计事件时间线 -->
+  <footer class="audit">
+    <div class="audit-head">审计时间线 <span id="audit-count">0 条事件 · 每一次交接与工具调用都可回放</span></div>
+    <div id="timeline" class="timeline"><div class="empty">事件将在此逐条回放</div></div>
+  </footer>
+</div>
+
+<script src="/static/app.js"></script>
+</body>
+</html>

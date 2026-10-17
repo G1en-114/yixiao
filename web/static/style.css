@@ -1,0 +1,151 @@
+/* 医晓 Hospital Agent · 临床指挥台（深色临床指挥中心风格） */
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { height: 100%; }
+body {
+  font-family: "Microsoft YaHei", "PingFang SC", sans-serif;
+  background: #030b19; color: #f4fbff; overflow: hidden;
+}
+.hidden { display: none !important; }
+.empty { color: #7497b2; font-size: 12px; padding: 8px 0; }
+
+/* ---------- 登录页 ---------- */
+.login-view { position: fixed; inset: 0; display: flex; align-items: center; justify-content: center;
+  background: radial-gradient(1200px 800px at 70% 20%, #06284f 0%, #030b19 60%); overflow: hidden; }
+.bg-grid { position: absolute; inset: -50%;
+  background-image: linear-gradient(rgba(38,229,255,.06) 1px, transparent 1px),
+                    linear-gradient(90deg, rgba(38,229,255,.06) 1px, transparent 1px);
+  background-size: 44px 44px; animation: grid 24s linear infinite; }
+@keyframes grid { to { transform: translateY(44px); } }
+.orb { position: absolute; border-radius: 50%; filter: blur(70px); opacity: .5; animation: drift 14s ease-in-out infinite alternate; }
+.orb-1 { width: 420px; height: 420px; left: 8%; top: 12%; background: #0b4a7a; }
+.orb-2 { width: 360px; height: 360px; right: 10%; top: 55%; background: #0a2f5c; animation-delay: -4s; }
+.orb-3 { width: 260px; height: 260px; left: 45%; top: 70%; background: #123c6b; animation-delay: -8s; }
+@keyframes drift { from { transform: translate(0,0) scale(1); } to { transform: translate(50px,-40px) scale(1.15); } }
+.login-card { position: relative; width: 460px; padding: 38px 42px; border-radius: 14px;
+  background: rgba(5,26,52,.72); border: 1px solid rgba(75,185,255,.35);
+  box-shadow: 0 0 60px rgba(38,229,255,.12); backdrop-filter: blur(6px); }
+.login-kicker { color: #26e5ff; font-size: 11px; letter-spacing: 2px; margin-bottom: 14px; }
+.login-title { font-size: 40px; font-weight: 700; }
+.login-title span { color: #ffc452; font-size: 18px; letter-spacing: 4px; margin-left: 8px; }
+.login-sub { color: #afcde1; font-size: 13px; margin: 10px 0 16px; line-height: 1.6; }
+.login-chips { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 22px; }
+.chip { font-size: 11px; padding: 4px 10px; border-radius: 999px; border: 1px solid; }
+.chip.c { color: #26e5ff; border-color: rgba(38,229,255,.4); }
+.chip.g { color: #ffc452; border-color: rgba(255,196,82,.4); }
+#login-form input { width: 100%; padding: 11px 14px; margin-bottom: 12px; border-radius: 8px;
+  border: 1px solid rgba(75,185,255,.3); background: rgba(3,11,25,.8); color: #f4fbff; font-size: 14px; }
+#login-form button { width: 100%; padding: 12px; border: 0; border-radius: 8px; cursor: pointer;
+  background: linear-gradient(90deg, #0a6ea8, #26e5ff); color: #02131f; font-weight: 700; font-size: 15px; }
+.login-error { color: #ff5c84; font-size: 12px; min-height: 16px; margin-top: 8px; }
+.login-hint { color: #7497b2; font-size: 12px; margin-top: 14px; }
+.login-footer { color: #4d6b85; font-size: 11px; margin-top: 10px; line-height: 1.5; }
+
+/* ---------- 工作台 ---------- */
+.app-view { display: flex; flex-direction: column; height: 100vh; }
+.topbar { display: flex; align-items: center; gap: 24px; padding: 10px 18px;
+  background: rgba(5,26,52,.6); border-bottom: 1px solid rgba(38,229,255,.18); }
+.brand { font-size: 18px; font-weight: 700; }
+.brand span { color: #ffc452; font-size: 11px; letter-spacing: 3px; margin-left: 6px; }
+.brand em { font-style: normal; color: #afcde1; font-size: 12px; margin-left: 12px; }
+.topstats { display: flex; gap: 14px; margin-left: auto; }
+.ts { text-align: center; min-width: 64px; }
+.ts b { display: block; color: #26e5ff; font-size: 16px; }
+.ts.model b { color: #ffc452; font-size: 12px; line-height: 22px; }
+.ts span { color: #7497b2; font-size: 10px; }
+.top-right { color: #7497b2; font-size: 12px; display: flex; align-items: center; gap: 10px; }
+.ghost { background: transparent; border: 1px solid rgba(75,185,255,.4); color: #26e5ff;
+  padding: 4px 12px; border-radius: 6px; cursor: pointer; }
+
+.grid { display: grid; grid-template-columns: 300px 1fr 300px; gap: 12px; padding: 12px; flex: 1; min-height: 0; }
+.col { display: flex; flex-direction: column; gap: 12px; min-height: 0; overflow-y: auto; }
+.center { overflow-y: auto; }
+.panel { background: rgba(5,26,52,.5); border: 1px solid rgba(75,185,255,.2);
+  border-radius: 10px; padding: 14px; }
+.panel h3 { font-size: 14px; color: #26e5ff; margin-bottom: 10px; }
+.panel h3 i { font-style: normal; color: #7497b2; font-size: 11px; font-weight: 400; margin-left: 8px; }
+
+/* 左栏表单 */
+.panel label { display: block; color: #7497b2; font-size: 11px; margin: 8px 0 4px; }
+.panel input, .panel textarea, .panel select { width: 100%; padding: 8px 10px; border-radius: 6px;
+  border: 1px solid rgba(75,185,255,.25); background: rgba(3,11,25,.75); color: #f4fbff; font-size: 13px; }
+.row2 { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.primary { width: 100%; margin-top: 14px; padding: 11px; border: 0; border-radius: 8px; cursor: pointer;
+  background: linear-gradient(90deg, #0a6ea8, #26e5ff); color: #02131f; font-weight: 700; }
+.case-list { list-style: none; max-height: 220px; overflow-y: auto; }
+.case-list li { padding: 8px 10px; border-radius: 6px; cursor: pointer; font-size: 12px;
+  border: 1px solid transparent; }
+.case-list li:hover { background: rgba(38,229,255,.08); border-color: rgba(38,229,255,.25); }
+.case-list li.active { border-color: #26e5ff; }
+.case-list li b { display: block; color: #f4fbff; font-weight: 600; }
+.case-list li span { color: #7497b2; font-size: 11px; }
+
+/* 编排器轨道 */
+.rail { display: flex; gap: 6px; flex-wrap: wrap; }
+.node { position: relative; flex: 1; min-width: 74px; text-align: center; padding: 10px 4px;
+  border-radius: 8px; background: rgba(4,28,55,.9); border: 1px solid rgba(75,185,255,.25);
+  color: #afcde1; font-size: 12px; }
+.node b { display: block; color: #4d6b85; font-size: 11px; }
+.node.active { border-color: #26e5ff; color: #fff; box-shadow: 0 0 14px rgba(38,229,255,.35);
+  animation: pulse 1.4s ease-in-out infinite; }
+.node.done { border-color: rgba(90,238,177,.55); color: #5aeed1; }
+.node.reject { border-color: #ff5c84; color: #ff5c84; box-shadow: 0 0 14px rgba(255,92,132,.35); }
+.node .lane { display: flex; gap: 4px; justify-content: center; margin-top: 4px; }
+.node .lane span { font-size: 9px; color: #7497b2; border: 1px solid rgba(75,185,255,.25);
+  border-radius: 4px; padding: 1px 4px; }
+.node.active .lane span { color: #ffc452; border-color: rgba(255,196,82,.5); }
+@keyframes pulse { 50% { box-shadow: 0 0 4px rgba(38,229,255,.15); } }
+
+/* 病例状态/对话 */
+.intake-brief { color: #afcde1; font-size: 12px; margin-bottom: 8px; line-height: 1.7; }
+.qa-round { margin-bottom: 12px; }
+.qa-round h4 { color: #ffc452; font-size: 12px; margin-bottom: 6px; }
+.qa-item { margin-bottom: 10px; }
+.qa-item .q { font-size: 13px; color: #f4fbff; }
+.qa-item .q i { font-style: normal; color: #7497b2; font-size: 11px; margin-left: 6px; }
+.qa-item textarea { margin-top: 5px; }
+.qa-item .answered { color: #5aeed1; font-size: 13px; margin-top: 4px; }
+.btn-sm { margin-top: 8px; padding: 8px 18px; border: 0; border-radius: 6px; cursor: pointer;
+  background: linear-gradient(90deg, #0a6ea8, #26e5ff); color: #02131f; font-weight: 700; font-size: 12px; }
+.exam-item { display: grid; grid-template-columns: 190px 1fr; gap: 8px; align-items: start; margin-bottom: 8px; }
+.exam-item .name { color: #f4fbff; font-size: 13px; padding-top: 8px; }
+.exam-item .name i { display: block; font-style: normal; color: #ffc452; font-size: 10px; }
+.report h4 { color: #26e5ff; font-size: 13px; margin: 12px 0 6px; }
+.report ul { margin-left: 18px; font-size: 13px; line-height: 1.8; color: #dff2ff; }
+.report .diagnosis { font-size: 15px; color: #ffc452; font-weight: 700; }
+.report .warn { color: #ff5c84; font-size: 12px; margin-top: 6px; }
+.report .disc { color: #4d6b85; font-size: 11px; margin-top: 12px; border-top: 1px dashed rgba(75,185,255,.25); padding-top: 8px; }
+.error-area { color: #ff5c84; font-size: 13px; padding: 10px; border: 1px solid rgba(255,92,132,.4); border-radius: 8px; }
+
+/* 右栏 Safety Gate */
+.badge { text-align: center; padding: 12px; border-radius: 8px; font-weight: 800; letter-spacing: 2px;
+  font-size: 16px; margin-bottom: 10px; }
+.badge.idle { background: rgba(116,151,178,.12); color: #7497b2; }
+.badge.approved { background: rgba(90,238,177,.12); color: #5aeed1; border: 1px solid rgba(90,238,177,.5); }
+.badge.rejected { background: rgba(255,92,132,.12); color: #ff5c84; border: 1px solid rgba(255,92,132,.55);
+  animation: pulse-red 1.2s infinite; }
+@keyframes pulse-red { 50% { box-shadow: 0 0 18px rgba(255,92,132,.4); } }
+.safety-review { margin-bottom: 10px; padding: 8px 10px; border-radius: 6px; font-size: 12px;
+  background: rgba(3,11,25,.6); border-left: 3px solid #7497b2; }
+.safety-review.rejected { border-left-color: #ff5c84; }
+.safety-review.approved { border-left-color: #5aeed1; }
+.safety-review b { font-size: 11px; }
+.safety-review ul { margin: 4px 0 0 16px; color: #ff8ba7; }
+.conclusion { font-size: 13px; line-height: 1.8; color: #dff2ff; }
+.conclusion b { color: #ffc452; }
+.precond { margin-top: 8px; padding: 8px; font-size: 11px; color: #ffc452;
+  background: rgba(255,196,82,.06); border: 1px dashed rgba(255,196,82,.4); border-radius: 6px; }
+
+/* 底部审计时间线 */
+.audit { height: 190px; padding: 8px 14px 12px; border-top: 1px solid rgba(38,229,255,.18);
+  background: rgba(2,10,22,.85); }
+.audit-head { color: #26e5ff; font-size: 12px; font-weight: 700; padding: 4px 0 6px; }
+.audit-head span { color: #7497b2; font-weight: 400; font-size: 11px; margin-left: 10px; }
+.timeline { height: 140px; overflow-y: auto; font-size: 12px; }
+.tl-row { display: flex; gap: 10px; padding: 3px 6px; border-radius: 4px; cursor: default; }
+.tl-row:hover { background: rgba(38,229,255,.06); }
+.tl-row .t { color: #4d6b85; min-width: 64px; }
+.tl-row .a { color: #ffc452; min-width: 96px; }
+.tl-row .ty { color: #26e5ff; min-width: 120px; }
+.tl-row .s { color: #c9e4f6; flex: 1; }
+.tl-row.ev-rejected .s, .tl-row.ev-error .s { color: #ff5c84; }
+.tl-row.ev-approved .s, .tl-row.ev-case_final .s { color: #5aeed1; }
