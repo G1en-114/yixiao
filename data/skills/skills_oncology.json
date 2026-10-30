@@ -1,0 +1,762 @@
+{
+ "department": "Oncology",
+ "skills": [
+  {
+   "presentation": "Early stage often has no obvious specific symptoms; common early signals include irritative dry cough, blood-streaked sputum or small-volume hemoptysis, chest pain, exertional dyspnea, and hoarseness; advanced stage may present with weight loss and cachexia, fever, bone pain (bone metastasis), headache and vomiting (brain metastasis), painless enlargement of supraclavicular lymph nodes, and superior vena cava syndrome (severe edema and cyanosis of the head, face, and neck).",
+   "interview_guide": {
+    "first_questions": [
+     "How long has the irritative dry cough lasted? Do conventional antitussive drugs help?",
+     "Have you ever coughed up blood streaks, blood clots, or brown sputum?",
+     "Have you recently had chest pain, breathlessness, a hoarse voice, or unexplained marked weight loss?"
+    ],
+    "followup_questions": [
+     "How many years have you been smoking? How many cigarettes per day (calculate pack-years of smoking; >=20 pack-years is high risk)?",
+     "At work, have you had long-term exposure to asbestos, dust, radon, chemical fumes, or heavy secondhand smoke?",
+     "Have you had headache, projectile vomiting, limb weakness, or aching at fixed sites throughout the skeleton? (to evaluate brain and bone metastases)"
+    ],
+    "stop_conditions": [
+     "Duration of respiratory alarm symptoms, characteristics of hemoptysis, and wasting signs have been clarified",
+     "Assessment of lung cancer high-risk factors (heavy smoking history, occupational exposure history, family history of cancer) has been completed",
+     "Metastatic symptoms and performance status (ECOG score) have been clearly determined"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "High-resolution contrast-enhanced thin-section chest CT (to assess the size of pulmonary nodules/masses, spiculation sign, lobulation sign, pleural retraction sign, and mediastinal lymph node enlargement)",
+     "Histopathological and immunohistochemical examination (bronchoscopic biopsy/percutaneous lung biopsy/sputum exfoliative cytology—gold standard for confirming non-small cell lung cancer (NSCLC) or small cell lung cancer (SCLC))",
+     "Full tumor marker panel (CEA, CYFRA21-1, SCC, NSE, ProGRP)"
+    ],
+    "if_suspected": [
+     "Comprehensive genomic profiling by next-generation sequencing (NGS) (for adenocarcinoma, mandatory testing of EGFR mutation, ALK fusion, ROS1, BRAF, KRAS, PD-L1 expression, etc., to guide targeted and immunotherapy)",
+     "Whole-body positron emission tomography-computed tomography (18F-FDG PET-CT) (for accurate assessment of whole-body TNM staging)",
+     "Contrast-enhanced brain MRI + whole-body radionuclide bone scan ECT (to evaluate brain and bone metastases)"
+    ],
+    "avoid": [
+     "Blind empirical direct use of targeted drugs or chemotherapy without pathological biopsy and genotyping",
+     "Blindly abandoning surgery in patients with early-stage resectable curable lung cancer without evidence of distant metastasis"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Multidisciplinary team (MDT) comprehensive treatment model: for early-to-mid-stage (stage I-II and some stage IIIa) NSCLC, radical surgical resection is preferred (video-assisted thoracoscopic lobectomy + systematic mediastinal lymph node dissection)",
+     "Advanced/driver gene-positive NSCLC: preferred corresponding molecular targeted drugs (for EGFR mutation, preferred third-generation TKIs such as osimertinib/aumolertinib)",
+     "ALK fusion: preferred alectinib)",
+     "Driver gene-negative advanced NSCLC: preferred immune checkpoint inhibitors (PD-1/PD-L1 monoclonal antibodies such as pembrolizumab) combined with platinum-based doublet chemotherapy",
+     "Limited-stage small cell lung cancer (SCLC): preferred concurrent chemoradiotherapy (EP regimen)."
+    ],
+    "safety_warnings": [
+     "During treatment with molecular targeted drugs (EGFR-TKIs, etc.), closely guard against interstitial lung disease (ILD), ECG QT prolongation, and diarrhea and rash",
+     "PD-1/PD-L1 immunotherapy requires close monitoring for immune-related adverse events (irAEs), including immune myocarditis, immune pneumonitis, immune hepatitis, and hypophysitis",
+     "During platinum-based chemotherapy, adequate hydration is required to prevent cisplatin nephrotoxicity and severe nausea and vomiting"
+    ],
+    "personalization": [
+     "Patients with EGFR-sensitizing mutation and brain metastases: prefer the third-generation TKI osimertinib, which has high blood-brain barrier penetration",
+     "Elderly, frail patients with poor performance status (ECOG>=2): prefer single-agent oral targeted therapy or best supportive symptomatic care",
+     "Postoperative patients at high risk of recurrence: standard postoperative adjuvant targeted therapy (e.g., adjuvant osimertinib for 3 years) or adjuvant chemotherapy/immunotherapy"
+    ]
+   },
+   "disease": "lung cancer",
+   "department": "Oncology"
+  },
+  {
+   "presentation": "Painless, solitary, hard, ill-defined, poorly mobile breast mass; nipple discharge (unilateral, single-duct bloody or serous discharge); breast skin changes showing dimple sign (tumor invasion of Cooper ligaments) or peau d'orange change (subcutaneous lymphatic vessels blocked by tumor emboli); nipple retraction, flattening, or change in direction; advanced stage with hard, matted, enlarged ipsilateral axillary lymph nodes and supraclavicular lymph node enlargement.",
+   "interview_guide": {
+    "first_questions": [
+     "When was the breast mass discovered? Does it feel hard like a stone or soft and elastic? Does the mass change in size with the menstrual cycle?",
+     "Has there been any nipple discharge or bleeding (especially bright red or brown fluid from a single duct of one nipple)?",
+     "Has the breast skin become indented like a small dimple, or rough like orange peel?"
+    ],
+    "followup_questions": [
+     "Have you felt a hard lump under the armpit on the same side (axillary lymph node)?",
+     "Has anyone in your family—your mother, sister, or aunt—had breast cancer or ovarian cancer (BRCA gene mutation history)?",
+     "Was your age at menarche early (<12 years), was menopause late (>55 years), or have you never given birth or breastfed?"
+    ],
+    "stop_conditions": [
+     "Physical texture of the breast mass, skin and nipple features, and relationship to the menstrual cycle have been clarified",
+     "Axillary lymph nodes and signs of distant metastasis to bone, lung, liver, and brain have been evaluated",
+     "High-risk genetic background for breast cancer and menstrual and reproductive history have been completely collected"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Color Doppler breast ultrasound (to assess mass BI-RADS category 4-5, aspect ratio >1, irregular spiculated margins, and microcalcifications)",
+     "Bilateral mammography (Mammography, a powerful tool for detecting clustered fine ground-glass-like calcifications)",
+     "Breast core needle biopsy (CNB) (obtain tissue for pathological confirmation and immunohistochemical subtyping of ER, PR, HER-2, and Ki-67—gold standard for guiding treatment)"
+    ],
+    "if_suspected": [
+     "Contrast-enhanced bilateral breast MRI (to assess multicentric/multifocal lesions and dense breasts)",
+     "Whole-body contrast-enhanced chest, abdominal, and pelvic CT + bone ECT scan (to assess whole-body clinical TNM staging)",
+     "BRCA1/BRCA2 germline mutation testing (for patients with a clear family genetic predisposition)"
+    ],
+    "avoid": [
+     "Blind simple incisional biopsy of a suspected breast cancer mass, causing tumor cell contamination of the incision",
+     "Blind direct endocrine or targeted drug therapy without immunohistochemical pathological subtyping"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Precision comprehensive treatment model based on molecular subtype: surgical resection is the core (breast-conserving surgery/total mastectomy + sentinel lymph node biopsy/axillary lymph node dissection)",
+     "HR-positive (Luminal type): preferred endocrine therapy (premenopausal: tamoxifen +/- ovarian function suppression (OFS); postmenopausal: aromatase inhibitors (AIs) such as anastrozole/letrozole for 5-10 years)",
+     "HER-2-positive: preferred anti-HER-2 targeted therapy (dual-target therapy with trastuzumab + pertuzumab for 1 year)",
+     "Triple-negative breast cancer: preferred standard platinum/taxane-based chemotherapy combined with immunotherapy."
+    ],
+    "safety_warnings": [
+     "Anti-HER-2 targeted drugs (trastuzumab, etc.) have cardiotoxicity (causing LVEF decline); during treatment, routine echocardiography must be repeated every 3 months",
+     "Long-term oral tamoxifen increases the risk of endometrial hyperplasia and endometrial cancer; annual routine gynecologic ultrasound is required to monitor endometrial thickness",
+     "Aromatase inhibitors (AIs) cause bone loss and osteoporosis; routine calcium and vitamin D supplementation and bone density monitoring are required"
+    ],
+    "personalization": [
+     "Locally advanced disease or large tumors with desire for breast conservation: first receive neoadjuvant chemotherapy/neoadjuvant targeted therapy for downstaging, then reassess for surgery",
+     "High-risk early-stage HER-2-positive patients: recommend dual-target trastuzumab + pertuzumab combined with adjuvant chemotherapy",
+     "Postmenopausal HR-positive patients at high recurrence risk: aromatase inhibitor combined with CDK4/6 inhibitor (e.g., abemaciclib) for 2 years of intensified adjuvant therapy"
+    ]
+   },
+   "disease": "Breast cancer",
+   "department": "Oncology"
+  },
+  {
+   "presentation": "Early stage often has no specific symptoms and resembles chronic dyspepsia; advanced stage mainly presents with persistent dull or distending epigastric pain, markedly decreased appetite, aversion to meat, early satiety, weight loss and cachexia, progressive dysphagia (cardia cancer), or frequent vomiting of retained food (pyloric obstruction), hematemesis, and persistent tarry black stools; late stage may reveal a hard, fixed epigastric mass, left supraclavicular lymph node enlargement (Virchow's node), and ascites.",
+   "interview_guide": {
+    "first_questions": [
+     "How long has the epigastric pain lasted? Has the pain pattern changed recently (from regular pain to irregular persistent dull pain)?",
+     "How has your appetite been recently? Have you had obvious weight loss (how many jin have you lost in recent months)?",
+     "Have you passed tarry, shiny, black stools?"
+    ],
+    "followup_questions": [
+     "Do you have a sensation of food sticking when eating, or vomit undigested food from the previous day after eating?",
+     "Is there any family history of gastric cancer, colorectal cancer, or other digestive tract tumors? Have you had Helicobacter pylori infection or atrophic gastritis in the past?",
+     "Have you felt a hard lump at the base of the neck above the left clavicle?"
+    ],
+    "stop_conditions": [
+     "Changes in the nature of epigastric pain, weight loss, anemia, and alarm signs of gastrointestinal bleeding have been clarified",
+     "Late-stage metastatic signs such as left supraclavicular lymph nodes, peritoneal seeding, and liver metastasis have been evaluated",
+     "History of Helicobacter pylori infection and the need for endoscopic biopsy have been clearly assessed"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Electronic gastroscopy + multi-site tissue pathological examination of suspicious gastric mucosal lesions (absolute gold standard for confirming gastric adenocarcinoma and histological typing)",
+     "Whole-abdomen + pelvic high-resolution contrast-enhanced CT (to assess depth of gastric wall invasion T staging, perigastric and retroperitoneal lymph node N staging, and liver and peritoneal seeding metastasis M staging)",
+     "Complete blood count (to assess microcytic hypochromic anemia due to blood loss), tumor markers (CEA, CA19-9, CA72-4)"
+    ],
+    "if_suspected": [
+     "Endoscopic ultrasound (EUS) (for accurate assessment of invasion depth through each layer of the gastric wall and small perigastric lymph nodes)",
+     "Pathological tissue HER-2 immunohistochemistry/FISH testing and PD-L1 (CPS score), MSI/MMR testing (to guide advanced-stage targeted and immunotherapy)",
+     "Diagnostic laparoscopic exploration + peritoneal lavage fluid cytology (to evaluate occult peritoneal micrometastasis)"
+    ],
+    "avoid": [
+     "Trial treatment with oral acid-suppressing drugs alone while delaying or even refusing gastroscopy (very likely to cause delayed diagnosis of advanced gastric cancer)",
+     "Routine blind whole-body high-dose bone ECT imaging in patients without signs of bone pain"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Multidisciplinary MDT comprehensive treatment: for early-to-mid-stage gastric cancer, radical surgical resection is preferred (laparoscopic or open distal/total gastrectomy + D2 lymph node dissection)",
+     "Postoperative adjuvant chemotherapy (SOX/XELOX regimens containing fluorouracil + oxaliplatin for half a year)",
+     "For locally advanced disease, neoadjuvant chemotherapy (FLOT regimen) is recommended for downstaging before surgery",
+     "Advanced/metastatic gastric cancer: preferred systemic chemotherapy combined with immunotherapy (PD-1 monoclonal antibodies such as nivolumab/sintilimab); for HER-2-positive patients, combine with trastuzumab targeted therapy."
+    ],
+    "safety_warnings": [
+     "During oxaliplatin chemotherapy, strictly guard against acute neurotoxicity; instruct patients to avoid contact with cold water and cold air and to avoid cold or raw food",
+     "After total gastrectomy, patients lack intrinsic factor and must receive regular lifelong intramuscular vitamin B12 injections to prevent megaloblastic anemia",
+     "Patients with acute massive bleeding, complete pyloric obstruction, or gastric perforation require emergency surgery or endoscopic intervention for hemostasis and stent decompression"
+    ],
+    "personalization": [
+     "Super-early gastric cancer (intramucosal cancer cT1a, well differentiated, no ulcer): preferred minimally invasive endoscopic submucosal dissection (ESD)",
+     "Patients with HER-2-overexpressing advanced gastric cancer: first-line chemotherapy must be combined with trastuzumab targeted therapy",
+     "Advanced MSI-H/dMMR patients: highly sensitive to PD-1 immune checkpoint inhibitors; immunotherapy monotherapy or combination therapy may be preferred"
+    ]
+   },
+   "disease": "gastric cancer",
+   "department": "Oncology"
+  },
+  {
+   "presentation": "Early stage has no specific symptoms; right-sided colon cancer mainly presents with an abdominal mass, abdominal pain, progressive weight loss, refractory anemia, fatigue, fever, and other systemic toxic symptoms; left-sided colon cancer prominently presents with hematochezia (mucous-purulent bloody stools/dark red bloody stools), changes in bowel habits (alternating diarrhea and constipation, increased stool frequency), narrowed stools, and intestinal obstruction (abdominal distension, abdominal pain, cessation of flatus and defecation); advanced stage presents with jaundice from liver metastasis, ascites, and cachexia.",
+   "interview_guide": {
+    "first_questions": [
+     "How long have you had blood in your stool? Is the blood bright red or dark red? Is there pus or mucus mixed in the stool?",
+     "Have your bowel habits changed obviously recently? For example, sudden increase in stool frequency, alternating constipation and diarrhea, or obviously narrowed stools?",
+     "Have you had abdominal distension or pain, felt a hard mass in the abdomen, or become thin and weak in recent months?"
+    ],
+    "followup_questions": [
+     "Have you suddenly had severe abdominal distension and pain, nausea and vomiting, and no flatus or bowel movement for several days? (urgent evaluation for acute intestinal obstruction)",
+     "Has anyone in your family—parents, siblings—had colorectal cancer or intestinal polyposis (Lynch syndrome/FAP familial adenomatous polyposis)?",
+     "Have you had colon polyps or ulcerative colitis in the past?"
+    ],
+    "stop_conditions": [
+     "The nature of hematochezia, changes in bowel habits, and systemic wasting/intestinal obstruction manifestations have been clarified",
+     "Family genetic history of colorectal cancer and indications for colonoscopic screening have been assessed",
+     "Critical signs of acute intestinal obstruction and perforation have been ruled out"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Total colonoscopy + multi-site tissue pathological examination of intestinal mucosal lesions (absolute gold standard for confirming colon adenocarcinoma)",
+     "Whole-abdomen + pelvic contrast-enhanced CT (to assess bowel wall invasion T staging, regional lymph node N staging, and distant liver and lung metastasis M staging)",
+     "Serum carcinoembryonic antigen (CEA) and CA19-9 (for disease assessment and postoperative recurrence monitoring)",
+     "Complete blood count (to assess chronic blood loss anemia)"
+    ],
+    "if_suspected": [
+     "Pathological tissue KRAS, NRAS, BRAF gene mutation and MSI/MMR mismatch repair status testing (to guide advanced-stage targeted therapy, chemotherapy, and immunotherapy drug selection)",
+     "Contrast-enhanced chest CT/brain MRI/whole-body PET-CT (for accurate whole-body clinical staging and evaluation of metastatic lesions)"
+    ],
+    "avoid": [
+     "Blind oral administration of a large amount of high-concentration barium contrast in patients with suspected intestinal obstruction (can cause barium to dry and harden, worsening complete intestinal obstruction and intestinal perforation)",
+     "Long-term blind treatment as simple hemorrhoids in patients with hematochezia without colonoscopy"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Multidisciplinary MDT comprehensive treatment: for early-to-mid-stage (stage I-III) colon cancer, radical surgical resection is preferred (laparoscopic or open radical colectomy: right/left/sigmoid colectomy + standardized regional lymph node dissection)",
+     "Postoperative adjuvant chemotherapy for stage III and high-risk stage II (CapeOX/FOLFOX adjuvant chemotherapy for 3-6 months)",
+     "Advanced metastatic colon cancer: preferred systemic chemotherapy (FOLFOX/FOLFIRI) combined with molecular targeted therapy (for RAS wild-type, preferred cetuximab anti-EGFR",
+     "RAS mutant type: preferred bevacizumab anti-VEGF)."
+    ],
+    "safety_warnings": [
+     "In patients with acute complete colon obstruction, forced routine oral large-volume polyethylene glycol bowel preparation is contraindicated; emergency surgery or endoscopic placement of an intestinal metal stent for decompression as a bridge are required",
+     "Cetuximab is effective only in patients with RAS and BRAF wild-type genes; use in patients with RAS mutation is not only ineffective but harmful",
+     "During irinotecan chemotherapy, guard against delayed diarrhea and acute cholinergic syndrome (can be controlled with atropine and loperamide)"
+    ],
+    "personalization": [
+     "Patients with MSI-H/dMMR advanced colon cancer: preferred first-line immunotherapy monotherapy with PD-1 inhibitors (pembrolizumab/serplulimab)",
+     "Patients with only a limited single liver metastasis: evaluate for synchronous or staged radical resection of the primary colon lesion and liver metastasis",
+     "Elderly patients with very poor performance status who cannot tolerate combination chemotherapy: choose single-agent oral capecitabine maintenance or best supportive care"
+    ]
+   },
+   "disease": "Colon cancer",
+   "department": "Oncology"
+  },
+  {
+   "presentation": "Patients often present with a rapidly enlarging abdominal mass, severe abdominal pain, nausea and vomiting, or symptoms of intestinal obstruction; some cases have painless swelling of the maxillofacial region. Systemic symptoms include high fever, night sweats, and significant weight loss over a short period. The disease progresses extremely rapidly, and a huge tumor burden can develop within weeks; acute abdominal presentations require high vigilance.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently noticed a rapidly enlarging mass in your abdomen or experienced persistent abdominal pain?",
+     "Have you recently had unexplained high fever, drenching night sweats, or rapid weight loss?",
+     "Do you have painless swelling in the maxillofacial region or neck?"
+    ],
+    "followup_questions": [
+     "If you have abdominal pain, is it accompanied by difficulty passing stool, vomiting, or absence of flatus (suggesting intestinal obstruction)?",
+     "Is the fever persistent and unresponsive to antibiotics?",
+     "Do you have a history of Epstein-Barr virus (EBV) infection or immunodeficiency-related conditions?"
+    ],
+    "stop_conditions": [
+     "A rapidly growing abdominal or maxillofacial mass has been clearly described",
+     "Typical B symptoms (fever, night sweats, weight loss) are confirmed",
+     "Initial assessment is consistent with clinical features of highly aggressive lymphoma"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Bone marrow aspiration and biopsy (to assess bone marrow infiltration)",
+     "Abdominal CT or MRI (to assess abdominal mass and intestinal obstruction)",
+     "Flow cytometry for CD10, CD20, and Ki-67 index"
+    ],
+    "if_suspected": [
+     "Lumbar puncture (to evaluate central nervous system involvement)",
+     "PET-CT (for whole-body staging and metabolic activity assessment)",
+     "Quantitative EBV DNA testing"
+    ],
+    "avoid": [
+     "Routine exploratory laparotomy (may cause tumor rupture and bleeding)",
+     "Starting chemotherapy based solely on imaging without pathological confirmation",
+     "Long-term use of nonspecific anti-inflammatory drugs that masks the disease"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Use high-intensity multiagent combination chemotherapy (e.g., CODOX-M/IVAC), including cyclophosphamide, vincristine, doxorubicin, high-dose methotrexate, and ifosfamide. Prophylactic intrathecal methotrexate must be given concurrently to prevent and treat central nervous system leukemia. Courses are usually intensive and short; tumor lysis syndrome requires close monitoring, with adequate hydration and allopurinol or rasburicase."
+    ],
+    "safety_warnings": [
+     "Chemotherapy must not be started before electrolyte disturbances are corrected, to prevent severe arrhythmias",
+     "High-dose methotrexate requires strict monitoring of serum drug concentrations and renal function to prevent nephrotoxicity",
+     "Be alert for acute renal failure and hyperkalemia caused by tumor lysis syndrome"
+    ],
+    "personalization": [
+     "Pediatric patients require precise dose adjustment based on body surface area and intensified supportive care",
+     "Elderly patients or those with poor performance status require appropriately reduced induction intensity or staged treatment",
+     "Patients with HIV coinfection require concurrent optimization of antiretroviral therapy"
+    ]
+   },
+   "disease": "Burkitt lymphoma",
+   "department": "Oncology"
+  },
+  {
+   "presentation": "Patients often complain of paroxysmal flushing of the face, neck, and upper chest, accompanied by severe diarrhea (watery stools) and abdominal cramps. Some patients develop unexplained dyspnea or wheezing resembling an asthma attack. If uncontrolled long term, right-sided valvular heart disease symptoms may appear, such as palpitations after activity and lower extremity edema. Symptoms are often triggered or worsened by alcohol, specific foods, or emotional stress.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you ever had sudden facial flushing or a feeling of body heat lasting from a few minutes to a few hours?",
+     "Have you recently had frequent uncontrollable diarrhea or abdominal pain?",
+     "Do you have shortness of breath, palpitations, or asthma-like wheezing after exertion?"
+    ],
+    "followup_questions": [
+     "Before episodes of flushing and diarrhea, are there triggers such as alcohol, cheese, or emotional fluctuations?",
+     "Are the stools watery, how many times per day, and are there nocturnal symptoms?",
+     "Do you have a history of gastrointestinal tumors or have you ever had a lung/ovarian mass?"
+    ],
+    "stop_conditions": [
+     "Typical triad (flushing, diarrhea, bronchospasm) is clearly identified and related to diet/emotion.",
+     "Neuroendocrine tumor history is confirmed with signs of metastasis.",
+     "Symptoms are highly specific and further differentiation from other functional gastrointestinal disorders is unnecessary."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "24-hour urinary 5-hydroxyindoleacetic acid (5-HIAA) measurement",
+     "Serum chromogranin A (CgA) testing",
+     "Contrast-enhanced CT or MRI of the abdomen and pelvis"
+    ],
+    "if_suspected": [
+     "Somatostatin receptor imaging (e.g., 68Ga-DOTATATE PET/CT)",
+     "Echocardiography (to assess tricuspid regurgitation and pulmonary hypertension)",
+     "Upper endoscopy or colonoscopy (to search for the primary lesion)"
+    ],
+    "avoid": [
+     "Routine antibiotic treatment trial (ineffective for noninfectious diarrhea)",
+     "Abdominal plain radiography without indication (low diagnostic value for soft tissue tumors)",
+     "Blind exploratory surgery under general anesthesia without imaging localization"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line therapy is a long-acting somatostatin analog (e.g., octreotide LAR or lanreotide), given by intramuscular injection once monthly, with dose adjusted according to symptoms to suppress hormone secretion. For refractory diarrhea, loperamide may be added. If liver metastases cause severe symptoms, hepatic artery embolization or interventional therapy should be considered. Niacin supplementation is also needed to prevent vitamin B3 deficiency."
+    ],
+    "safety_warnings": [
+     "Injection-site pain, induration, or lipoatrophy may occur; rotate injection sites.",
+     "Gallstones may develop; long-term use requires regular monitoring of the gallbladder.",
+     "Contraindicated in patients allergic to drug components; use with caution in patients with severe insulin-dependent diabetes mellitus."
+    ],
+    "personalization": [
+     "Patients with renal impairment require adjustment of dosing intervals based on creatinine clearance.",
+     "Elderly patients should start at a low dose and titrate slowly to an effective dose to reduce adverse reactions.",
+     "Use in pregnant women only when benefit outweighs risk, with close monitoring of fetal development."
+    ]
+   },
+   "disease": "Carcinoid syndrome",
+   "department": "Oncology"
+  },
+  {
+   "presentation": "Patients often present with irregular vaginal bleeding, especially postmenopausal bleeding or postcoital bleeding. Some patients have vaginal discharge that is white, bloody, or rice-water-like, with a foul odor. Advanced disease may cause lumbosacral pain, urinary frequency, urgency, constipation, and even lower extremity edema and systemic failure.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have abnormal vaginal bleeding?",
+     "Have you recently had postcoital bleeding or postmenopausal bleeding?",
+     "Have you had increased vaginal discharge or abnormal odor?"
+    ],
+    "followup_questions": [
+     "If bleeding is present, what is the amount and duration?",
+     "Is it accompanied by back pain, urinary frequency, or other urinary symptoms?",
+     "Do you have a long-term smoking history or HPV infection history?"
+    ],
+    "stop_conditions": [
+     "Typical symptoms (e.g., contact bleeding) are clearly described without other confounding factors.",
+     "The patient has provided a complete history and prior examination results.",
+     "Symptoms and signs are highly suggestive of cervical cancer, and the examination stage can proceed without further questioning."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Cervical cytology (TCT)",
+     "Human papillomavirus (HPV) testing",
+     "Cervical biopsy pathology"
+    ],
+    "if_suspected": [
+     "Pelvic MRI or CT",
+     "Chest X-ray or CT",
+     "Cystoscopy or proctoscopy"
+    ],
+    "avoid": [
+     "Routine abdominal ultrasound as a diagnostic confirmation method",
+     "Use of nonspecific serum tumor markers alone",
+     "Extensive surgical exploration without pathological confirmation"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Early cervical cancer is preferably treated with surgery, including radical hysterectomy and lymph node dissection",
+     "Advanced disease is mainly treated with concurrent chemoradiotherapy; a common regimen is cisplatin plus radiotherapy. Nonpharmacologic interventions include nutritional support, psychological counseling, and rehabilitation training. The course is adjusted by stage; comprehensive treatment usually takes 3-6 months to complete."
+    ],
+    "safety_warnings": [
+     "Avoid cisplatin in patients with renal impairment; monitor for nephrotoxicity.",
+     "Be alert for skin reactions and bone marrow suppression during radiotherapy.",
+     "Watch for nausea, vomiting, and allergic reactions caused by chemotherapy drugs."
+    ],
+    "personalization": [
+     "Elderly patients require assessment of cardiopulmonary function and adjustment of chemotherapy dose.",
+     "Young patients may be considered for fertility-sparing surgery.",
+     "Patients with diabetes or hypertension require strengthened management of underlying diseases."
+    ]
+   },
+   "disease": "Cervical cancer",
+   "department": "Oncology"
+  },
+  {
+   "presentation": "The child often presents with a painless right upper quadrant mass that is hard and smooth-surfaced. Some patients have abdominal pain, abdominal distension, or decreased appetite. About half of cases have nonspecific symptoms such as weight loss and fever. A few may develop acute abdominal pain and shock due to tumor rupture. Physical examination shows abdominal distension, marked hepatomegaly with a sharp edge, and occasionally jaundice or lower extremity edema.",
+   "interview_guide": {
+    "first_questions": [
+     "Has your child recently been found to have a hard abdominal mass or abdominal enlargement?",
+     "Has your child had unexplained abdominal pain, vomiting, or fever?",
+     "Has there been any obvious change in weight or mental status recently?"
+    ],
+    "followup_questions": [
+     "If a mass is palpable, please describe changes in its size and whether it is painful?",
+     "Has the stool color become lighter or the urine dark tea-colored?",
+     "Is there a family history of similar tumors or inherited metabolic diseases?"
+    ],
+    "stop_conditions": [
+     "The nature of the abdominal mass has been clarified and abnormal liver function indices confirmed.",
+     "Imaging has shown characteristics of a space-occupying liver lesion.",
+     "Alpha-fetoprotein (AFP) is markedly elevated and other liver diseases have been excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum alpha-fetoprotein (AFP) measurement",
+     "Contrast-enhanced abdominal CT or MRI",
+     "Chest CT (to screen for lung metastasis)"
+    ],
+    "if_suspected": [
+     "Bone scan (to screen for bone metastasis)",
+     "Liver biopsy (to confirm pathological type)",
+     "Complete coagulation and liver function tests"
+    ],
+    "avoid": [
+     "Routine abdominal plain radiography (low soft tissue resolution)",
+     "Whole-body PET-CT without indication (high radiation risk in children and not first-line)",
+     "Blind laparoscopic exploration (may cause dissemination before metastasis is assessed)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Treatment is mainly surgical resection combined with chemotherapy. First-line regimens usually use combination chemotherapy containing cisplatin, doxorubicin, and 5-fluorouracil (e.g., the PE regimen); neoadjuvant chemotherapy before surgery shrinks the tumor, followed by radical resection. Unresectable cases receive chemotherapy first and are then reassessed for surgical opportunity. The course usually lasts 6-12 months, with regular monitoring of AFP and imaging changes to adjust the regimen."
+    ],
+    "safety_warnings": [
+     "Cisplatin is nephrotoxic; ensure adequate hydration and monitor renal function.",
+     "Doxorubicin may cause myocardial injury; assess cardiac function before and after treatment.",
+     "Bone marrow suppression is severe; prevent infection and bleeding, and use granulocyte colony-stimulating factor when necessary."
+    ],
+    "personalization": [
+     "Infants and young children require precise dose calculation based on body surface area to prevent overdose.",
+     "Patients with hepatic impairment require adjustment of drug type or dose reduction.",
+     "Patients with genetic mutations should be considered for targeted therapy or immunotherapy."
+    ]
+   },
+   "disease": "Hepatoblastoma",
+   "department": "Oncology"
+  },
+  {
+   "presentation": "Patients often present with persistent dull or distending pain in the right upper quadrant, accompanied by unexplained weight loss, fatigue, and decreased appetite. Some patients may have a palpable hard mass in the right upper quadrant; in advanced stages, jaundice, ascites, or gastrointestinal bleeding may occur. If there is a history of hepatitis B or cirrhosis, the above symptoms warrant high vigilance, especially in those with significant weight loss over a short period.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have a history of hepatitis B, hepatitis C, or long-term alcohol use?",
+     "Recently, have you felt pain in the right upper quadrant or noticed a mass in the abdomen?",
+     "Have you had rapid unexplained weight loss recently?"
+    ],
+    "followup_questions": [
+     "If the abdominal pain persists, is it accompanied by nausea, vomiting, or fever?",
+     "If you have noticed black stools or vomiting blood, please describe the specific time of occurrence and amount.",
+     "Have you previously received treatment for cirrhosis or undergone regular follow-up examinations?"
+    ],
+    "stop_conditions": [
+     "Diagnosis has been clearly established and staging assessment completed; no further history taking is needed.",
+     "Patient's reported symptoms are inconsistent with typical manifestations of liver cancer and there are no high-risk factors.",
+     "Patient cannot cooperate with detailed history taking due to critical condition; emergency care should be prioritized."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Contrast-enhanced CT or MRI of the liver (multiphase scanning)",
+     "Serum alpha-fetoprotein (AFP) testing",
+     "Comprehensive liver function tests"
+    ],
+    "if_suspected": [
+     "Chest CT (to screen for lung metastasis)",
+     "Bone scan (to screen for bone metastasis)",
+     "Gastroscopy (to screen for esophageal and gastric varices)"
+    ],
+    "avoid": [
+     "Routine abdominal plain radiography (low diagnostic value for liver cancer)",
+     "Percutaneous liver biopsy (avoid blind biopsy if there are no characteristic imaging findings, to prevent bleeding and spread)",
+     "PET-CT (low cost-effectiveness as an initial screening method and not essential)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is preferably sorafenib or donafenib oral targeted therapy, twice daily",
+     "or atezolizumab combined with bevacizumab immunotherapy. For early-stage patients, prioritize surgical resection, radiofrequency ablation, or liver transplantation. At the same time, active antiviral therapy is needed to control underlying liver disease; the course of treatment depends on the condition and usually requires long-term maintenance."
+    ],
+    "safety_warnings": [
+     "Monitor blood pressure and proteinuria to prevent hypertension and bleeding risk associated with antiangiogenic drugs",
+     "Be alert for severe adverse reactions such as immune-related pneumonitis and hepatitis",
+     "Avoid over-the-counter drugs or herbal medicines that may worsen liver injury"
+    ],
+    "personalization": [
+     "For patients with hepatic impairment of Child-Pugh class B or above, targeted drugs should be used with caution; dose reduction or regimen adjustment is required",
+     "For elderly patients, assess performance status and prioritize treatment regimens with fewer side effects",
+     "For those with portal hypertension, avoid invasive procedures and focus on preventing gastrointestinal bleeding"
+    ]
+   },
+   "disease": "Hepatocellular carcinoma (liver cancer)",
+   "department": "Oncology"
+  },
+  {
+   "presentation": "Patients often present with dull or distending pain in the right upper quadrant, accompanied by unexplained progressive weight loss, fatigue, and decreased appetite. Some patients develop jaundice, but early stages often lack typical obstructive manifestations. A hard mass may be palpable in the right upper quadrant, accompanied by low-grade fever or chills. If biliary tract infection is present, fever and worsening abdominal pain may be seen. Symptoms are insidious and easily misdiagnosed as hepatitis or cholecystitis; vigilance is needed for rapid weight loss and persistent upper abdominal discomfort.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had persistent pain or a feeling of fullness in the right upper quadrant?",
+     "Have you lost more than 5 kg without a clear reason in the past three months?"
+    ],
+    "followup_questions": [
+     "Have you had yellowing of the skin or whites of the eyes (jaundice) and darkening of the urine?",
+     "Do you have a history of primary sclerosing cholangitis, liver fluke infection, or bile duct stones?"
+    ],
+    "stop_conditions": [
+     "Typical pain characteristics, associated weight loss, jaundice, and other core symptoms have been clearly described.",
+     "Key past history (such as biliary tract disease or parasitic infection) has been obtained and the duration of symptoms is clear.",
+     "Patient's complaints already cover systemic wasting symptoms (fatigue, poor appetite) and there are no other system-specific abnormalities."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Contrast-enhanced abdominal CT or MRI (including MRCP)",
+     "Serum CA19-9 and CEA testing",
+     "Comprehensive liver function tests"
+    ],
+    "if_suspected": [
+     "PET-CT (to assess distant metastasis)",
+     "Percutaneous liver biopsy (for pathological confirmation)",
+     "ERCP (for drainage or brush cytology)"
+    ],
+    "avoid": [
+     "Non-contrast CT alone (cannot clearly show lesion vascularity and extent)",
+     "Conventional contrast-enhanced ultrasound as the sole basis for diagnosis",
+     "Laparoscopic exploration without indication (imaging assessment should be completed first)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For unresectable disease, the preferred chemotherapy regimen is gemcitabine combined with cisplatin, once every 3 weeks, for a total of 6 cycles",
+     "It may be combined with immune checkpoint inhibitors (such as durvalumab). Local treatment options include TACE or radiotherapy. Supportive treatment includes biliary drainage to relieve jaundice and nutritional intervention. The course of treatment is adjusted according to efficacy and tolerability, and tumor burden should be assessed regularly."
+    ],
+    "safety_warnings": [
+     "Gemcitabine may cause myelosuppression; complete blood count must be monitored closely.",
+     "Cisplatin is nephrotoxic; adequate hydration and renal function monitoring are mandatory before and after administration.",
+     "Immunotherapy requires vigilance for severe adverse reactions such as immune-related pneumonitis, hepatitis, and colitis."
+    ],
+    "personalization": [
+     "Elderly patients should have doses reduced as appropriate based on performance status (ECOG score).",
+     "For patients with renal impairment, cisplatin is contraindicated or should be used with caution; carboplatin may be substituted.",
+     "For patients with significantly elevated bilirubin, jaundice should be reduced first before starting chemotherapy."
+    ]
+   },
+   "disease": "Intrahepatic cholangiocarcinoma",
+   "department": "Oncology"
+  },
+  {
+   "presentation": "Patients often complain of painless, progressive lymphadenopathy, most commonly in the neck, axilla, or groin. Some patients have unexplained fever (B symptoms), night sweats, and weight loss of more than 10% within six months. If the gastrointestinal tract is involved, abdominal pain and melena may occur; if the central nervous system is involved, headache, vomiting, or neurologic deficits may be present. The mass is usually firm, with poor mobility and no tenderness.",
+   "interview_guide": {
+    "first_questions": [
+     "Where on your body have you noticed a mass? Is it accompanied by pain?",
+     "Recently, have you had unexplained persistent fever, heavy night sweats, or significant weight loss?",
+     "Do you have systemic discomfort such as itching, fatigue, or difficulty swallowing?"
+    ],
+    "followup_questions": [
+     "If fever is mentioned, ask about the highest temperature and duration: 'Is the fever continuous or intermittent?'",
+     "If weight loss is mentioned, confirm the specific weight change: 'How many kilograms of weight have you lost in the past six months specifically?'",
+     "If abdominal symptoms are involved, ask about changes in bowel habits: 'Have you had melena, diarrhea, or worsening abdominal bloating?'"
+    ],
+    "stop_conditions": [
+     "The location, size, and associated B symptoms of painless lymphadenopathy have been clearly recorded",
+     "Reactive lymphadenopathy due to recent infection has been excluded",
+     "The patient has provided a history of prior tumors and family genetic history"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Excisional biopsy of superficial lymph nodes in the affected region (pathology + immunohistochemistry)",
+     "Whole-body PET-CT or contrast-enhanced CT (staging assessment)",
+     "Bone marrow aspiration and biopsy (to assess bone marrow infiltration)"
+    ],
+    "if_suspected": [
+     "LDH and beta-2 microglobulin testing (to assess tumor burden)",
+     "Hepatitis B/hepatitis C/HIV virologic screening (to guide chemotherapy regimen)",
+     "Echocardiography (to assess tolerance to anthracyclines)"
+    ],
+    "avoid": [
+     "Fine-needle aspiration cytology alone (prone to missing subtypes)",
+     "Blind use of glucocorticoids before diagnosis is confirmed (may interfere with pathological diagnosis)",
+     "Routine chest X-ray instead of CT/PET-CT (insufficient resolution)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is mainly the R-CHOP regimen (rituximab combined with cyclophosphamide, doxorubicin, vincristine, and prednisone), with each cycle every 21 days, for a total of 6-8 cycles. For indolent lymphoma, R-Bendamustine or a watch-and-wait strategy may be used. During treatment, nonpharmacologic interventions and pharmacologic support should be provided concurrently for antiemesis, white blood cell elevation, and prevention of tumor lysis syndrome."
+    ],
+    "safety_warnings": [
+     "Rituximab must not be used directly in HBV carriers without antiviral protection to prevent viral reactivation",
+     "The cumulative dose of doxorubicin is limited; cardiac function must be closely monitored to prevent heart failure",
+     "Vincristine has neurotoxicity; be alert for peripheral neuropathy and constipation/intestinal obstruction"
+    ],
+    "personalization": [
+     "For elderly patients, adjust chemotherapy doses based on performance status and strengthen supportive care",
+     "For patients with renal impairment, adjust methotrexate or cisplatin doses and ensure adequate hydration",
+     "For pregnant patients, weigh fetal risks; termination of pregnancy followed by treatment is usually recommended"
+    ]
+   },
+   "disease": "non-Hodgkin lymphoma",
+   "department": "Oncology"
+  },
+  {
+   "presentation": "Early stages are often asymptomatic; advanced stages may present with progressive dysuria, urinary frequency and urgency, nocturia, and hematuria. Some patients present with persistent lumbosacral pain or pathologic fracture due to bone metastasis. If distant metastasis occurs, lower limb edema, weight loss, and generalized fatigue may be accompanied. Vigilance is needed for a hard nodule or nodule palpated on digital rectal examination of the prostate.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had difficulty urinating, a thinner urine stream, or increased nocturia?",
+     "Recently, have you had unexplained bone pain (especially in the lower back)?"
+    ],
+    "followup_questions": [
+     "How long have the symptoms lasted, and are they progressively worsening?",
+     "Do you have a family history of prostate cancer or recent PSA screening results?"
+    ],
+    "stop_conditions": [
+     "PSA is clearly significantly elevated and digital rectal examination is abnormal",
+     "Imaging confirms bone metastasis or local invasion",
+     "Initial biopsy has been completed and pathologically confirmed"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum prostate-specific antigen (PSA) testing",
+     "Digital rectal examination (DRE)",
+     "Prostate needle biopsy for pathological examination"
+    ],
+    "if_suspected": [
+     "Pelvic MRI (to assess extent of local invasion)",
+     "Whole-body bone scan or PSMA-PET/CT (to screen for bone metastasis)",
+     "Transrectal ultrasound-guided biopsy"
+    ],
+    "avoid": [
+     "Routine abdominal plain radiography (low value for early diagnosis)",
+     "Repeated PSA testing without indication (frequent retesting within a short period)",
+     "Unnecessary whole-body CT (unless visceral metastasis is suspected)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Select radical surgery (laparoscopic prostatectomy) or radiotherapy according to stage. For localized high-risk patients, androgen deprivation therapy combined with radiotherapy is recommended. In the castration-resistant phase, novel androgen receptor inhibitors are preferred (such as abiraterone 10mg/d or enzalutamide 40mg/d), together with bisphosphonates to prevent skeletal-related events. Nonpharmacologic interventions include lifestyle modification and psychological support."
+    ],
+    "safety_warnings": [
+     "Abiraterone must be combined with prednisone, and liver function and electrolytes must be monitored",
+     "Enzalutamide may cause fatigue, hypertension, and seizure risk",
+     "Bleeding risk increases with anticoagulant drugs during surgery/radiotherapy"
+    ],
+    "personalization": [
+     "For elderly patients or those with many comorbidities, palliative treatment should be prioritized over radical surgery",
+     "For patients with renal impairment, adjust bisphosphonate dose or switch to denosumab",
+     "For patients with underlying cardiovascular disease, use novel endocrine drugs with caution and monitor closely"
+    ]
+   },
+   "disease": "Prostate cancer",
+   "department": "Oncology"
+  },
+  {
+   "presentation": "Patients often present with altered bowel habits (such as alternating constipation and diarrhea), hematochezia (dark red or bright red, with mucus), tenesmus, narrowed stools, and unexplained weight loss. Some patients may experience abdominal pain, bloating, or symptoms of bowel obstruction. If metastatic in advanced stages, manifestations such as right upper quadrant pain, jaundice, or anemia may occur.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had any recent changes in bowel habits or blood in your stool?",
+     "Have you experienced abdominal discomfort or significant weight loss?"
+    ],
+    "followup_questions": [
+     "Is the blood in your stool mixed with the stool, and what color is it?",
+     "Is there any family history of intestinal tumors?"
+    ],
+    "stop_conditions": [
+     "Typical symptoms have been clearly described and there is no other complex medical history",
+     "The patient has provided recent examination reports or diagnostic information",
+     "Symptoms have persisted for more than 2 weeks and are accompanied by alarm signs"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Colonoscopy and biopsy",
+     "Pelvic MRI to assess local invasion",
+     "Chest CT to rule out distant metastasis"
+    ],
+    "if_suspected": [
+     "Serum CEA testing to monitor recurrence risk",
+     "PET-CT for screening of suspected occult metastasis"
+    ],
+    "avoid": [
+     "Routine plain X-ray has limited diagnostic value for rectal cancer",
+     "Repeat unnecessary endoscopy"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes surgical resection (such as low anterior resection) combined with preoperative neoadjuvant chemoradiotherapy. For patients who cannot undergo surgery, targeted agents (such as bevacizumab) combined with chemotherapy regimens (FOLFOX or CAPEOX) may be used. Non-pharmacologic interventions include nutritional support and psychological counseling. The treatment course is usually 6-12 months and should be adjusted according to pathologic staging."
+    ],
+    "safety_warnings": [
+     "Avoid chemotherapy during severe bone marrow suppression",
+     "Be aware of bleeding risk with anti-angiogenic drugs",
+     "Monitor immune-related adverse reactions (such as pneumonitis, hepatitis)"
+    ],
+    "personalization": [
+     "Elderly patients require reduced chemotherapy doses and enhanced supportive care",
+     "Use glucocorticoids with caution in patients with diabetes",
+     "Certain targeted drugs and radiotherapy are contraindicated in pregnant women"
+    ]
+   },
+   "disease": "Rectal cancer",
+   "department": "Oncology"
+  },
+  {
+   "presentation": "Patients often present with a painless neck mass that is firm, has indistinct borders, and may move up and down with swallowing. Some patients have hoarseness, dysphagia, or difficulty breathing. In advanced stages, lymph node enlargement or symptoms of distant metastasis, such as bone pain and cough, may occur.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you noticed a lump in your neck?",
+     "Do you have hoarseness or difficulty swallowing?"
+    ],
+    "followup_questions": [
+     "Has the lump grown recently?",
+     "Is there a family history of thyroid disease?"
+    ],
+    "stop_conditions": [
+     "The nature of the neck mass has been clarified and further examination has been recommended",
+     "The patient has obvious difficulty breathing and requires emergency management",
+     "The initial history has been completed and the next step has been planned"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Thyroid ultrasound",
+     "Fine-needle aspiration biopsy (FNA)",
+     "Serum thyroglobulin measurement"
+    ],
+    "if_suspected": [
+     "Neck CT or MRI",
+     "Whole-body radionuclide scan",
+     "Chest X-ray or CT"
+    ],
+    "avoid": [
+     "Routine full thyroid function panel (unless thyroid dysfunction is suspected)",
+     "Pre-radioactive iodine therapy assessment without indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is surgery, including total or partial thyroidectomy, with the extent determined by pathologic type. After surgery, risk stratification determines whether radioactive iodine therapy is indicated. For differentiated thyroid cancer, long-term levothyroxine may be used to suppress TSH levels. Patients who do not undergo surgery require regular follow-up to monitor for recurrence."
+    ],
+    "safety_warnings": [
+     "Avoid excessive levothyroxine use leading to osteoporosis",
+     "Be aware of the effect of radioactive iodine therapy on fertility",
+     "Watch for postoperative hypocalcemia and recurrent laryngeal nerve injury"
+    ],
+    "personalization": [
+     "Elderly patients require dose adjustment to prevent cardiac burden",
+     "Use radioactive iodine therapy with caution in pregnant women",
+     "In pediatric patients, attention should be paid to effects on growth and development"
+    ]
+   },
+   "disease": "Thyroid cancer",
+   "department": "Oncology"
+  }
+ ]
+}

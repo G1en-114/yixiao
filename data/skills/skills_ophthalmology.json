@@ -1,0 +1,2209 @@
+{
+ "department": "Ophthalmology",
+ "skills": [
+  {
+   "presentation": "Foreign body sensation, burning, itching, photophobia, and tearing in the eyes, with eyelid swelling; conjunctival hyperemia (prominent in the fornix and palpebral conjunctiva, bright red, worsening closer to the fornix); increased abnormal discharge (bacterial: copious purulent or mucopurulent discharge that mats the eyelids shut in the morning; viral: watery serous discharge; allergic: thick, stringy discharge accompanied by intense ocular itching).",
+   "interview_guide": {
+    "first_questions": [
+     "How many days have you had eye redness (red eye), gritty pain, and tearing? Is it in one eye or both eyes?",
+     "Is there a lot of eye discharge (eye mucus)? What does it look like? (Is it yellow purulent discharge that mats the eyes shut and makes them hard to open, watery clear tears, or stringy white discharge?)",
+     "Are your eyes severely itchy? (to distinguish allergic conjunctivitis)"
+    ],
+    "followup_questions": [
+     "Has your vision decreased significantly or become blurred? (to differentiate keratitis, glaucoma, and uveitis)",
+     "Has any family member, classmate, or coworker around you had the same red eye? Did you go to a swimming pool before symptoms started?",
+     "Did you wear contact lenses or corneal contact lenses before symptoms started?"
+    ],
+    "stop_conditions": [
+     "Clinical subtype of conjunctivitis has been determined (acute bacterial, epidemic viral, or allergic).",
+     "It has been confirmed that vision is not impaired, and keratitis, acute angle-closure glaucoma, and uveitis have been excluded.",
+     "History of exposure to infectious sources and contact lens wear is clear."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Ophthalmologic slit-lamp microscopy examination (to observe palpebral conjunctival follicles, papillae, distribution of conjunctival hyperemia, corneal clarity, and anterior chamber status)",
+     "Visual acuity testing (uncorrected and corrected visual acuity—to screen for blinding eye diseases)"
+    ],
+    "if_suspected": [
+     "Gram stain of conjunctival sac discharge smear and bacterial culture plus antimicrobial susceptibility testing (for refractory or severe fulminant purulent conjunctivitis)",
+     "Corneal fluorescein staining (to assess for concurrent punctate corneal epithelial loss or corneal ulcer)"
+    ],
+    "avoid": [
+     "Directly ordering head CT or high-field orbital MRI without performing slit-lamp examination",
+     "Prescribing systemic intravenous antibiotic infusion for simple mild viral conjunctivitis"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Symptomatic medication according to etiology: for acute bacterial conjunctivitis, use broad-spectrum antibiotic eye drops (levofloxacin eye drops, tobramycin eye drops) applied frequently, and apply antibiotic eye ointment (erythromycin/tobramycin eye ointment) at bedtime",
+     "For viral conjunctivitis, use ganciclovir eye drops/ophthalmic gel",
+     "For allergic conjunctivitis, use antihistamines/mast cell stabilizers (olopatadine hydrochloride eye drops, azelastine eye drops)",
+     "For patients with copious discharge, the conjunctival sac may be irrigated with normal saline",
+     "Do not patch the affected eye under any circumstances."
+    ],
+    "safety_warnings": [
+     "Patching or covering the affected eye is strictly prohibited in acute conjunctivitis (patching raises conjunctival sac temperature and allows discharge to accumulate, worsening bacterial proliferation and spread to the cornea)",
+     "Glucocorticoid eye drops are contraindicated in herpes simplex virus conjunctivitis/keratitis; before a definitive diagnosis is made, do not casually misuse steroid eye drops (to prevent induced glaucoma and corneal ulcer perforation)",
+     "Acute infectious red eye is highly contagious by contact; the patient's towels and washbasins must be strictly isolated and disinfected, and hand hygiene must be strict"
+    ],
+    "personalization": [
+     "Fulminant hyperacute bacterial conjunctivitis (gonococcal): requires systemic high-dose ceftriaxone sodium injection combined with copious local normal saline irrigation",
+     "Severe allergic conjunctivitis with corneal infiltrates: a short course of low-concentration, low-potency steroid eye drops (e.g., fluorometholone eye drops) may be used under ophthalmologist guidance",
+     "Long-term contact lens wearers: must immediately stop wearing contact lenses until inflammation is completely cured"
+    ]
+   },
+   "disease": "Conjunctivitis",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Painless, progressive vision decline, blurred vision, dim or yellowish vision, monocular diplopia or polyopia, glare and photophobia, reduced contrast sensitivity, and sudden increase in pre-existing myopia (in older adults, a false impression that pre-existing presbyopia has 'improved' and they can see small print clearly); examination shows varying degrees of lens opacity and decreased or absent fundal red reflex.",
+   "interview_guide": {
+    "first_questions": [
+     "How long have you had blurred vision and decreased eyesight? Is it in one eye or both eyes?",
+     "Has your vision declined gradually over several years, or did you suddenly lose vision within a few days?",
+     "Do you usually have redness or swelling of the eyes, eye pain or pressure, or nausea and headache?"
+    ],
+    "followup_questions": [
+     "When looking at bright places or at car headlights at night, do you have noticeable glare, dazzling light, or double vision when looking at a single object?",
+     "Do you have a history of diabetes, high myopia, ocular trauma, or long-term oral/topical steroid medication use?",
+     "How much does your current blurred vision affect your daily life, such as grocery shopping, cooking, reading, and watching TV?"
+    ],
+    "stop_conditions": [
+     "The course of painless progressive vision loss and the degree of visual function impairment have been clarified",
+     "Glaucoma, retinal detachment, macular degeneration, and other acute blinding eye diseases have been ruled out",
+     "Systemic history of diabetes and surgical indication assessment are clear"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Visual acuity testing (uncorrected visual acuity and best-corrected visual acuity, BCVA)",
+     "Slit-lamp microscopy examination (after pupil dilation, identify the location of lens opacity: cortical, nuclear, posterior subcapsular, and opacity grading by LOCS III)",
+     "Intraocular pressure measurement (NCT non-contact tonometer, to screen for secondary glaucoma)",
+     "Dilated fundus examination (to assess the health of the retina and macular region)"
+    ],
+    "if_suspected": [
+     "Ophthalmic A/B-scan ultrasonography (to assess axial length and posterior segment vitreoretinal status, especially when severe lens opacity prevents fundus visualization)",
+     "Ophthalmic IOL-Master optical biometry (accurate measurement of corneal curvature, anterior chamber depth, and axial length for calculating intraocular lens power)",
+     "Corneal endothelial cell microscopy and counting (to assess corneal endothelial functional capacity to tolerate surgery)"
+    ],
+    "avoid": [
+     "Blindly ordering high-dose systemic CT or MRI scans for a diagnosis of simple cataract",
+     "Blindly performing premature forced surgery for mild cataract that does not affect daily life"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Surgery is the only definitive and effective curative treatment: first choice is phacoemulsification cataract extraction combined with foldable intraocular lens (IOL) implantation (minimally invasive incision, rapid recovery)",
+     "For early mild cataract, follow-up observation may be adopted temporarily (adjunctive drugs such as pirenoxine sodium eye drops may be used, but drugs cannot reverse opacity)",
+     "After surgery, standard use of antibiotic and anti-inflammatory eye drops (tobramycin/dexamethasone or pranoprofen)."
+    ],
+    "safety_warnings": [
+     "Do not wait until the cataract is 'fully mature' before surgery! Hypermature cataract can readily be complicated by phacolytic glaucoma or lens dislocation uveitis, increasing surgical difficulty and complication risk",
+     "Strictly prevent endophthalmitis after surgery (a catastrophic complication); within 1 week after surgery, avoid dirty water entering the eye and strictly prohibit eye rubbing and severe impact",
+     "In patients with diabetes, blood glucose must be strictly and stably controlled within a reasonable range before and after cataract surgery"
+    ],
+    "personalization": [
+     "Refractive cataract surgery: individualized selection of toric, bifocal, trifocal, or EDOF extended-range-of-vision intraocular lenses according to the patient's visual needs",
+     "Patients with concurrent high myopia: comprehensively screen for peripheral retinal degeneration and tears before surgery, and prevent retinal detachment during and after surgery",
+     "Patients with concurrent diabetic retinopathy: actively perform fundus laser photocoagulation before surgery and closely monitor for macular edema after surgery"
+    ]
+   },
+   "disease": "Cataract",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Acute attack of acute angle-closure glaucoma: sudden severe eye distension and eye pain in the affected eye, severe ipsilateral migraine, extremely rapid vision decline even to light perception only, accompanied by halos (iridescent rings around lights), nausea, and projectile vomiting; examination shows sharply elevated intraocular pressure (often >50mmHg, with the eyeball feeling hard as stone on palpation), mixed hyperemia, ground-glass corneal edema, extremely shallow anterior chamber, moderately dilated pupil in a vertical oval shape with absent light reflex; open-angle glaucoma has an insidious onset, is asymptomatic early, and in late stages shows progressive concentric visual field constriction ('tunnel vision').",
+   "interview_guide": {
+    "first_questions": [
+     "Did the severe eye pain or pressure and ipsilateral headache start suddenly? How many hours has the attack lasted?",
+     "Did your vision suddenly become markedly blurred? When looking at a glowing light bulb, do you see red and green rainbow-like halos around it (halos)?",
+     "Is it accompanied by severe nausea, vomiting, or even vomiting stomach contents? (often mistaken for acute gastroenteritis or a neurologic migraine)"
+    ],
+    "followup_questions": [
+     "Before the attack, had you stayed for a long time in a dark room (such as a movie theater or looking at a phone with the lights off), been excessively fatigued, or been extremely emotionally agitated?",
+     "Has the other eye previously had similar transient eye distension or foggy vision? Is there a family history of glaucoma?",
+     "Before symptom onset, did you use pupil-dilating eye drops (such as atropine) or take oral anticholinergic drugs?"
+    ],
+    "stop_conditions": [
+     "The features of acute angle-closure glaucoma—severe eye pain and headache, halos, nausea and vomiting, and acute vision decline—have been confirmed",
+     "Typical emergency signs of high intraocular pressure, such as eyeball hard as stone and dilated fixed pupil, have been identified",
+     "Dark-room triggers and the bilateral narrow-angle anatomical basis have been clearly assessed"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Intraocular pressure measurement (Goldmann applanation tonometer or non-contact tonometer, NCT; in the acute phase it often spikes to 50-80mmHg)",
+     "Slit-lamp microscopy examination (to assess the degree of corneal edema, peripheral anterior chamber depth by Van Herick grading, pupil shape, and light reflex)",
+     "Gonioscopy (to determine whether the anterior chamber angle is open or closed; the gold standard for differentiating open-angle from angle-closure glaucoma)",
+     "Visual acuity testing and funduscopic assessment of the optic nerve cup-to-disc ratio (C/D)"
+    ],
+    "if_suspected": [
+     "Visual field testing (automated Humphrey perimetry to detect characteristic glaucomatous visual field defects: arcuate scotoma, nasal step, and tunnel vision)",
+     "Optical coherence tomography (OCT) (accurate measurement of retinal nerve fiber layer, RNFL, thickness and optic disc parameters)",
+     "Ultrasound biomicroscopy (UBM) (to assess fine anatomical structures of the anterior segment and the mechanism of angle closure)"
+    ],
+    "avoid": [
+     "During a suspected acute attack of angle-closure glaucoma, pupil-dilating drugs such as atropine and tropicamide are absolutely prohibited (they can cause complete angle closure and blindness)",
+     "Mistaking a patient with nausea and vomiting for having simple gastroenteritis and delaying emergency ophthalmologic intraocular pressure-lowering rescue"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Acute angle-closure glaucoma is an ophthalmic emergency! Immediate race-against-time rescue to lower intraocular pressure is mandatory: hyperosmotic dehydrating agent (20% mannitol injection 250ml by rapid intravenous infusion, completed within half an hour)",
+     "Oral carbonic anhydrase inhibitor (methazolamide tablets) or topical eye drops (brinzolamide eye drops)",
+     "Topical miotic (1%-2% pilocarpine eye drops applied frequently to constrict the pupil and open the angle)",
+     "Combined with topical beta-blockers (timolol eye drops) and alpha2-receptor agonists (brimonidine tartrate)",
+     "After intraocular pressure stabilizes and corneal edema resolves, first choice is laser peripheral iridotomy (LPI) or trabeculectomy anti-glaucoma filtering surgery."
+    ],
+    "safety_warnings": [
+     "Acute high intraocular pressure persisting for hours to days can cause irreversible ischemic necrosis of the optic nerve and permanent total blindness; intraocular pressure must be lowered emergently",
+     "Pilocarpine may be ineffective when intraocular pressure is extremely high (>50-60mmHg) because of ischemic paralysis of the iris sphincter; systemic dehydration to lower intraocular pressure is needed before instilling the drug",
+     "Rapid intravenous infusion of mannitol requires caution regarding the risk of severe cardiac insufficiency/heart failure and renal failure in older patients"
+    ],
+    "personalization": [
+     "Primary open-angle glaucoma (POAG): first choice is prostaglandin eye drops (latanoprost/travoprost, once nightly) or selective laser trabeculoplasty (SLT)",
+     "Angle-closure glaucoma in the preclinical and prodromal stages (fellow eye): perform prophylactic laser peripheral iridotomy (LPI) early",
+     "Patients with severe bronchial asthma or severe bradycardia: non-selective beta-blockers (timolol) are strictly prohibited among topical intraocular pressure-lowering drugs"
+    ]
+   },
+   "disease": "glaucoma",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients often report sudden severe foreign body sensation, burning pain, and copious watery discharge in one or both eyes. Typical manifestations include eyelid redness and swelling and marked conjunctival hyperemia and edema, possibly with enlarged and tender preauricular lymph nodes. Some patients have photophobia, tearing, and mild blurred vision. The course is self-limited but highly contagious, and outbreaks often occur in collective settings or families.",
+   "interview_guide": {
+    "first_questions": [
+     "Which eye did the symptoms start in, or did both eyes become affected at the same time?",
+     "Recently, have you had contact with anyone with similar red eye, or have you been to a swimming pool?",
+     "Is the discharge watery or purulent?"
+    ],
+    "followup_questions": [
+     "If there is preauricular lymph node swelling and pain, ask further about the severity and duration of the pain.",
+     "If vision decline is marked, ask whether there is blurred vision caused by corneal involvement.",
+     "If symptoms persist for more than two weeks without improvement, ask further about a history of immunosuppression."
+    ],
+    "stop_conditions": [
+     "Acute onset in one or both eyes has been clarified, with typical watery discharge and preauricular lymph node enlargement.",
+     "The patient has no severe systemic infection symptoms and no history of ocular trauma.",
+     "The epidemiologic exposure history is clear, and the clinical manifestations are consistent with seasonal epidemic features."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Slit-lamp microscopy examination (to assess conjunctival hyperemia and pseudomembrane formation)",
+     "Fluorescein staining (to screen for punctate corneal epithelial loss)",
+     "Palpation of preauricular lymph nodes (to confirm enlargement and tenderness)"
+    ],
+    "if_suspected": [
+     "Conjunctival scraping cytology (to identify eosinophils or viral inclusion bodies)",
+     "PCR testing (to confirm adenovirus serotype)",
+     "Tear bacterial culture (to exclude concurrent bacterial infection)"
+    ],
+    "avoid": [
+     "Routine use of broad-spectrum antibiotic eye drops as first-line treatment (unless there is evidence of concurrent infection)",
+     "Unnecessary oral systemic steroids (may worsen viral infection spread)",
+     "Over-reliance on funduscopy (unless concurrent uveitis is suspected)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "There are currently no specific antiviral drugs; treatment is mainly symptomatic and supportive. Cold compresses are recommended to reduce edema and pain, and artificial tears dilute the virus and relieve dryness. Do not use steroid-containing eye drops on your own, to avoid inducing corneal ulceration or prolonging the course. If secondary bacterial infection occurs, a fluoroquinolone eye drop may be added for short-term use. Pay attention to isolation to avoid cross-infection; it usually resolves spontaneously in 1-2 weeks."
+    ],
+    "safety_warnings": [
+     "Contraindications: glucocorticoids are contraindicated in patients with active corneal ulcer or immunodeficiency.",
+     "Drug interactions: avoid frequent alternating use with preservative-containing eye drops, which can lead to additive toxicity.",
+     "Prevention of serious adverse reactions: be alert for steroid-induced ocular hypertension and secondary fungal infection."
+    ],
+    "personalization": [
+     "Pediatric patients need strengthened caregiver guidance to prevent eye rubbing that can cause corneal damage.",
+     "Older adults or immunocompromised patients need close monitoring of disease progression to prevent complications.",
+     "Professional drivers or precision workers should be told to temporarily avoid driving or operating precision instruments."
+    ]
+   },
+   "disease": "adenoviral conjunctivitis",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients often report persistent burning, itching, and foreign body sensation at the eyelid margins of both eyes or one eye; on waking, scales or crusts may be seen at the base of the eyelashes, making it difficult to open the eyes. Some patients have photophobia, lacrimation, and blurred vision (due to tear film instability). On examination, eyelid margin hyperemia and telangiectasia may be seen, eyelashes may fall out easily or become misdirected, and severe cases may develop ulcers or trichiasis. Symptoms often recur and are refractory to prolonged treatment.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have persistent burning, itching, or a foreign body sensation in your eyes?",
+     "When you wake up in the morning, are your eyelids stuck together, or is there a large amount of crusted discharge?"
+    ],
+    "followup_questions": [
+     "Do the symptoms worsen after prolonged near work or exposure to dust?",
+     "Do you have a recent history of facial acne, seborrheic dermatitis, or rosacea?"
+    ],
+    "stop_conditions": [
+     "Symptoms have been confirmed as chronic and recurrent, with no signs of acute purulent infection",
+     "An associated systemic skin disease history (such as seborrheic dermatitis) has been confirmed",
+     "The patient's vision is not severely affected and there are no signs of corneal involvement"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Slit-lamp microscopy examination",
+     "Fluorescein staining examination",
+     "Smear microscopy of eyelashes and secretions"
+    ],
+    "if_suspected": [
+     "Demodex mite detection (pressure smear of secretions from the base of the eyelashes)",
+     "Schirmer test for tear secretion",
+     "Meibomian gland function assessment (expression to observe lipid characteristics)"
+    ],
+    "avoid": [
+     "Routine fundus examination (unless concurrent keratitis affecting vision is suspected)",
+     "Unnecessary systemic antibiotic blood cultures",
+     "Non-indicated orbital CT or MRI scans"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is mainly local hygiene care: hot compresses 2-4 times daily (40-45°C, 10-15 minutes) combined with eyelid margin cleaning (wiping the base of the eyelashes with dedicated wipes or diluted baby shampoo). Pharmacotherapy includes erythromycin ophthalmic ointment or tobramycin dexamethasone eye drops (short-term use); if Demodex mite infection is also present, metronidazole gel should be added. The course usually lasts 2-4 weeks; after symptom relief, low-frequency maintenance care should be maintained to prevent recurrence."
+    ],
+    "safety_warnings": [
+     "Avoid long-term use of steroid-containing eye drops to prevent glaucoma or cataract",
+     "Erythromycin preparations are contraindicated in patients allergic to macrolide antibiotics",
+     "If severe pain or sudden vision loss occurs during medication, stop the drug immediately and seek medical attention"
+    ],
+    "personalization": [
+     "Use steroid drugs with caution in pediatric patients; prefer antibiotic eye ointment",
+     "Pregnant and breastfeeding women need medication types adjusted under medical guidance",
+     "Elderly patients with dry eye need combined artificial tears to improve tear film quality"
+    ]
+   },
+   "disease": "Blepharitis",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients often report a painless, slowly enlarging hard nodule on the eyelid, with normal or slightly red overlying skin. Some patients develop astigmatism due to compression of the eyeball by a large mass, causing blurred vision, or when secondary infection occurs, redness, swelling, heat, pain, and purulent discharge appear. The course is usually weeks to months, with no obvious systemic symptoms.",
+   "interview_guide": {
+    "first_questions": [
+     "How long has the eyelid mass been present? How fast is it growing?",
+     "Do you have local pain, tenderness, or redness, swelling, or warmth?",
+     "Have you had decreased vision or blurred vision recently?"
+    ],
+    "followup_questions": [
+     "If there is pain, have you squeezed it or applied hot compresses yourself?",
+     "Have you had recurrent hordeolum or a history of blepharitis?",
+     "Does the mass affect eye opening or rub against the cornea and cause foreign body sensation?"
+    ],
+    "stop_conditions": [
+     "The nature of the mass has been confirmed as a painless hard nodule with no signs of acute inflammation",
+     "It has been confirmed that there is no visual impairment and no risk of serious complications",
+     "The patient has clearly described the disease course and previous related ocular history"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Slit-lamp microscopy examination",
+     "Eyelid palpation (assess hardness, mobility, and fluctuation)",
+     "Evert the eyelid to examine the conjunctival surface for granulation tissue"
+    ],
+    "if_suspected": [
+     "Ocular B-scan ultrasonography (for differentiation of deep or large cysts)",
+     "Pathologic biopsy (for elderly patients or recurrent refractory cases to exclude sebaceous gland carcinoma)"
+    ],
+    "avoid": [
+     "Routine complete blood count (not needed in non-acute infection phase)",
+     "Unnecessary CT or MRI scans (unless deep orbital invasion is suspected)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Small early lesions are preferably treated conservatively: hot compresses 4 times daily (10-15 minutes each) to promote absorption, combined with artificial tears to relieve discomfort. If infection is present, short-term antibiotic eye ointment (such as erythromycin ophthalmic ointment) may be used. For larger masses that persist for more than 1 month without resolution, chalazion curettage is required, and the cyst wall should be completely removed during surgery to prevent recurrence."
+    ],
+    "safety_warnings": [
+     "Do not forcibly squeeze the lesion before it matures, to avoid spread of infection causing orbital cellulitis",
+     "Patients with diabetes should be alert to poor postoperative wound healing and infection risk",
+     "Avoid long-term use of steroid-containing eye drops, which can increase intraocular pressure"
+    ],
+    "personalization": [
+     "Pediatric patients often require surgery under general anesthesia to reduce fear and difficulty with cooperation",
+     "In elderly patients, if the mass is hard and fixed, it must be sent for pathology to exclude malignancy",
+     "For recurrent patients, it is recommended to also treat blepharitis and regulate meibomian gland function"
+    ]
+   },
+   "disease": "chalazion",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients often report long-standing tearing, which worsens outdoors or in wind. Eczematous changes or redness and swelling may be seen on the skin at the medial canthus, and pressure over the lacrimal sac area may cause mucoid or purulent discharge to reflux from the punctum. Some patients have mild distending pain at the medial canthus. The course is prolonged with recurrent episodes, and antibiotic eye drops only temporarily relieve symptoms.",
+   "interview_guide": {
+    "first_questions": [
+     "How long has your tearing lasted? Is it accompanied by increased ocular discharge?",
+     "When you press below the inner corner of the eye (medial canthus), does pus flow out or is there discomfort?"
+    ],
+    "followup_questions": [
+     "Have you had a recent acute episode, such as local redness, swelling, heat, and pain?",
+     "Have you ever undergone nasolacrimal duct probing or eye surgery?"
+    ],
+    "stop_conditions": [
+     "The duration of tearing, the character of the discharge, and the response to lacrimal sac pressure have been clearly elicited",
+     "A history of prior treatment and any acute episodes has been obtained",
+     "The patient's presentation is typical and there is no systemic disease interfering with diagnosis"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Lacrimal irrigation test",
+     "Palpation and pressure test over the lacrimal sac area",
+     "Slit-lamp examination"
+    ],
+    "if_suspected": [
+     "Dacryocystography",
+     "Nasal endoscopy",
+     "Complete blood count and C-reactive protein (to exclude acute infection)"
+    ],
+    "avoid": [
+     "Routine fundus examination (not essential for diagnosis)",
+     "Unnecessary systemic CT scanning (unless tumor is suspected)",
+     "Blind nasolacrimal duct probing without imaging assessment"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "In the acute phase, first-line treatment is topical antibiotic eye drops combined with oral antibiotics to control infection",
+     "In the chronic phase, surgical treatment is mainly adopted, including endoscopic dacryocystorhinostomy or external dacryocystorhinostomy. The lacrimal sac should be cleaned before surgery, and the lacrimal duct should be irrigated regularly after surgery to prevent adhesions. Non-pharmacologic interventions include maintaining ocular hygiene and avoiding eye rubbing."
+    ],
+    "safety_warnings": [
+     "Do not perform forcible lacrimal duct probing during acute inflammation, to avoid spread of infection.",
+     "Before using antibiotics, confirm no allergy history and be alert to emergence of resistant bacteria.",
+     "After surgery, closely observe for complications such as epistaxis or cerebrospinal fluid rhinorrhea."
+    ],
+    "personalization": [
+     "Elderly patients need cardiopulmonary function assessment to tolerate general or local anesthesia surgery.",
+     "Patients with diabetes need strict glycemic control to promote wound healing.",
+     "Pregnant women should use systemic antibiotics with caution; prefer local treatment or postpone surgery."
+    ]
+   },
+   "disease": "Chronic dacryocystitis",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients usually report inability to distinguish specific colors, such as red-green confusion (difficulty distinguishing traffic lights or red and green objects), or in total color blindness, objects appear in grayscale and there is photophobia. Symptoms are mostly present from childhood, bilateral and symmetric, without pain or decreased vision, and abnormalities are seen only on color discrimination tasks.",
+   "interview_guide": {
+    "first_questions": [
+     "When did you first notice that you cannot distinguish certain colors?",
+     "Do you have difficulty seeing red and green lights, or other colors?"
+    ],
+    "followup_questions": [
+     "Does this color confusion affect your work or driving safety?",
+     "Does anyone else in your family have a similar condition?"
+    ],
+    "stop_conditions": [
+     "It is confirmed that symptoms have been present since childhood and are bilateral and symmetric",
+     "The main types of colors confused have been identified",
+     "Acquired causes have been excluded"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Ishihara color vision test plates",
+     "D-15 panel test"
+    ],
+    "if_suspected": [
+     "Farnsworth-Munsell 100 hue test",
+     "Fundus photography and OCT examination"
+    ],
+    "avoid": [
+     "Visual field examination",
+     "Intraocular pressure measurement"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Currently there is no cure. Genetic counseling is recommended, and occupations with high color vision requirements (such as pilot or electrician) should be avoided. Special filter glasses may help some patients distinguish colors, but the effect varies by individual. The focus is on psychological adaptation and environmental modification."
+    ],
+    "safety_warnings": [
+     "Do not use unproven 'miracle drugs' or surgical therapies",
+     "Avoid relying on a single visual cue, which may lead to safety hazards",
+     "Note that temporary color vision changes caused by drugs need to be differentiated"
+    ],
+    "personalization": [
+     "Pediatric patients need early intervention and education to avoid academic frustration",
+     "Drivers need to be assessed for compliance with local regulatory standards",
+     "Provide alternative career planning guidance for those with limited occupational choices"
+    ]
+   },
+   "disease": "color blindness",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients often report painless, progressive vision loss, blurred vision, or double vision. Because an underlying disease (such as uveitis or glaucoma) is present, there may be accompanying eye redness, photophobia, or floaters. The degree of visual impairment is related to the activity of the underlying disease and the progression of lens opacity; in the early stage, it may manifest only as reduced contrast sensitivity, and in the late stage it can cause blindness.",
+   "interview_guide": {
+    "first_questions": [
+     "How long has your recent vision loss lasted? Did it occur suddenly or did it gradually worsen?",
+     "Do your eyes feel red, painful, or sensitive to light?",
+     "Have you previously been diagnosed with uveitis, glaucoma, or any other eye disease?"
+    ],
+    "followup_questions": [
+     "If you have eye pain, what is the nature and duration of the pain?",
+     "Is the vision loss associated with flare-ups of eye inflammation?",
+     "Are you currently using any eye drops or oral medications?"
+    ],
+    "stop_conditions": [
+     "The type of underlying disease and the extent to which cataract affects vision have been clarified.",
+     "The patient has clearly described the symptom progression and past treatment history.",
+     "It has been initially determined that emergency surgery is not required and further examinations can be arranged."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Slit-lamp biomicroscopy",
+     "Best-corrected visual acuity measurement",
+     "Fundus examination (if refractive media permit)"
+    ],
+    "if_suspected": [
+     "Intraocular pressure measurement (to rule out secondary glaucoma)",
+     "UBM or anterior segment OCT (to assess anterior chamber depth and ciliary body status)",
+     "Biometry (to calculate intraocular lens power)"
+    ],
+    "avoid": [
+     "Prolonged waiting and observation after pupillary dilation (strong mydriatics should be used with caution during inflammation)",
+     "Unnecessary systemic imaging (unless a systemic disease is suspected)",
+     "Direct laser treatment (before diagnosis is established)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Surgery is the first-line treatment, namely phacoemulsification combined with intraocular lens implantation. Before surgery, the underlying disease (such as uveitis) must be controlled and inactive for at least 3 months to reduce the risk of postoperative inflammatory response. During surgery, an appropriate intraocular lens is selected according to corneal endothelial status and anterior capsule condition. Postoperatively, glucocorticoid eye drops are routinely used for anti-inflammatory treatment, combined with nonsteroidal anti-inflammatory drugs when necessary; the course usually lasts 4-6 weeks until inflammation completely resolves."
+    ],
+    "safety_warnings": [
+     "Surgery must not be forced during active uveitis, as it can easily lead to macular edema or retinal detachment.",
+     "Be alert to glucocorticoid-induced elevation of intraocular pressure, and intraocular pressure changes need to be monitored.",
+     "Be vigilant for postoperative infectious endophthalmitis, especially in immunosuppressed patients."
+    ],
+    "personalization": [
+     "For pediatric patients, amblyopia training and the possibility of second-stage surgery should be considered.",
+     "For highly myopic patients, the risk of retinal detachment should be assessed, and fundus examination should be completed before surgery.",
+     "For patients with comorbid diabetes, blood glucose should be strictly controlled to prevent postoperative infection and macular edema."
+    ]
+   },
+   "disease": "Complicated cataract",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Affected children often present with photophobia, tearing, and blepharospasm, and parents often report that the child frequently rubs the eyes or closes the eyes. Typical signs are corneal opacity (hazy), enlarged eyeball (buphthalmos), and abnormally increased corneal diameter. In those with onset in infancy, because they cannot express decreased vision, the condition is easily mistaken for ordinary conjunctivitis; particular attention should be paid to whether persistent tearing and light sensitivity are present.",
+   "interview_guide": {
+    "first_questions": [
+     "Does your child frequently have tearing or light sensitivity?",
+     "Have you recently noticed that your child's eye is larger than usual or that the cornea looks white?",
+     "Is there any family history of glaucoma?"
+    ],
+    "followup_questions": [
+     "Is the tearing unilateral or bilateral? Is it accompanied by increased discharge?",
+     "Does the child frequently rub the eyes or appear irritable and crying?",
+     "Was there a history of difficult delivery or eye trauma at birth?"
+    ],
+    "stop_conditions": [
+     "Core symptoms such as photophobia, tearing, and corneal opacity have been clearly described",
+     "Family history has been confirmed and the timeline of onset is clear",
+     "The patient's age matches the typical onset stage and there is no interference from other systemic diseases"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Intraocular pressure measurement (non-contact tonometry or tonometry under anesthesia)",
+     "Corneal diameter measurement",
+     "Slit-lamp examination (to assess corneal clarity and degree of edema)"
+    ],
+    "if_suspected": [
+     "Fundus examination (to assess optic nerve cup-to-disc ratio)",
+     "Ocular B-scan ultrasonography (to assess axial length and posterior segment structures)",
+     "Gonioscopy (gold standard, requires examination under anesthesia)"
+    ],
+    "avoid": [
+     "Cycloplegic refraction (may worsen the condition in the acute phase; decision should be made after physician assessment)",
+     "Routine fundus fluorescein angiography (not first-line; considered only in complex cases)",
+     "Systemic CT scanning (unless intracranial disease causing secondary glaucoma is suspected)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Surgery is the first-line treatment, such as trabeculotomy or trabeculectomy. Medications are only an adjunct for temporary preoperative intraocular pressure control; beta-blocker eye drops are commonly used. After surgery, intraocular pressure and corneal clarity need to be closely monitored to prevent complications. Nonpharmacologic interventions include regular follow-up and refractive correction to prevent amblyopia."
+    ],
+    "safety_warnings": [
+     "Avoid long-term use of high-concentration miotics to prevent induction of iridocyclitis",
+     "Pay attention to any history of drug allergy, especially to sulfonamide drugs",
+     "Be vigilant for the risk of choroidal detachment caused by postoperative hypotony"
+    ],
+    "personalization": [
+     "For premature infants, the anesthesia regimen and drug doses need to be adjusted",
+     "For children with syndromic disease, multidisciplinary collaboration is needed to formulate a comprehensive treatment plan",
+     "For patients with bilateral involvement, surgery should be performed in stages to avoid the risks of simultaneous anesthesia"
+    ]
+   },
+   "disease": "Congenital glaucoma",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients often report that the eyelid cannot be lifted, obstructing the line of sight or requiring them to tilt the head back to see. Typical manifestations are a unilateral or bilateral upper eyelid margin lower than its normal position, covering part of the pupil, with deepened forehead wrinkles to compensate for levator muscle function. Affected children may have epicanthus, trichiasis, or signs of amblyopia. Symptoms are usually noticed shortly after birth, are non-fluctuating, and are unrelated to fatigue.",
+   "interview_guide": {
+    "first_questions": [
+     "Has the child had difficulty lifting the eyelid since birth?",
+     "When looking at things, does the child often need to tilt the head back or raise the eyebrows?"
+    ],
+    "followup_questions": [
+     "Is there a family history of similar eye disease?",
+     "Does the child have blurred vision, photophobia, or frequent eye rubbing?"
+    ],
+    "stop_conditions": [
+     "The time of onset (congenital) and main signs (degree of pupil coverage) have been clarified.",
+     "Acquired factors such as myasthenia gravis have been excluded (no diurnal variation with morning mildness and evening worsening).",
+     "Whether there is concomitant strabismus or risk of amblyopia has been confirmed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Visual acuity testing and refractive status assessment",
+     "Levator palpebrae superioris function measurement",
+     "Corneal reflex and ocular motility examination"
+    ],
+    "if_suspected": [
+     "Neostigmine test (to rule out myasthenia gravis)",
+     "Orbital CT or MRI (to screen for neurogenic lesions)",
+     "Synoptophore examination (to assess binocular visual function)"
+    ],
+    "avoid": [
+     "Routine complete blood count (non-infectious disease)",
+     "Unnecessary excessive screening before general anesthesia",
+     "Complex electrophysiologic testing in infants and young children"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For mild cases that do not affect the visual axis, observation until 3-4 years of age is acceptable",
+     "For moderate to severe cases affecting visual development, surgery should be performed as early as possible. The first-line procedures are levator resection or frontalis suspension. Postoperatively, occlusion therapy should be used to treat amblyopia, and refractive status should be rechecked regularly. Nonpharmacologic interventions include instructing parents to avoid forcing the child to open the eyes, to prevent corneal exposure injury."
+    ],
+    "safety_warnings": [
+     "Myasthenia gravis must be ruled out before surgery; otherwise, surgery is ineffective and may worsen the condition.",
+     "After surgery, corneal exposure should be closely monitored to prevent exposure keratitis.",
+     "Anesthesia risk: general anesthesia in infants and young children requires strict assessment of the airway and cardiopulmonary function."
+    ],
+    "personalization": [
+     "Children with amblyopia should undergo amblyopia training first before or concurrently with surgery.",
+     "For severe levator function deficit, frontalis suspension is preferred over levator resection.",
+     "For bilateral asymmetry, the surgical plan should be individualized according to the dominant eye and cosmetic needs."
+    ]
+   },
+   "disease": "Congenital ptosis",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Affected children present at birth or shortly after birth with whitening, grayish-white, or cloudy opacity of the black part of the eye (cornea), often accompanied by photophobia, tearing, and blepharospasm. In some cases, enlargement of the eyeball (buphthalmos) may be seen, suggesting concomitant congenital glaucoma. Parents often report that the child's eye is opaque, that the child cannot see objects clearly, or that the child is extremely sensitive to bright light, with severely impaired visual development.",
+   "interview_guide": {
+    "first_questions": [
+     "Did the child's eye look white or cloudy at birth?",
+     "Does the child show obvious light sensitivity, tearing, or frequent eye rubbing?",
+     "Is there a family history of similar eye disease or genetic disease?"
+    ],
+    "followup_questions": [
+     "If abnormal eye enlargement is found, ask further: 'Have you recently noticed that the child's eye is getting larger or that the child is crying more?'",
+     "If systemic symptoms are present, ask further: 'Does the child have hearing loss, heart problems, or other developmental delay?'",
+     "If the disease is unilateral, ask further: 'Is the vision or appearance of the other eye normal?'"
+    ],
+    "stop_conditions": [
+     "The extent of opacity, whether it involves all layers, and whether glaucoma is concomitant have been clarified",
+     "The presence or absence of symptoms related to a systemic syndrome has been confirmed",
+     "Information on the need for key imaging examinations has been obtained"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Slit-lamp biomicroscopy",
+     "Fundus examination (under anesthesia if necessary)",
+     "Intraocular pressure measurement"
+    ],
+    "if_suspected": [
+     "UBM (ultrasound biomicroscopy)",
+     "Anterior segment OCT",
+     "Genetic testing (for suspected syndromic forms)"
+    ],
+    "avoid": [
+     "Routine cycloplegic refraction (may worsen discomfort in the acute phase and is not first-line)",
+     "Unnecessary systemic CT/MRI (unless intracranial disease is highly suspected)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Treatment depends on the cause and the degree of opacity. For isolated opacity, penetrating or lamellar keratoplasty can be performed",
+     "If congenital glaucoma is concomitant, trabeculotomy or goniotomy should be performed first to control intraocular pressure, and keratoplasty should be performed after the condition is stabilized. Long-term follow-up is required after surgery to prevent rejection and secondary glaucoma, along with amblyopia training."
+    ],
+    "safety_warnings": [
+     "Keratoplasty must not be performed when intraocular pressure is uncontrolled",
+     "When immunosuppressants are used, infection risk and bone marrow suppression require close monitoring",
+     "Postoperatively, be vigilant for graft edema and failure caused by elevated intraocular pressure"
+    ],
+    "personalization": [
+     "Infants and young children require general anesthesia for detailed examinations and surgery",
+     "For bilateral disease, the eye with poorer vision should be treated first, and amblyopia intervention should be started as early as possible",
+     "For patients with concomitant systemic syndromes, multidisciplinary collaboration is needed to formulate a comprehensive treatment plan"
+    ]
+   },
+   "disease": "Congenital corneal opacity",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Children often present with inward turning of the eyelids in one or both eyes, with eyelashes rubbing against the cornea. Typical complaints include frequent blinking, photophobia, tearing, and eye rubbing. Infants and young children may cry and become irritable due to ocular discomfort. Examination may show the lower eyelid margin rolling toward the eyeball; some patients have conjunctival hyperemia and punctate corneal epithelial loss, and severe cases may develop corneal ulceration.",
+   "interview_guide": {
+    "first_questions": [
+     "Does the child frequently rub the eyes or tear?",
+     "Does the child show photophobia or difficulty opening the eyes?",
+     "Did the symptoms begin at birth or appear recently?"
+    ],
+    "followup_questions": [
+     "If tearing is mentioned, ask whether there is purulent discharge?",
+     "['If photophobia is mentioned, ask whether it is accompanied by decreased vision or whitening of the black part of the eye?']",
+     "['If eye rubbing is mentioned, ask whether there is a history of trauma or family history of inherited disease?']"
+    ],
+    "stop_conditions": [
+     "Typical entropion signs (such as trichiasis) have been clearly described, and there is no evidence of complications.",
+     "The parents have provided a complete birth history and past ocular history.",
+     "The duration of symptoms and aggravating factors have been fully confirmed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Slit-lamp biomicroscopy",
+     "Sodium fluorescein staining test",
+     "Assessment of eyelid position and eyelash direction"
+    ],
+    "if_suspected": [
+     "Lacrimal irrigation (to rule out lacrimal duct obstruction)",
+     "Corneal topography (to assess the extent of corneal damage)",
+     "Intraocular pressure measurement (to rule out secondary glaucoma)"
+    ],
+    "avoid": [
+     "Routine fundoscopy (not necessary in the non-acute phase)",
+     "Whole-body CT scan (unless a syndrome is suspected)",
+     "Unnecessary prescription of antibiotic eye drops"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For mild cases, conservative treatment is preferred, including use of artificial tears multiple times daily to lubricate the cornea and prevent corneal dryness.",
+     "Combine with massage therapy; instruct parents to push the lower eyelid skin downward to correct the position. If conservative treatment is ineffective or corneal damage is significant, surgical correction such as suture technique or skin excision should be considered after age 3-4 years."
+    ],
+    "safety_warnings": [
+     "Do not use corticosteroid-containing eye drops on your own, as this may induce glaucoma.",
+     "Avoid excessive force during massage, which may cause eyelid skin injury.",
+     "Be alert to the risk of corneal ulcer perforation and ensure close follow-up."
+    ],
+    "personalization": [
+     "Premature infants require more frequent monitoring of corneal status.",
+     "Patients with concomitant strabismus require simultaneous assessment of eye alignment.",
+     "Use irritating lubricants with caution in patients with an allergic constitution."
+    ]
+   },
+   "disease": "Congenital entropion",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients often complain of sudden eye pain, severe foreign-body sensation, photophobia, tearing, and blurred vision. Typical findings include blepharospasm, marked conjunctival hyperemia, punctate or patchy corneal infiltrates and ulcers, and positive fluorescein staining. Some patients have increased discharge or floaters; symptoms usually begin unilaterally and progress rapidly.",
+   "interview_guide": {
+    "first_questions": [
+     "When did the eye pain and foreign-body sensation begin?",
+     "Have you had any recent eye trauma or worn contact lenses?",
+     "Is the decreased vision accompanied by marked photophobia and tearing?"
+    ],
+    "followup_questions": [
+     "If there is discharge, please describe its color and character (e.g., purulent, watery).",
+     "Have you recently had a cold, fever, or contact with patients with similar symptoms?",
+     "Do you have a history of dry eye, recurrent keratitis, or autoimmune disease?"
+    ],
+    "stop_conditions": [
+     "History of trauma, contact lens wear, and typical symptom manifestations have been clearly established.",
+     "The patient has described the complete course of illness and associated systemic symptoms.",
+     "Key information needed for initial differential diagnosis (such as source of infection and allergy history) has been collected."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Slit-lamp biomicroscopy",
+     "Sodium fluorescein staining test",
+     "Visual acuity and intraocular pressure measurement"
+    ],
+    "if_suspected": [
+     "Corneal scraping smear and bacterial/fungal culture",
+     "Confocal microscopy",
+     "Anterior chamber paracentesis fluid analysis"
+    ],
+    "avoid": [
+     "Routine fundoscopy (unless posterior segment involvement by complications is suspected)",
+     "Unnecessary systemic imaging scans",
+     "Blind use of corticosteroid eye drops"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Choose anti-infective drugs according to etiology: for bacterial infection, use levofloxacin eye drops every 1-2 hours.",
+     "For fungal infection, use natamycin eye drops 4-6 times daily. For viral infection, apply acyclovir ophthalmic ointment topically. At the same time, give artificial tears to relieve discomfort and, if necessary, oral analgesics. The course usually continues until 3-5 days after symptoms resolve; do not stop medication on your own."
+    ],
+    "safety_warnings": [
+     "Do not use glucocorticoids before fungal infection has been ruled out, as this may worsen the condition.",
+     "Be aware of the risk of antibiotic resistance and avoid long-term misuse of broad-spectrum antibiotics without indication.",
+     "Be alert to drug-induced corneal disease and monitor for toxic reactions from long-term use of preservative-containing eye drops."
+    ],
+    "personalization": [
+     "Pediatric patients should use preservative-free formulations, and dosing frequency should be adjusted.",
+     "Quinolones and aminoglycosides are contraindicated in pregnant and breastfeeding women.",
+     "Immunosuppressed patients require a prolonged course and combined systemic anti-infective treatment."
+    ]
+   },
+   "disease": "corneal disease",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients often complain of severe eye pain, photophobia, tearing, and decreased vision, accompanied by a marked foreign-body sensation. Examination may show grayish-white infiltrates on the corneal surface with blurred edges, and a central ulcer crater may form; some cases are accompanied by hypopyon or conjunctival hyperemia. Symptoms progress rapidly, and infectious causes such as bacterial, fungal, or amoebic infection should be considered.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had any eye trauma or worn contact lenses?",
+     "How long have the symptoms been present? Are they gradually worsening?",
+     "Have you had increased discharge or sudden decrease in vision?"
+    ],
+    "followup_questions": [
+     "If there was trauma, please describe when and how the injury occurred.",
+     "If you wear contact lenses, have you ever cleaned them improperly or worn them longer than recommended?",
+     "Do you have any systemic disease (such as diabetes) or an immunosuppressed state?"
+    ],
+    "stop_conditions": [
+     "The duration of symptoms and triggering factors have been clearly established.",
+     "The patient has described typical signs (such as corneal infiltrates and hypopyon).",
+     "An initial judgment has been made as to whether the cause is infectious or non-infectious."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Slit-lamp biomicroscopy",
+     "Corneal fluorescein staining",
+     "Corneal scraping culture and smear"
+    ],
+    "if_suspected": [
+     "Confocal microscopy (when fungal or amoebic infection is suspected)",
+     "Anterior chamber paracentesis fluid culture (for suspected severe infection)",
+     "Schirmer test (to rule out dry eye-related factors)"
+    ],
+    "avoid": [
+     "Routine fundus examination (unnecessary and may delay diagnosis)",
+     "Unnecessary systemic imaging examinations",
+     "Empirical antibiotic treatment without culture"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Immediately start topical broad-spectrum antibiotic eye drops (such as levofloxacin) every 1-2 hours, and adjust medication according to culture results. If fungal infection is suspected, use natamycin or voriconazole eye drops. At the same time, give artificial tears to relieve discomfort and, if necessary, oral analgesics. The course is usually 2-4 weeks, until the ulcer heals."
+    ],
+    "safety_warnings": [
+     "Avoid long-term use of corticosteroid-containing eye drops to prevent worsening of infection.",
+     "Check for a history of drug allergy to prevent allergic reactions.",
+     "Closely monitor the risk of corneal perforation and intervene promptly."
+    ],
+    "personalization": [
+     "Pediatric patients require adjusted drug doses and strengthened care guidance.",
+     "Patients with diabetes need strict glycemic control to promote healing.",
+     "Immunosuppressed patients should have a prolonged observation period and combined systemic anti-infective treatment."
+    ]
+   },
+   "disease": "corneal ulcer",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients complain of redness, swelling, pain, and tenderness of the upper outer eyelid, often with inferomedial displacement of the globe. In the acute phase, conjunctival hyperemia and edema may be seen, and some patients have systemic symptoms such as fever and headache; chronic or recurrent cases present with a painless mass or recurrent swelling. If lacrimal secretory function is involved, dry eye symptoms such as foreign-body sensation and burning may occur.",
+   "interview_guide": {
+    "first_questions": [
+     "When did the redness, swelling, and pain in your eye begin? Did they start suddenly or worsen gradually?",
+     "Besides eye discomfort, have you recently had fever, a cold, or other symptoms of infection?",
+     "Have you had similar eyelid swelling before?"
+    ],
+    "followup_questions": [
+     "If there is decreased vision or restricted eye movement, please describe the specific manifestations.",
+     "Have you recently had trauma, surgery, or a habit of wearing contact lenses?",
+     "Do you have a history of autoimmune diseases such as rheumatoid arthritis or Sjögren's syndrome?"
+    ],
+    "stop_conditions": [
+     "The features of acute bacterial infection and chronic granulomatous lesions have been clearly distinguished.",
+     "Complete past medical history and associated systemic symptoms have been obtained.",
+     "The patient's complaints are typical and there is no need for complex differential diagnosis."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Slit-lamp biomicroscopy",
+     "Palpation of the lacrimal gland region and assessment of eyeball position",
+     "Complete blood count and C-reactive protein testing"
+    ],
+    "if_suspected": [
+     "Orbital CT or MRI (to evaluate for abscess or tumor)",
+     "Autoantibody panel screening (such as ANA, RF)",
+     "Tear secretion test (Schirmer test)"
+    ],
+    "avoid": [
+     "Blind incision and drainage (before tumor has been ruled out)",
+     "Non-specific topical antibiotic instillation (when there is no clear evidence of bacterial infection)",
+     "Excessive imaging examinations (repeated CT/MRI when there are no signs of a space-occupying lesion)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For acute bacterial dacryoadenitis, the first choice is a susceptible antibiotic: oral amoxicillin-clavulanate 500mg every 8 hours for 7-10 days.",
+     "Severe cases require intravenous administration. Apply warm compresses to promote resolution of inflammation. If viral or autoimmune, give antiviral drugs or pulse glucocorticoid therapy according to the etiology. At the same time, use artificial tears to relieve dry eye symptoms."
+    ],
+    "safety_warnings": [
+     "β-lactam drugs are contraindicated in patients allergic to penicillins; macrolides should be used instead.",
+     "Long-term glucocorticoid use requires intraocular pressure monitoring to prevent the risk of glaucoma and cataract.",
+     "Avoid squeezing the affected area yourself to prevent spread of infection into the orbit or cranium."
+    ],
+    "personalization": [
+     "Pediatric patients require antibiotic dose adjustment according to body weight.",
+     "Use quinolones and tetracyclines with caution in pregnant women; penicillins are preferred.",
+     "In elderly patients, pay attention to hepatic and renal function and adjust doses of drugs metabolized by the liver or kidneys."
+    ]
+   },
+   "disease": "Dacryoadenitis",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients complain of inability to close the eyelids, often with tearing, photophobia, and ocular foreign body sensation. The typical manifestation is outward turning of the lower eyelid, with the conjunctiva exposed to air, leading to dryness and hyperemia. In severe cases, corneal ulceration may occur, accompanied by persistently increased discharge and blurred vision. Symptoms are often progressively worsening, and incomplete eyelid closure is particularly pronounced in the morning.",
+   "interview_guide": {
+    "first_questions": [
+     "Do your eyes feel dry, or do they constantly water?",
+     "Can you completely close your eyes? During sleep, has a family member noticed that your eyelids are not fully closed?"
+    ],
+    "followup_questions": [
+     "Did this symptom start suddenly or gradually worsen?",
+     "Have you had facial trauma, burns, or eye surgery?"
+    ],
+    "stop_conditions": [
+     "The degree of ectropion and associated corneal damage have been clearly determined",
+     "The cause has been confirmed (such as scarring, involutional, or paralytic)",
+     "The patient has clearly described the past treatment history and allergy history"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Slit-lamp microscopy examination",
+     "Tear secretion test (Schirmer test)",
+     "Corneal fluorescein staining examination"
+    ],
+    "if_suspected": [
+     "Facial nerve function assessment (Bell phenomenon and observation of forehead wrinkles)",
+     "Eyelid skin elasticity test",
+     "Orbital CT (when tumor compression is suspected)"
+    ],
+    "avoid": [
+     "Routine fundus examination (when non-emergent and without retinal symptoms)",
+     "Unnecessary systemic blood immune screening",
+     "Blind tonometry (unless glaucoma risk is present)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For mild cases, artificial tears and lubricating eye ointment are first-line to protect the cornea; at night, moisture chamber spectacles or tape may be used to assist eyelid closure. Moderate to severe cases require surgery, including lateral tarsal strip suspension, medial canthal ligament tightening, or full-thickness skin grafting. After surgery, continued use of antibiotic eye ointment is needed to prevent infection, with regular review of corneal healing; the course is usually several weeks to months."
+    ],
+    "safety_warnings": [
+     "Do not forcibly suture the eyelids when there is active corneal ulceration",
+     "Avoid long-term use of eye drops containing preservatives, which may cause toxic keratitis",
+     "Be alert to further vision loss caused by postoperative bleeding or infection"
+    ],
+    "personalization": [
+     "For older adults, assess systemic coagulation function to prevent intraoperative bleeding",
+     "For patients with facial palsy, combine with neurology treatment of the underlying disease",
+     "For pediatric patients, consider the impact of growth and development on the surgical approach"
+    ]
+   },
+   "disease": "Ectropion",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients often complain that the visual axes of the two eyes are not parallel, with one eye deviating outward, especially noticeable when fatigued, inattentive, or when closing one eye in sunlight. Some patients report diplopia (double vision), reading difficulty, easy visual fatigue, or headache. Children may present with head tilt to compensate for diplopia, while adults often seek care because of abnormal appearance or vision problems.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you noticed that one eye sometimes drifts outward, especially when you are tired or daydreaming?",
+     "Do you have double vision, headache, or easy fatigue when reading?",
+     "Did this symptom appear recently or has it been present since childhood?"
+    ],
+    "followup_questions": [
+     "In bright light, do you need to close one eye to see clearly?",
+     "Do you have a compensatory head tilt or facial asymmetry?",
+     "Is there a family history of similar eye disease?"
+    ],
+    "stop_conditions": [
+     "The timing pattern of the deviation and associated symptoms (such as diplopia and photophobia) have been clearly determined.",
+     "The onset time, frequency, and whether there is a history of trauma or neurological disease have been understood.",
+     "The patient has clearly described the degree of impact on daily life (such as reading and driving)."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Cover-uncover test and alternate cover test",
+     "Corneal light reflex examination",
+     "Extraocular movement range examination",
+     "Refractive status examination (cycloplegic refraction)"
+    ],
+    "if_suspected": [
+     "Fundus examination (to rule out retinopathy)",
+     "Neuroimaging examination (CT/MRI, when a central cause is suspected)",
+     "Stereoacuity examination"
+    ],
+    "avoid": [
+     "Systemic blood tests without indication",
+     "Unnecessary invasive ocular biopsy",
+     "Direct surgical planning before refractive status has been assessed"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Choose according to age and type: for children, spectacle correction of refractive error is first-line, combined with amblyopia training",
+     "Intermittent exotropia may be managed with vision training or prism glasses. If the deviation is stable and affects appearance or function, consider surgery (such as lateral rectus recession); regular follow-up after surgery is needed to prevent recurrence."
+    ],
+    "safety_warnings": [
+     "Avoid overcorrection causing esotropia or worsened diplopia",
+     "Before surgery, assess general anesthesia risk and coagulation function",
+     "After surgery, prevent infection and control intraocular pressure fluctuations"
+    ],
+    "personalization": [
+     "For pediatric patients, prioritize ensuring the development of binocular visual function and avoid surgery too early",
+     "For older adults, assess the impact of comorbidities such as cataract on the surgical plan",
+     "For those with high refractive error, fully correct it first before assessing the strabismus angle"
+    ]
+   },
+   "disease": "Exotropia",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients often present with monocular or binocular visual acuity significantly below the age-matched standard and not correctable with conventional spectacles. The chief complaint is often 'blurred vision' or 'cannot see details clearly,' but typical eye pain or redness is absent. Infants and young children may show sluggish response to visual stimuli, nystagmus, or strabismus. The key identifying point is that the decrease in visual acuity is disproportionate to the degree of refractive error, and there is a history of deprivation factors such as congenital cataract or ptosis.",
+   "interview_guide": {
+    "first_questions": [
+     "Has the child had any eye surgery or been found to have eye abnormalities from birth to now?",
+     "Do you usually notice the child squinting, tilting the head to see, or having involuntary eye shaking?",
+     "Is there a family history of amblyopia, strabismus, or high myopia?"
+    ],
+    "followup_questions": [
+     "If blurred vision is mentioned, ask: Is the blurring constant or does it come and go?",
+     "If ptosis is noted, ask: Does the eyelid often cover the pupil, especially worsening when tired?",
+     "Ask the parents whether occlusion therapy or glasses have been tried and what the effect was."
+    ],
+    "stop_conditions": [
+     "A cause of form deprivation such as congenital cataract, severe ptosis, or corneal opacity has been clearly identified.",
+     "Visual acuity examination shows that best-corrected visual acuity is significantly below the normal value for age and cannot be explained by refractive error alone.",
+     "The child's cooperation is extremely poor, making detailed history-taking impossible, but the signs already highly suggest this disease."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Best-corrected visual acuity examination (including visual acuity charts and fixation preference testing)",
+     "Slit-lamp microscopy examination (to assess the lens, corneal clarity, and eyelid position)",
+     "Fundus examination after pupillary dilation (to rule out retinal disease and assess macular development)"
+    ],
+    "if_suspected": [
+     "Ocular B-scan ultrasound (when refractive media opacity prevents a clear view of the fundus)",
+     "Visual evoked potential (VEP) examination (objective assessment of visual pathway function)",
+     "Axial length measurement (to help differentiate pathologic myopia or other organic disease)"
+    ],
+    "avoid": [
+     "Unnecessary systemic CT or MRI (unless intracranial tumor compressing the optic nerve is suspected)",
+     "Direct detailed refraction without pupillary dilation (susceptible to accommodation interference)",
+     "Blind use of atropine for pupillary dilation (caution in those at risk for acute glaucoma, although rare but noteworthy)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "The primary treatment is to relieve form deprivation, such as cataract extraction with intraocular lens implantation for congenital cataract, or ptosis correction. Amblyopia training should begin immediately after surgery, including patching the healthy eye (2-6 hours daily, adjusted by age and severity) and fine visual tasks (beading, tracing, etc.). The course usually lasts months to years, with regular follow-up of visual acuity and refractive status to prevent recurrence."
+    ],
+    "safety_warnings": [
+     "After surgery, strictly prevent infection and secondary glaucoma, and monitor intraocular pressure changes.",
+     "During patching treatment, closely observe the visual acuity of the healthy eye to prevent reverse amblyopia.",
+     "Anesthesia risk: infants and young children undergoing general anesthesia require assessment of cardiopulmonary function and airway status."
+    ],
+    "personalization": [
+     "For those with onset in infancy and early childhood, the treatment window is short, so early intervention is needed, and parental adherence should be emphasized.",
+     "For those with severe bilateral deprivation, patching is not appropriate; priority should be given to improving binocular visual input, supplemented by binocular dissociation training.",
+     "For those with concomitant strabismus, strabismus correction surgery should be performed at an appropriate time after amblyopia improves to restore binocular visual function."
+    ]
+   },
+   "disease": "Deprivation amblyopia",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients often complain of markedly decreased night vision (nyctalopia), gradually developing visual field defects with tunnel vision. Some types are accompanied by blurred central vision, abnormal color vision, or metamorphopsia. Symptoms usually have an insidious onset and slowly worsen with age, and may be accompanied by photophobia or floaters. There is often a family history of similar eye disease.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have difficulty seeing things at night?",
+     "Is your vision loss in both eyes at the same time or in one eye? How fast is it progressing?",
+     "Does any other family member have similar vision problems or blindness?"
+    ],
+    "followup_questions": [
+     "Besides night blindness, do you feel that the peripheral range of your vision has narrowed?",
+     "Recently, have you had difficulty distinguishing colors or metamorphopsia?",
+     "Did the symptoms begin in childhood or only in adulthood?"
+    ],
+    "stop_conditions": [
+     "Typical features of night blindness, visual field constriction, and family history have been clearly asked about and recorded.",
+     "The patient has clearly described the onset time and progression of symptoms, and there is no history of acute ocular trauma.",
+     "The preliminary judgment is consistent with hereditary retinal disease, and further differentiation from acute inflammation or toxic factors is not needed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Fundus examination (direct/indirect ophthalmoscopy)",
+     "Full-field electroretinogram (ERG)",
+     "Optical coherence tomography (OCT)"
+    ],
+    "if_suspected": [
+     "Perimetry (to assess the degree of visual field defect)",
+     "Genetic testing (to determine the specific pathogenic gene mutation)",
+     "Fluorescein fundus angiography (FFA)"
+    ],
+    "avoid": [
+     "Routine head CT or MRI (unless an intracranial space-occupying lesion compressing the visual pathway is suspected)",
+     "Nonspecific systemic immune marker screening (when there is no evidence of infection or autoimmunity)",
+     "Unnecessary full coagulation panel before anticoagulant therapy (when there is no surgical indication)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "There is currently no curative treatment; supportive therapy and slowing progression are the main approaches. Vitamin A palmitate supplementation is recommended (the dose must be strictly controlled under medical advice to avoid toxicity), and low-vision aids should be worn to improve quality of life. For specific gene mutations (such as RPE65), gene replacement therapy may be considered. Regular follow-up should monitor complications such as macular edema or cataract, with laser or surgical treatment when necessary."
+    ],
+    "safety_warnings": [
+     "Do not self-administer high-dose vitamin A, to prevent hepatotoxicity and increased intracranial pressure.",
+     "When using antioxidants, be alert to interactions with other drugs, especially anticoagulants.",
+     "If there is a rapid decline in vision or severe eye pain, immediately evaluate for emergencies such as retinal detachment."
+    ],
+    "personalization": [
+     "For pediatric patients, focus on visual rehabilitation training and psychological support.",
+     "Women of childbearing age should be counseled on genetic risk and make reproductive plans.",
+     "For those with comorbid systemic diseases (such as metabolic syndrome), multidisciplinary joint management is needed."
+    ]
+   },
+   "disease": "hereditary retinal dystrophy",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients often report diplopia, difficulty reading, eye strain and headache, or blurred vision when tired, ill, or unable to concentrate. Some patients describe needing to blink frequently or close one eye to see clearly; symptoms worsen after prolonged visual use and improve with rest. Children may present with skipping lines while reading, copying errors, or difficulty concentrating, but without persistent diplopia.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have double vision or a feeling of eye strain when looking at things?",
+     "Does this discomfort worsen significantly after prolonged reading or work?"
+    ],
+    "followup_questions": [
+     "When the symptoms occur, are they accompanied by headache or nausea?",
+     "Do you need to rub your eyes frequently or close one eye to see clearly?"
+    ],
+    "stop_conditions": [
+     "The association between symptoms and visual fatigue has been clarified.",
+     "The duration of symptoms and relief methods have been understood.",
+     "Acute ocular trauma or neurologic emergencies have been ruled out."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Cover-uncover test",
+     "Maddox rod test",
+     "Prism cover test"
+    ],
+    "if_suspected": [
+     "Synoptophore examination",
+     "Accommodative function testing",
+     "Binocular vision assessment"
+    ],
+    "avoid": [
+     "Routine fundus fluorescein angiography",
+     "Head CT/MRI (in the absence of neurologic signs)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is non-surgical intervention, including vision therapy to enhance fusion.",
+     "If refractive error is present, full correction with glasses is required. For symptomatic esophoria or exophoria, prism correction may be attempted to reduce symptoms. Follow-up every 3 months is recommended, with the regimen adjusted according to symptom improvement."
+    ],
+    "safety_warnings": [
+     "Avoid excessive use of prisms, which may lead to dependence",
+     "High-intensity vision therapy must not be performed blindly before accommodative function has been evaluated",
+     "Differentiate phoria from paralytic strabismus to prevent misdiagnosis and delayed treatment"
+    ],
+    "personalization": [
+     "In pediatric patients, vision therapy should be prioritized to promote development of binocular visual function",
+     "In older adults, presbyopia should be considered, and the near prism power should be adjusted appropriately",
+     "In patients with high myopia or hyperopia, refractive status must be strictly corrected before assessing the strabismus angle"
+    ]
+   },
+   "disease": "heterophoria",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients often report photophobia and glare in one or both eyes, with blurred vision especially under bright light. Slit-lamp examination shows sectoral or circular defects in the peripheral iris, exposing the posterior lens equator, and abnormal pupil shape (such as pear-shaped or cat-eye-like), possibly accompanied by decreased visual acuity and diplopia.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you feel that your eyes are unusually sensitive to light?",
+     "Has your vision been normal since childhood, or have you recently noticed a change in pupil shape?"
+    ],
+    "followup_questions": [
+     "Do any family members have similar eye problems?",
+     "Are there associated congenital anomalies or developmental delay?"
+    ],
+    "stop_conditions": [
+     "The abnormal pupil shape and complaint of photophobia have been clarified.",
+     "No history of trauma has been confirmed, and the presentation is congenital.",
+     "Family history and systemic associated symptoms have been documented."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Slit-lamp biomicroscopy",
+     "Ophthalmoscopy",
+     "Intraocular pressure measurement"
+    ],
+    "if_suspected": [
+     "Ocular B-scan ultrasonography (to rule out lens dislocation)",
+     "Genetic testing (screening for WNT1 and other loci)",
+     "Systemic physical examination (to assess cardiac, renal, and other systemic anomalies)"
+    ],
+    "avoid": [
+     "Prolonged observation after routine pupillary dilation (may worsen photophobia)",
+     "Unnecessary CT/MRI (unless intracranial pathology is suspected)",
+     "Corneal topography (of limited diagnostic value for iris defects)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is non-pharmacologic intervention; tinted contact lenses or custom light-blocking lenses are recommended to relieve photophobia and glare. If refractive error is present, corrective glasses are required. For severe cases affecting appearance or vision, artificial iris implantation or iris pigment epithelium transplantation may be considered. Regular follow-up is needed to monitor glaucoma risk."
+    ],
+    "safety_warnings": [
+     "Avoid strong mydriatics such as atropine to prevent precipitation of acute glaucoma",
+     "Surgery must be strictly aseptic to prevent infection leading to endophthalmitis",
+     "Intraocular pressure changes must be closely monitored postoperatively"
+    ],
+    "personalization": [
+     "In pediatric patients, non-invasive optical correction should be preferred, and surgery should be evaluated after adulthood",
+     "Patients with coexisting glaucoma require concomitant intraocular pressure-lowering medication",
+     "In patients with bilateral defects, attention should also be paid to reconstruction of binocular visual function"
+    ]
+   },
+   "disease": "iris coloboma",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients often report severe unilateral eye pain, marked photophobia, tearing, and foreign-body sensation, with significantly decreased vision. Examination may show blepharospasm, mixed conjunctival injection, and grayish-white corneal infiltrates or ulcers with positive fluorescein staining. Some patients have hypopyon or miosis; symptoms progress rapidly, and without timely treatment can lead to corneal perforation or permanent visual impairment.",
+   "interview_guide": {
+    "first_questions": [
+     "When did the eye pain and photophobia begin? Did they start suddenly or worsen gradually?",
+     "Have you had any recent ocular trauma (such as a branch scratch or metallic foreign body), or do you wear contact lenses?"
+    ],
+    "followup_questions": [
+     "If there is increased discharge, is it purulent or watery?",
+     "Do you have a history of herpes simplex virus infection or autoimmune disease?"
+    ],
+    "stop_conditions": [
+     "The precipitating factor (such as trauma or contact lens wear) has been clarified, and symptoms are typical.",
+     "No systemic immunosuppression or high-risk factors for special infections have been confirmed.",
+     "The degree of visual decline and extent of the corneal lesion have been clearly assessed through the initial interview."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Slit-lamp biomicroscopy",
+     "Sodium fluorescein staining test",
+     "Visual acuity and intraocular pressure measurement"
+    ],
+    "if_suspected": [
+     "Corneal scraping smear and bacterial/fungal culture",
+     "Confocal microscopy",
+     "PCR testing for viral nucleic acid"
+    ],
+    "avoid": [
+     "Routine ophthalmoscopy (cannot be performed in the acute phase because of corneal opacity)",
+     "Blind use of corticosteroid eye drops",
+     "Unnecessary systemic CT scanning"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Select sensitive antibiotics or antivirals based on etiologic results. For bacterial keratitis, fluoroquinolone eye drops (e.g., levofloxacin) are first-line, every 1-2 hours.",
+     "For fungal keratitis, corticosteroids are contraindicated; natamycin or amphotericin B should be used.",
+     "For viral (HSV) keratitis, acyclovir ophthalmic ointment or oral valacyclovir is first-line. The course should continue until 3-5 days after clinical symptoms have completely resolved, with artificial tears to promote healing. Patients must not discontinue medication on their own."
+    ],
+    "safety_warnings": [
+     "Glucocorticoids must not be used before fungal infection has been excluded, to avoid infection spread and even corneal perforation.",
+     "Pay attention to history of drug allergy, especially allergy to sulfonamides or quinolones.",
+     "Be alert for corneal epithelial toxicity and emergence of resistant bacteria with long-term use."
+    ],
+    "personalization": [
+     "In pediatric patients, dosing frequency should be adjusted and supervision strengthened to prevent eye rubbing from worsening the injury.",
+     "Contact lens wearers should stop wearing lenses immediately, and Pseudomonas aeruginosa infection should be specifically investigated.",
+     "In immunocompromised patients, the treatment course should be prolonged and combined with systemic anti-infective therapy."
+    ]
+   },
+   "disease": "keratitis",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients often report rapid progression of myopia or astigmatism over a short period, with poor visual correction despite wearing glasses. Typical manifestations are blurred vision and ghosting (monocular diplopia) in one or both eyes, marked nighttime glare, and inability to improve vision despite frequent changes in spectacle prescription. In some patients, eye-rubbing habits worsen symptoms; be alert for acute corneal edema or scar formation caused by corneal thinning.",
+   "interview_guide": {
+    "first_questions": [
+     "Has your spectacle prescription changed rapidly over the past year? Do you change glasses frequently?",
+     "Do you have double vision or see halos around lights at night?",
+     "Do you habitually rub your eyes forcefully and frequently?"
+    ],
+    "followup_questions": [
+     "If vision suddenly decreases with eye pain, do you feel a foggy veil before the eyes (suggesting corneal edema)?",
+     "Is there a family history of similar visual problems or eye disease?",
+     "Are there associated allergic symptoms such as allergic rhinitis or asthma?"
+    ],
+    "stop_conditions": [
+     "Recent rapid change in refractive error and poor corrected visual acuity have been clarified.",
+     "A long history of eye rubbing and an atopic predisposition have been confirmed.",
+     "The symptoms described by the patient are consistent with features of progressive keratoconus."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Corneal topography",
+     "Corneal thickness measurement (pachymetry)",
+     "Best-corrected visual acuity measurement"
+    ],
+    "if_suspected": [
+     "Anterior segment optical coherence tomography (AS-OCT)",
+     "Slit-lamp biomicroscopy (to observe Fleischer ring or Vogt striae)",
+     "Fundus examination (to rule out other blinding eye diseases)"
+    ],
+    "avoid": [
+     "Routine refraction and spectacle prescription as the sole diagnostic basis",
+     "Laser corneal refractive surgery before corneal thickness has been evaluated",
+     "Relying solely on subjective visual acuity chart testing while ignoring changes in refractive status"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "In the early stage, vision correction is mainly with rigid gas-permeable (RGP) contact lenses, which can improve irregular astigmatism. If the disease progresses rapidly, corneal collagen cross-linking (CXL) is first-line to strengthen the cornea and halt progression of the cone. Soft contact lenses should be avoided because they cannot effectively reshape the cornea. For advanced cases with severe corneal scarring or intolerance to RGP lenses, corneal transplantation should be considered."
+    ],
+    "safety_warnings": [
+     "Refractive surgery that cuts the cornea, such as LASIK, must not be performed in patients with keratoconus, as it may lead to corneal perforation",
+     "Transient corneal haze or pain may occur after cross-linking, requiring close follow-up",
+     "Long-term use of corticosteroid eye drops may inhibit corneal healing and should be carefully evaluated"
+    ],
+    "personalization": [
+     "In adolescent patients, cross-linking should be preferred to halt progression rather than spectacle correction alone",
+     "In patients with severe allergy, allergic conjunctivitis should be controlled concurrently to reduce triggers for eye rubbing",
+     "Corneal shape may fluctuate during pregnancy; monitoring frequency should be increased and lens parameters adjusted"
+    ]
+   },
+   "disease": "Keratoconus",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients often report a sharp decline in night vision (night blindness), accompanied by photophobia, lacrimation, and eye pain. Early in the course, the conjunctiva appears dry and lusterless, and Bitot's spots appear; as the condition progresses, the cornea rapidly becomes cloudy and softened, appearing grayish-white or yellow-green, and in severe cases perforation may occur, leading to iris prolapse. It is often accompanied by manifestations of systemic malnutrition, such as dry skin and follicular hyperkeratosis.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had difficulty seeing at night?",
+     "Do your eyes feel noticeably sensitive to light, watery, or painful?",
+     "Has your diet recently lacked vitamin A-rich foods (such as liver and dark-colored vegetables)?"
+    ],
+    "followup_questions": [
+     "If severe eye pain or sudden vision loss is mentioned, ask: 'Do your eyes feel as if there is a foreign body or as if they are about to rupture?'",
+     "If chronic diarrhea or malabsorption is mentioned, ask: 'Do you have a history of chronic gastrointestinal disease or recent marked weight loss?'",
+     "Ask about a history of rickets or a long-term vegetarian diet."
+    ],
+    "stop_conditions": [
+     "A history of night blindness has been clearly established and typical signs of keratomalacia (such as Bitot's spots or corneal ulceration) are found.",
+     "Severe systemic symptoms of vitamin A deficiency and dietary history are confirmed.",
+     "The patient has already developed emergency complications such as corneal perforation and requires immediate emergency management."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Slit-lamp microscopy",
+     "Serum vitamin A level measurement",
+     "Dark adaptation testing"
+    ],
+    "if_suspected": [
+     "Fundus examination (to assess retinal lesions)",
+     "Complete blood count and trace element analysis",
+     "Stool routine examination (to screen for parasitic infection)"
+    ],
+    "avoid": [
+     "Unnecessary measurement of the depth of corneal fluorescein staining (unless assessing perforation risk)",
+     "Unnecessary whole-body CT scans"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Immediately supplement with high-dose vitamin A. In the acute phase, give oral vitamin A (adults 200,000 IU/day for 3 consecutive days) or intramuscular injection of a water-miscible vitamin A formulation. At the same time, use antibiotic eye ointment to prevent secondary infection and wear an eye shield to protect the cornea. After the condition stabilizes, switch to a maintenance dose and adjust the diet, increasing intake of vitamin A-rich foods."
+    ],
+    "safety_warnings": [
+     "Strictly prohibit excessive long-term use of vitamin A to prevent toxicity",
+     "Use high-dose vitamin A with caution in patients with hepatic impairment",
+     "Avoid concomitant use with oral medications containing retinoic acid to prevent additive toxicity"
+    ],
+    "personalization": [
+     "For infants and young children, calculate the dose strictly by body weight to prevent overdose",
+     "For pregnant women, use medication under close monitoring to avoid teratogenic risk",
+     "For patients with steatorrhea, preferentially choose water-miscible vitamin A formulations"
+    ]
+   },
+   "disease": "keratomalacia",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients often report sudden vision loss, blurred vision, or diplopia, and some have eye pain or photophobia. Examination may show absence of lens reflex in the pupillary area, and slit-lamp examination may reveal abnormal lens position, such as complete dislocation into the anterior chamber or vitreous cavity.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you experienced sudden vision loss or diplopia?",
+     "Do you have a history of eye trauma or a family history of genetic disease?"
+    ],
+    "followup_questions": [
+     "Do your symptoms worsen after specific movements?",
+     "Do you have other eye discomfort such as pain or photophobia?"
+    ],
+    "stop_conditions": [
+     "The patient has clearly described typical symptoms and has no other complex medical history",
+     "There is enough information to determine that further specialty examination is needed",
+     "The patient cannot provide useful information, but symptoms are obvious"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Slit-lamp examination",
+     "Ophthalmoscopy",
+     "Ocular B-scan ultrasound"
+    ],
+    "if_suspected": [
+     "Optical coherence tomography (OCT)",
+     "Corneal endothelial cell count"
+    ],
+    "avoid": [
+     "Routine X-ray examination",
+     "Unnecessary CT scans"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Select surgical extraction and intraocular lens implantation according to lens position. If the lens is in the anterior chamber, emergency surgery is required to prevent glaucoma",
+     "If it is in the vitreous cavity, elective management may be performed. Postoperatively, administer anti-inflammatory drugs and arrange regular follow-up."
+    ],
+    "safety_warnings": [
+     "Avoid medications that may cause pupillary dilation",
+     "Be alert to the risk of postoperative infection and strictly follow aseptic technique",
+     "Watch for the occurrence of secondary glaucoma"
+    ],
+    "personalization": [
+     "For pediatric patients, consider long-term visual development needs",
+     "For elderly patients, assess general health status to determine surgical timing",
+     "For patients with high myopia, pay special attention to the risk of retinal detachment"
+    ]
+   },
+   "disease": "Lens dislocation",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients are often asymptomatic or have only mild blurred vision or eye fatigue. As the disease progresses, peripheral visual field constriction may gradually occur, and central vision loss may occur in advanced stages. Some patients may feel mild headache or eye discomfort due to elevated intraocular pressure, but most early cases are asymptomatic and need to be detected through professional examination.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have blurred vision or a feeling of visual field constriction?",
+     "Does anyone in your family have glaucoma?"
+    ],
+    "followup_questions": [
+     "Do you often feel eye fatigue or headache?",
+     "Do you have a history of long-term use of corticosteroid medications?"
+    ],
+    "stop_conditions": [
+     "The patient has clearly described typical symptoms and has no other complex medical history",
+     "The patient can provide a complete family history and medication history",
+     "The patient states that there is no further information to add"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Tonometry",
+     "Fundus examination",
+     "Visual field testing"
+    ],
+    "if_suspected": [
+     "Optical coherence tomography (OCT)",
+     "Gonioscopy"
+    ],
+    "avoid": [
+     "Unnecessary systemic imaging",
+     "Nonspecific blood tests"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes intraocular pressure-lowering medications (such as prostaglandin analog eye drops), once daily, continued to control intraocular pressure. If necessary, a beta-blocker or carbonic anhydrase inhibitor may be added. For patients with poor medication control, laser trabeculoplasty or surgery may be considered. Regular follow-up is also recommended to monitor intraocular pressure and visual field changes."
+    ],
+    "safety_warnings": [
+     "Avoid mydriatic drugs during an acute angle-closure glaucoma attack",
+     "Pay attention to drug interactions, especially when used with antihypertensive drugs",
+     "Be alert to severe adverse reactions such as bradycardia and bronchospasm"
+    ],
+    "personalization": [
+     "For elderly patients, adjust the dose to avoid the risk of hypotension",
+     "Use certain intraocular pressure-lowering drugs cautiously in pregnant and lactating women",
+     "For pediatric patients, individualize dosing according to body weight and age"
+    ]
+   },
+   "disease": "Open-angle glaucoma",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients often report progressive vision loss, visual field defects, or decreased color discrimination. Typical symptoms include painless visual loss, central scotoma, color vision abnormalities (such as red-green color blindness), and sluggish pupillary light reflex. Some patients may have ocular motility disturbance or diplopia; the cause should be determined in conjunction with the medical history.",
+   "interview_guide": {
+    "first_questions": [
+     "Is your vision loss sudden or gradually worsening?",
+     "Do you have a history of eye trauma, infection, or systemic disease?",
+     "Is it accompanied by headache, nausea, or other neurological symptoms?"
+    ],
+    "followup_questions": [
+     "If there is sudden vision loss, have you recently had strenuous exercise or emotional stress?",
+     "If there is color vision abnormality, which colors are specifically difficult to distinguish?",
+     "If there is a history of systemic disease, are you currently taking medications that may affect the optic nerve?"
+    ],
+    "stop_conditions": [
+     "The cause of vision loss has been identified and other systemic diseases have been excluded",
+     "The patient's complaint is clear and further questioning is unnecessary",
+     "The initial examination has been completed and a treatment plan has been formulated"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Fundus examination",
+     "Visual evoked potential (VEP)",
+     "Visual field testing"
+    ],
+    "if_suspected": [
+     "Head MRI or CT",
+     "Blood immunological testing",
+     "Lumbar puncture for cerebrospinal fluid analysis"
+    ],
+    "avoid": [
+     "Routine X-ray examination",
+     "Nonspecific empirical antibiotic therapy",
+     "Systemic corticosteroid use without indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Treat the underlying cause, such as controlling intraocular pressure in glaucoma, microcirculation-improving drugs (such as Ginkgo biloba extract), and neurotrophic agents (such as mecobalamin). In the acute phase, short-term glucocorticoids may be used to reduce the inflammatory response. Nonpharmacologic interventions include low vision rehabilitation training and psychological support. The course of treatment should be adjusted according to the condition, and long-term follow-up is usually required."
+    ],
+    "safety_warnings": [
+     "Avoid long-term use of high-dose corticosteroids to prevent osteoporosis and elevated blood glucose",
+     "Pay attention to drug allergy history, especially the risk of concomitant use of antiepileptic drugs and corticosteroids",
+     "Monitor liver and kidney function to prevent drug toxicity"
+    ],
+    "personalization": [
+     "For elderly patients, adjust drug doses to reduce side effects",
+     "For pediatric patients, prioritize neurotrophic regimens with a high safety profile",
+     "Use corticosteroids cautiously in pregnant women, and weigh the benefits and risks when necessary"
+    ]
+   },
+   "disease": "optic atrophy",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients often complain of blurred vision, metamorphopsia, or floaters, and some have ocular pain or photophobia. Symptoms may be unilateral or bilateral and may progress slowly or present acutely. Without timely treatment, retinal edema, maculopathy, or even permanent visual impairment may occur.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have decreased vision or metamorphopsia?",
+     "Did the symptoms start suddenly or worsen gradually?",
+     "Are they accompanied by ocular pain or photophobia?"
+    ],
+    "followup_questions": [
+     "If blurred vision is present, is it accompanied by flashes of light or floaters?",
+     "Do you have a history of systemic disease (e.g., tuberculosis, syphilis, autoimmune disease)?",
+     "Have you had any recent infection or trauma?"
+    ],
+    "stop_conditions": [
+     "Clarify the duration and severity of symptoms",
+     "Understand the past medical history and association with systemic disease",
+     "Confirm whether other ocular complications are present"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Fundoscopy",
+     "Optical coherence tomography (OCT)",
+     "Fundus fluorescein angiography (FFA)"
+    ],
+    "if_suspected": [
+     "B-scan ultrasonography (if vitreous opacity or retinal detachment is suspected)",
+     "Serologic testing (to evaluate infectious or autoimmune causes)",
+     "MRI (if central nervous system involvement is suspected)"
+    ],
+    "avoid": [
+     "Routine X-ray examination (no direct diagnostic benefit)",
+     "Unnecessary corneal staining",
+     "Nonspecific blood screening"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes topical or systemic glucocorticoids (e.g., prednisone 0.5-1mg/kg/day), with duration adjusted according to the condition, usually several weeks to months. For infectious causes, anti-infective agents should be added. Nonpharmacologic interventions include regular follow-up to monitor visual changes and fundus findings."
+    ],
+    "safety_warnings": [
+     "Long-term corticosteroid use requires vigilance for glaucoma and cataract risk",
+     "Avoid concomitant use with NSAIDs to reduce the risk of gastrointestinal bleeding",
+     "Monitor liver and kidney function with immunosuppressants"
+    ],
+    "personalization": [
+     "Pediatric patients require dose adjustment and close monitoring of growth and development",
+     "Use corticosteroids with caution in pregnant women, preferring topical treatment",
+     "Assess cardiovascular risk and individualize medication in elderly patients"
+    ]
+   },
+   "disease": "Posterior uveitis",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients are mostly over 40 years of age and complain of blurred vision and ghosting of text when reading at near, using a phone, or threading a needle, needing to hold objects farther away to see clearly. They often have eye fatigue, soreness, and headache, especially worsening after prolonged near work. Symptoms are characterized by reduced accommodative amplitude and may be temporarily relieved by rest, but gradually worsen with age.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently noticed blurred vision at near (e.g., reading, using a phone) and need to hold things farther away to see clearly?",
+     "At what time of day is this blurred vision most noticeable? Do you have eye fatigue or headache?"
+    ],
+    "followup_questions": [
+     "Do you currently wear glasses? If you are nearsighted or farsighted, how is your near vision without glasses?",
+     "Did your symptoms appear suddenly or worsen gradually? Is there a family history of similar symptoms?"
+    ],
+    "stop_conditions": [
+     "The patient clearly describes typical presbyopic symptoms (blurred near vision, clear distance vision), and age is consistent with physiologic presbyopia.",
+     "No secondary visual decline due to organic ocular disease (e.g., cataract, glaucoma) has been confirmed.",
+     "The patient has a clear need for correction, and refractive assessment for glasses can proceed without further differential diagnosis."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Best-corrected visual acuity testing",
+     "Automated refraction and subjective refraction (including near addition measurement)",
+     "Slit-lamp examination of the anterior segment"
+    ],
+    "if_suspected": [
+     "Fundus examination (to rule out macular degeneration and other retinal diseases)",
+     "Intraocular pressure measurement (to rule out glaucoma risk)",
+     "Accommodative amplitude and accommodative response testing"
+    ],
+    "avoid": [
+     "Unnecessary pupillary dilation (unless other refractive abnormalities or fundus disease are suspected)",
+     "Screening for systemic diseases (e.g., blood glucose, blood pressure, unless there is relevant history)",
+     "Imaging studies (e.g., CT or MRI, not needed in the absence of neurologic symptoms)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is optical correction, with convex lenses (reading glasses) prescribed based on refraction results. Single-vision lenses are suitable for reading at a fixed distance",
+     "Bifocal or progressive multifocal lenses can address both near and distance vision. Nonpharmacologic interventions include adjusting lighting in the reading environment, using magnifying aids, and following the 20-20-20 rule for eye use. Medication is generally not needed; regular follow-up is required to adjust the prescription."
+    ],
+    "safety_warnings": [
+     "Avoid overcorrection that may cause dizziness, nausea, or unsteady gait",
+     "Ensure the lens optical center height matches the pupil position to prevent prism effect",
+     "Do not purchase ready-made reading glasses for long-term use without prescription, as a power mismatch may worsen fatigue"
+    ],
+    "personalization": [
+     "For younger presbyopes (40-45 years), consider preserving some accommodative amplitude and using a low near addition",
+     "Patients with high myopia or hyperopia require recalculation of total refractive power to avoid overcorrection",
+     "Patients with diabetes require more frequent follow-up because glycemic fluctuations may affect refractive status"
+    ]
+   },
+   "disease": "Presbyopia",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients often complain of red eye, foreign body sensation, or blurred vision, especially worsening in windy, dusty, or bright light environments. Typical presentation is triangular fibrovascular tissue growing from the nasal (occasionally temporal) bulbar conjunctiva toward the cornea, with the apex invading the limbus, and may be accompanied by hyperemia and scar formation. If the pterygium progresses to the pupillary area, it may cause astigmatism or obscure the visual axis.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you feel a persistent foreign body sensation or redness in your eye?",
+     "Do your symptoms worsen outdoors in windy, dusty, or bright light conditions?"
+    ],
+    "followup_questions": [
+     "Do you have decreased vision or metamorphopsia?",
+     "Do you have a history of eye surgery or long-term ultraviolet exposure?"
+    ],
+    "stop_conditions": [
+     "The patient clearly describes typical symptoms and has no other complex history",
+     "The location and size of the pterygium and its impact on vision have been confirmed",
+     "Other ocular diseases such as dry eye or keratitis have been ruled out"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Slit-lamp examination",
+     "Corneal topography",
+     "Visual acuity testing"
+    ],
+    "if_suspected": [
+     "Schirmer test",
+     "Fluorescein staining",
+     "Fundus examination"
+    ],
+    "avoid": [
+     "Routine blood tests",
+     "CT scan",
+     "MRI"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For mild asymptomatic cases, observation and avoidance of ultraviolet exposure are recommended",
+     "For moderate to severe or symptomatic cases, surgical excision combined with autologous conjunctival transplantation is preferred. Postoperatively, use antibiotic eye drops to prevent infection and, if necessary, short-term glucocorticoids to reduce inflammation. Nonpharmacologic interventions include wearing UV-protective glasses and artificial tears to relieve discomfort."
+    ],
+    "safety_warnings": [
+     "Avoid long-term use of eye drops containing preservatives",
+     "Be aware that corticosteroids may increase glaucoma risk",
+     "Strict postoperative follow-up is needed to prevent recurrence"
+    ],
+    "personalization": [
+     "Carefully assess the necessity of surgery in pediatric patients",
+     "In elderly patients, consider the impact of general health status on surgical tolerance",
+     "Strengthen protective measures for those with occupational ultraviolet exposure"
+    ]
+   },
+   "disease": "Pterygium",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients complain that one or both eyelids cannot be fully raised, covering part or all of the pupil and causing visual field restriction. They often raise their eyebrows or tilt their head back to compensate for vision, or develop deepened forehead wrinkles and facial fatigue. Symptoms may be milder in the morning and worse in the evening (e.g., myasthenia gravis) or progressively worsen (e.g., congenital or neuroparalytic).",
+   "interview_guide": {
+    "first_questions": [
+     "Did the eyelid drooping appear suddenly or has it been present since childhood?",
+     "Do the symptoms change during the day, for example, being worse in the afternoon or evening?",
+     "Are you experiencing diplopia, difficulty swallowing, or limb weakness?"
+    ],
+    "followup_questions": [
+     "If you have diplopia, please describe whether it is horizontal or vertical.",
+     "Have you had recent head trauma or a history of diabetes or hypertension?",
+     "Is there a family history of similar eye disease?"
+    ],
+    "stop_conditions": [
+     "Congenital and acquired etiologies have been clearly distinguished, and there are no emergency neurologic signs.",
+     "Symptoms are characteristic (e.g., milder in the morning and worse in the evening), sufficient to initially suspect myasthenia gravis and arrange further testing.",
+     "The patient's complaints are clear, and associated symptoms (e.g., diplopia, pupillary changes) have been fully documented."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Neostigmine test",
+     "Levator palpebrae superioris function testing",
+     "Slit-lamp examination and pupillary light reflex examination"
+    ],
+    "if_suspected": [
+     "Acetylcholine receptor antibody testing",
+     "Orbital CT or MRI",
+     "Ice pack test"
+    ],
+    "avoid": [
+     "Routine fundus fluorescein angiography (unless accompanied by retinal disease)",
+     "Unnecessary systemic pulse corticosteroid therapy without comprehensive assessment",
+     "Blind botulinum toxin injection for diagnostic purposes"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For myasthenia gravis, oral pyridostigmine is first-line, starting at 60mg per dose 3-4 times daily, adjusted according to response",
+     "Congenital or mechanical ptosis requires surgical correction, such as levator resection or frontalis suspension. Nonpharmacologic interventions include avoiding excessive eye use and wearing tinted glasses to improve the visual field. Treatment duration depends on etiology; myasthenia gravis requires long-term management, and surgical patients need regular postoperative checks of palpebral fissure height."
+    ],
+    "safety_warnings": [
+     "With pyridostigmine, be alert for cholinergic crisis, manifesting as abdominal pain, diarrhea, and increased salivation.",
+     "Before surgery, active infection and coagulopathy must be ruled out.",
+     "Improper surgical technique may lead to exposure keratitis or undercorrection/overcorrection."
+    ],
+    "personalization": [
+     "In pediatric patients, consider the critical period of visual development and perform surgery early to prevent amblyopia.",
+     "In elderly patients with cardiopulmonary disease, anesthetic risk requires multidisciplinary assessment.",
+     "Medication during pregnancy in patients with myasthenia gravis must strictly follow joint guidance from obstetrics and neurology."
+    ]
+   },
+   "disease": "Ptosis",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients complain of blurred vision, with difficulty seeing clearly at distance or near, often accompanied by asthenopia, dry eyes, headache, or squinting behavior. Patients with myopia have difficulty with distance vision, patients with hyperopia easily develop fatigue when reading at near, and patients with astigmatism perceive object distortion or double vision regardless of distance. Symptoms usually worsen after prolonged eye use and may be temporarily relieved with rest, but the decreased visual acuity cannot be completely eliminated.",
+   "interview_guide": {
+    "first_questions": [
+     "Are you mainly having trouble seeing clearly at distance or at near?",
+     "Is this blurred vision constant or does it come and go?",
+     "Do you also have symptoms such as eye soreness/fullness, headache, or photophobia?"
+    ],
+    "followup_questions": [
+     "How long have you had these symptoms? Has your prescription increased recently?",
+     "Does wearing glasses correct your vision to a normal level?",
+     "Is there a family history of high myopia or other eye diseases?"
+    ],
+    "stop_conditions": [
+     "The type of myopia, hyperopia, or astigmatism and its approximate degree have been clearly distinguished",
+     "Vision loss caused by organic disease (such as cataract or glaucoma) has been excluded",
+     "The patient's complaint is clear, and there are no other warning symptoms requiring further investigation"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Automated refraction",
+     "Subjective refraction (trial lenses)",
+     "Best-corrected visual acuity measurement"
+    ],
+    "if_suspected": [
+     "Slit-lamp examination (to exclude corneal disease)",
+     "Fundus examination (to exclude retinal disease)",
+     "Axial length measurement (for myopia control assessment)"
+    ],
+    "avoid": [
+     "Routine CT or MRI scanning (no indication)",
+     "Unnecessary fluorescein staining (unless corneal injury is suspected)",
+     "Systemic blood biochemistry tests (not directly related to refractive error)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is spectacle correction, with lenses of the appropriate power prescribed according to the refraction results. For adolescent myopia, orthokeratology lenses (OK lenses) may be considered to control progression. For adults with stable refractive error, laser surgery (such as LASIK) or intraocular lens implantation may be discussed. At the same time, it is recommended to follow the 20-20-20 rule for eye use, increase outdoor activities, and reduce screen time to relieve asthenopia."
+    ],
+    "safety_warnings": [
+     "Do not purchase ready-made reading glasses or sunglasses without refraction",
+     "Strict hygiene is required when wearing contact lenses to avoid the risk of keratitis",
+     "Postoperative patients must use antibiotic and steroid eye drops as prescribed to prevent infection and inflammation"
+    ],
+    "personalization": [
+     "Children and adolescents need follow-up every 6 months, with dynamic adjustment of prescription and monitoring of axial length",
+     "In older adults, presbyopia must be differentiated from pathologic vision loss to avoid misdiagnosis",
+     "Patients with high myopia need regular dilated fundus examinations to prevent retinal detachment"
+    ]
+   },
+   "disease": "Refractive error",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients often present with leukocoria (yellow-white reflex in the pupillary area), and some children develop strabismus or decreased vision. Infants may show excessive reliance on the fellow eye due to monocular blindness, or may have signs such as globe enlargement, redness, and swelling. Parents may notice abnormal flash reflex when taking photographs, which warrants high vigilance.",
+   "interview_guide": {
+    "first_questions": [
+     "Does your child have leukocoria?",
+     "Have you noticed strabismus or abnormal vision in your child?",
+     "Is there a family history of similar disease?"
+    ],
+    "followup_questions": [
+     "If leukocoria is present, is it unilateral or bilateral?",
+     "Is there eye pain or redness and swelling?",
+     "Is there a recent history of trauma or infection?"
+    ],
+    "stop_conditions": [
+     "Leukocoria and strabismus have been confirmed and other common causes excluded",
+     "Imaging studies show typical tumor features",
+     "The family provides a clear history of hereditary disease"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Ophthalmoscopy",
+     "Ocular B-scan ultrasonography",
+     "Orbital MRI"
+    ],
+    "if_suspected": [
+     "Whole-body CT scan (to evaluate metastasis)",
+     "Genetic testing (RB1 mutation analysis)",
+     "Lumbar puncture (to assess central nervous system involvement)"
+    ],
+    "avoid": [
+     "Routine fundus fluorescein angiography (may delay diagnosis)",
+     "Unnecessary whole-body PET-CT (high radiation risk and unnecessary)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes local chemotherapy (such as intra-arterial chemotherapy), systemic chemotherapy combined with laser photocoagulation or cryotherapy. For advanced cases, enucleation may be required. The treatment course is usually 3-6 months, and the specific regimen is adjusted according to tumor staging. At the same time, visual recovery and complications must be closely monitored."
+    ],
+    "safety_warnings": [
+     "Avoid drugs that may worsen elevated intraocular pressure",
+     "Bone marrow suppression must be strictly monitored during chemotherapy",
+     "Be aware of the risk of secondary malignant tumors after radiotherapy"
+    ],
+    "personalization": [
+     "For infants, eye-preserving treatment options are preferred",
+     "For bilateral disease, vision preservation and tumor control must be balanced",
+     "Hereditary cases require long-term follow-up and family screening"
+    ]
+   },
+   "disease": "retinoblastoma",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients are mostly very low birth weight premature infants, and early symptoms are often absent. Typical manifestations include nystagmus, strabismus, or poor visual response several weeks after birth. In advanced stages, retinal detachment can cause leukocoria (gray-white reflex in the pupillary area); without timely intervention, it may eventually progress to irreversible blindness. Parents often report that 'the baby's eyes do not follow objects' or notice that 'the dark part of the eye is white.'",
+   "interview_guide": {
+    "first_questions": [
+     "Was your baby born at term or prematurely? What were the exact gestational age and birth weight?",
+     "Did your baby receive oxygen therapy after birth? What were the approximate duration and concentration?",
+     "Does your baby currently have a vacant stare, involuntary eye movements, or white pupils?"
+    ],
+    "followup_questions": [
+     "If a history of oxygen therapy is mentioned, ask further: Was your baby ever admitted to the neonatal intensive care unit (NICU)?",
+     "If a white pupil is noted, ask further: Is this unilateral or bilateral? Has it worsened recently?",
+     "Ask whether there is a family history of hereditary eye disease, to exclude other congenital cataracts or retinal disease."
+    ],
+    "stop_conditions": [
+     "High-risk factor information has been confirmed: gestational age less than 32 weeks and birth weight less than 1500 g.",
+     "A history of oxygen therapy and current abnormal ocular signs (such as leukocoria or strabismus) have been confirmed.",
+     "Initial fundus screening has been completed and the diagnostic stage has been determined."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Indirect ophthalmoscopy fundus examination (after pupillary dilation)",
+     "Grading assessment for retinopathy of prematurity screening",
+     "Ocular B-scan ultrasonography (when retinal detachment is suspected)"
+    ],
+    "if_suspected": [
+     "Fundus fluorescein angiography (FFA)",
+     "Optical coherence tomography (OCT)",
+     "Systemic developmental assessment and blood gas analysis (to assess history of hypoxia)"
+    ],
+    "avoid": [
+     "Direct non-mydriatic fundus photography (may miss peripheral lesions)",
+     "Forcibly performing a bright-light stimulation examination in undilated infants",
+     "Blind use of miotics to mask the condition"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Treatment is determined according to the International Classification criteria (ICROP). For prethreshold or threshold disease, panretinal photocoagulation (laser photocoagulation) is preferred to close the nonperfused areas",
+     "Severe cases (such as Plus disease) require combined intravitreal injection of anti-VEGF agents (such as ranibizumab). For those who have developed retinal detachment, scleral buckling or vitrectomy is required. Treatment must be performed under anesthesia by a specialist, with regular postoperative follow-up until the retina is fully mature."
+    ],
+    "safety_warnings": [
+     "Anti-VEGF drugs may cause systemic blood pressure elevation or increase infection risk; vital signs must be monitored.",
+     "Laser treatment may cause temporary photophobia or corneal edema; preoperative protection should be ensured.",
+     "Follow-up must not be stopped prematurely while the retina is immature, to prevent recurrence."
+    ],
+    "personalization": [
+     "Very low birth weight infants require prolonged follow-up until retinal vessels have fully grown into the peripheral retina.",
+     "For infants with intracranial hemorrhage or severe lung disease, the risk of anesthesia for surgery is high, and multidisciplinary consultation is required for assessment.",
+     "Infants with bilateral disease require staged treatment or adjustment of the anesthesia plan to avoid excessive concurrent suppression of respiratory function."
+    ]
+   },
+   "disease": "Retinopathy of prematurity",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients complain of deep, boring eye pain that often radiates to the brow or face, worsens at night, and responds poorly to analgesics. Typical signs include localized or diffuse purple-red congestion of the globe, marked tenderness, and possibly decreased vision, photophobia, and tearing. If the cornea is involved, peripheral ulcers may be seen; severe cases can lead to scleral thinning or even perforation.",
+   "interview_guide": {
+    "first_questions": [
+     "Is the eye pain distending or stabbing? Does it radiate to the head?",
+     "Does the pain worsen at night, and are ordinary analgesics effective?",
+     "Is there any recent history of trauma or surgery, or systemic autoimmune disease (such as rheumatoid arthritis)?"
+    ],
+    "followup_questions": [
+     "If blurred vision occurs, ask further about visual distortion or visual field defects.",
+     "If nodules or color changes are noted on the ocular surface, ask further about their duration and whether they have ulcerated.",
+     "If joint pain or rash is present, ask further about the specific sites and frequency of attacks."
+    ],
+    "stop_conditions": [
+     "The pain has been confirmed as deep boring pain that worsens at night, and superficial symptoms of conjunctivitis have been excluded.",
+     "Scleral tenderness and characteristic purple-red congestion have been confirmed, and further inquiry about nonspecific symptoms is not needed.",
+     "The patient has provided a clear history of systemic immune disease or recent infection, sufficient to support the initial diagnostic direction."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Slit-lamp biomicroscopy (to assess the extent of congestion, scleral thickness, and presence of necrosis)",
+     "Fundoscopy (to evaluate uveitis and retinal disease)",
+     "Intraocular pressure measurement (to assess the risk of secondary glaucoma)"
+    ],
+    "if_suspected": [
+     "Ocular B-scan ultrasonography (when scleral thinning or posterior scleritis is suspected)",
+     "Autoantibody panel testing (ANA, ANCA, RF, etc. to evaluate systemic causes)",
+     "Chest CT (to evaluate granulomatosis with polyangiitis or tuberculosis)"
+    ],
+    "avoid": [
+     "Fluorescein staining alone (mainly used for corneal epithelial defects and of limited value for confirming scleritis)",
+     "Unnecessary antibiotic eye drops (unless there is clear evidence of bacterial infection)",
+     "Routine fundus photography (not a first-choice mandatory test if there is no vision loss or sign of fundus involvement)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is oral nonsteroidal anti-inflammatory drugs (NSAIDs), such as ibuprofen 400 mg three times daily or naproxen 500 mg twice daily, for at least 2-4 weeks. For moderate-to-severe or necrotizing scleritis, glucocorticoid therapy must be initiated immediately, such as oral prednisone 1 mg/kg/day, with gradual tapering",
+     "Severe cases require intravenous methylprednisolone pulse therapy. At the same time, immunosuppressants (such as azathioprine, cyclophosphamide) must be combined to reduce steroid dependence."
+    ],
+    "safety_warnings": [
+     "Long-term NSAID use requires monitoring for the risk of gastrointestinal bleeding and renal impairment.",
+     "High-dose steroid therapy requires vigilance for hyperglycemia, hypertension, and secondary infection; abrupt discontinuation is strictly prohibited.",
+     "Before using immunosuppressants, screen for hepatitis B and tuberculosis; during treatment, regularly monitor complete blood count and liver function."
+    ],
+    "personalization": [
+     "Use NSAIDs with caution in older adults; preferentially select selective COX-2 inhibitors and add gastric mucosal protective agents.",
+     "In patients with diabetes, blood glucose must be closely monitored during steroid use, and the glucose-lowering regimen adjusted if necessary.",
+     "Women of childbearing age should avoid teratogenic drugs such as methotrexate and must use strict contraception."
+    ]
+   },
+   "disease": "Scleritis",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients often report that the eyes are not aligned when viewing with both eyes, with diplopia (seeing double) that resolves when either eye is covered. Some children present with head tilt, closing one eye to see, or parents notice asymmetric pupillary light reflexes. Acute-onset strabismus in adults is often accompanied by dizziness and nausea, whereas children may have manifestations of amblyopia such as holding objects close to the eyes.",
+   "interview_guide": {
+    "first_questions": [
+     "When did you first notice that your eyes are misaligned or that you have double vision? Did it start suddenly or worsen gradually?",
+     "Under what circumstances are the symptoms most obvious? For example, when you are tired, when looking at distant objects, or when looking at near objects?",
+     "Do you have a habit of tilting your head or turning your face to compensate for the vision problem?"
+    ],
+    "followup_questions": [
+     "If you have diplopia, does the double vision disappear immediately when either eye is covered?",
+     "Have you had recent head trauma, diabetes, hypertension, or thyroid disease?",
+     "Is there a family history of similar strabismus or amblyopia?"
+    ],
+    "stop_conditions": [
+     "The onset time, triggers, and accompanying symptoms (such as diplopia and headache) have been clarified.",
+     "It has been confirmed whether there is a compensatory head posture and any prior systemic underlying diseases.",
+     "The patient's age and stage of visual development have been understood (in children, attention should be paid to the risk of amblyopia)."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Visual acuity examination (including best-corrected visual acuity)",
+     "Hirschberg corneal light reflex test and cover-uncover test",
+     "Ocular motility examination and 12-direction gaze testing",
+     "Refractive status examination (cycloplegic refraction)"
+    ],
+    "if_suspected": [
+     "Synoptophore examination (to assess binocular visual function)",
+     "Fundus examination (to rule out retinal disease)",
+     "Orbital CT or MRI (if space-occupying or paralytic strabismus is suspected)",
+     "Thyroid function tests (if thyroid eye disease is suspected)"
+    ],
+    "avoid": [
+     "Systemic tumor screening without indication",
+     "Unnecessary invasive cerebrospinal fluid puncture",
+     "Cycloplegic refraction without prior pupillary dilation"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Individualized treatment should be adopted according to the etiology: full correction with glasses is the first choice for refractive errors",
+     "Accommodative esotropia requires full-time wear of hyperopic glasses",
+     "Intermittent exotropia may be managed with prisms or vision therapy. For non-accommodative strabismus, if it affects appearance or binocular visual function, strabismus surgery should be performed on the basis of amblyopia treatment. Children should be intervened as early as possible to prevent amblyopia, while in adults the main goal is to restore binocular single vision. The course of treatment depends on the condition; usually, postoperative visual function training for 3-6 months is required."
+    ],
+    "safety_warnings": [
+     "Avoid overcorrection, which may lead to iatrogenic strabismus or worsening of diplopia",
+     "Before surgery, intracranial space-occupying lesions or neurological disease must be ruled out",
+     "After surgery, attention should be paid to preventing infection and controlling intraocular pressure fluctuations"
+    ],
+    "personalization": [
+     "In pediatric patients, amblyopia should be treated first, and then surgical timing should be considered",
+     "For older adults with concurrent cataract, combined phacoemulsification cataract surgery is recommended",
+     "Patients with thyroid eye disease should undergo surgery only after the disease has stabilized (inactive phase for more than 6 months)"
+    ]
+   },
+   "disease": "Strabismus",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients often report bilateral foreign body sensation, burning, photophobia, and tearing, with increased eyelid discharge in the morning that makes it difficult to open the eyes. On examination, hyperemia of the upper tarsal conjunctiva and papillary hyperplasia with a sandpaper-like rough appearance may be seen; pannus may invade the superior cornea, and in severe cases trichiasis may rub against the cornea or entropion may occur. Symptoms are mostly chronic and recurrent, with a protracted course.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you feel as if there is sand in your eyes, causing a gritty, painful sensation?",
+     "When you wake up in the morning, are your eyelids stuck together by discharge?"
+    ],
+    "followup_questions": [
+     "How long has this discomfort lasted, and is it in one eye or both eyes?",
+     "Have you had decreased vision or worsening photophobia and tearing?"
+    ],
+    "stop_conditions": [
+     "Typical foreign body sensation, discharge, and course characteristics have been clearly described",
+     "It has been confirmed that there are no signs of acute purulent infection (such as abundant yellow-green pus)",
+     "Previous treatment history and exposure history have been obtained"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Slit-lamp microscopy examination",
+     "Upper tarsal conjunctival examination with eyelid eversion",
+     "Corneal fluorescein staining examination"
+    ],
+    "if_suspected": [
+     "Conjunctival scraping cytology (to look for inclusion bodies)",
+     "Chlamydia nucleic acid testing (PCR)"
+    ],
+    "avoid": [
+     "Routine bacterial culture (nonbacterial infection)",
+     "Unnecessary systemic antibiotic screening"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Topical 0.1% rifampicin eye drops or 0.5% erythromycin eye ointment are the first choice, 4-6 times daily, for at least 4-6 weeks until symptoms disappear and signs resolve. For extensive disease or concurrent infection, oral azithromycin may be used (single high dose or divided doses). At the same time, eye hygiene education should be provided: avoid rubbing the eyes and regularly wash towels and washbasins."
+    ],
+    "safety_warnings": [
+     "Erythromycin and azithromycin are contraindicated in patients allergic to macrolides",
+     "Avoid long-term use of corticosteroid-containing eye drops to prevent worsening of infection",
+     "Be aware of possible local irritation or allergic reactions caused by the drugs"
+    ],
+    "personalization": [
+     "For pediatric patients, erythromycin eye ointment with a high safety profile is preferred",
+     "Oral azithromycin should be used with caution in pregnant women; topical medication is recommended as the main treatment",
+     "For severe or recurrent cases, the course of treatment should be extended and systemic treatment should be combined"
+    ]
+   },
+   "disease": "Trachoma",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients often have a clear history of ocular trauma, followed by progressive decrease in visual acuity, blurred vision, or monocular diplopia. Some patients may report floaters or photophobia. Slit-lamp examination may show lens opacity, which may be punctate, patchy, or completely white, often accompanied by signs such as lens capsule rupture or iridodialysis.",
+   "interview_guide": {
+    "first_questions": [
+     "What was the exact time and cause of the injury?",
+     "Did vision decrease immediately after the injury, or did it worsen gradually?",
+     "Do you have eye pain, photophobia, or diplopia?"
+    ],
+    "followup_questions": [
+     "If vision decreased suddenly, was it accompanied by an increase in floaters or flashes of light?",
+     "Did you receive any initial treatment or medication after the injury?",
+     "Do you have any other prior ocular diseases or systemic diseases?"
+    ],
+    "stop_conditions": [
+     "The history of trauma has been clarified, and the decrease in visual acuity is consistent with the degree of lens opacity",
+     "Concurrent globe rupture or intraocular foreign body has been ruled out",
+     "The patient can cooperate with basic visual acuity and slit-lamp examinations"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Best-corrected visual acuity examination",
+     "Slit-lamp microscopy examination",
+     "Fundoscopy (if the refractive media permit)"
+    ],
+    "if_suspected": [
+     "Ocular B-scan ultrasonography (to evaluate the vitreous and retina)",
+     "Orbital CT (to rule out orbital fracture or intraocular foreign body)",
+     "Intraocular pressure measurement (to rule out secondary glaucoma)"
+    ],
+    "avoid": [
+     "Direct pressure on the globe for detailed palpation",
+     "Pupillary dilation for examination before endophthalmitis has been excluded",
+     "Unnecessary systemic imaging examinations"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "The main treatment is surgical removal of the opaque lens and implantation of an intraocular lens. For uncomplicated simple traumatic cataract, phacoemulsification combined with posterior chamber intraocular lens implantation is usually performed after post-traumatic inflammation subsides and corneal edema resolves. Intraocular pressure and inflammation should be controlled before surgery, and antibiotic and glucocorticoid eye drops are routinely used after surgery to prevent infection and suppress inflammation."
+    ],
+    "safety_warnings": [
+     "Surgery must not be forced during the acute phase to avoid inducing sympathetic ophthalmia",
+     "Care should be taken to avoid intraoperative damage to the zonules that could cause the lens nucleus to dislocate into the vitreous cavity",
+     "Be alert for postoperative elevated intraocular pressure and cystoid macular edema"
+    ],
+    "personalization": [
+     "For pediatric patients, amblyopia training and the possibility of secondary surgery should be considered",
+     "For patients with concurrent glaucoma, anti-glaucoma surgery should be performed at the same time",
+     "Complex reconstructive surgery is not appropriate for patients with phthisis bulbi caused by severe ocular trauma"
+    ]
+   },
+   "disease": "Traumatic cataract",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients report blurred vision, visual field defects, or sudden decrease in visual acuity, possibly accompanied by floaters, flashes of light, or metamorphopsia. Symptoms may be monocular or binocular; acute onset often suggests retinal detachment or vascular occlusion, while chronic progression is often associated with cataract, glaucoma, or macular degeneration. It is necessary to distinguish refractive error from organic disease and to pay attention to whether it is accompanied by eye pain, headache, nausea, or vomiting.",
+   "interview_guide": {
+    "first_questions": [
+     "Did the vision decrease occur suddenly or worsen gradually? How long has it lasted?",
+     "Are the symptoms in one eye or both eyes simultaneously? Is there any visual field defect or diplopia?",
+     "Is it accompanied by eye pain, photophobia, tearing, or floaters/flashes of light?"
+    ],
+    "followup_questions": [
+     "If accompanied by eye pain and headache, is there nausea or vomiting (be alert for acute glaucoma)?",
+     "If there is a history of trauma or diabetes and hypertension, how well have blood glucose and blood pressure been controlled recently?",
+     "Do you have a prior history of eye surgery or a family history of hereditary eye disease?"
+    ],
+    "stop_conditions": [
+     "The nature of the vision decrease (such as refractive error, cataract, etc.) has been clarified, and there are no indications of an emergency.",
+     "Key history (onset time, accompanying symptoms, underlying diseases) has been obtained and is sufficient to guide initial examination.",
+     "If the patient cannot provide valid information but the signs clearly point to a specific emergency (such as a fixed dilated pupil), immediate referral is required."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Best-corrected visual acuity measurement",
+     "Slit-lamp microscopy examination",
+     "Fundoscopy (direct/indirect)",
+     "Intraocular pressure measurement"
+    ],
+    "if_suspected": [
+     "Optical coherence tomography (OCT): if macular disease or retinal edema is suspected",
+     "Perimetry: if glaucoma or optic neuropathy is suspected",
+     "Ocular B-scan ultrasonography: when the refractive media are opaque and the fundus cannot be visualized",
+     "Fundus fluorescein angiography (FFA): if retinal vascular occlusion or leakage is suspected"
+    ],
+    "avoid": [
+     "Blind pupillary dilation examination (use with caution before angle-closure glaucoma has been ruled out)",
+     "Systemic CT/MRI without indication (unless intracranial space-occupying lesion compressing the visual pathway is suspected)",
+     "Unnecessary empirical use of antibiotic or corticosteroid eye drops"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Treat according to the etiology: prescribe glasses for refractive error",
+     "Phacoemulsification for cataract",
+     "For glaucoma, use intraocular pressure-lowering drugs (such as timolol eye drops 0.5% twice daily) or laser therapy",
+     "Retinal vein occlusion requires intravitreal anti-VEGF injection. Nonpharmacologic interventions include controlling blood glucose and blood pressure, smoking cessation, and regular follow-up. Acute cases require emergency management to prevent permanent blindness."
+    ],
+    "safety_warnings": [
+     "Mydriatic agents are contraindicated in patients with angle-closure glaucoma to avoid inducing an acute attack",
+     "Long-term use of glucocorticoid eye drops can cause elevated intraocular pressure or fungal infection",
+     "After anti-VEGF drug injection, close monitoring is required for the risk of endophthalmitis and retinal tears"
+    ],
+    "personalization": [
+     "Use beta-blockers with caution in older adults to prevent bradycardia or asthma exacerbation",
+     "Avoid preservative-containing eye drops in patients with diabetes; single-dose preparations are preferred",
+     "Some anti-glaucoma drugs and anti-VEGF drugs are contraindicated in pregnant and breastfeeding women; the benefits and risks must be weighed"
+    ]
+   },
+   "disease": "visual impairment",
+   "department": "Ophthalmology"
+  },
+  {
+   "presentation": "Patients often complain of sudden painless vision loss, with floating dark shadows, a smoky sensation, or a red haze obscuring the visual field. Symptom severity varies; mild cases see only a few floaters, while severe cases have vision dropping sharply to light perception or even no light perception. Some patients have photopsia; if caused by a retinal tear, it may be accompanied by a visual field defect. Symptoms usually occur monocularly and worsen with eye movement.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you suddenly noticed dark shadows, red haze, or a marked decrease in vision?",
+     "Are these symptoms in one eye or both eyes at the same time? How long have they lasted?"
+    ],
+    "followup_questions": [
+     "Have you had any recent eye trauma, diabetes, or hypertension?",
+     "Are you also experiencing flashes of light, a fixed visual field defect, or severe eye pain?"
+    ],
+    "stop_conditions": [
+     "The onset time, triggers, and underlying diseases (such as diabetes) have been clearly asked about and documented.",
+     "It has been confirmed that the symptoms are sudden and monocular and that emergency features such as severe traumatic pain have been excluded.",
+     "The patient has described typical visual disturbance manifestations (such as floaters and red haze), and no further questioning about nonspecific symptoms is needed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Slit-lamp examination",
+     "Fundoscopy (indirect ophthalmoscopy)",
+     "Ocular B-scan ultrasonography"
+    ],
+    "if_suspected": [
+     "Fundus fluorescein angiography (FFA)",
+     "Optical coherence tomography (OCT)",
+     "Systemic blood glucose and glycated hemoglobin testing"
+    ],
+    "avoid": [
+     "Direct fundus indentation examination before pupillary dilation (caution is needed if there is a high risk of retinal tear)",
+     "Unnecessary systemic CT scanning (unless there is a clear history of trauma requiring fracture assessment)",
+     "A full coagulation panel before routine anticoagulant use (if there is no clear medication indication)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment depends on the cause. For a small amount of hemorrhage caused by nonproliferative diabetic retinopathy, observation and follow-up are preferred, with control of blood glucose and blood pressure, and hemostatic drugs (such as oral tranexamic acid) may be used as an adjunct. If the hemorrhage is large and not absorbed or is complicated by retinal detachment, vitrectomy is needed to clear the accumulated blood. Laser photocoagulation is used to seal ischemic areas or tears. Avoid strenuous exercise, and adopt semi-recumbent rest to promote settling of blood."
+    ],
+    "safety_warnings": [
+     "Strenuous activity is strictly prohibited before a suspected retinal tear has been managed, to prevent enlargement of detachment.",
+     "When using hemostatic drugs, be alert to the risk of thrombosis, especially in elderly patients or those with a history of cardiovascular disease.",
+     "Surgical procedures must be strictly aseptic to prevent endophthalmitis and secondary glaucoma."
+    ],
+    "personalization": [
+     "For patients with diabetes, intensify glycemic control and adjust the glucose-lowering regimen to prevent disease fluctuation.",
+     "For elderly patients, assess cardiopulmonary function to determine whether they can tolerate vitreous surgery under general anesthesia.",
+     "Use anticoagulants and certain hemostatic drugs with caution in pregnant women; prioritize physical interventions and close monitoring."
+    ]
+   },
+   "disease": "Vitreous hemorrhage",
+   "department": "Ophthalmology"
+  }
+ ]
+}

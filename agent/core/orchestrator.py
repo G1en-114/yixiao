@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Orchestrator：调度八个角色实例，处理状态合并、交接与失败重试。"""
+"""Orchestrator: schedules the eight role instances; handles state merges, handoffs and failure retries."""
 import threading
 
 
@@ -30,9 +30,9 @@ class Orchestrator:
             return dict(self.stats.get(case_id, {'model_calls': 0, 'prompt_tokens': 0, 'completion_tokens': 0}))
 
     def handoff(self, msg, result, state, evidence=None):
-        """记录一次结构化交接（追加式，不覆盖历史）。"""
+        """Record one structured handoff (append-only, history is never overwritten)."""
         self.bus.emit(msg.case_id, msg.from_agent, 'handoff',
-                      f'{msg.from_agent} -> {msg.to_agent}：{msg.task}',
+                      f'{msg.from_agent} -> {msg.to_agent}: {msg.task}',
                       {'handoff': {
                           'from_agent': msg.from_agent, 'to_agent': msg.to_agent,
                           'task': msg.task, 'state_summary': result.status,
@@ -41,12 +41,12 @@ class Orchestrator:
 
     def run(self, case_id, role_name, state, **kwargs):
         role = self.roles[role_name]
-        self.bus.emit(case_id, role_name, 'agent_start', f'{role_name} 开始执行', {})
+        self.bus.emit(case_id, role_name, 'agent_start', f'{role_name} started', {})
         try:
             result = role.run(case_id, state, **kwargs)
-        except Exception as exc:         # 失败重试一次；再失败如实上报
-            self.bus.emit(case_id, role_name, 'agent_retry', f'{role_name} 执行失败，重试一次: {exc}', {})
+        except Exception as exc:         # retry once on failure; a second failure is reported as-is
+            self.bus.emit(case_id, role_name, 'agent_retry', f'{role_name} failed, retrying once: {exc}', {})
             result = role.run(case_id, state, **kwargs)
         self.bus.emit(case_id, role_name, 'agent_done',
-                      f'{role_name} 完成（{result.status}）', {'result': result.to_dict()})
+                      f'{role_name} done ({result.status})', {'result': result.to_dict()})
         return result

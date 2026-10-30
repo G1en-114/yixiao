@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
-"""知识资产：19 科室 / 584 疾病 Skill / 584 标准疾病 / 837 检查目录。"""
+"""Knowledge assets: 19 departments / 584 disease Skills / 584 standard diseases / 837 exams."""
 
 
 def test_19_departments(kb):
     assert len(kb.departments) == 19
-    assert '心内科' in kb.departments and '呼吸内科' in kb.departments
+    assert 'Cardiology' in kb.departments and 'Respiratory Medicine' in kb.departments
 
 
 def test_584_skills(kb):
@@ -18,19 +18,19 @@ def test_584_standard_diseases(kb):
 
 def test_837_exams(kb):
     assert len(kb.exams_by_name) == 837
-    assert kb.is_valid_exam('心电图（ECG）')
-    assert not kb.is_valid_exam('不存在的检查')
+    assert kb.is_valid_exam('Electrocardiography (ECG)')
+    assert not kb.is_valid_exam('Nonexistent exam')
 
 
 def test_cad_skill_supports_demo_path(kb):
-    """胸痛演示路径的知识完整性：CAD Skill 存在、含必要检查与治疗。"""
-    s = kb.find_skill('冠状动脉粥样硬化性心脏病（冠状动脉疾病，CAD）')
-    assert s and s['department'] == '心内科'
+    """Knowledge integrity for the chest-pain demo path: the CAD Skill exists with essential exams and treatment."""
+    s = kb.find_skill('Coronary atherosclerotic heart disease (coronary artery disease, CAD)')
+    assert s and s['department'] == 'Cardiology'
     assert s['exam_strategy']['essential']
     assert s['treatment']['first_line']
 
 
 def test_retrieve_chest_pain_hits_cardio(kb):
-    skills = kb.retrieve('胸口压榨样疼痛伴呼吸困难，高血压史', ['心内科', '呼吸内科'])
+    skills = kb.retrieve('Crushing chest pain with shortness of breath, history of hypertension', ['Cardiology', 'Respiratory Medicine'])
     assert skills
-    assert any('心' in s['department'] for s in skills)
+    assert any(s['department'] == 'Cardiology' for s in skills)

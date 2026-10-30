@@ -1,0 +1,1582 @@
+{
+ "department": "Endocrinology",
+ "skills": [
+  {
+   "presentation": "Polydipsia, polyphagia, polyuria and weight loss (the \"three polys and one loss\"), fatigue, blurred vision, pruritus, recurrent vulvovaginal infections, or wounds that do not heal for a long time; a considerable number of patients have no symptoms at all in the early stage and hyperglycemia is detected only on health examination, with fasting plasma glucose >=7.0mmol/L or random/2-h OGTT glucose >=11.1mmol/L, and HbA1c >=6.5%.",
+   "interview_guide": {
+    "first_questions": [
+     "What are your usual fasting and 2-hour postprandial blood glucose readings? Have you ever had your HbA1c checked?",
+     "Do you have a dry mouth and drink a lot of water, urinate frequently (especially nocturia), and lose weight despite eating a lot?",
+     "How long ago were you diagnosed with diabetes? What glucose-lowering drugs are you currently taking, or are you on insulin?"
+    ],
+    "followup_questions": [
+     "Do you have numbness, a pins-and-needles sensation, a feeling of walking on cotton, or coldness and pain in your hands and feet? (to screen for diabetic peripheral neuropathy)",
+     "Do you have blurred vision, floaters, frothy urine, or swelling of both lower limbs? (to screen for retinal and renal disease)",
+     "Have you ever had hypoglycemic reactions such as palpitations, tremor, cold sweats, or dizziness?"
+    ],
+    "stop_conditions": [
+     "Glycemic control level (FPG, 2hPG, HbA1c) and disease duration have been clearly established",
+     "Screening for clues to microvascular (eye, kidney, nerve) and macrovascular complications has been completed",
+     "History of glucose-lowering medication, lifestyle, and history of hypoglycemia are clearly understood"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Fasting plasma glucose (FPG) and 2-hour postprandial plasma glucose (2hPG)",
+     "Glycated hemoglobin (HbA1c)",
+     "Urinalysis and urine albumin-to-creatinine ratio (UACR)",
+     "Blood chemistry (liver and kidney function, four-item lipid panel, serum uric acid)",
+     "Fundus examination (dilated ophthalmoscopy/fundus photography)"
+    ],
+    "if_suspected": [
+     "Oral glucose tolerance test (OGTT) plus insulin/C-peptide release test (to assess pancreatic β-cell function)",
+     "Color Doppler ultrasound of the lower-limb vessels and electromyography/nerve conduction velocity (NCV) (if peripheral vascular and nerve disease is suspected)",
+     "Electrocardiography and echocardiography (to assess macrovascular involvement)"
+    ],
+    "avoid": [
+     "Overuse of contrast-enhanced whole-abdomen CT when the diagnosis is clear and there is no indication of ketoacidosis",
+     "Overuse of whole-exome sequencing of rare genes when there are no typical manifestations of islet autoimmunity"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Lifestyle intervention (dietary control of total calories, regular aerobic exercise and resistance exercise)",
+     "Metformin is the first-line drug of choice (it should be continued throughout treatment unless contraindicated)",
+     "For combination therapy, an SGLT2 inhibitor (dapagliflozin/empagliflozin), a GLP-1 receptor agonist (dulaglutide/semaglutide), a DPP-4 inhibitor (sitagliptin), or a sulfonylurea secretagogue/basal insulin may be used; the HbA1c target for the general population is <7.0%."
+    ],
+    "safety_warnings": [
+     "Metformin is contraindicated in severe renal impairment (eGFR<30ml/min), severe hypoxia, or decompensated heart failure (risk of lactic acidosis)",
+     "Sulfonylureas and exogenous insulin carry a relatively high risk of hypoglycemia; patients should be instructed to carry sugar with them to prevent severe hypoglycemic coma",
+     "During SGLT2 inhibitor therapy, patients should drink adequate water and be alert for genitourinary fungal infections and the rare occurrence of euglycemic ketoacidosis"
+    ],
+    "personalization": [
+     "Concomitant atherosclerotic cardiovascular disease (ASCVD) or high-risk factors: prefer a GLP-1RA or SGLT2i",
+     "Concomitant chronic kidney disease (CKD) or heart failure (HF): prefer an SGLT2 inhibitor (with proven cardiorenal endpoint benefits)",
+     "Frail elderly patients or those prone to hypoglycemia: the glycemic target may be relaxed appropriately (HbA1c < 7.5%-8.0%), and drugs without hypoglycemia risk are preferred"
+    ]
+   },
+   "disease": "Type 2 diabetes mellitus (T2DM)",
+   "department": "Endocrinology"
+  },
+  {
+   "presentation": "Heat intolerance and excessive sweating, polyphagia with easy hunger, weight loss and wasting, palpitations, hand tremor, irritability, increased bowel movements, and decreased menstruation; on examination, diffuse symmetrical goiter with a vascular bruit, bilateral exophthalmos (Graves eye signs), and fine tremor of both hands may be seen.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had marked heat intolerance, excessive sweating, palpitations, hand tremor, or irritability?",
+     "Has your appetite increased? Have you lost weight despite eating more?",
+     "Has the front of your neck become enlarged or thickened? Do your eyes bulge forward, feel dry and painful, or do you see double?"
+    ],
+    "followup_questions": [
+     "Has the number of your bowel movements increased markedly? For female patients, has menstrual flow decreased or have periods stopped?",
+     "Have you had sudden weakness of the lower limbs or been unable to stand up? (to screen for thyrotoxic hypokalemic periodic paralysis)",
+     "Are you currently taking methimazole or propylthiouracil? Do you have your complete blood count and liver function checked regularly?"
+    ],
+    "stop_conditions": [
+     "The hypermetabolic syndrome, goiter, and exophthalmos signs have been fully elicited",
+     "Prodromes of thyroid storm and the critical condition of hypokalemic paralysis have been ruled out",
+     "History of antithyroid medication and monitoring for adverse drug reactions are clearly understood"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Full thyroid function panel (TSH decreased, FT3 and FT4 markedly elevated)",
+     "Thyroid autoantibodies (TRAb positivity is the key indicator for diagnosing Graves disease; TPOAb, TgAb)",
+     "Color Doppler thyroid ultrasound (diffuse thyroid enlargement with extremely rich blood flow showing the \"thyroid inferno\" pattern)",
+     "Complete blood count, liver function, electrocardiography"
+    ],
+    "if_suspected": [
+     "Thyroid 131I uptake measurement (to differentiate from destructive thyrotoxicosis such as subacute thyroiditis; in Graves disease uptake is increased with an early peak)",
+     "Orbital CT/MRI (assessment of severe infiltrative exophthalmos and retrobulbar edema)"
+    ],
+    "avoid": [
+     "Radioactive thyroid nuclide imaging/uptake studies during pregnancy and lactation (absolute contraindication)",
+     "Overuse of fine-needle aspiration when there is no local compression or suspicion of malignancy"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Antithyroid drugs (ATD): methimazole (MMI) is preferred (10-30mg/d), or propylthiouracil (PTU) (mainly for the first trimester of pregnancy and thyroid storm); total course 1.5-2 years",
+     "Symptomatic treatment: add a β-blocker (propranolol or metoprolol) to rapidly control palpitations and hand tremor",
+     "Alternative options include 131I radioiodine therapy or subtotal thyroidectomy."
+    ],
+    "safety_warnings": [
+     "Complete blood count must be closely monitored during ATD therapy! If fever or sore throat occurs, a complete blood count must be checked immediately, and be alert for fatal agranulocytosis (absolute neutrophil count <0.5x10^9/L requires immediate drug withdrawal and emergency rescue)",
+     "PTU may cause severe fulminant hepatic injury, and MMI may cause cholestatic liver damage; liver function must be closely monitored before and during treatment",
+     "After 131I therapy, long-term follow-up of thyroid function is required, with lifelong vigilance for the development of hypothyroidism"
+    ],
+    "personalization": [
+     "First trimester of pregnancy (T1): PTU is the preferred antithyroid drug (MMI has a higher teratogenic risk); switching to MMI may be considered in the second and third trimesters",
+     "Severe active Graves orbitopathy (GO): 131I therapy alone is contraindicated (it may worsen eye disease); high-dose intravenous glucocorticoid pulse therapy is preferred",
+     "Patients with drug allergy or relapse after ATD therapy: 131I radioiodine therapy or surgery is preferentially recommended"
+    ]
+   },
+   "disease": "Graves disease",
+   "department": "Endocrinology"
+  },
+  {
+   "presentation": "Cold intolerance, fatigue, somnolence, impaired memory, slowed thinking, constipation, weight gain, facial and eyelid edema, nonpitting myxedema, dry and scaling skin, hoarseness, sparse hair loss, joint aching, and in women menorrhagia or infertility.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you often feel unusually cold, fatigued and sleepy, low on energy all day, or forgetful?",
+     "Has your weight increased markedly even though your appetite is not large or has even decreased?",
+     "Do your face or eyelids feel puffy and swollen? Is passing stool difficult, with a bowel movement only every few days?"
+    ],
+    "followup_questions": [
+     "Have you ever had thyroid surgery or iodine-131 treatment, or do you have Hashimoto thyroiditis?",
+     "For female patients, how are your menstrual cycle and flow? Do you have a hoarse voice or tightness and edema of the lower limbs?",
+     "Are you currently taking levothyroxine sodium tablets (Euthyrox) regularly? What is your dosing time and dose?"
+    ],
+    "stop_conditions": [
+     "The hypometabolic syndrome and myxedema features have been fully elicited",
+     "The cause of hypothyroidism has been identified (Hashimoto disease, iatrogenic after surgery/radioiodine, etc.)",
+     "Replacement therapy dose and adherence to hormone follow-up testing are clearly understood"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum thyroid function (primary hypothyroidism: TSH markedly elevated, FT4 and FT3 decreased",
+     "subclinical hypothyroidism: TSH elevated, FT4 normal)",
+     "Thyroid autoantibodies (TPOAb, TgAb, to screen for Hashimoto thyroiditis)",
+     "Four-item lipid panel (hypercholesterolemia is often present)",
+     "Complete blood count (mild to moderate anemia is often present)"
+    ],
+    "if_suspected": [
+     "Color thyroid ultrasound (assessment of thyroid volume and diffusely decreased parenchymal echogenicity)",
+     "Pituitary MRI (for suspected central/secondary hypothyroidism with non-elevated TSH)",
+     "Electrocardiography and echocardiography (to screen for pericardial effusion and myocardial interstitial myxedema)"
+    ],
+    "avoid": [
+     "Overuse of full head CT when the diagnosis of hypothyroidism is clear and there is no pituitary lesion",
+     "Blind, liberal prescribing of diuretics to treat nonpitting myxedema"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Lifelong physiologic-dose replacement therapy with levothyroxine sodium tablets (L-T4, Euthyrox)",
+     "A single daily dose taken on an empty stomach in the early morning (30-60 minutes before breakfast) with warm water",
+     "Start with a low dose and titrate every 4-6 weeks according to serum TSH and FT4 levels until TSH is stable within the target reference range, then recheck every 6 months to 1 year."
+    ],
+    "safety_warnings": [
+     "Levothyroxine must be taken alone on an empty stomach, avoiding concomitant use with calcium tablets, iron supplements, soy milk, or aluminum-containing antacids (separate by at least 4 hours to prevent impaired absorption)",
+     "Concomitant severe coronary heart disease with angina or elderly patients: must start with a very small dose (12.5-25ug/d) and increase slowly, to prevent too-rapid increases in myocardial oxygen consumption that could precipitate angina or malignant arrhythmias",
+     "Do not stop the drug or make drastic dose changes on your own; overdose can readily cause drug-induced subclinical hyperthyroidism and even osteoporosis and atrial fibrillation"
+    ],
+    "personalization": [
+     "Hypothyroidism in pregnancy: TSH must be controlled more strictly (TSH<2.5mU/L in the first trimester, or at the lower limit of the pregnancy-specific range); once diagnosed, full-dose supplementation must be given immediately to support fetal brain and neurological development",
+     "Elderly patients without a history of heart disease: start at 25-50ug/d and titrate steadily",
+     "Hashimoto hypothyroidism with dyslipidemia: recheck lipids after thyroid function has been normalized by replacement; in most cases the lipid abnormalities improve on their own as thyroid function recovers"
+    ]
+   },
+   "disease": "Hypothyroidism",
+   "department": "Endocrinology"
+  },
+  {
+   "presentation": "Patients often complain of sudden or progressive weakness of the limbs, most pronounced in the lower limbs; in severe cases, flaccid paralysis and dyspnea may occur. Some patients have palpitations, chest tightness, abdominal distension, constipation, or symptoms of ileus. If caused by hyperaldosteronism, hypertension may be present; if caused by renal tubular acidosis, polyuria and nocturia may occur. The severity of symptoms depends on the rate and extent of the fall in serum potassium.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently felt weak in your limbs, especially in your legs?",
+     "Have you had nausea, vomiting, diarrhea, or heavy sweating?",
+     "Do you usually take diuretics, laxatives, or corticosteroid-type medications?"
+    ],
+    "followup_questions": [
+     "Did the weakness come on suddenly or worsen gradually? Does it affect your ability to stand or to breathe?",
+     "How has your dietary intake been recently? Have you been on a long-term restrictive diet or had a very selective diet?",
+     "Have you had palpitations, an irregular heartbeat, or abdominal bloating with no bowel movements?"
+    ],
+    "stop_conditions": [
+     "A recent history of severe vomiting, diarrhea, or heavy use of potassium-wasting diuretics has been clearly established.",
+     "The patient has already developed typical muscle weakness and arrhythmia symptoms and has a history of similar episodes.",
+     "The initial interview has covered medication history, dietary history, and the main symptom features, and is sufficient to guide emergency testing."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum electrolyte measurement (with focus on potassium concentration)",
+     "Electrocardiography (to assess changes such as flattened T waves and U waves)",
+     "Renal function tests (blood urea nitrogen, creatinine)"
+    ],
+    "if_suspected": [
+     "24-hour urinary potassium measurement (to differentiate renal from nonrenal potassium loss)",
+     "Plasma renin activity and aldosterone level measurement (to screen for primary aldosteronism)",
+     "Arterial blood gas analysis (to screen for renal tubular acidosis)"
+    ],
+    "avoid": [
+     "Whole-body CT scanning without indication",
+     "Unnecessary full thyroid function panel (unless thyrotoxic periodic paralysis is suspected)",
+     "Repeating routine complete blood counts with no clinical significance"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For mild to moderate potassium depletion, oral potassium supplementation is preferred, commonly sustained-release potassium chloride tablets, 3-6g daily in divided doses after meals, with the course depending on recovery of serum potassium. For severe depletion or when oral intake is not possible, intravenous potassium supplementation is required, with a concentration not exceeding 0.3% and an infusion rate that should not be too fast; direct intravenous bolus injection is strictly prohibited. At the same time, actively treat the underlying disease, such as discontinuing potassium-wasting diuretics or correcting acid-base imbalance."
+    ],
+    "safety_warnings": [
+     "Direct intravenous bolus injection of potassium chloride is strictly prohibited to prevent cardiac arrest.",
+     "Potassium supplementation should be used with caution or is contraindicated in patients with renal impairment, with close monitoring of urine output and serum potassium.",
+     "Be mindful of drug interactions; avoid combining with potassium-sparing diuretics (such as spironolactone) because of the risk of hyperkalemia."
+    ],
+    "personalization": [
+     "In elderly patients and those with cardiac insufficiency, the total volume and rate of fluid replacement should be controlled to prevent heart failure.",
+     "In patients with diabetes, note the sugar load of potassium supplements and prefer sugar-free formulations.",
+     "Potassium supplementation in pregnant women should be carried out under joint supervision by obstetrics and endocrinology to ensure fetal safety."
+    ]
+   },
+   "disease": "Hypokalemia",
+   "department": "Endocrinology"
+  },
+  {
+   "presentation": "Patients often present with difficult-to-control hypertension accompanied by hypokalemia, or with central obesity, moon facies, buffalo hump, and purple striae. Some patients report unexplained fatigue, rapid weight loss, deepened skin hyperpigmentation (e.g., darkened palmar creases), or recurrent episodes of palpitations, diaphoresis, and headache. Symptoms are insidious and varied, requiring integrated recognition based on metabolic abnormalities and physical signs.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have a history of long-standing hypertension, especially onset at a young age or drug-resistant hypertension?",
+     "Have you had unexplained rapid weight gain or loss recently?",
+     "Do you feel extremely fatigued, have muscle weakness, or notice changes in appetite?"
+    ],
+    "followup_questions": [
+     "If you have moon facies or abdominal purple striae, how long have these signs been present?",
+     "If you have paroxysmal palpitations and headache, how often do they occur, and are they related to emotional excitement?",
+     "If your skin has darkened, do you also have gastrointestinal symptoms such as nausea, vomiting, or abdominal pain?"
+    ],
+    "stop_conditions": [
+     "Typical features of Cushing syndrome, primary aldosteronism, or pheochromocytoma have been clearly differentiated.",
+     "The patient has provided a complete past medication history and family genetic history.",
+     "Results of key biochemical indicators (e.g., serum potassium, cortisol) have been obtained and preliminarily analyzed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Plasma free metanephrines measurement",
+     "24-hour urinary free cortisol measurement",
+     "Plasma aldosterone-to-renin activity ratio measurement"
+    ],
+    "if_suspected": [
+     "Pituitary MRI or contrast-enhanced adrenal CT",
+     "Dexamethasone suppression test",
+     "ACTH stimulation test"
+    ],
+    "avoid": [
+     "Unnecessary whole-body PET-CT screening",
+     "Adrenal vein sampling without an indication (before localization)",
+     "Routine thyroid function testing (unless concomitant other endocrine disease is suspected)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Develop the regimen according to the specific type: for Cushing syndrome, laparoscopic adrenalectomy is preferred",
+     "For primary aldosteronism, surgery is performed for unilateral lesions, and spironolactone is used for bilateral hyperplasia (starting at 25 mg/d, titrated to an effective dose)",
+     "For pheochromocytoma, preoperative preparation with α-receptor blockers (e.g., phenoxybenzamine) for 10-14 days is required. This should be combined with a low-salt diet, potassium supplementation, and control of blood pressure and blood glucose."
+    ],
+    "safety_warnings": [
+     "When using glucocorticoid replacement therapy, abrupt discontinuation is strictly prohibited to prevent adrenal crisis.",
+     "Spironolactone may cause hyperkalemia; electrolytes should be monitored regularly.",
+     "Before pheochromocytoma surgery, β-blockers must not be used alone to avoid precipitating hypertensive crisis."
+    ],
+    "personalization": [
+     "In pregnant women, ACEI/ARB drugs should be avoided, with labetalol or nifedipine preferred.",
+     "Older patients have high sensitivity to hormones; start with a low dose and titrate to prevent falls.",
+     "In patients with renal insufficiency, adjust the doses of diuretics and potassium-sparing drugs to prevent accumulation and toxicity."
+    ]
+   },
+   "disease": "adrenal gland disorders",
+   "department": "Endocrinology"
+  },
+  {
+   "presentation": "Patients often report unexplained extreme fatigue, cold intolerance, decreased appetite, and weight loss. Women may have oligomenorrhea or amenorrhea, and men may present with decreased libido and erectile dysfunction. Some patients have a history of headache and visual field defects (e.g., after pituitary tumor surgery). The skin is pale and dry, and hair is sparse; in severe cases, hypotension, hypoglycemic episodes, and even confusion may occur. Symptoms progress chronically and are easily misdiagnosed as suboptimal health status or depression.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have long-standing extreme fatigue, cold intolerance, or unexplained weight loss?",
+     "For women, have you had menstrual irregularities or amenorrhea? For men, have you had sexual dysfunction?",
+     "Do you have a history of pituitary tumor surgery, head trauma, or postpartum hemorrhage?"
+    ],
+    "followup_questions": [
+     "If you have dizziness or syncope, does it worsen when fasting or during infection?",
+     "Have you had blurred vision or narrowing of the visual field?",
+     "Have you recently had nausea, vomiting, inability to eat, or altered mental status?"
+    ],
+    "stop_conditions": [
+     "A history of pituitary surgery or typical postpartum hemorrhage has been clearly established, and symptoms are consistent.",
+     "Typical clinical manifestations of multiple hormone deficiencies have been confirmed.",
+     "The patient has completed baseline hormone screening and needs referral to a specialist for further evaluation."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete pituitary-target gland axis hormone panel (ACTH, cortisol, TSH, FT4, LH, FSH, GH, PRL)",
+     "Pituitary MRI without and with contrast",
+     "Electrolyte testing (focus on ruling out hyponatremia)"
+    ],
+    "if_suspected": [
+     "Insulin tolerance test (to assess GH and ACTH reserve function)",
+     "Dynamic stimulation tests (e.g., GHRH-GH stimulation test)",
+     "Fundoscopic examination and visual field testing (to rule out mass compression)"
+    ],
+    "avoid": [
+     "Blind thyroxine replacement without prior glucocorticoid supplementation",
+     "Use of thyrotropin-releasing hormone when adrenal insufficiency has not been ruled out",
+     "Unnecessary invasive pituitary biopsy"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "The treatment principle is lifelong replacement of deficient hormones. Glucocorticoids must be supplemented first (e.g., hydrocortisone 15-20 mg/day in divided doses), and thyroid hormone (levothyroxine sodium) should be added only after adrenal function is stable to prevent precipitating adrenal crisis. Sex hormones are supplemented according to age and fertility needs (estrogen/progestogen or testosterone). Adults with growth hormone deficiency may be considered for recombinant human growth hormone therapy. Patients should also be educated about dose adjustment during stress."
+    ],
+    "safety_warnings": [
+     "Thyroid hormone must not be used alone before glucocorticoid supplementation, to avoid precipitating adrenal crisis.",
+     "Note that concomitant use of glucocorticoids with anticoagulants or NSAIDs increases the risk of gastrointestinal bleeding.",
+     "Be alert for osteoporosis or Cushingoid features caused by long-term excessive replacement."
+    ],
+    "personalization": [
+     "During pregnancy, glucocorticoid and thyroid hormone doses need to be increased substantially, with close monitoring.",
+     "In older patients, start with a low dose and titrate slowly to avoid cardiovascular events.",
+     "In pediatric patients, adjust growth hormone and sex hormone doses according to growth and developmental needs."
+    ]
+   },
+   "disease": "Anterior pituitary insufficiency",
+   "department": "Endocrinology"
+  },
+  {
+   "presentation": "Children often present with ambiguous genitalia (virilization in females or pseudoprecocious puberty in males), accelerated growth with advanced bone age, and refractory hyponatremia and hyperkalemia crisis. In the neonatal period, mineralocorticoid deficiency symptoms such as vomiting, dehydration, and shock may occur; older children more often have short stature, hirsutism, acne, and menstrual irregularities. Be alert for severe hypertension and hypokalemia caused by 17α-hydroxylase deficiency.",
+   "interview_guide": {
+    "first_questions": [
+     "Was your child born with normal external genitalia? Is there any disorder of sex development?",
+     "Has your child recently had recurrent vomiting, fatigue, lethargy, or growth retardation?"
+    ],
+    "followup_questions": [
+     "If hirsutism or acne is present, ask about the age at menarche and whether menstrual cycles are regular.",
+     "If blood pressure is elevated, ask whether there is a family history of similar hypertension."
+    ],
+    "stop_conditions": [
+     "A history of external genital malformation has been clearly established, accompanied by typical electrolyte disturbances",
+     "A family genetic history has been confirmed, and corresponding symptoms of hormonal metabolic abnormalities have appeared",
+     "A typical salt-wasting crisis has occurred in the neonatal period"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum 17-hydroxyprogesterone measurement",
+     "Plasma renin activity and aldosterone level testing",
+     "Electrolyte (sodium, potassium) and blood glucose analysis"
+    ],
+    "if_suspected": [
+     "ACTH stimulation test",
+     "Chromosomal karyotype analysis and gonadal ultrasound",
+     "CYP21A2 gene mutation testing"
+    ],
+    "avoid": [
+     "Routine non-contrast abdominal CT (unless tumor is suspected)",
+     "Sex hormone panel screening without an indication (nonspecific)",
+     "Blind surgical exploration of the reproductive system"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Glucocorticoid replacement therapy (e.g., hydrocortisone) is preferred, administered orally in divided doses according to body weight to suppress ACTH and maintain normal growth. The salt-wasting type requires combined fludrocortisone for mineralocorticoid supplementation; in acute crisis, intravenous fluids and high-dose hydrocortisone are needed for rescue. Regularly monitor bone age, height, and hormone levels to adjust the dose."
+    ],
+    "safety_warnings": [
+     "Abrupt discontinuation is strictly prohibited to prevent adrenal crisis",
+     "Be alert for Cushing syndrome and growth suppression caused by drug overdose",
+     "Avoid concomitant use with nonsteroidal anti-inflammatory drugs, which increases the risk of gastrointestinal bleeding"
+    ],
+    "personalization": [
+     "In infants and young children, doses must be precisely calculated by body weight and dynamically adjusted with growth",
+     "In adolescent females, attention should be paid to menstrual regulation and fertility preservation",
+     "During stress (infection/surgery), temporarily double the glucocorticoid dose"
+    ]
+   },
+   "disease": "Congenital adrenal hyperplasia",
+   "department": "Endocrinology"
+  },
+  {
+   "presentation": "Children usually develop persistent hyperglycemia within days to months after birth, presenting with polydipsia, polyuria, failure to gain weight or weight loss, dehydration, and diabetic ketoacidosis. Some cases are accompanied by dysmorphic facial features or developmental delay. If caused by a monogenic mutation (e.g., KCNJ11/ABCC8), it may present as severe insulin dependence in the neonatal period and may be sensitive to sulfonylureas.",
+   "interview_guide": {
+    "first_questions": [
+     "How soon after birth did your child begin to have polyuria, polydipsia, or failure to gain weight?",
+     "Is there a family history of similar early-onset diabetes or neonatal hypoglycemia?"
+    ],
+    "followup_questions": [
+     "Has diabetic ketoacidosis been diagnosed? What has been the recent range of blood glucose fluctuations?",
+     "What glucose-lowering regimen is currently being used? What are the effects and side effects?"
+    ],
+    "stop_conditions": [
+     "The onset time, typical symptoms, and initial blood glucose control status have been clearly established.",
+     "Key information on family genetic history has been obtained, and causes of transient hyperglycemia have been excluded.",
+     "The patient has undergone baseline examinations, and the clinical phenotype is consistent with monogenic diabetes."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Fasting blood glucose and glycated hemoglobin measurement",
+     "Oral glucose tolerance test (OGTT) and insulin/C-peptide release test",
+     "Whole-exome sequencing or diabetes-related gene panel testing"
+    ],
+    "if_suspected": [
+     "Islet autoantibody panel testing (to exclude autoimmune type 1 diabetes)",
+     "Thyroid function and pituitary hormone level assessment (to screen for syndromic forms)",
+     "Abdominal ultrasound (to evaluate pancreatic morphology and structural abnormalities)"
+    ],
+    "avoid": [
+     "Long-term continuous glucose monitoring (CGM) without an indication as a substitute for routine fingerstick blood monitoring",
+     "Nonspecific metabolic screening (e.g., routine vitamin D, trace elements)",
+     "Repeated islet function stimulation tests with no diagnostic value"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For patients diagnosed with monogenic diabetes (e.g., MODY2 or KCNJ11 mutation), high-dose sulfonylurea therapy (e.g., glibenclamide) is preferred; it can significantly improve blood glucose and allow discontinuation of insulin. For other types or if the drug is ineffective, intensive insulin therapy is used, with a target HbA1c <7.0%. At the same time, strict dietary management is required, avoiding high sugar loads, and growth and development indicators should be monitored regularly."
+    ],
+    "safety_warnings": [
+     "When using sulfonylureas, be alert for the risk of severe hypoglycemia, especially in children and patients with renal insufficiency.",
+     "Insulin therapy requires prevention of injection-site lipohypertrophy and nocturnal hypoglycemic events.",
+     "Avoid self-adjusting drug doses during acute infection or stress."
+    ],
+    "personalization": [
+     "In neonates and infants, the initial insulin dose must be precisely calculated according to body weight to prevent hypoglycemic brain injury.",
+     "For patients with KCNJ11/ABCC8 mutations, preferentially attempt switching from insulin to oral sulfonylureas to improve quality of life.",
+     "Patients with concomitant malformations in other systems require multidisciplinary collaboration to develop an individualized comprehensive treatment plan."
+    ]
+   },
+   "disease": "Congenital diabetes mellitus",
+   "department": "Endocrinology"
+  },
+  {
+   "presentation": "The infant often presents with intractable vomiting, diarrhea, dehydration, and failure to thrive within days to weeks after birth, accompanied by mucocutaneous hyperpigmentation. Some cases may develop sudden hypoglycemia and shock (adrenal crisis), manifesting as pallor, cold extremities, and impaired consciousness. The female external genitalia may show varying degrees of virilization, such as clitoromegaly or labial fusion.",
+   "interview_guide": {
+    "first_questions": [
+     "Has the child had recurrent vomiting, diarrhea, or refusal to feed since birth?",
+     "Has the child recently had unexplained syncope, seizures, or extreme fatigue?",
+     "Is the child's skin color darker than that of peers, especially in the skin folds around the joints?"
+    ],
+    "followup_questions": [
+     "If skin darkening has been noticed, please describe the specific sites and when it appeared.",
+     "If the patient is a girl, please confirm whether there is any abnormality in external genital development (such as clitoral enlargement).",
+     "Is there any family history of similar disease or unexplained neonatal death?"
+    ],
+    "stop_conditions": [
+     "Typical symptoms of adrenal crisis (shock, severe electrolyte disturbance) have clearly occurred and meet indications for emergency management.",
+     "The patient's complaints include clear features of a disorder of sex development and skin hyperpigmentation.",
+     "There is a previous confirmed diagnosis of adrenal insufficiency and the patient is receiving hormone replacement therapy."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum electrolytes (with focus on serum sodium and potassium)",
+     "Plasma renin activity and aldosterone level measurement",
+     "Baseline 17-hydroxyprogesterone (17-OHP) and ACTH stimulation test"
+    ],
+    "if_suspected": [
+     "Chromosomal karyotype analysis (to differentiate gonadal developmental abnormalities)",
+     "Adrenal CT or MRI (to assess gland structure)",
+     "ACTH (adrenocorticotropic hormone) level measurement"
+    ],
+    "avoid": [
+     "Glucocorticoid loading test without indication (contraindicated before diagnosis is confirmed)",
+     "Unnecessary invasive biopsy (risk outweighs benefit)",
+     "Relying solely on urinalysis to rule out metabolic problems (low specificity)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Immediately initiate glucocorticoid replacement therapy, with hydrocortisone as the first choice, dosed by body surface area (10-15 mg/m²/day, given orally in 2-3 divided doses), to mimic the physiological secretion rhythm. Patients with mineralocorticoid deficiency require the addition of fludrocortisone (0.05-0.2 mg/day). In acute crisis, intravenous infusion of normal saline and hydrocortisone (50-100 mg/m²/day) is required. At the same time, strictly monitor electrolytes and growth and development parameters, and adjust the dose."
+    ],
+    "safety_warnings": [
+     "Abrupt discontinuation is strictly prohibited to prevent precipitating a fatal adrenal crisis.",
+     "Watch for manifestations of Cushing syndrome due to drug overdose (such as moon facies and hypertension).",
+     "Avoid maintaining the original dose during stress states such as infection and fever; the dose should be doubled."
+    ],
+    "personalization": [
+     "Adolescent patients require fine adjustment of hormone doses based on bone age and development of secondary sexual characteristics.",
+     "Pregnant women need increased glucocorticoid doses and close monitoring of fetal status.",
+     "Infants and young children require dynamic dose adjustment according to weight gain to prevent growth retardation."
+    ]
+   },
+   "disease": "Congenital adrenal hypoplasia",
+   "department": "Endocrinology"
+  },
+  {
+   "presentation": "The patient reports sudden-onset, persistent massive polyuria, with daily urine output often exceeding 3 liters and even reaching more than 10 liters, and urine that is clear as water. This is accompanied by extreme thirst (polydipsia) that is difficult to relieve, requiring frequent water intake to maintain fluid balance. Nocturia due to polyuria causes frequent nighttime awakening and severely affects sleep. If fluids are not replaced promptly, dehydration symptoms such as dry skin, fatigue, dizziness, and increased heart rate may occur.",
+   "interview_guide": {
+    "first_questions": [
+     "About how much water do you drink each day? What are your urinary frequency and total volume?",
+     "How long has this excessive drinking and urination been going on? Did it start suddenly or worsen gradually?",
+     "How many times do you need to get up at night to urinate? Does it affect your sleep?"
+    ],
+    "followup_questions": [
+     "If you restrict fluid intake, do you develop dehydration symptoms such as dry mouth, dizziness, or palpitations?",
+     "Have you recently had head trauma, brain surgery, or a history of a tumor in the pituitary region?",
+     "Are you currently taking lithium, diuretics, or other medications that may affect the kidney's concentrating ability?"
+    ],
+    "stop_conditions": [
+     "Key history distinguishing central from nephrogenic causes (such as a history of craniocerebral injury) has been clearly obtained",
+     "It is confirmed that the 24-hour urine volume is significantly excessive and accompanied by typical polydipsia",
+     "Preliminary serum sodium and urine specific gravity data supporting the diagnostic direction have been obtained"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Water deprivation-desmopressin test (gold standard for diagnosis)",
+     "Plasma osmolality and serum sodium concentration measurement",
+     "24-hour urine volume and urine specific gravity/urine osmolality measurement"
+    ],
+    "if_suspected": [
+     "Pituitary MRI (to screen for hypothalamic-pituitary lesions)",
+     "Comprehensive renal function panel (to rule out nephrogenic diabetes insipidus)",
+     "Head CT (for rapid screening of hemorrhage or space-occupying lesions in the acute phase)"
+    ],
+    "avoid": [
+     "Long-term blind fluid replacement monitoring without indication",
+     "Direct use of high-dose desmopressin before a water deprivation test is performed",
+     "Unnecessary systemic metabolic syndrome screening"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For central diabetes insipidus, desmopressin (DDAVP) is the first choice: oral starting dose 50-100 micrograms once or twice daily; nasal spray 10-20 micrograms once or twice daily. Adjust the dose according to urine volume and serum sodium, with the goal of controlling urine output at 2-3 liters/day. At the same time, instruct patients to drink water as needed and avoid excessive fluid restriction leading to hypernatremia. For nephrogenic diabetes insipidus, a low-salt diet combined with thiazide diuretics is required."
+    ],
+    "safety_warnings": [
+     "Overdosing is strictly prohibited to prevent severe hyponatremia and water intoxication",
+     "Use with caution in patients with renal insufficiency, with close electrolyte monitoring",
+     "Be alert for adverse reactions such as headache and nausea caused by drug accumulation"
+    ],
+    "personalization": [
+     "Pediatric patients require precise weight-based dose calculation to prevent effects on growth",
+     "Elderly patients tolerate dehydration poorly, so the target urine output threshold should be lowered",
+     "Pregnant women should preferentially use the nasal spray to avoid the potential risks of oral medication"
+    ]
+   },
+   "disease": "Diabetes insipidus",
+   "department": "Endocrinology"
+  },
+  {
+   "presentation": "The patient often reports symmetrical numbness, tingling, or burning in the distal lower limbs in a glove-and-stocking distribution. Symptoms are often worse at night; some patients have reduced or heightened sensation, and severe cases may develop foot ulcers or sensory ataxia. The typical presentation is progressive paresthesia spreading upward from the toes, with or without motor dysfunction.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have numbness, tingling, or a sensation like ants crawling on your hands and feet?",
+     "Is this discomfort more pronounced at night when you sleep?"
+    ],
+    "followup_questions": [
+     "If you have pain, is it continuous or intermittent?",
+     "Have you recently noticed a wound on your foot that heals slowly?"
+    ],
+    "stop_conditions": [
+     "The symptoms are clearly symmetrical distal sensory abnormalities and the disease course is consistent with a history of diabetes",
+     "It has been confirmed that there are no other focal neurological signs (such as unilateral weakness)",
+     "Baseline blood glucose and glycated hemoglobin assessment have been completed"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "10-g nylon monofilament touch test",
+     "128-Hz tuning fork vibration sensation test",
+     "Ankle reflex examination",
+     "Nerve conduction velocity study"
+    ],
+    "if_suspected": [
+     "Electromyography",
+     "Quantitative sensory testing",
+     "Skin biopsy (to assess small fiber neuropathy)"
+    ],
+    "avoid": [
+     "Routine head CT (when there are no central nervous system symptoms)",
+     "Lumbar spine MRI (when there is no radicular pain or cauda equina syndrome)",
+     "Vitamin B12 level testing (unless concurrent deficiency is suspected)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is based on glycemic control, combined with alpha-lipoic acid (600 mg/day by intravenous infusion or orally) or pregabalin (starting at 75 mg twice daily, gradually increasing to 300 mg). Non-pharmacological interventions include strict foot care, smoking cessation, and moderate exercise. The course of treatment usually requires more than 4 weeks, with dose adjustment according to symptom relief."
+    ],
+    "safety_warnings": [
+     "Pregabalin may cause dizziness and somnolence; elderly patients need fall prevention",
+     "Avoid concomitant alcohol use to prevent increased central nervous system depression",
+     "Patients with renal insufficiency require pregabalin dose adjustment to prevent accumulation and toxicity"
+    ],
+    "personalization": [
+     "Elderly patients should start at half the dose and titrate slowly",
+     "Patients with impaired renal function require adjustment according to eGFR",
+     "Use with caution during pregnancy, with lifestyle intervention preferred"
+    ]
+   },
+   "disease": "Diabetic peripheral neuropathy",
+   "department": "Endocrinology"
+  },
+  {
+   "presentation": "The patient often has no obvious subjective symptoms and is usually detected during prenatal screening. Typical clues include: a history of macrosomic infant delivery, obesity, or family history of diabetes; glucosuria without ketosis during the current pregnancy; ultrasound indicating a large fetus or polyhydramnios; and some patients report the 'three polys' symptoms of polydipsia, polyphagia, and polyuria, which need to be differentiated from physiological changes.",
+   "interview_guide": {
+    "first_questions": [
+     "What is your current gestational age? What were the blood glucose or glucose tolerance results at your last prenatal visit?",
+     "How many kilograms have you gained during pregnancy? Do you have marked thirst, polyuria, or blurred vision?",
+     "Do you have a history of diabetes, polycystic ovary syndrome, or have you given birth to a baby weighing more than 4000 g?"
+    ],
+    "followup_questions": [
+     "If fasting blood glucose is elevated, ask further: 'How has your recent dietary control been? Have you monitored postprandial blood glucose?'",
+     "If the fetus is large, ask further: 'Have fetal movements been normal recently? Do you have lower limb edema or symptoms of hypertension?'",
+     "If there is polydipsia and polyuria, ask further: 'Has your number of nighttime awakenings to urinate increased significantly? Do you have vulvar itching or recurrent infections?'"
+    ],
+    "stop_conditions": [
+     "Gestational age is clearly established, and the 75-g OGTT has been completed and the diagnosis confirmed",
+     "Complete prenatal examination records and fetal ultrasound assessment data have been obtained",
+     "Other secondary factors causing hyperglycemia have been excluded"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "75-g oral glucose tolerance test (OGTT)",
+     "Fasting and 2-hour postprandial blood glucose monitoring",
+     "Glycated hemoglobin (HbA1c)"
+    ],
+    "if_suspected": [
+     "Fetal systematic ultrasound examination (to assess fetal size and amniotic fluid volume)",
+     "Fundus examination (to screen for retinopathy)",
+     "Renal function and urinary microalbumin testing"
+    ],
+    "avoid": [
+     "Routine insulin use without prior continuous glucose monitoring",
+     "Frequent invasive fetal monitoring without indication",
+     "Blind use of Chinese patent hypoglycemic medicines not validated for safety during pregnancy"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Medical nutrition therapy (MNT) and exercise intervention are preferred. Create an individualized meal plan, control total calories, eat in divided meals, and take a moderate 30-minute walk after meals each day. If blood glucose remains above target after 1-2 weeks of lifestyle intervention (fasting ≥5.3 mmol/L, 1-hour postprandial ≥7.8 mmol/L, or 2-hour postprandial ≥6.7 mmol/L), initiate insulin therapy immediately. Short-acting or premixed insulin is preferred; oral hypoglycemic agents such as metformin or glibenclamide must not be used as first-line therapy."
+    ],
+    "safety_warnings": [
+     "Strictly prevent hypoglycemia, especially the risk of nocturnal hypoglycemia",
+     "Avoid sulfonylureas because they can cross the placenta and affect the fetus",
+     "Be alert for diabetic ketoacidosis, especially during vomiting or inadequate intake"
+    ],
+    "personalization": [
+     "Women who were obese before pregnancy require stricter control of caloric increase to prevent fetal overgrowth",
+     "Advanced maternal age or multiple pregnancy requires more frequent monitoring of glycemic fluctuations",
+     "Patients with concurrent hypertension or kidney disease require close joint management of blood pressure and renal function with obstetrics"
+    ]
+   },
+   "disease": "Gestational diabetes mellitus (GDM)",
+   "department": "Endocrinology"
+  },
+  {
+   "presentation": "Patients often complain of painless diffuse enlargement of the neck, accompanied by fatigue, cold intolerance, weight gain, or memory impairment and other symptoms of hypothyroidism. Some early patients may have transient palpitations, tremor, and other transient hyperthyroid manifestations. Typical signs are a thyroid that is firm and rubbery in consistency, with a smooth or nodular surface, nontender, and moving with swallowing.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently felt unusually fatigued, sensitive to cold, or had unexplained weight gain?",
+     "Have you noticed swelling in your neck or a lump?"
+    ],
+    "followup_questions": [
+     "If you have palpitations or tremor, please describe the frequency and duration of episodes.",
+     "Is there a family history of thyroid disease?",
+     "Have you recently had marked mood swings or menstrual irregularities?"
+    ],
+    "stop_conditions": [
+     "Neck symptoms, systemic metabolic changes, and family history have been clearly elicited.",
+     "The patient has provided prior thyroid test reports or medication history.",
+     "The symptom features are typical and there are no signs of involvement of other systems."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum thyroid-stimulating hormone (TSH) measurement",
+     "Free thyroxine (FT4) and free triiodothyronine (FT3) measurement",
+     "Anti-thyroid peroxidase antibody (TPOAb) and anti-thyroglobulin antibody (TgAb) testing"
+    ],
+    "if_suspected": [
+     "Thyroid ultrasound (to assess morphology, blood flow, and nodules)",
+     "Thyroid iodine uptake test (to identify the transient hyperthyroid phase)",
+     "Fine-needle aspiration cytology (FNA, for suspicious nodules)"
+    ],
+    "avoid": [
+     "Routine radionuclide scanning (of limited value in non-nodular disease)",
+     "Empirical use of antithyroid drugs (before a diagnosis of hyperthyroidism is confirmed)",
+     "Repeated frequent serum antibody titer monitoring (frequent retesting is unnecessary after the condition is stable)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Asymptomatic patients with normal thyroid function require only regular follow-up. If clinical hypothyroidism develops, levothyroxine sodium tablets (L-T4) are first-line; the starting dose is adjusted according to age and cardiac status (usually 25-50μg/day), with the goal of keeping TSH within the lower limit of the reference range to the normal range. It should be taken on an empty stomach in the morning; thyroid function should be rechecked 4-6 weeks after starting treatment to adjust the dose, and the course is usually lifelong replacement therapy."
+    ],
+    "safety_warnings": [
+     "Overdose can cause iatrogenic hyperthyroidism, leading to arrhythmias or osteoporosis.",
+     "Iron supplements, calcium supplements, and soy products can interfere with drug absorption and should be taken at least 4 hours apart.",
+     "Older patients or those with coronary heart disease should start at a low dose and increase slowly to prevent inducing angina."
+    ],
+    "personalization": [
+     "Pregnant women require stricter control of TSH levels (first trimester <2.5mIU/L) and more frequent monitoring.",
+     "Older patients and patients with heart disease should have the starting dose halved and adjusted slightly every 2-4 weeks.",
+     "In pediatric patients, the dose must be calculated precisely according to body weight, with attention to growth and development parameters."
+    ]
+   },
+   "disease": "Hashimoto thyroiditis",
+   "department": "Endocrinology"
+  },
+  {
+   "presentation": "Patients often complain of refractory acne on the face, chest, and back, accompanied by abnormal increase in hair (such as around the lips, on the chin, and around the areolae); some women may have oligomenorrhea or amenorrhea. If the condition progresses, virilizing signs such as deepening of the voice and clitoromegaly may occur, or manifestations of Cushing syndrome such as central obesity and purple skin striae may be present. Symptoms are mostly chronic and progressive, and identification requires integration of menstrual history and physical appearance changes.",
+   "interview_guide": {
+    "first_questions": [
+     "Are your menstrual cycles regular? Have you had amenorrhea or prolonged cycles in the past six months?",
+     "Have you noticed sudden increase or coarsening of hair in atypical areas of the body (such as the lips, chin, or chest)?",
+     "Has facial acne recently recurred and failed to respond to conventional treatment?"
+    ],
+    "followup_questions": [
+     "If there is voice deepening or increased muscle mass, ask: How long has this lasted? Is there any change in libido?",
+     "If menstrual irregularities are present, ask: Is there any galactorrhea? Has there been significant recent weight fluctuation?",
+     "If polycystic ovary syndrome is suspected, ask: Is there a history of infertility or a family history of similar disease?"
+    ],
+    "stop_conditions": [
+     "The triad of menstrual irregularity, hirsutism, and acne has been clearly established, and there are no signs of acute adrenal crisis.",
+     "The patient has provided a complete prior medication history and family genetic history sufficient to exclude drug-related factors.",
+     "Initial assessment has excluded an androgen-secreting tumor (such as rapid virilizing signs), and the patient can proceed to laboratory testing."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum total testosterone measurement",
+     "Luteinizing hormone (LH) to follicle-stimulating hormone (FSH) ratio testing",
+     "17-hydroxyprogesterone screening (to exclude congenital adrenal hyperplasia)"
+    ],
+    "if_suspected": [
+     "Dehydroepiandrosterone sulfate (DHEA-S) measurement (to identify an adrenal source)",
+     "Pelvic ultrasound (to assess ovarian morphology and polycystic changes)",
+     "Dexamethasone suppression test (to screen for Cushing syndrome)"
+    ],
+    "avoid": [
+     "Routine urinalysis (not specific for diagnosing hyperandrogenism)",
+     "Unnecessary pituitary MRI (performed only when prolactin is elevated or a pituitary tumor is suspected)",
+     "Repeated random cortisol measurements (strongly affected by diurnal rhythm and of low diagnostic value)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is primarily oral short-acting combined contraceptives (such as drospirenone and ethinylestradiol tablets), once daily, taken continuously for 21 days followed by 7 days off, for at least 6 months to improve hirsutism and acne. For those preparing for pregnancy, letrozole is preferred for ovulation induction",
+     "If insulin resistance is present, metformin may be added. Lifestyle intervention is also recommended, including controlling caloric intake and increasing aerobic exercise, to reduce weight and improve metabolic parameters."
+    ],
+    "safety_warnings": [
+     "Contraindications: estrogen-containing drugs are contraindicated in patients with a history of venous thromboembolism, severe liver disease, unexplained vaginal bleeding, or breast cancer.",
+     "Drug interactions: enzyme inducers such as rifampin and carbamazepine can reduce the efficacy of contraceptives, and the regimen should be adjusted.",
+     "Adverse reaction precautions: monitor blood pressure and liver function long-term, and watch for worsening migraine or mood swings."
+    ],
+    "personalization": [
+     "Women of reproductive age preparing for pregnancy: avoid antiandrogenic drugs and prioritize ovulation induction therapy.",
+     "Adolescent patients: start with a low dose and closely monitor bone density development and psychological status.",
+     "Postmenopausal women: use estrogen replacement with caution and focus on screening for adrenal tumors and metabolic syndrome."
+    ]
+   },
+   "disease": "hyperandrogenism",
+   "department": "Endocrinology"
+  },
+  {
+   "presentation": "Patients often complain of galactorrhea outside lactation; in women it manifests as oligomenorrhea, amenorrhea, or infertility, and in men as decreased libido and erectile dysfunction. Some patients may develop headache and visual field defects due to compression by a pituitary tumor. Symptoms are mostly chronic and progressive, and judgment requires integration of history and physical signs.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had breast discharge outside lactation?",
+     "Have your menstrual cycles been regular recently (women), or has sexual function declined (men)?",
+     "Are you currently taking medications that may affect prolactin (such as antipsychotics or prokinetic drugs)?"
+    ],
+    "followup_questions": [
+     "If galactorrhea is present, what is the color of the discharge, and is it unilateral or bilateral?",
+     "Do you have neurologic symptoms such as headache, blurred vision, or narrowed visual fields?",
+     "Do you have a history of hypothyroidism or pituitary disease?"
+    ],
+    "stop_conditions": [
+     "Drug-related factors have been clearly excluded, and prolactin is significantly elevated with typical symptoms",
+     "Necessary imaging has been completed and a pituitary macroadenoma has been found",
+     "The patient refuses further examination or has a clear treatment preference"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum prolactin (PRL) measurement (repeat under fasting and resting conditions)",
+     "Pituitary magnetic resonance imaging (MRI), unenhanced + enhanced",
+     "Thyroid function testing (TSH, FT4)"
+    ],
+    "if_suspected": [
+     "Sex hormone panel (FSH, LH, E2, T, etc.)",
+     "Visual field examination (when optic chiasm compression is suspected)",
+     "Liver and kidney function and electrolytes (to assess medication safety)"
+    ],
+    "avoid": [
+     "CT scanning without indication (MRI has higher resolution for the pituitary)",
+     "Repeated PRL testing under nonstandardized conditions",
+     "Blind pituitary biopsy"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Dopamine receptor agonists are first-line, such as cabergoline (starting at 0.25mg/week, gradually increasing to 1-2mg/week) or bromocriptine (starting at 1.25mg/day, taken with meals). The course usually needs to continue until prolactin is normal and the tumor has shrunk, then be maintained for 6-12 months. Nonpharmacologic treatment includes lifestyle adjustment and psychological counseling."
+    ],
+    "safety_warnings": [
+     "Contraindicated in patients with uncontrolled hypertension or severe psychiatric illness",
+     "Avoid concomitant use with strong CYP3A4 inhibitors to prevent toxic accumulation",
+     "Watch for orthostatic hypotension, nausea, and rare cardiac valvular disease"
+    ],
+    "personalization": [
+     "During pregnancy, the risks of stopping or continuing medication require individualized assessment",
+     "Older patients should start at a low dose to prevent falls",
+     "Patients with renal impairment require bromocriptine dose adjustment"
+    ]
+   },
+   "disease": "hyperprolactinemia",
+   "department": "Endocrinology"
+  },
+  {
+   "presentation": "Patients complain of abnormal increase in body hair with a male-pattern distribution, commonly on the upper lip, chin, chest, midline of the abdomen, and inner thighs. The hair is usually coarse, dark, and rapidly growing, and may be accompanied by acne, hair loss, or menstrual irregularities. It is necessary to distinguish physiological hirsutism from manifestations of pathological hyperandrogenism, focusing on whether the hair distribution pattern exceeds the normal female range.",
+   "interview_guide": {
+    "first_questions": [
+     "At which specific sites did you notice increased body hair, and when did it begin?",
+     "Have your menstrual cycles been regular recently? Has acne or hair loss worsened?"
+    ],
+    "followup_questions": [
+     "Have the symptoms progressed rapidly within a short period (such as within six months)?",
+     "Is there a family history of similar conditions or polycystic ovary syndrome?",
+     "Have you recently taken androgen-containing medications or dietary supplements?"
+    ],
+    "stop_conditions": [
+     "The time of symptom onset, distribution characteristics, and associated menstrual changes have been clearly established",
+     "A history of medication or exogenous hormone intake has been excluded",
+     "It has been confirmed that there are no rapid virilizing signs (such as clitoromegaly or voice deepening)"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum total testosterone measurement",
+     "Free testosterone index calculation",
+     "Adrenocorticotropic hormone (ACTH) stimulation test (when necessary)",
+     "Pelvic ultrasound"
+    ],
+    "if_suspected": [
+     "17-hydroxyprogesterone testing (to screen for congenital adrenal hyperplasia)",
+     "DHEA-S measurement (to assess an adrenal source)",
+     "Pituitary MRI (when a pituitary tumor is suspected)",
+     "Thyroid function and prolactin testing"
+    ],
+    "avoid": [
+     "Routine skin biopsy (unless a tumor is suspected)",
+     "Unnecessary whole-body CT scanning",
+     "Repeated low-specificity hormone screening"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes oral short-acting contraceptives (such as ethinylestradiol and cyproterone acetate tablets), once daily, taken continuously for 3-6 months to suppress ovarian androgen secretion",
+     "Combine with the antiandrogen spironolactone 25-100mg/day. First-line nonpharmacologic intervention is laser hair removal or electrolysis. The course should last at least 6 months; because the hair growth cycle is long, efficacy should be assessed regularly."
+    ],
+    "safety_warnings": [
+     "Contraindicated in pregnancy and in those planning pregnancy; strict contraception is required during treatment",
+     "Spironolactone may cause hyperkalemia; monitor serum potassium levels",
+     "Be alert to thrombotic risk; use combined oral contraceptives with caution in smokers or those with a history of thrombosis"
+    ],
+    "personalization": [
+     "For obese patients, combine with lifestyle intervention for weight loss",
+     "For adolescent patients, prioritize regimens with minimal metabolic impact",
+     "For those with insulin resistance, add metformin to improve metabolic status"
+    ]
+   },
+   "disease": "Hirsutism",
+   "department": "Endocrinology"
+  },
+  {
+   "presentation": "Patients often report unexplained muscle cramps, carpopedal spasm, or tremor, with some having fatigue and palpitations. In severe cases, confusion, seizures, or arrhythmias (such as premature ventricular contractions) may occur. Symptoms of hypokalemia, such as extreme fatigue and muscle weakness, are often present. If caused by chronic diarrhea, alcohol abuse, or diuretic use, focused history taking is needed to aid identification.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had frequent vomiting, diarrhea, or heavy sweating?",
+     "Are you currently taking diuretics or proton pump inhibitors, or receiving chemotherapy?",
+     "Do you have a history of chronic alcohol abuse or severe malnutrition?"
+    ],
+    "followup_questions": [
+     "If you have carpopedal spasm, where exactly does it occur, and how long does it last?",
+     "Do you have cardiac symptoms such as palpitations, chest tightness, or a feeling of fainting?",
+     "Do you have a history of diabetes, hypoparathyroidism, or chronic kidney disease?"
+    ],
+    "stop_conditions": [
+     "A recent precipitant of magnesium loss (e.g., severe diarrhea) has been clearly identified and symptoms are typical.",
+     "The patient has developed critical manifestations such as severe arrhythmia or convulsions and requires immediate emergency department management.",
+     "Concurrent severe hypokalemia has been confirmed and potassium supplementation is ineffective, suggesting possible hypomagnesemia."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum magnesium concentration measurement",
+     "Serum potassium concentration measurement",
+     "Serum calcium concentration measurement",
+     "Renal function tests (creatinine, blood urea nitrogen)"
+    ],
+    "if_suspected": [
+     "24-hour urinary magnesium excretion (to differentiate renal magnesium loss)",
+     "Electrocardiography (to assess QT prolongation and arrhythmia risk)",
+     "Parathyroid hormone (PTH) level"
+    ],
+    "avoid": [
+     "Whole-body CT scanning without indication",
+     "Invasive myocardial biopsy in non-emergent settings",
+     "Repeated comprehensive trace element screening without clinical significance"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For mild asymptomatic cases, oral magnesium sulfate or magnesium oxide is preferred, taken in divided doses daily, with duration depending on normalization of serum magnesium. For moderate to severe or symptomatic cases, intravenous magnesium sulfate is required; the usual initial dose is 1-2g, diluted and given slowly by intravenous push or infusion, followed by dose adjustment according to serum magnesium levels. Concurrent hypokalemia and hypocalcemia must be corrected. During treatment, monitor urine output and knee-jerk reflex to prevent magnesium accumulation toxicity."
+    ],
+    "safety_warnings": [
+     "Intravenous magnesium supplementation is contraindicated or should be used with caution in patients with renal insufficiency to prevent hypermagnesemia-induced respiratory depression.",
+     "Avoid concomitant use with phosphate-containing drugs to prevent formation of insoluble precipitates.",
+     "Rapid injection can cause vasodilation, hypotension, and cardiac arrest; infusion rate must be strictly controlled."
+    ],
+    "personalization": [
+     "Older adults should receive a reduced initial dose and close monitoring of neuromuscular responses.",
+     "Hypomagnesemia during pregnancy requires control of infusion rate and total volume under obstetric guidance.",
+     "Hypomagnesemia caused by long-term proton pump inhibitor use requires long-term supplementation and consideration of discontinuation."
+    ]
+   },
+   "disease": "Hypomagnesemia",
+   "department": "Endocrinology"
+  },
+  {
+   "presentation": "Patients often present with underdevelopment of male secondary sexual characteristics after puberty, such as sparse beard, sparse pubic hair, and low muscle mass. Typical signs include small, firm testes, and some patients have gynecomastia. In adulthood, infertility, tall stature with disproportionately long limbs (long-bone type), learning disabilities, or social anxiety may occur. Chief complaints often focus on fertility difficulties, sexual dysfunction, or abnormal body habitus.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have a history of fertility difficulties or abnormal semen analysis?",
+     "During puberty, did you notice that your testes were significantly smaller than those of your peers?",
+     "Have you recently had breast pain or swelling or developed feminizing features?"
+    ],
+    "followup_questions": [
+     "If learning difficulties are mentioned, ask further: 'During childhood, was there language delay or difficulty concentrating?'",
+     "If sexual function problems are mentioned, ask further: 'Do you have decreased libido, erectile dysfunction, or reduced morning erections?'",
+     "If abnormal body habitus is mentioned, ask further: 'Is your height significantly above the family average, with relatively long limbs?'"
+    ],
+    "stop_conditions": [
+     "Core symptoms such as testicular volume, breast development, and fertility history have been explicitly asked about and documented.",
+     "The patient has provided prior hormone test results or chromosome karyotype analysis results.",
+     "Other common causes of hypogonadism (e.g., pituitary tumor, history of trauma) have been excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum follicle-stimulating hormone (FSH) and luteinizing hormone (LH) measurement",
+     "Serum testosterone (Total Testosterone) measurement",
+     "Peripheral blood lymphocyte chromosome karyotype analysis (47,XXY)"
+    ],
+    "if_suspected": [
+     "Anti-Müllerian hormone (AMH) testing to assess spermatogenesis",
+     "Pelvic ultrasound to assess testicular volume and structure",
+     "Thyroid function and prolactin measurement to exclude comorbidities"
+    ],
+    "avoid": [
+     "Repeated chromosome screening without indication (repeat testing is unnecessary after diagnosis)",
+     "Unnecessary invasive testicular biopsy (diagnosis can usually be made from hormone and karyotype results)",
+     "Routine use of estrogen therapy as an initial regimen (unless there is a specific breast cancer risk or severe osteoporosis with contraindication to androgens)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "After diagnosis, testosterone replacement therapy (TRT) is preferred; the initial dose is usually testosterone enanthate 250-300mg intramuscularly every 3-4 weeks, adjusted according to serum testosterone concentration to the upper middle of the normal range. Treatment is lifelong. Psychological support, speech rehabilitation training, and fertility counseling are also recommended. For those with fertility needs, microsurgical sperm extraction combined with assisted reproductive technology may be considered."
+    ],
+    "safety_warnings": [
+     "Monitor hematocrit to prevent polycythemia vera; perform regular complete blood count follow-up.",
+     "Be alert for elevated prostate-specific antigen (PSA); patients aged 50 years and older require prostate cancer screening.",
+     "Avoid blindly initiating treatment in patients with unevaluated heart failure or severe sleep apnea."
+    ],
+    "personalization": [
+     "Adolescent patients should start at a low dose to mimic the physiological secretion rhythm and promote bone maturation.",
+     "Patients at high risk of thrombosis or with severe obesity require close monitoring of coagulation function and cardiovascular status.",
+     "Young patients planning to preserve fertility should consult about sperm cryopreservation before starting TRT."
+    ]
+   },
+   "disease": "Klinefelter syndrome",
+   "department": "Endocrinology"
+  },
+  {
+   "presentation": "Patients often report dyslipidemia found on physical examination, or may have no obvious symptoms. Some patients may have signs such as xanthomas or corneal arcus. Typical findings are elevated total cholesterol and low-density lipoprotein cholesterol, along with elevated triglyceride levels. It is common in patients with obesity, diabetes, or metabolic syndrome and may be accompanied by nonspecific symptoms such as fatigue and dizziness.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently been found to have dyslipidemia on physical examination? What were the specific values?",
+     "Do you have underlying conditions such as hypertension, diabetes, or coronary heart disease?",
+     "What are your dietary habits and physical activity patterns?"
+    ],
+    "followup_questions": [
+     "If there is a family history, please describe in detail whether relatives have similar dyslipidemia or premature cardiovascular disease.",
+     "Are you currently taking any medications (e.g., hormones, glucose-lowering drugs)?",
+     "Do you smoke or drink alcohol?"
+    ],
+    "stop_conditions": [
+     "The specific values and type of dyslipidemia have been clarified.",
+     "The patient's underlying diseases, medication history, and lifestyle have been understood.",
+     "Possible causes of secondary hyperlipidemia have been excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Fasting four-item lipid panel (total cholesterol, triglycerides, high-density lipoprotein cholesterol, low-density lipoprotein cholesterol)",
+     "Liver function tests",
+     "Renal function tests"
+    ],
+    "if_suspected": [
+     "Thyroid function tests (to exclude dyslipidemia caused by hypothyroidism)",
+     "Blood glucose and glycated hemoglobin testing (to assess diabetes risk)",
+     "Abdominal ultrasound (to screen for fatty liver or other hepatobiliary diseases)"
+    ],
+    "avoid": [
+     "Lipid testing in the non-fasting state",
+     "Genetic testing without indication",
+     "Repeated lipid testing of the same items (unless the condition changes)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes lifestyle intervention and pharmacotherapy. Patients are advised to control diet (low-fat, low-sugar), increase exercise, quit smoking, and limit alcohol. If lifestyle intervention is insufficient, statins (e.g., atorvastatin 10-20mg/day) combined with fibrates (e.g., fenofibrate 0.2g/day) may be considered. Treatment duration should be adjusted according to lipid levels, with follow-up usually at least every 3 months."
+    ],
+    "safety_warnings": [
+     "Avoid excessive doses when used in combination with statins to prevent the risk of rhabdomyolysis.",
+     "Monitor liver function and creatine kinase levels, and be alert for drug-induced liver injury or muscle toxicity.",
+     "Statins are contraindicated in pregnant and breastfeeding women."
+    ],
+    "personalization": [
+     "Older adults should start at a low dose and gradually adjust to the target dose.",
+     "Patients with diabetes require stricter monitoring of blood glucose changes, with combined glucose-lowering therapy if necessary.",
+     "Patients with renal insufficiency require drug dose adjustment according to creatinine clearance."
+    ]
+   },
+   "disease": "Mixed hyperlipidemia",
+   "department": "Endocrinology"
+  },
+  {
+   "presentation": "Patients often report recent marked weight gain and tighter clothing, accompanied by exertional shortness of breath and easy fatigability. Typical signs include excess waist circumference (men ≥90cm, women ≥85cm) and abdominal fat accumulation. Some patients may mention severe snoring, daytime sleepiness, or joint pain, suggesting metabolic syndrome or risk of sleep apnea.",
+   "interview_guide": {
+    "first_questions": [
+     "How many kilograms have you gained in the past six months? What are your usual dietary and exercise habits?",
+     "Do you have a history of chronic diseases such as hypertension, diabetes, or hyperlipidemia? Is there a family history of obesity-related diseases?"
+    ],
+    "followup_questions": [
+     "If snoring or awakening with breath-holding at night is mentioned, ask further: 'Do you often have breath-holding episodes during sleep at night? Do you feel extremely sleepy during the day?'",
+     "If joint pain is present, ask further: 'Is the pain mainly in the knees or the lower back? Is your walking distance limited?'"
+    ],
+    "stop_conditions": [
+     "BMI and waist circumference measurements have been clearly determined, and there are no symptoms of other systemic diseases.",
+     "The patient's prior medication history, allergy history, and attempts at lifestyle intervention have been obtained.",
+     "Baseline metabolic screening has been completed, and causes of secondary obesity have been excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Body mass index (BMI) and waist circumference measurement",
+     "Fasting blood glucose and glycated hemoglobin (HbA1c)",
+     "Four-item lipid panel (total cholesterol, triglycerides, LDL-C, HDL-C)",
+     "Liver function and uric acid testing"
+    ],
+    "if_suspected": [
+     "Thyroid function tests (TSH, FT3, FT4) to exclude hypothyroidism",
+     "Cortisol rhythm measurement or dexamethasone suppression test to screen for Cushing syndrome",
+     "Polysomnography (PSG) to assess sleep apnea",
+     "Abdominal ultrasound to assess the degree of fatty liver"
+    ],
+    "avoid": [
+     "Whole-body CT or MRI scanning without indication",
+     "Unnecessary genetic testing (unless there are clear manifestations of a genetic syndrome)",
+     "Repeated routine biochemical testing without evidence of clinical change"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Lifestyle intervention is preferred: develop an individualized low-calorie diet plan (reduce daily intake by 500-750kcal), with at least 150 minutes per week of moderate-intensity aerobic exercise combined with resistance training. If BMI ≥28 or ≥27 with complications, a GLP-1 receptor agonist may be used (e.g., semaglutide, starting at 0.25mg/week and gradually titrated to 1mg/week), for at least 6 months. Behavioral and psychological support should also be provided, and a long-term follow-up mechanism established."
+    ],
+    "safety_warnings": [
+     "GLP-1 drugs are contraindicated in individuals with a personal or family history of medullary thyroid carcinoma.",
+     "Be aware of gastrointestinal adverse effects (nausea, vomiting); taking with meals and slow dose escalation are recommended.",
+     "Be alert for hypoglycemia risk, especially when used with insulin or sulfonylureas, and adjust doses as needed."
+    ],
+    "personalization": [
+     "Older adults should have a slower rate of weight loss, prioritize preservation of muscle mass, and avoid fall risk.",
+     "Weight-loss drugs are contraindicated in pregnant women or women planning pregnancy; only nutritional and exercise guidance is recommended.",
+     "Patients with renal insufficiency require drug dose adjustment according to eGFR or should avoid renally excreted drugs."
+    ]
+   },
+   "disease": "obesity",
+   "department": "Endocrinology"
+  },
+  {
+   "presentation": "Patients often complain of lower back pain or generalized bone pain without an obvious trigger, worsening with activity and relieved by rest. Some patients sustain fractures from minor trauma (e.g., bending over, coughing), leading to height loss and kyphotic deformity. Typical symptoms include chronic pain, limited mobility, and decreased stature; be alert to the risk of asymptomatic fragility fractures.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have unexplained lower back pain or generalized bone aches?",
+     "Have you recently had a fracture caused by a minor fall or impact?",
+     "Has your height decreased significantly compared with when you were younger, or have you developed a stooped back?"
+    ],
+    "followup_questions": [
+     "If there is joint pain, ask about the specific location and duration: 'Is the pain continuous or intermittent?'",
+     "If there is a history of fracture, ask about the injury mechanism: 'How were you injured at the time? How severe was the force?'",
+     "If secondary factors are suspected, ask about medication history: 'Have you been taking glucocorticoids or antiepileptic drugs long term?'"
+    ],
+    "stop_conditions": [
+     "Pain characteristics, location, and triggers have been clearly elicited, and there are no other systemic symptoms.",
+     "Previous fracture history and current height changes have been confirmed, and acute trauma has been excluded.",
+     "Core risk factors such as age, sex, menopausal status, and family history of fracture have been obtained."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Bone mineral density measurement by dual-energy X-ray absorptiometry (DXA)",
+     "Serum calcium, phosphorus, and alkaline phosphatase testing",
+     "25-hydroxyvitamin D level testing"
+    ],
+    "if_suspected": [
+     "Parathyroid hormone (PTH) testing to rule out hyperparathyroidism",
+     "Serum and urine beta-C-terminal telopeptide (β-CTX) and bone formation marker procollagen type 1 N-terminal propeptide (P1NP)",
+     "Spine X-ray to screen for occult compression fractures"
+    ],
+    "avoid": [
+     "Routine CT scanning for initial bone density screening (high radiation and not first-line)",
+     "Radionuclide bone scan as routine screening in asymptomatic patients",
+     "Repeated high-dose X-ray examinations to monitor changes in bone mass"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Basic treatment consists of calcium supplementation (elemental calcium 1000-1200 mg/day) and vitamin D (800-1200 IU). First-line drug therapy is bisphosphonates (e.g., oral alendronate 70 mg once weekly), usually for 3-5 years. Nonpharmacologic interventions such as weight-bearing exercise, fall-prevention training, smoking cessation, and limiting alcohol are also recommended to increase bone strength and reduce fracture risk."
+    ],
+    "safety_warnings": [
+     "Bisphosphonates are contraindicated in patients with esophageal abnormalities or those unable to stand/sit upright for 30 minutes; patients must remain upright after taking the medication to prevent esophageal ulceration.",
+     "Bisphosphonates are contraindicated in patients with renal impairment (eGFR<30ml/min), and the regimen should be adjusted.",
+     "Be alert to rare adverse reactions such as osteonecrosis of the jaw and atypical femoral fractures; long-term use requires regular assessment."
+    ],
+    "personalization": [
+     "For postmenopausal women, bisphosphonates or denosumab are preferred, with cardiovascular risk assessment incorporated.",
+     "For older patients or those with dysphagia, intravenous bisphosphonates or denosumab can be used instead of oral formulations.",
+     "In patients with severe renal impairment, avoid bisphosphonates; bone-forming agents such as teriparatide may be considered."
+    ]
+   },
+   "disease": "osteoporosis",
+   "department": "Endocrinology"
+  },
+  {
+   "presentation": "The child develops secondary sexual characteristics before age 8, such as breast enlargement, pubic hair growth, or menarche in girls, and penile growth and pubic hair development without testicular enlargement in boys. It is often accompanied by accelerated height growth and markedly advanced bone age. Unlike central precocious puberty, this condition does not involve activation of the hypothalamic-pituitary axis, is usually not accompanied by intracranial symptoms such as headache or visual disturbance, and sexual development may be asymmetric or rapidly progressive.",
+   "interview_guide": {
+    "first_questions": [
+     "Which sexual characteristic appeared first in your child (e.g., breast development, pubic hair, voice change), and when exactly did it start?",
+     "How fast has your child's height increased over the past 6 months? Is it noticeably faster than in peers?",
+     "Has your child had any exposure to hormone-containing medications, supplements, or cosmetics?"
+    ],
+    "followup_questions": [
+     "If vaginal bleeding occurs, how heavy is the bleeding? Is it cyclical?",
+     "Is there abdominal pain, vomiting, or neurologic symptoms (e.g., headache, blurred vision)?",
+     "Is there a family history of similar early development or genetic disease?"
+    ],
+    "stop_conditions": [
+     "The onset time and progression rate of sexual characteristics and any suspected history of exogenous hormone exposure have been clarified.",
+     "Central nervous system symptoms have been excluded, and physical examination suggests that the gonads are not driven by gonadotropins.",
+     "The patient's complaints are clear enough to initiate targeted hormone level testing and imaging evaluation."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Baseline serum LH, FSH, and estradiol/testosterone levels",
+     "Left wrist X-ray for bone age",
+     "Pelvic ultrasound (girls) or testicular/adrenal ultrasound (boys)"
+    ],
+    "if_suspected": [
+     "GnRH stimulation test (to differentiate central from peripheral precocious puberty)",
+     "Adrenocortical function panel (17-OHP, DHEA-S, etc.)",
+     "Cranial MRI (if hormone-secreting tumor compression or ectopic tissue is suspected)"
+    ],
+    "avoid": [
+     "Routine CT scanning (unless MRI is contraindicated and a mass is highly suspected, because of radiation risk)",
+     "Repeated GnRH stimulation tests without indication",
+     "Blind use of sex hormone suppression therapy without clarifying the cause"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Treatment directed at the cause is central: for McCune-Albright syndrome, aromatase inhibitors (e.g., letrozole) are first-line",
+     "For congenital adrenal hyperplasia, give glucocorticoid replacement",
+     "For exogenous intake, stop the relevant preparation immediately. For hCG-secreting tumors, surgical resection is required. GnRH analogues are generally unnecessary unless a central component is present. Duration of treatment depends on control of the underlying cause, with regular monitoring of bone age and sexual characteristics."
+    ],
+    "safety_warnings": [
+     "Long-term use of aromatase inhibitors requires monitoring for liver dysfunction and risk of dyslipidemia",
+     "Glucocorticoid therapy requires vigilance for Cushing syndrome manifestations and osteoporosis",
+     "Avoid self-use of estrogen-containing supplements or creams"
+    ],
+    "personalization": [
+     "In infants and young children, drug doses should be calculated precisely according to body weight",
+     "In prepubertal girls, attention should be paid to the potential impact of uterine development on fertility",
+     "Genetic testing is recommended for those with a family history of genetic disease to guide long-term management"
+    ]
+   },
+   "disease": "Peripheral precocious puberty",
+   "department": "Endocrinology"
+  },
+  {
+   "presentation": "Patients often present with intellectual developmental delay, behavioral abnormalities (e.g., hyperactivity, seizures), and a characteristic odor (mousy odor). There may be no obvious symptoms in the neonatal period; with increasing age, increased muscle tone and microcephaly may occur. Some children have eczema or fair skin. Without early intervention, irreversible neurologic damage will occur.",
+   "interview_guide": {
+    "first_questions": [
+     "Does your child have unexplained intellectual disability or developmental regression?",
+     "Have family members noticed a peculiar musty or mousy odor in your child's urine or sweat?",
+     "Is there a family history of similar metabolic disease or consanguineous marriage?"
+    ],
+    "followup_questions": [
+     "If seizures are noted, ask about their frequency and triggers",
+     "If feeding difficulties are present, ask about tolerance of protein-containing foods",
+     "If already diagnosed, ask about previous blood phenylalanine monitoring records and adherence to dietary control."
+    ],
+    "stop_conditions": [
+     "Newborn screening positivity and significantly elevated blood phenylalanine levels have been confirmed",
+     "The clinical presentation is typical and genetic testing confirms a PAH gene mutation",
+     "A basic metabolic evaluation has been completed and an initial dietary plan has been formulated."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Quantitative blood phenylalanine concentration measurement",
+     "Urinary pterin analysis",
+     "Genetic testing (PAH gene)"
+    ],
+    "if_suspected": [
+     "Electroencephalography (to assess seizure risk)",
+     "Cranial MRI (to exclude other structural brain abnormalities)",
+     "Amino acid profile analysis"
+    ],
+    "avoid": [
+     "Routine liver function tests (nonspecific and not used as a diagnostic basis)",
+     "Lumbar puncture (unless concomitant infection or a specific complication is suspected)",
+     "Whole-body PET-CT scanning without indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "The core treatment is a low-phenylalanine diet, with strict restriction of natural protein intake and use of specially prepared low-protein foods and phenylalanine-free formula. In the acute phase, medication for tetrahydrobiopterin (BH4)-responsive patients may be added. Blood phenylalanine concentrations must be monitored lifelong and maintained at 120-360μmol/L. Nonpharmacologic interventions include regular nutritional assessment and psychological support."
+    ],
+    "safety_warnings": [
+     "High-protein diets are strictly prohibited, as they can cause acute encephalopathy or even coma",
+     "Avoid medications containing phenylalanine (e.g., aspartame)",
+     "Long-term excessive restriction may lead to essential amino acid deficiency or growth retardation."
+    ],
+    "personalization": [
+     "Pregnant women with this condition require strict control of blood phenylalanine levels to prevent fetal damage",
+     "For BH4-responsive patients, dietary restrictions may be relaxed as appropriate in combination with drug therapy",
+     "During infancy and early childhood, calorie and protein intake should be dynamically adjusted according to growth and development."
+    ]
+   },
+   "disease": "phenylketonuria",
+   "department": "Endocrinology"
+  },
+  {
+   "presentation": "Patients often present with paroxysmal or sustained hypertension accompanied by the triad of headache, palpitations, and sweating. Symptoms may be triggered by emotional stress, changes in position, or abdominal pressure. Some patients have pallor, anxiety, and weight loss. Be alert to sudden severe hypertensive crisis or hypotensive shock.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had sudden severe headache, rapid heartbeat, and profuse sweating?",
+     "Does your blood pressure often fluctuate, especially with emotional stress or changes in position?",
+     "Have you had unexplained weight loss or anxiety?"
+    ],
+    "followup_questions": [
+     "If paroxysmal hypertension occurs, is it associated with specific triggers (e.g., exercise, eating)?",
+     "Have you ever had syncope or symptoms resembling low blood pressure?",
+     "Is there a family history of similar disease or other endocrine tumors?"
+    ],
+    "stop_conditions": [
+     "The classic triad has been clearly identified and blood pressure fluctuates markedly",
+     "The patient has clear imaging evidence of an adrenal mass",
+     "Initial screening tests (e.g., blood/urine catecholamines) are abnormal"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "24-hour urinary catecholamines and their metabolites",
+     "Plasma free metanephrines testing",
+     "Adrenal CT or MRI"
+    ],
+    "if_suspected": [
+     "Functional imaging (e.g., MIBG scintigraphy)",
+     "Genetic testing (e.g., RET, VHL, etc.)",
+     "Echocardiography to assess cardiac function"
+    ],
+    "avoid": [
+     "Routine use of beta-blockers as initial treatment",
+     "Adrenal biopsy without preparation",
+     "Surgical exploration before blood pressure is controlled"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is alpha-blockers (e.g., phenoxybenzamine) to control blood pressure, with individualized dose adjustment, for at least 10-14 days to allow volume expansion. Beta-blockers are then added to control heart rate. Adequate preoperative preparation is required to avoid precipitating hypertensive crisis. Nonpharmacologic interventions include restricting high-tyramine foods and avoiding emotional stress."
+    ],
+    "safety_warnings": [
+     "Beta-blocker monotherapy is contraindicated because of the risk of rebound hypertension",
+     "Be aware of interactions with MAOI drugs",
+     "Be alert to postoperative hypotension and arrhythmias"
+    ],
+    "personalization": [
+     "In pregnant patients, weigh drug safety and prefer labetalol",
+     "In older patients, monitor renal function and electrolytes",
+     "In pediatric patients, consider the risk of genetic mutations and develop a long-term follow-up plan"
+    ]
+   },
+   "disease": "Pheochromocytoma",
+   "department": "Endocrinology"
+  },
+  {
+   "presentation": "Patients often present with resistant hypertension accompanied by hypokalemia symptoms such as periodic muscle weakness, limb numbness, or tetany. Some patients have a history of nocturia, polydipsia, and polyuria. Typical complaints are 'high blood pressure that is difficult to control' or 'recurrent hypokalemia despite potassium supplementation'; be alert for spontaneous hypokalemia without an obvious trigger and a family history of early-onset hypertension.",
+   "interview_guide": {
+    "first_questions": [
+     "What level is your blood pressure usually controlled at? Are you taking multiple antihypertensive drugs but still getting poor results?",
+     "Have you recently had limb weakness, muscle cramps, or frequent nighttime urination?"
+    ],
+    "followup_questions": [
+     "If you have hypokalemia, have you had similar symptoms even without potassium supplementation?",
+     "Is there any family member who had a stroke or severe hypertension at a young age (before 40)?",
+     "Have you been taking diuretics long term or other medications that may affect electrolyte balance?"
+    ],
+    "stop_conditions": [
+     "Primary aldosteronism has been definitively diagnosed and a treatment plan has been established.",
+     "Secondary causes (such as renal artery stenosis, pheochromocytoma, etc.) have been excluded, and biochemical indices support the diagnosis.",
+     "The patient declines further testing, or the condition is stable and only follow-up observation is needed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Screening with plasma aldosterone concentration (PAC) to plasma renin activity (PRA) ratio (ARR)",
+     "Oral sodium loading test or saline infusion test (confirmatory test)",
+     "Adrenal CT without and with contrast"
+    ],
+    "if_suspected": [
+     "Adrenal vein sampling (AVS) for subtype classification",
+     "24-hour urinary aldosterone measurement",
+     "Electrocardiography to assess the cardiac effects of hypokalemia"
+    ],
+    "avoid": [
+     "ARR testing before discontinuing interfering medications (such as spironolactone, ACEI/ARB drugs)",
+     "Whole-body PET-CT without an indication",
+     "Blindly performing excessive invasive imaging procedures before bilateral adrenalectomy"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For unilateral adenoma, laparoscopic adrenalectomy is the first choice, and blood pressure improves significantly in most patients after surgery. For bilateral hyperplasia or patients who cannot undergo surgery, mineralocorticoid receptor antagonists are the first choice, such as spironolactone 20-100 mg/d in divided oral doses, or eplerenone 50-200 mg/d. At the same time, restrict sodium intake and supplement potassium to correct hypokalemia; adjust the course of treatment according to the condition, and long-term management is usually required."
+    ],
+    "safety_warnings": [
+     "Spironolactone may cause gynecomastia in men and menstrual irregularities in women; hormone levels should be monitored regularly.",
+     "Concomitant use with potassium-sparing diuretics or ACEI/ARB drugs is strictly prohibited because it can cause severe hyperkalemia, especially in patients with renal impairment.",
+     "Serum potassium and renal function should be closely monitored early in treatment to prevent acute kidney injury."
+    ],
+    "personalization": [
+     "Spironolactone is contraindicated in pregnant patients; eplerenone or amiloride may be selected, and combined obstetric monitoring is required.",
+     "Elderly patients should start at a low dose and titrate slowly to prevent orthostatic hypotension.",
+     "In patients with reduced renal function, adjust the spironolactone dose according to eGFR to avoid accumulation and toxicity."
+    ]
+   },
+   "disease": "Primary aldosteronism",
+   "department": "Endocrinology"
+  },
+  {
+   "presentation": "Patients often complain of anterior neck pain that may radiate to the ear or jaw and worsens with swallowing. Systemic symptoms such as fever and fatigue are common. Early on, transient hyperthyroid manifestations such as palpitations and tremor may occur, and later the condition may convert to transient hypothyroidism. On physical examination, the thyroid gland may be enlarged, firm, and markedly tender.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had a recent cold or upper respiratory tract infection?",
+     "Does the neck pain radiate to the ear or jaw? Does it worsen when you swallow?"
+    ],
+    "followup_questions": [
+     "Is it accompanied by fever, palpitations, or heat intolerance and excessive sweating?",
+     "Have you had any significant weight change recently?"
+    ],
+    "stop_conditions": [
+     "The nature of the neck pain and accompanying systemic infectious symptoms have been clarified.",
+     "The presence or absence of typical hyperthyroid or hypothyroid symptoms has been confirmed.",
+     "The past thyroid history and medication use have been obtained."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum thyroid hormones (T3, T4, FT3, FT4)",
+     "Thyroid-stimulating hormone (TSH)",
+     "Erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP)",
+     "Thyroid ultrasound examination"
+    ],
+    "if_suspected": [
+     "Thyroid radioactive iodine uptake measurement (to differentiate Graves' disease)",
+     "Thyroid autoantibodies (TPOAb, TgAb)"
+    ],
+    "avoid": [
+     "Radionuclide scanning (unnecessary in the acute phase and may interfere with judgment)",
+     "Fine-needle aspiration biopsy (unless tumor is suspected or the diagnosis is unclear)",
+     "Routine serial thyroid function monitoring (frequent retesting is not needed initially)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For mild cases, nonsteroidal anti-inflammatory drugs (NSAIDs) are the first choice (such as ibuprofen 0.2-0.4 g three times daily), for a course of 1-2 weeks",
+     "For severe cases or when NSAIDs are ineffective, switch to glucocorticoids (such as prednisone 15-30 mg/d, taken as a single morning dose); taper gradually after symptoms improve, with a total course of about 4-6 weeks. If hyperthyroid symptoms are prominent, a beta-blocker may be added short term to control heart rate."
+    ],
+    "safety_warnings": [
+     "Long-term glucocorticoid use requires vigilance for gastrointestinal bleeding, osteoporosis, and elevated blood glucose.",
+     "Avoid concomitant use with anticoagulants to reduce the risk of bleeding.",
+     "Monitor blood pressure and electrolyte balance."
+    ],
+    "personalization": [
+     "Use high-dose glucocorticoids with caution in older adults; prefer starting with a low dose.",
+     "NSAIDs are contraindicated in pregnant and breastfeeding women; glucocorticoid use should be weighed under medical guidance.",
+     "Patients with a history of diabetes or hypertension require close monitoring and adjustment of medications for underlying diseases."
+    ]
+   },
+   "disease": "Subacute thyroiditis",
+   "department": "Endocrinology"
+  },
+  {
+   "presentation": "Patients often complain of numbness in the fingers, toes, or perioral area, which then progresses to an 'obstetrician's hand' posture with wrist flexion, finger extension, and thumb adduction, as well as a 'ballet foot' posture with plantar flexion of the foot and stiffness of the toes. In severe cases, laryngeal spasm may cause dyspnea or generalized seizures may occur. Symptoms are often triggered by emotional excitement or hyperventilation and occur in paroxysms.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently felt numbness or cramps in your hands and feet? Which specific areas are affected?",
+     "During episodes, do you have perioral numbness or shortness of breath?",
+     "Have you recently had diarrhea, vomiting, or profuse sweating?"
+    ],
+    "followup_questions": [
+     "If hyperventilation is mentioned, follow up with: 'Did you breathe rapidly because of nervousness before the episode?'",
+     "If seizures are mentioned, follow up with: 'Were you fully conscious? How long did it last?'",
+     "Ask about past medical history: 'Do you have a history of thyroid surgery, parathyroid disease, or kidney disease?'"
+    ],
+    "stop_conditions": [
+     "Typical signs of carpopedal spasm and accompanying numbness have been clearly described.",
+     "Recent high-risk factors for hypocalcemia (such as hyperventilation or gastrointestinal loss) have been confirmed.",
+     "The patient has received emergency treatment and vital signs are stable, so referral for testing can be made without further interview."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum total calcium and ionized calcium measurement",
+     "Serum phosphorus measurement",
+     "Serum parathyroid hormone (PTH) measurement",
+     "Blood gas analysis"
+    ],
+    "if_suspected": [
+     "24-hour urinary calcium measurement (to differentiate malabsorption or renal calcium leak)",
+     "Vitamin D level testing",
+     "Electrocardiography (to screen for QT interval prolongation)"
+    ],
+    "avoid": [
+     "Head CT without clear indication (when there are no focal neurologic signs)",
+     "Unnecessary electromyography (unless neuropathy is suspected)",
+     "Empirical high-dose calcium supplementation without checking electrolytes"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For acute episodes, 10% calcium gluconate 10-20 mL is the first choice, given by slow intravenous push (over 5-10 minutes), repeated if necessary",
+     "Then give continuous intravenous infusion after dilution with 5% glucose and sodium chloride solution. At the same time, treat the underlying cause, such as correcting alkalosis, supplementing vitamin D, or oral calcium carbonate. Nonpharmacologic interventions include teaching the patient to avoid hyperventilation and using a paper bag over the mouth and nose to restore blood carbon dioxide concentration. The course of treatment is adjusted according to the serum calcium level and usually lasts several days to several weeks."
+    ],
+    "safety_warnings": [
+     "Intravenous calcium must not be pushed too rapidly to prevent cardiac arrest or arrhythmias.",
+     "Use calcium with caution in patients taking digitalis drugs to avoid worsening toxic reactions.",
+     "Be alert for the risk of hypercalcemia; monitor serum calcium levels to prevent rebound elevation."
+    ],
+    "personalization": [
+     "In patients with renal insufficiency, adjust the calcium dose according to eGFR and closely monitor serum phosphorus.",
+     "Pregnant women should receive calcium supplementation cautiously under combined obstetric and endocrinology monitoring to avoid premature fetal bone calcification.",
+     "In older patients, take care to prevent phlebitis and tissue necrosis caused by extravasation."
+    ]
+   },
+   "disease": "Tetany",
+   "department": "Endocrinology"
+  },
+  {
+   "presentation": "Patients often complain of anterior neck pain and tenderness that may radiate to the ear or jaw, accompanied by systemic symptoms such as fever and fatigue. Some patients have hyperthyroid-phase manifestations such as palpitations, tremor, and excessive sweating, followed by hypothyroid-phase symptoms such as cold intolerance and edema. On physical examination, the thyroid gland may be diffusely or focally enlarged, firm, and markedly tender.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had a recent upper respiratory tract infection?",
+     "Does the neck pain worsen when you swallow?",
+     "Do you have symptoms of metabolic abnormality such as palpitations, heat intolerance, or weight loss?"
+    ],
+    "followup_questions": [
+     "Is the pain continuous or paroxysmal? Does it radiate behind the ear?",
+     "Before onset, was there excessive fatigue, high psychological stress, or a history of pregnancy and childbirth?",
+     "Are you currently taking iodine-containing medications or amiodarone?"
+    ],
+    "stop_conditions": [
+     "The typical features distinguishing subacute from painless thyroiditis have been clearly identified.",
+     "A complete history of prior medication use and infectious exposure has been obtained.",
+     "The symptom evolution (transition from hyperthyroidism to hypothyroidism) has been clearly described."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Five-item thyroid function panel (TSH, FT3, FT4, TPOAb, TGAb)",
+     "Erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP)",
+     "Thyroid ultrasound examination"
+    ],
+    "if_suspected": [
+     "Thyroid radioactive iodine uptake measurement (to differentiate subacute thyroiditis from toxic nodule)",
+     "Thyroid fine-needle aspiration cytology (FNA) (to exclude tumor or in atypical diagnostic cases)",
+     "Complete blood count (to assess the degree of infection)"
+    ],
+    "avoid": [
+     "Routine use of radionuclide scanning as the first-line initial screening",
+     "Contrast-enhanced thyroid CT without indication",
+     "Blind use of antithyroid drug therapy without checking antibodies"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For mild pain in subacute thyroiditis, use nonsteroidal anti-inflammatory drugs (such as ibuprofen 0.2-0.4 g/dose three times daily) to control symptoms",
+     "For moderate to severe cases, give glucocorticoids (prednisone 15-30 mg/d, taken as a single morning dose), then taper gradually after symptoms improve, for a course of about 4-6 weeks. In the hyperthyroid phase, use beta-blockers only for symptomatic relief (such as propranolol 10-20 mg/dose three times daily); antithyroid drugs are contraindicated. In the hypothyroid phase, if TSH >10 mIU/L or symptoms are prominent, give short-term levothyroxine sodium supplementation."
+    ],
+    "safety_warnings": [
+     "Glucocorticoid therapy requires vigilance for the risk of elevated blood glucose, gastrointestinal ulcer, and osteoporosis; taking it after meals and monitoring blood pressure and blood glucose are recommended.",
+     "Avoid mistakenly using antithyroid drugs during the hyperthyroid phase, which can cause severe hypothyroidism.",
+     "Long-term high-dose NSAID use requires attention to the risk of gastrointestinal bleeding; use with caution in older adults."
+    ],
+    "personalization": [
+     "For pregnant and breastfeeding women, acetaminophen is the first choice for pain relief; glucocorticoid use requires strict weighing of benefits and risks.",
+     "Use reduced-dose glucocorticoids in older patients and closely monitor cardiovascular responses.",
+     "In patients with diabetes, adjust the glucocorticoid dose and strengthen blood glucose monitoring."
+    ]
+   },
+   "disease": "Thyroiditis",
+   "department": "Endocrinology"
+  },
+  {
+   "presentation": "Patients often present with abrupt onset; the classic 'three polys and one loss' symptoms are polydipsia, polyuria, polyphagia, and marked weight loss. Some patients present initially with acute complications, such as nausea, vomiting, abdominal pain, deep and labored breathing (Kussmaul respiration), and a fruity breath odor, suggesting diabetic ketoacidosis. It is more common in adolescents, but can occur at any age; be alert to misdiagnosis caused by atypical onset.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had unexplained rapid weight loss recently?",
+     "Have you experienced extreme thirst, markedly increased fluid intake, or increased nocturia?",
+     "Have you had symptoms such as blurred vision, fatigue, or itchy skin?"
+    ],
+    "followup_questions": [
+     "If you have had nausea, vomiting, or abdominal pain, please describe when it occurred and any accompanying changes in breathing.",
+     "Does any other family member have an autoimmune disease or diabetes?",
+     "Did you have a history of viral infection or a significant psychological stress event before onset?"
+    ],
+    "stop_conditions": [
+     "Typical 'three polys and one loss' symptoms and the amount of weight loss have been clearly documented.",
+     "Signs associated with diabetic ketoacidosis (such as deep and labored breathing and fruity breath odor) have been confirmed.",
+     "Previous blood glucose monitoring data or emergency department test results have been obtained."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Fasting blood glucose and random blood glucose measurement",
+     "Glycated hemoglobin (HbA1c) testing",
+     "Urinalysis and blood ketone testing",
+     "Islet autoantibody panel (GAD antibody, IA-2 antibody, etc.)"
+    ],
+    "if_suspected": [
+     "C-peptide release test (to assess pancreatic β-cell function)",
+     "Blood gas analysis (to assess acid-base balance)",
+     "Complete electrolyte panel (to screen for disturbances such as hypokalemia and hyperchloremia)"
+    ],
+    "avoid": [
+     "Oral glucose tolerance test (OGTT), because it may increase metabolic burden and is unnecessary",
+     "Insulin release test (usually unnecessary when type 1 is diagnosed)",
+     "Pancreatic imaging (unless pancreatitis or tumor is suspected)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Lifelong dependence on exogenous insulin therapy using a basal-bolus regimen (multiple daily injections or an insulin pump). The starting dose should be individualized according to body weight and blood glucose levels, usually starting at 0.4-0.5 U/kg/d. It must be combined with carbohydrate-counting dietary management and regular exercise. During the acute phase, intravenous fluids are required to correct dehydration and electrolyte disturbances, with ongoing blood glucose monitoring to prevent hypoglycemia."
+    ],
+    "safety_warnings": [
+     "Strictly prevent hypoglycemic reactions, especially nocturnal hypoglycemia; patients should be educated to recognize symptoms and manage them promptly.",
+     "Avoid insulin overdose leading to severe hypoglycemic coma; arbitrary dose changes are strictly prohibited.",
+     "Rotate insulin injection sites to prevent subcutaneous lipohypertrophy from affecting absorption."
+    ],
+    "personalization": [
+     "For pediatric patients, doses should be dynamically adjusted according to growth and development stage, with attention to height and weight growth.",
+     "Patients with diabetes during pregnancy require more frequent blood glucose monitoring and stricter target values to prevent fetal malformations.",
+     "For elderly patients, glycemic control targets should be appropriately relaxed, prioritizing avoidance of hypoglycemia risk."
+    ]
+   },
+   "disease": "Type 1 diabetes mellitus",
+   "department": "Endocrinology"
+  }
+ ]
+}

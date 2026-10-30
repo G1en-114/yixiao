@@ -1,0 +1,875 @@
+{
+ "department": "Pediatrics",
+ "skills": [
+  {
+   "presentation": "Common in infants and young children (especially children <2 years old). The early stage manifests as increased neuropsychiatric excitability: irritability, fussiness and crying, and excessive sweating (unrelated to room temperature, especially heavy sweating of the head after falling asleep, leading to scratching the head and rubbing the occiput to form 'occipital baldness'); the active stage presents with characteristic skeletal changes: craniotabes (ping-pong ball sign, mostly at 3–6 months), square skull (7–8 months), delayed closure of the anterior fontanelle, delayed tooth eruption and enamel hypoplasia, rachitic rosary, pigeon chest, pectus excavatum, Harrison groove, bracelet sign (enlargement of the epiphyses at the wrists and ankles), lower limb deformities ('bow legs' or 'knock knees'), muscle and ligamentous laxity (abdominal distension with a frog-like abdomen), and delayed motor development.",
+   "interview_guide": {
+    "first_questions": [
+     "Does your baby often startle during sleep, become irritable, and cry a lot? Does the back of the head sweat a lot?",
+     "Is there a ring of hair worn away on the back of your baby's head (occipital baldness)?",
+     "Does your baby usually breastfeed or take formula every day? Is your baby routinely given vitamin D drops every day (e.g., 400–800 IU per day)?"
+    ],
+    "followup_questions": [
+     "Does your baby usually spend much time outdoors? About how long is the sun exposure each day?",
+     "Has your baby's anterior fontanelle closed? Does the skull feel soft like a ping-pong ball when touched? Is teething later than in children of the same age?",
+     "After learning to stand and walk, have the legs become bent into bow legs or knock knees?"
+    ],
+    "stop_conditions": [
+     "Irritability, excessive sweating, occipital baldness, and skeletal changes such as craniotabes, square skull, and rachitic rosary have been collected",
+     "History of daily vitamin D and calcium supplementation and sunlight exposure has been clarified",
+     "Cerebral dysplasia, achondroplasia, and vitamin D-resistant rickets have been excluded"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum 25-hydroxyvitamin D3 [25-(OH)D3] measurement (the most sensitive and reliable indicator for assessing vitamin D nutritional status; deficiency is defined as <30 nmol/L or <12 ng/mL)",
+     "Blood biochemistry (serum calcium normal or low, serum phosphorus decreased, alkaline phosphatase ALP markedly elevated)",
+     "Anteroposterior X-ray plain film of the left wrist (core skeletal examination: widening of the distal metaphyses of the radius and ulna; the provisional calcification zone is blurred, thinned, or absent, showing brush-like and cupped depression changes; the epiphyseal cartilage zone is markedly widened)"
+    ],
+    "if_suspected": [
+     "Serum parathyroid hormone (PTH) measurement (compensatory elevation)",
+     "Urinary calcium/creatinine ratio",
+     "Bilateral renal and skeletal ultrasound (to differentiate primary renal tubular acidosis or hereditary bone disease)"
+    ],
+    "avoid": [
+     "Blindly ordering whole-body skeletal CT or whole-body ECT isotope scanning for a purely mild neuroexcitability stage",
+     "Blindly giving long-term ultra-high-dose intramuscular vitamin D without measuring 25-(OH)D, causing vitamin D intoxication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Vitamin D supplementation is the mainstay: oral therapeutic-dose vitamin D (2000–4000 IU per day, or oral vitamin D3 150,000–300,000 IU as a single dose each time; after a 1-month course, change to a maintenance prophylactic dose of 400–800 IU per day)",
+     "Concurrent supplementation with an appropriate amount of elemental calcium (300–500 mg per day)",
+     "Increase outdoor activities to increase sunlight exposure",
+     "For those with severe skeletal deformities, avoid premature forced standing and walking to prevent worsening of weight-bearing deformities."
+    ],
+    "safety_warnings": [
+     "Strictly prevent vitamin D overdose and intoxication! Avoid long-term supratherapeutic use; intoxication manifests as anorexia, nausea, polyuria, polydipsia, hypercalcemia, and metastatic calcification of soft tissues",
+     "Calcium supplementation must be provided before and during high-dose vitamin D therapy to avoid vitamin D–induced rapid deposition of serum calcium into bone, which can lead to hypocalcemic tetany and laryngeal spasm",
+     "After severe lower limb skeletal deformity develops, rough forced correction is strictly prohibited; mild to moderate deformities often resolve spontaneously with bone remodeling after vitamin D supplementation, while severe skeletal deformities require orthopedic evaluation for correction after age 4 years"
+    ],
+    "personalization": [
+     "Premature infants, low-birth-weight infants, and twins: vitamin D 800–1000 IU per day should be supplemented from 1 week after birth, changed to 400–800 IU after 3 months",
+     "Infants with malabsorption syndrome/severe diarrhea: intramuscular vitamin D injection may be used",
+     "After 1 month of treatment, recheck serum calcium and phosphorus, ALP, and skeletal X-ray to assess cure and outcome"
+    ]
+   },
+   "disease": "Vitamin D deficiency rickets",
+   "department": "Pediatrics"
+  },
+  {
+   "presentation": "Prodromal symptoms such as fever, headache, fatigue, and poor appetite, followed by unilateral or bilateral parotid gland enlargement; diffuse swelling centered on the earlobe extending forward, backward, and downward, with indistinct borders; the overlying skin is shiny and taut but not red, and on palpation there is an elastic feel and mild tenderness; pain is markedly aggravated by opening the mouth, chewing, or eating acidic foods; redness and swelling of the ipsilateral parotid duct opening (on the buccal mucosa) are often present.",
+   "interview_guide": {
+    "first_questions": [
+     "How many days has the area below the earlobe (the cheek) been swollen? Is it swollen on one side or both sides?",
+     "Does the cheek pain become clearly worse when your child opens the mouth to eat, chews food, or eats sour foods?",
+     "Is there fever? What is the highest temperature measured?"
+    ],
+    "followup_questions": [
+     "In the 2–3 weeks before illness onset, did any classmates at school or kindergarten have mumps? Has your child previously received the measles-mumps-rubella (MMR) vaccine?",
+     "If your child is a boy, does he have severe testicular swelling and pain (to rule out mumps orchitis)? Does he have severe headache, projectile vomiting, or neck stiffness (to rule out meningoencephalitis)?",
+     "Does your child have severe upper abdominal pain, nausea, and vomiting (to rule out mumps pancreatitis)?"
+    ],
+    "stop_conditions": [
+     "Diffuse non-suppurative parotid enlargement centered on the earlobe and exacerbation by acidic food intake have been confirmed",
+     "History of infectious disease contact and vaccination have been clarified",
+     "The three common serious complications—meningoencephalitis, orchitis, and acute pancreatitis—have been rigorously ruled out"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Physical examination (palpation of parotid borders and texture, elevation of the earlobe, and redness/swelling of the parotid duct opening on the buccal mucosa)",
+     "Complete blood count (total white blood cell count normal or low, with a relatively increased lymphocyte proportion)",
+     "Serum and urine amylase measurement (after parotid gland damage, serum and urine amylase are often markedly elevated)"
+    ],
+    "if_suspected": [
+     "Serum mumps virus–specific IgM antibody testing (to confirm acute infection)",
+     "Serum lipase and abdominal ultrasound (when severe abdominal pain suggests complicated acute pancreatitis)",
+     "Color scrotal ultrasound (in adolescent boys with testicular swelling and pain to rule out orchitis)",
+     "Lumbar puncture for cerebrospinal fluid testing (when severe headache, vomiting, lethargy, and meningeal irritation signs suggest complicated meningoencephalitis)"
+    ],
+    "avoid": [
+     "Blindly administering large amounts of intravenous advanced broad-spectrum antibiotics systemically for uncomplicated viral mumps",
+     "Confusing suppurative parotitis (pus from the duct opening on compression) with viral mumps without performing ultrasound"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Respiratory isolation (isolate until parotid swelling has completely resolved)",
+     "Symptomatic and supportive treatment is the mainstay: bed rest, bland liquid or semiliquid diet, and avoidance of acidic irritating foods",
+     "For fever and pain, give acetaminophen or ibuprofen for antipyresis and analgesia",
+     "Local cold compresses or topical Ruyi Jinhuang powder/cactus paste to reduce swelling and relieve pain",
+     "When complicated by severe meningoencephalitis, pancreatitis, or orchitis, use short-term glucocorticoids and symptomatic intracranial pressure–lowering support."
+    ],
+    "safety_warnings": [
+     "Adolescent boys with mumps are prone to acute orchitis; severe cases can cause necrosis of the spermatogenic epithelium of the seminiferous tubules and infertility. The scrotum should be elevated and cold-compressed, with early anti-inflammatory intervention.",
+     "Acidic foods must not be used to test the child (severe pain stimulus), and aspirin is contraindicated for antipyresis (to prevent Reye syndrome in children)",
+     "If yellow-white pus flows from the duct opening on compression, this suggests suppurative bacterial parotitis, and antibiotic treatment should be started immediately"
+    ],
+    "personalization": [
+     "Children with complicated meningoencephalitis: intravenous mannitol for dehydration and intracranial pressure reduction, bed rest with close monitoring of vital signs",
+     "Children with complicated pancreatitis: temporary fasting, fluid replacement, acid suppression, and suppression of pancreatic enzyme secretion for symptomatic treatment",
+     "Susceptible contact children: closely observe for the 21-day incubation period"
+    ]
+   },
+   "disease": "Mumps",
+   "department": "Pediatrics"
+  },
+  {
+   "presentation": "Around the time of umbilical cord detachment in a newborn, the umbilical fossa is moist, red, and edematous, with serous or yellow purulent discharge and a foul odor; erythema and edema of the periumbilical skin spread outward, and pus exudes when the umbilical fossa is pressed. Severe cases may have systemic infectious toxic symptoms such as fever, refusal to feed, listlessness, and lethargy, and may rapidly spread to abdominal wall cellulitis, peritonitis, or neonatal sepsis.",
+   "interview_guide": {
+    "first_questions": [
+     "How many days old is your baby? Has the umbilical cord stump already detached?",
+     "Is the skin around your baby's umbilicus red and swollen? Is there yellow pus or foul-smelling fluid coming out?",
+     "Is your baby feeding well? Is there fever, low body temperature, listlessness, or lethargy?"
+    ],
+    "followup_questions": [
+     "How do you usually care for your baby's umbilicus? Has water entered during bathing, or have unclean powders/folk remedies been applied?",
+     "Has the redness and swelling spread extensively to the surrounding abdominal wall skin? (to rule out abdominal wall cellulitis)",
+     "Does your baby cry intensely and resist when the umbilical fossa is pressed? Does the abdomen feel tight and hard to the touch?"
+    ],
+    "stop_conditions": [
+     "The degree of umbilical redness, swelling, and suppuration and the nature of the discharge have been clarified",
+     "Systemic critical signs of peritonitis, abdominal wall gangrene, and neonatal sepsis have been ruled out",
+     "The daily umbilical disinfection method and birth history have been completely collected"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Pediatric physical examination (assessment of the extent of periumbilical redness and swelling, amount of purulent exudate in the umbilical fossa, and abdominal palpation)",
+     "Complete blood count + C-reactive protein (CRP) + procalcitonin (PCT) (to assess the systemic infection response)",
+     "Gram stain of umbilical discharge smear and bacterial culture + drug susceptibility testing (to guide antibiotic selection)"
+    ],
+    "if_suspected": [
+     "Whole blood culture (mandatory when there is fever, poor responsiveness, and suspected sepsis)",
+     "Abdominal color ultrasound (to rule out urachal fistula, patent vitelline duct, umbilical vasculitis, and intra-abdominal abscess)"
+    ],
+    "avoid": [
+     "Blindly ordering contrast-enhanced whole-abdomen CT for simple localized mild omphalitis",
+     "Blindly applying large amounts of irritating colored medicinal liquids (such as gentian violet/merbromin, which easily mask the condition and are toxic) before cleaning the umbilical fossa discharge"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Mild localized omphalitis: thorough local cleaning and disinfection (clean with 3% hydrogen peroxide solution to remove purulent crusts, wipe clean with normal saline, then apply 0.5% povidone-iodine 2–3 times daily), and topical antibiotic ointment (mupirocin ointment)",
+     "Keep the umbilical area dry and exposed",
+     "Moderate to severe cases with marked periumbilical redness/swelling or systemic symptoms: early, adequate systemic intravenous antibiotics targeting Staphylococcus aureus and Gram-negative bacilli (e.g., oxacillin, cefazolin, or ampicillin-sulbactam) must be used."
+    ],
+    "safety_warnings": [
+     "Newborns have extremely low immune function and the umbilical vessels connect directly to the portal vein and inferior vena cava; umbilical suppuration can spread instantly and cause fatal sepsis, purulent meningitis, and portal vein thrombosis, so high vigilance is required",
+     "Topical silver sulfadiazine, merbromin (mercury-containing), and gentian violet (which is potentially carcinogenic and causes mucosal necrosis) are absolutely prohibited in newborns",
+     "If continuous clear fluid with a urine odor drains from the umbilical fossa, this suggests a patent urachus; if fecal-like fluid drains, this suggests a vitelline duct fistula; pediatric surgery is required"
+    ],
+    "personalization": [
+     "Umbilical granuloma formation (chronic mild exudation): local cauterization with a 10% silver nitrate stick to destroy the granulation tissue, followed by dripping normal saline to neutralize",
+     "With extensive deep abscess formation in the abdominal wall: perform timely local small-incision abscess drainage",
+     "Premature and very-low-birth-weight infants: escalate intravenous antibiotics and admit to the neonatal intensive care unit (NICU)"
+    ]
+   },
+   "disease": "Neonatal omphalitis",
+   "department": "Pediatrics"
+  },
+  {
+   "presentation": "Infancy feeding difficulties (fatigue during feeding, weak sucking, and stopping to rest after a few sucks due to breathlessness and sweating), failure to gain weight, growth retardation, recurrent respiratory tract infections, and refractory pneumonia; exertional shortness of breath and palpitations, cyanosis (cyanotic congenital heart disease such as tetralogy of Fallot presents with marked cyanosis of the lips and nail beds of the fingers and toes during crying or feeding, a preference for squatting, and sudden hypoxic attacks with convulsions); cardiac auscultation may reveal a loud, harsh systolic or continuous cardiac murmur along the left sternal border, accompanied by a thrill.",
+   "interview_guide": {
+    "first_questions": [
+     "During feeding, does your baby have feeding fatigue, become drenched in sweat after a couple of sucks, and breathe very rapidly and need to rest?",
+     "When your baby cries, feeds, or is active, do the lips or nails turn blue or purple (cyanosis)?",
+     "Has a doctor told you during physical examination auscultation that your baby has a heart murmur?"
+    ],
+    "followup_questions": [
+     "Does your baby often catch colds and develop pneumonia, and is each pneumonia difficult to resolve?",
+     "Are your baby's height and weight gain clearly far behind those of healthy children of the same age?",
+     "In slightly older children, after running and jumping, do they like to squat down on their own to rest (squatting phenomenon)?"
+    ],
+    "stop_conditions": [
+     "The clinical classification of congenital heart disease has been clarified (left-to-right shunt types such as VSD/ASD/PDA, and right-to-left shunt cyanotic types such as TOF)",
+     "The severity of heart failure, hypoxic attacks, and recurrent severe pulmonary infections has been assessed",
+     "Maternal infection and medication history during pregnancy and the timing of surgical treatment have been clearly assessed"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Transthoracic pediatric echocardiography (TTE) + color Doppler flow imaging (the gold standard for confirming congenital cardiovascular malformations, cardiac chamber size, shunt direction, and transseptal pressure gradient)",
+     "12-lead electrocardiography (to assess atrial/ventricular hypertrophy and arrhythmias)",
+     "Chest X-ray plain film (to assess cardiac silhouette morphology, cardiothoracic ratio, and signs of increased/decreased pulmonary blood flow)",
+     "Percutaneous arterial oxygen saturation monitoring (SpO2)"
+    ],
+    "if_suspected": [
+     "Cardiovascular 3D CTA/cardiac magnetic resonance (CMR) (detailed anatomical assessment of complex congenital heart disease)",
+     "Cardiac catheterization and cardiovascular angiography (measurement of pulmonary artery pressure and pulmonary vascular resistance, and preprocedural assessment for interventional closure)"
+    ],
+    "avoid": [
+     "For common congenital heart disease with no surgical contraindication, blindly delaying indefinitely until irreversible Eisenmenger syndrome occurs (losing the opportunity for surgery)",
+     "Blindly giving hypertonic dehydrating agents during hypoxic attacks in cyanotic congenital heart disease, which worsens blood hyperviscosity"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Surgical radical correction or percutaneous interventional closure is the fundamental curative treatment: for atrial septal defect (ASD), ventricular septal defect (VSD), and patent ductus arteriosus (PDA), percutaneous interventional closure by cardiology or minimally invasive open repair is preferred",
+     "Complex cyanotic types (such as tetralogy of Fallot, TOF) undergo radical corrective surgery",
+     "Medical supportive treatment: for heart failure, diuretics (furosemide + spironolactone), inotropic support (digoxin), and vasodilation (ACEI)",
+     "Prevent infective endocarditis",
+     "For acute hypoxic attacks in tetralogy of Fallot, immediately place in the knee-chest position, give oxygen, subcutaneous morphine, and intravenous propranolol to relieve infundibular spasm."
+    ],
+    "safety_warnings": [
+     "If left-to-right shunt congenital heart disease (VSD/PDA, etc.) is left untreated for a long time, it can progress to severe pulmonary hypertension, causing bidirectional or reversed right-to-left shunting (Eisenmenger syndrome); permanent cyanosis then appears, which is an absolute contraindication to surgery, and the golden window for early surgery must not be delayed",
+     "In cyanotic congenital heart disease, red blood cells are often markedly increased compensatorily, leading to extreme blood hyperviscosity; cerebral thrombosis and brain abscess must be prevented, and excessive dehydration and fasting are strictly prohibited",
+     "After interventional closure, routine oral aspirin antiplatelet therapy is required for 6 months"
+    ],
+    "personalization": [
+     "Small muscular VSD or small ASD (<3–5 mm) without symptoms: follow-up observation until 2–4 years of age; some may close spontaneously",
+     "Moderate-to-large defects with congestive heart failure and growth retardation: perform emergency or elective surgical repair as early as infancy (even <6 months)",
+     "Children with tetralogy of Fallot: primary anatomical radical correction is generally recommended within 6–12 months after birth"
+    ]
+   },
+   "disease": "Congenital heart disease",
+   "department": "Pediatrics"
+  },
+  {
+   "presentation": "Affected children usually present in infancy with recurrent, severe bacterial, viral, or fungal infections, such as pneumonia, otitis media, and chronic diarrhea. They often have growth retardation, hepatosplenomegaly, and lymphadenopathy. Some severely affected patients may present with systemic wasting symptoms resembling severe combined immunodeficiency (SCID); the skin may show eczematous rash, and they respond poorly to routine anti-infective treatment.",
+   "interview_guide": {
+    "first_questions": [
+     "At how many months of age did the child begin to become ill frequently? What types of infections specifically?",
+     "How is the child's growth and development? Is it significantly behind that of peers?",
+     "Is there a family history of similar immunodeficiency or early death?"
+    ],
+    "followup_questions": [
+     "Do the infections involve opportunistic pathogens (such as Pneumocystis jirovecii) or require intravenous antibiotics to control?",
+     "Does the child have long-term unexplained diarrhea, rash, or persistent lymph node enlargement?",
+     "Are the parents consanguineous, or are there other family members with immunodeficiency disease?"
+    ],
+    "stop_conditions": [
+     "Documented history of recurrent severe infections, growth failure, and typical signs (hepatosplenomegaly, lymphadenopathy).",
+     "Family history suggests an autosomal recessive inheritance pattern and is consistent with immunodeficiency features.",
+     "Initial screening shows marked lymphocytopenia and absent T-cell function."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Peripheral blood lymphocyte subset analysis (flow cytometry for T, B, and NK cell counts)",
+     "Serum immunoglobulin quantification (IgG, IgA, IgM, IgE)",
+     "Red blood cell adenosine deaminase (RBC-ADA) activity assay"
+    ],
+    "if_suspected": [
+     "ADA gene sequencing (to confirm the pathogenic mutation site)",
+     "Bone marrow aspiration (to assess hematopoietic function and exclude other hematologic diseases)",
+     "Chest CT (to assess pulmonary infection and thymic development)"
+    ],
+    "avoid": [
+     "Live vaccines (such as BCG, rotavirus vaccine, etc., to prevent disseminated infection)",
+     "Unnecessary invasive procedures (which increase infection risk in an immunosuppressed state)",
+     "Empirical long-term use of broad-spectrum corticosteroids (may mask the condition and worsen immunosuppression)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "The preferred treatment is pegylated adenosine deaminase (PEG-ADA) replacement therapy, requiring regular subcutaneous injections to supplement enzyme activity. For suitable patients, allogeneic hematopoietic stem cell transplantation is a curative approach. At the same time, prophylactic anti-infective therapy is needed (e.g., trimethoprim-sulfamethoxazole to prevent Pneumocystis pneumonia), along with strict isolation and protective measures. Non-pharmacologic interventions include nutritional support and avoidance of exposure to infectious sources."
+    ],
+    "safety_warnings": [
+     "Any live attenuated vaccine is strictly contraindicated, as it may cause fatal infection.",
+     "PEG-ADA therapy may induce antibodies leading to reduced efficacy or allergic reactions; antibody levels should be monitored.",
+     "Hematopoietic stem cell transplantation carries risks of graft-versus-host disease (GVHD) and graft failure."
+    ],
+    "personalization": [
+     "Calculate the PEG-ADA dose precisely according to the child's weight and adjust dosing frequency based on enzyme activity levels.",
+     "For children with a suitable donor, early hematopoietic stem cell transplantation is preferentially recommended over lifelong enzyme replacement.",
+     "Children with severe concurrent infection should have enzyme replacement therapy paused until the infection is controlled, with intensified supportive care."
+    ]
+   },
+   "disease": "adenosine deaminase (ADA) deficiency",
+   "department": "Pediatrics"
+  },
+  {
+   "presentation": "Affected children often present with a grayish-white reflex in the pupillary area (leukocoria) and sluggish or absent response to light stimulation. Some infants develop nystagmus, strabismus, or photophobia. Parents often report noticing that the child's eye appears white, vision is poor, or the child cannot follow objects. If unilateral, it may present only as amblyopia; bilateral disease affects stereoscopic visual development and must be identified as early as possible to avoid irreversible visual impairment.",
+   "interview_guide": {
+    "first_questions": [
+     "How long ago was the white pupil or abnormal eye appearance noticed?",
+     "Can the child fixate on faces or follow moving objects?",
+     "Was there any viral infection during pregnancy (such as rubella) or a family history of genetic disease?"
+    ],
+    "followup_questions": [
+     "Is there involuntary eye movement or strabismus?",
+     "Was there a history of hypoxia, severe jaundice, or infection at birth?",
+     "Are there other family members with similar eye disease?"
+    ],
+    "stop_conditions": [
+     "Leukocoria has been clearly identified with typical signs.",
+     "Obvious nystagmus or strabismus has been confirmed.",
+     "Parents can provide a clear family history of genetic disease."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Slit-lamp examination",
+     "Fundoscopy",
+     "Ocular B-scan ultrasonography"
+    ],
+    "if_suspected": [
+     "Refraction testing",
+     "Electroretinography (ERG)",
+     "Genetic testing"
+    ],
+    "avoid": [
+     "Routine visual acuity chart testing (infants cannot cooperate)",
+     "Unnecessary complex imaging after pupillary dilation"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "After diagnosis, surgery to remove the opacified lens should be performed as early as possible, usually recommended within 6–8 weeks after birth to prevent deprivation amblyopia. Postoperatively, refractive error should be corrected with a high-refractive-index intraocular lens or spectacles, and occlusion therapy and amblyopia training should be started immediately. For young infants, secondary intraocular lens implantation or contact lens wear may be considered."
+    ],
+    "safety_warnings": [
+     "Strictly monitor intraocular pressure postoperatively to prevent secondary glaucoma.",
+     "Avoid excessive use of corticosteroid eye drops, which can cause corneal damage.",
+     "Be alert for postoperative infectious endophthalmitis; closely observe for redness, swelling, warmth, and pain."
+    ],
+    "personalization": [
+     "For preterm infants, adjust surgical timing according to corrected gestational age.",
+     "Patients with systemic syndromes require multidisciplinary collaboration to assess anesthesia risk.",
+     "Patients with unilateral cataract require intensified occlusion therapy to prevent amblyopia."
+    ]
+   },
+   "disease": "Congenital cataract",
+   "department": "Pediatrics"
+  },
+  {
+   "presentation": "Affected infants do not pass meconium within 48 hours after birth or have delayed passage, accompanied by progressive abdominal distension and vomiting (bile-stained). The typical presentation is intractable constipation requiring glycerin suppositories or enemas to pass stool, with temporary relief of abdominal distension after defecation. Some affected children may have malnutrition, growth retardation, and recurrent enterocolitis symptoms.",
+   "interview_guide": {
+    "first_questions": [
+     "How long after birth did the baby pass the first meconium?",
+     "What is the current bowel movement frequency, and is a glycerin suppository or manual assistance needed to pass stool?",
+     "Is there frequent vomiting or marked abdominal distension?"
+    ],
+    "followup_questions": [
+     "If fever and diarrhea occur, does this suggest complicating enterocolitis?",
+     "Is there a family history of similar disease or manifestations of a genetic syndrome?",
+     "Is recent weight gain adequate, and are there signs of developmental delay?"
+    ],
+    "stop_conditions": [
+     "Significantly delayed meconium passage has been clearly documented, accompanied by a history of typical abdominal distension and vomiting.",
+     "Parents can provide clear details of the pattern of difficult defecation and the need for assisted bowel movements.",
+     "Functional constipation (e.g., dietary factors) has been excluded, and features of an organic lesion have been confirmed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Barium enema radiography",
+     "Anorectal manometry",
+     "Rectal mucosal suction biopsy"
+    ],
+    "if_suspected": [
+     "Whole gastrointestinal contrast study (to assess short-segment or long-segment involvement)",
+     "Abdominal plain radiograph (to rule out intestinal obstruction or perforation)",
+     "Complete blood count and C-reactive protein (to assess infection markers)"
+    ],
+    "avoid": [
+     "Long-term routine use of oral laxatives (may mask the condition or increase the risk of toxic megacolon)",
+     "Blind abdominal CT examination (high radiation and low diagnostic specificity)",
+     "Forceful enema administration without assessment (increases the risk of intestinal perforation)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "After diagnosis, surgery is the preferred treatment (such as the Soave, Duhamel, or Swenson procedure). Before surgery, daily warm saline enemas are needed to clean the bowel, reduce abdominal distension, and prevent enterocolitis. For those who cannot undergo immediate surgery, a temporary stoma may be created as a bridge. Postoperatively, anal dilation training and dietary management are needed to promote recovery of bowel function."
+    ],
+    "safety_warnings": [
+     "Surgery must not be forced during acute enterocolitis; infection should be controlled first.",
+     "Avoid strong stimulant laxatives to prevent induction of toxic megacolon.",
+     "Closely monitor for anastomotic leak and stricture postoperatively, and be alert for severe infection."
+    ],
+    "personalization": [
+     "For neonates or young infants, staged surgery is preferred to reduce risk.",
+     "For patients with short-segment disease, transanal minimally invasive surgery may be considered to reduce trauma.",
+     "Children with genetic conditions such as Down syndrome require comprehensive cardiopulmonary evaluation before the treatment plan is determined."
+    ]
+   },
+   "disease": "Hirschsprung disease",
+   "department": "Pediatrics"
+  },
+  {
+   "presentation": "Affected infants usually develop persistent jaundice at 2–4 weeks after birth, with stool color gradually becoming pale or even grayish-white and dark yellow urine. As the disease progresses, hepatosplenomegaly, ascites, and malnutrition may occur. Parents often describe it as 'jaundice that does not resolve' or 'abnormal stool color.'",
+   "interview_guide": {
+    "first_questions": [
+     "Has the child's jaundice persisted for more than 2 weeks after birth?",
+     "Has the stool color changed, such as becoming pale or grayish-white?",
+     "Has the urine color become noticeably darker?"
+    ],
+    "followup_questions": [
+     "If the child has hepatosplenomegaly, is there abdominal distension or decreased appetite?",
+     "If growth retardation is present, how is feeding, and what is the weight-growth curve?",
+     "Is there a family history of similar disease or other genetic disorders?"
+    ],
+    "stop_conditions": [
+     "Jaundice lasting more than 2 weeks with abnormal stool color has been clearly documented.",
+     "Physical examination reveals hepatosplenomegaly accompanied by typical symptoms.",
+     "Initial tests suggest abnormalities in cholestasis-related indicators."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum total bilirubin and direct bilirubin measurement",
+     "Abdominal ultrasonography",
+     "Hepatobiliary scintigraphy"
+    ],
+    "if_suspected": [
+     "Liver biopsy",
+     "MRCP (magnetic resonance cholangiopancreatography)",
+     "Intraoperative cholangiography"
+    ],
+    "avoid": [
+     "Routine plain radiography (not significantly helpful for diagnosis)",
+     "Repeated liver function tests (unless used to monitor treatment response)",
+     "Unnecessary blood cultures (unless infection is suspected)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "The preferred surgery is the Kasai procedure (hepatic portoenterostomy), with the optimal timing within 60 days after birth. Liver function should be assessed before surgery; postoperatively, antibiotics are given to prevent infection, and ursodeoxycholic acid is used to promote bile excretion. At the same time, nutritional support should be strengthened, with fat-soluble vitamin supplementation if necessary."
+    ],
+    "safety_warnings": [
+     "Avoid drugs that may damage the liver, such as acetaminophen overdose.",
+     "Be aware of the risk of postoperative cholangitis and promptly recognize symptoms such as fever and abdominal pain.",
+     "Long-term follow-up should monitor liver function and progression of cirrhosis."
+    ],
+    "personalization": [
+     "For preterm infants, adjust surgical timing and dosage.",
+     "Children with other congenital anomalies require multidisciplinary collaborative management.",
+     "Those diagnosed late may need to consider liver transplantation."
+    ]
+   },
+   "disease": "Congenital biliary atresia",
+   "department": "Pediatrics"
+  },
+  {
+   "presentation": "Structural abnormalities are noted at birth, such as cleft lip and palate, polydactyly, spina bifida, or heart murmur. Common manifestations include feeding difficulties, tachypnea, cyanosis, limited limb movement, or developmental delay. Parents often report that 'the child was not right from birth'; identification requires correlation with site-specific symptoms, e.g., abdominal distension suggests gastrointestinal atresia, and a neck mass suggests lymphangioma, etc.",
+   "interview_guide": {
+    "first_questions": [
+     "Were any obvious structural or functional abnormalities noted at birth?",
+     "Was there any infection, medication use, or family history of genetic disease during pregnancy?",
+     "Are there currently feeding difficulties, breathing difficulties, or growth and developmental delay?"
+    ],
+    "followup_questions": [
+     "If a heart murmur is found, ask further: Does the infant sweat easily, become short of breath, or develop bluish lips during feeding?",
+     "If neurological involvement is suspected, ask further: Are there seizures, abnormal muscle tone, or impaired consciousness?",
+     "If there is a visible surface malformation, ask further: Is it accompanied by associated abnormalities in other systems (e.g., urinary, skeletal)?"
+    ],
+    "stop_conditions": [
+     "The main site and preliminary type of malformation have been clarified, and there are no emergency vital sign abnormalities.",
+     "Key history has been obtained, including pregnancy and birth history and family history, sufficient to guide initial evaluation.",
+     "The patient is stable and does not require immediate invasive procedures or emergency intervention."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete physical examination (focusing on appearance, cardiopulmonary auscultation, and neurological reflexes)",
+     "Echocardiography (to screen for congenital heart disease)",
+     "Imaging studies (X-ray, CT, or MRI, depending on the site of malformation)"
+    ],
+    "if_suspected": [
+     "Chromosomal karyotyping or genetic testing (to screen for genetic syndromes)",
+     "Renal function tests and urinary tract ultrasound (to screen for renal dysplasia or obstruction)",
+     "Electroencephalography (if epilepsy or structural brain abnormality is suspected)"
+    ],
+    "avoid": [
+     "Whole-body contrast-enhanced radiological scanning without indication",
+     "Unnecessary invasive biopsy (unless malignancy is highly suspected)",
+     "Blind use of corticosteroids or immunosuppressants before a definitive diagnosis is established"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Treatment is primarily surgical correction, with an individualized plan based on the type of malformation. Mild malformations may be observed and followed up",
+     "Severe malformations require early surgery in the neonatal or infant period. Preoperative nutritional support and correction of anemia and electrolyte disturbances are needed. Some cases require multidisciplinary team (MDT) collaboration, including surgery, rehabilitation, and psychology involvement, with postoperative rehabilitation training to promote functional recovery."
+    ],
+    "safety_warnings": [
+     "Strictly assess anesthesia risk and avoid surgery during acute infection",
+     "Pay attention to history of drug allergy, especially to antibiotics and anesthetics",
+     "Closely monitor for postoperative complications such as bleeding, infection, and anastomotic leak"
+    ],
+    "personalization": [
+     "For preterm or low-birth-weight infants, adjust surgical timing and drug doses",
+     "In those with complex syndromes, prioritize management of life-threatening malformations",
+     "Family socioeconomic status affects access to postoperative rehabilitation resources and should be planned in advance"
+    ]
+   },
+   "disease": "Congenital malformation",
+   "department": "Pediatrics"
+  },
+  {
+   "presentation": "The child often presents with head and neck tilt toward the affected side and the mandible rotated toward the contralateral side. Parents usually report an abnormal head posture or a firm, painless, spindle-shaped mass (pseudotumor) palpated in the sternocleidomastoid region. Some children have facial asymmetry or cranial skew; passive neck movement is limited and meets resistance.",
+   "interview_guide": {
+    "first_questions": [
+     "How long after birth was the head tilt noticed? Is it persistent?",
+     "Is a hard mass palpable in the neck? What are its size and consistency?",
+     "Is head turning limited or does the child cry and resist?"
+    ],
+    "followup_questions": [
+     "If a mass is found: Has the mass recently enlarged or become softer?",
+     "If facial asymmetry is present: Are the positions of the eyes and ears symmetric on both sides?",
+     "Birth history: Was there difficult labor, breech presentation, or use of forceps/vacuum extraction?"
+    ],
+    "stop_conditions": [
+     "A typical head-neck tilt posture and sternocleidomastoid mass features have been clearly described",
+     "No neurological symptoms (e.g., limb weakness, seizures) have been confirmed",
+     "Mode of delivery and family history of genetic disease have been obtained"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Neck physical examination (palpation of the sternocleidomastoid mass and range of motion)",
+     "Cervical spine plain X-ray (to exclude osseous torticollis)",
+     "Neck ultrasound (to assess muscle structure and the nature of the mass)"
+    ],
+    "if_suspected": [
+     "Cranial CT/MRI (when skull base malformation or intracranial lesion is suspected)",
+     "Ophthalmologic examination (to exclude ocular torticollis)",
+     "Hip ultrasound (to screen for coexisting developmental dysplasia of the hip)"
+    ],
+    "avoid": [
+     "Routine radionuclide scanning (without indication)",
+     "Excessive reliance on CT (increases radiation exposure and has lower soft-tissue resolution than ultrasound)",
+     "Blind cervical traction therapy (contraindicated before diagnosis is confirmed)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is conservative therapy, including professionally guided passive stretching exercises: gently stretch the affected sternocleidomastoid muscle to the maximum tolerated angle multiple times daily, holding each stretch for 15-30 seconds. Combine with warm compresses to promote blood circulation. For infants younger than 6 months, adherence to physical therapy can achieve an efficacy rate of more than 90%. If conservative treatment is ineffective or onset is after 1 year of age, consider surgical release of the sternocleidomastoid muscle."
+    ],
+    "safety_warnings": [
+     "Never use forceful manual correction of the head, to avoid cervical spine injury or muscle tear",
+     "Avoid vigorous massage during acute inflammation",
+     "Observe for skin marks and prevent soft-tissue injury from stretching"
+    ],
+    "personalization": [
+     "For preterm infants, adjust stretching force and frequency according to corrected age",
+     "Those with coexisting developmental dysplasia of the hip require concurrent orthopedic intervention",
+     "If home care is difficult, refer to the rehabilitation department for professional training"
+    ]
+   },
+   "disease": "Congenital muscular torticollis",
+   "department": "Pediatrics"
+  },
+  {
+   "presentation": "The infant develops persistent, progressively worsening severe jaundice in the neonatal period or early infancy, with deep yellow discoloration of the skin and sclera. It is often accompanied by prodromal symptoms of bilirubin encephalopathy, such as feeding difficulties and lethargy. Typical features include markedly elevated serum total bilirubin (usually >20mg/dL), predominantly unconjugated bilirubin, poor or no response to phototherapy, no evidence of hemolysis, and normal stool color.",
+   "interview_guide": {
+    "first_questions": [
+     "How many days after birth did the skin yellowing begin? Has the jaundice continued to worsen?",
+     "Does the child have anemia, pallor, or dark yellow urine?",
+     "Is there a family history of similar jaundice or consanguineous marriage?"
+    ],
+    "followup_questions": [
+     "If the jaundice persists, what is the response to blue light phototherapy?",
+     "How is the child's mental state recently? Is there lethargy, refusal to feed, or screaming?",
+     "Is the child's stool color normal (golden yellow) or pale?"
+    ],
+    "stop_conditions": [
+     "It has been confirmed that the jaundice is due to elevated unconjugated bilirubin and is unresponsive to phototherapy, with hemolysis excluded.",
+     "Other common causes of hyperbilirubinemia, such as infection and biliary obstruction, have been excluded.",
+     "The parents have provided a complete family genetic history and records of previous treatment response."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum total bilirubin and direct/indirect bilirubin measurement",
+     "Complete blood count and reticulocyte count (to exclude hemolysis)",
+     "G6PD enzyme activity testing and Coombs test"
+    ],
+    "if_suspected": [
+     "UGT1A1 gene mutation analysis (gold standard for diagnosis)",
+     "Comprehensive liver function tests (to assess hepatocellular injury)",
+     "Abdominal ultrasound (to exclude structural abnormalities such as biliary atresia)"
+    ],
+    "avoid": [
+     "Routine antibiotic therapy (unless there is documented bacterial infection)",
+     "Unnecessary exchange transfusion (considered only when there is risk of acute bilirubin encephalopathy)",
+     "Long-term use of rifampin (may increase the risk of hepatotoxicity)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Core treatment is intensive phototherapy for at least 12-24 hours per day, with close monitoring of temperature and hydration. For type II, phenobarbital may be tried to induce hepatic enzyme activity. For type I patients, if bilirubin remains >25mg/dL or there is a risk of kernicterus, emergency plasma exchange or exchange transfusion is required. Long-term management includes avoiding fasting, preventing infection, and considering liver transplantation when necessary. Non-pharmacological interventions should ensure adequate caloric intake to prevent hypoglycemia from worsening bilirubin encephalopathy."
+    ],
+    "safety_warnings": [
+     "Strictly avoid drugs that competitively bind albumin, such as sulfonamides and ceftriaxone, to prevent elevated free bilirubin from inducing kernicterus.",
+     "During phototherapy, strictly cover the eyes and genitals to prevent retinal damage and dehydration.",
+     "Phenobarbital may cause excessive sedation and respiratory depression; start with a low dose and titrate."
+    ],
+    "personalization": [
+     "In the neonatal period, monitor bilirubin more frequently and remain alert for kernicterus.",
+     "For preterm infants, because of incomplete blood-brain barrier development, treatment thresholds should be appropriately lowered.",
+     "For adult patients with stable disease, phototherapy frequency may be gradually reduced, but lifelong follow-up is required."
+    ]
+   },
+   "disease": "Crigler-Najjar syndrome",
+   "department": "Pediatrics"
+  },
+  {
+   "presentation": "The infant often develops feeding difficulties, lethargy, abnormal muscle tone (hypotonia early and spasticity later), vomiting, and developmental delay within days to weeks after birth. A typical feature is a distinctive caramel or maple syrup odor of the urine, cerumen, or sweat. Without timely intervention, it can rapidly progress to metabolic acidosis, convulsions, coma, and even death.",
+   "interview_guide": {
+    "first_questions": [
+     "How old is the child? Has there recently been refusal to feed, frequent vomiting, or unusual lethargy?",
+     "Have you noticed a special sweet odor or a maple syrup-like odor in the child's urine, earwax, or sweat?"
+    ],
+    "followup_questions": [
+     "Has the child recently had seizures, tachypnea, or deep, large respirations?",
+     "Is there a family history of similar disease or records of abnormal newborn screening results?"
+    ],
+    "stop_conditions": [
+     "A typical special odor and symptoms of acute metabolic crisis (e.g., vomiting, lethargy) have been clearly elicited.",
+     "Family history and newborn screening status have been confirmed, and there is high clinical suspicion of this disease.",
+     "The patient has severe impaired consciousness and requires immediate emergency referral; detailed history-taking should not continue."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Blood amino acid profile analysis (focusing on leucine, isoleucine, and valine levels)",
+     "Urine organic acid analysis (to detect specific metabolites such as 2-oxoisovaleric acid)",
+     "Blood gas analysis and electrolyte measurement (to assess the severity of metabolic acidosis)"
+    ],
+    "if_suspected": [
+     "Genetic testing (BCKDHA/BCKDHB/DBT gene mutation analysis) to confirm diagnosis and subtype",
+     "Cranial MRI (to assess for symmetric lesions in the basal ganglia region)",
+     "Electroencephalography (EEG) to monitor for epileptiform discharges"
+    ],
+    "avoid": [
+     "Routine high-protein diet challenge (may worsen the condition)",
+     "Unnecessary antibiotic therapy (unless there is documented bacterial infection)",
+     "Relying solely on blood glucose monitoring as the main diagnostic basis"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "In the acute phase, immediately stop natural protein intake, give intravenous high-concentration glucose and insulin to promote anabolism, and perform hemodialysis when necessary to remove toxic amino acids. In the stable phase, restrict natural protein, supplement with a specially formulated infant formula free of branched-chain amino acids, and strictly limit leucine intake. Long-term treatment includes vitamin B1 (thiamine) therapy (for some responsive types) and regular monitoring of blood amino acid concentrations to adjust the dietary regimen."
+    ],
+    "safety_warnings": [
+     "Strictly avoid arbitrary increases in protein intake to prevent hyperleucinemia-induced brain injury.",
+     "Be alert to drug interactions and avoid multivitamins or nutritional preparations containing branched-chain amino acids.",
+     "Be alert for respiratory failure caused by ketoacidosis and closely monitor vital signs."
+    ],
+    "personalization": [
+     "For patients with vitamin B1-responsive disease, lifelong adequate thiamine supplementation is required.",
+     "For infants and young children, dynamically adjust the composition and total volume of the special formula according to growth and developmental stage.",
+     "Adolescent patients need enhanced psychological support and dietary adherence management to prevent acute attacks caused by loss of dietary control."
+    ]
+   },
+   "disease": "Maple syrup urine disease",
+   "department": "Pediatrics"
+  },
+  {
+   "presentation": "Children often present with a painless abdominal mass that is firm, irregular, and may cross the midline. Some develop paraneoplastic syndromes such as nystagmus, ataxia, or persistent diarrhea. In advanced stages, bone pain, limping, periorbital ecchymoses (raccoon eyes), fever, and weight loss may be seen. Infants and young children may present only with irritability or feeding difficulties.",
+   "interview_guide": {
+    "first_questions": [
+     "Has your child recently had a hard mass felt in the abdomen? Has its size changed?",
+     "Has your child had unexplained persistent pain, limping, or bruising around the eyes?",
+     "Has there been any recent unexplained fever, weight loss, or unusual crying?"
+    ],
+    "followup_questions": [
+     "If an abdominal mass is found, ask: Does the mass move with breathing? Is it accompanied by vomiting or constipation?",
+     "If there is bone pain or limping, ask: Is the pain continuous or intermittent? Does it worsen at night?",
+     "If there are eye symptoms, ask: Is there proptosis or any change in vision?"
+    ],
+    "stop_conditions": [
+     "The characteristics of the abdominal mass and associated systemic symptoms have been clearly described",
+     "Typical paraneoplastic syndrome manifestations (such as nystagmus or ataxia) have been confirmed",
+     "The history already covers growth and development, diet, and bowel movements"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Abdominal ultrasound",
+     "Urinary catecholamine metabolite testing (VMA/HVA)",
+     "Bone marrow aspiration and biopsy"
+    ],
+    "if_suspected": [
+     "Chest and abdominal CT or MRI",
+     "Whole-body bone scan or PET-CT",
+     "MIBG imaging"
+    ],
+    "avoid": [
+     "Routine abdominal plain radiography (low soft-tissue resolution)",
+     "Lumbar puncture without indication (unless CNS metastasis is suspected and CSF evaluation is needed)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Use multimodal comprehensive treatment. First-line regimens usually include surgical resection of the primary tumor (if resectable) combined with chemotherapy (such as cyclophosphamide, vincristine, doxorubicin, etc.). High-risk groups require intensive chemotherapy, high-dose chemotherapy with autologous stem cell transplantation, and radiotherapy. Non-pharmacologic interventions include nutritional support, pain management, and psychological support. Treatment duration is individualized according to risk stratification and usually lasts 6-12 months."
+    ],
+    "safety_warnings": [
+     "During chemotherapy, myelosuppression must be closely monitored, and infection and bleeding must be prevented",
+     "Anthracyclines are cardiotoxic, and cardiac function must be assessed regularly",
+     "Avoid unproven alternative therapies that delay standard treatment"
+    ],
+    "personalization": [
+     "For very young infants (<1 year), a watch-and-wait strategy may be adopted in some cases",
+     "In patients with renal insufficiency, doses of nephrotoxic drugs such as cisplatin need adjustment",
+     "Patients with genetic syndromes (such as NF1) require particular attention to the risk of complications"
+    ]
+   },
+   "disease": "Neuroblastoma",
+   "department": "Pediatrics"
+  },
+  {
+   "presentation": "Birth weight is below the 10th percentile for gestational age. Children often present with short stature, reduced subcutaneous fat, and loose skin with an 'old man' appearance; some have hypoglycemia, polycythemia, or feeding difficulties. Parents often report that the child was 'small at birth,' had 'difficulty feeding,' or has 'slow growth.' Focus on the birth history and whether recent height and weight growth curves deviate from the normal trajectory.",
+   "interview_guide": {
+    "first_questions": [
+     "What were the baby's gestational age, birth weight, and birth length?",
+     "Did the baby have hypoglycemia, seizures, or severe jaundice after birth?",
+     "What is the current feeding method, and what are the daily milk intake and number of bowel movements and urinations?"
+    ],
+    "followup_questions": [
+     "If growth retardation is found, ask: How many grams did the child gain in the past 3 months?",
+     "If feeding difficulties occur, ask: Is there weak sucking, frequent choking, or vomiting?",
+     "If a metabolic abnormality is suspected, ask: Is there a family history of diabetes, hypertension, or inherited metabolic disease?"
+    ],
+    "stop_conditions": [
+     "Birth weight has been confirmed to be below the 10th percentile for gestational age without acute complications.",
+     "A detailed growth and development assessment and basic laboratory tests have been completed, and other pathologic factors have been excluded.",
+     "The parents fully understand the home care instructions, and no further information is needed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Neonatal anthropometry (weight, length, and head circumference with growth curves plotted)",
+     "Fasting blood glucose test",
+     "Complete blood count (to screen for polycythemia)"
+    ],
+    "if_suspected": [
+     "Thyroid function tests (to exclude hypothyroidism causing growth retardation)",
+     "Insulin-like growth factor-1 (IGF-1) level testing",
+     "Abdominal ultrasound (to screen for visceral developmental abnormalities)"
+    ],
+    "avoid": [
+     "Routine head CT or MRI (unless there are clear neurologic signs)",
+     "Whole-body genetic sequencing without indication",
+     "Excessive use of intravenous nutritional support (enteral feeding is preferred)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "The primary goal is to promote catch-up growth and prevent metabolic complications. Implement fortified breastfeeding or special formula for preterm/low-birth-weight infants to ensure caloric intake reaches 120-150kcal/(kg·d). Monitor blood glucose closely; supplement glucose promptly in patients with hypoglycemia. Non-pharmacologic interventions include optimizing a warm environment, reducing stressful stimuli, and early touch. Treatment duration depends on growth response and usually continues until weight reaches above the 3rd percentile for age."
+    ],
+    "safety_warnings": [
+     "Be alert to the risk of hyperinsulinism and avoid overfeeding that leads to obesity and metabolic syndrome.",
+     "Note that polycythemia increases blood viscosity; prevent microcirculatory impairment.",
+     "Do not add high-concentration nutrients on your own; formula adjustment must be guided by a physician."
+    ],
+    "personalization": [
+     "Patients with intrauterine infection or congenital malformations require combined specialty treatment.",
+     "Patients with feeding dysfunction should be introduced to swallowing training or nasogastric tube feeding.",
+     "Preterm infants with SGA require dynamic adjustment of the nutritional plan according to corrected gestational age."
+    ]
+   },
+   "disease": "Small for gestational age (SGA)",
+   "department": "Pediatrics"
+  },
+  {
+   "presentation": "Children often present with progressive liver failure, jaundice, hepatosplenomegaly, and coagulopathy. Some infants have symptoms resembling renal tubular acidosis, such as polyuria, polydipsia, and growth retardation. Severe cases may develop bleeding tendency or hepatic coma due to acute liver necrosis, and some patients have ocular symptoms such as corneal ulceration and photophobia.",
+   "interview_guide": {
+    "first_questions": [
+     "How soon after birth did the child develop jaundice or vomiting?",
+     "Is there a family history of similar disease or neonatal death?",
+     "Has the child's urine output recently increased, and does the urine have a peculiar odor?"
+    ],
+    "followup_questions": [
+     "If hepatomegaly is found, ask whether there is ascites or petechiae?",
+     "If eye discomfort occurs, confirm whether there is photophobia or corneal opacity?",
+     "If growth arrest occurs, ask about feeding difficulties and the weight change curve?"
+    ],
+    "stop_conditions": [
+     "A family genetic history has been confirmed and typical liver and kidney dysfunction manifestations are present",
+     "Laboratory tests have indicated significantly elevated blood tyrosine",
+     "The child shows signs of acute liver failure requiring emergency management"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Plasma amino acid analysis (to measure tyrosine levels)",
+     "Urinary succinylacetone measurement",
+     "Complete liver function panel and coagulation function tests"
+    ],
+    "if_suspected": [
+     "Liver ultrasound or MRI to assess liver structure",
+     "Genetic testing (TyrA/TyrB/TyrC-related genes)",
+     "Fundus examination to exclude corneal lesions"
+    ],
+    "avoid": [
+     "Routine antibiotic treatment as the primary diagnostic basis",
+     "Invasive liver biopsy without indication",
+     "Blind supplementation with high-dose vitamin D"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Immediately start a low-phenylalanine and low-tyrosine diet, restrict natural protein intake, and use specially formulated medical food powder. Pharmacologic treatment includes nitisinone (NTBC), with an initial dose usually of 1mg/kg/day, given orally in divided doses, to inhibit 4-hydroxyphenylpyruvate dioxygenase activity. At the same time, supplement vitamin K to prevent bleeding, and regularly monitor blood tyrosine concentrations to adjust the dietary plan."
+    ],
+    "safety_warnings": [
+     "A high-protein diet is strictly prohibited to avoid increasing the metabolic burden",
+     "Nitisinone may cause skin photosensitivity, so strict sun protection is required",
+     "Long-term use requires vigilance for the risk of decreased bone density"
+    ],
+    "personalization": [
+     "For infants and young children, the proportion of special formula powder must be dynamically adjusted according to growth velocity",
+     "Patients with cirrhosis require assessment of the timing of liver transplantation",
+     "Patients with renal insufficiency require nitisinone dose adjustment and strengthened water and electrolyte management"
+    ]
+   },
+   "disease": "tyrosinemia",
+   "department": "Pediatrics"
+  },
+  {
+   "presentation": "Children often present with recurrent infections (such as otitis media and pneumonia), bleeding tendency (such as petechiae and epistaxis), and eczematous rash. Typical symptoms include bleeding manifestations caused by thrombocytopenia and recurrent bacterial or viral infections caused by immunodeficiency. Some patients have splenomegaly and growth retardation.",
+   "interview_guide": {
+    "first_questions": [
+     "Has your child had a history of recurrent infections? Which sites specifically?",
+     "Has your child had unexplained bleeding or bruising?",
+     "Has there been an eczematous rash or other skin abnormalities?"
+    ],
+    "followup_questions": [
+     "Are the bleeding symptoms associated with minor trauma?",
+     "Is there a family history of similar disease or immunodeficiency?",
+     "Is the child's growth and development normal?"
+    ],
+    "stop_conditions": [
+     "The triad of recurrent infections, bleeding tendency, and eczema has been clearly established.",
+     "The family history suggests an inherited immunodeficiency disease.",
+     "Initial tests show thrombocytopenia and abnormal immunoglobulin levels."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete blood count (CBC)",
+     "Quantitative immunoglobulin testing (IgG, IgA, IgM, IgE)",
+     "Flow cytometry for WASP protein expression"
+    ],
+    "if_suspected": [
+     "Bone marrow aspiration to exclude other hematologic diseases",
+     "Genetic testing (WAS gene mutation analysis)",
+     "Lymphocyte subset analysis"
+    ],
+    "avoid": [
+     "Imaging studies without indication (such as CT/MRI)",
+     "Unnecessary invasive procedures (such as lumbar puncture)",
+     "Long-term routine antibiotic use without clear evidence of infection"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes supportive therapy (such as platelet transfusion and immunoglobulin replacement therapy) and prophylactic antibiotics. For severe patients, hematopoietic stem cell transplantation is the only curative option. At the same time, live vaccines should be avoided, and signs of infection should be closely monitored."
+    ],
+    "safety_warnings": [
+     "Avoid antiplatelet drugs such as aspirin to prevent worsening bleeding",
+     "Be aware of possible allergic reactions to immunoglobulin infusion",
+     "Be alert to graft-versus-host disease (GVHD) after hematopoietic stem cell transplantation"
+    ],
+    "personalization": [
+     "Infants and young children require immunoglobulin dose adjustment according to body weight",
+     "Patients at high risk of severe bleeding should limit strenuous activity",
+     "When combined with autoimmune disease, an individualized immunosuppressive regimen is required"
+    ]
+   },
+   "disease": "Wiskott-Aldrich syndrome",
+   "department": "Pediatrics"
+  }
+ ]
+}

@@ -1,0 +1,732 @@
+{
+ "department": "Stomatology",
+ "skills": [
+  {
+   "presentation": "Discoloration of dental hard tissues to black or yellowish-brown, with cavity formation; sensitivity or aching to cold, heat, sweet, or acidic stimuli, with pain disappearing immediately after removal of the stimulus and no spontaneous pain.",
+   "interview_guide": {
+    "first_questions": [
+     "Do your teeth ache or feel sensitive when exposed to cold water, hot water, or sweet foods?",
+     "After the stimulus is removed (for example, after rinsing or stopping eating), does the aching disappear immediately or persist for a long time?",
+     "When you look in the mirror or run your tongue over your teeth, can you feel a small black hole or defect on a tooth?"
+    ],
+    "followup_questions": [
+     "Do you have spontaneous tooth pain or wake up at night with pain when you are not eating or have no external stimulus? (to rule out pulpitis)",
+     "Do you have marked pain on biting or a gum swelling when chewing food?",
+     "How often do you usually brush your teeth, and do you use dental floss?"
+    ],
+    "stop_conditions": [
+     "Pain has been confirmed to be provoked by thermal or chemical stimuli, without spontaneous pain or prolonged pain",
+     "The affected tooth and approximate depth of the lesion (shallow, moderate, or deep caries) have been confirmed",
+     "Pulpitis and periapical lesions have been ruled out"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Oral visual inspection and probing (probing pits and fissures, caries cavity depth, texture, and probing pain)",
+     "Thermal testing (normal or transient sensitivity to cold/hot testing, with immediate relief after stimulus removal)",
+     "Dental radiographs (periapical/bitewing radiographs to assess caries depth and distance to the pulp chamber)"
+    ],
+    "if_suspected": [
+     "Electric pulp testing (when deep caries is suspected to involve the pulp)",
+     "Panoramic radiograph (when there is extensive caries in multiple teeth or an impacted tooth)"
+    ],
+    "avoid": [
+     "Contrast-enhanced maxillofacial CT/MRI when there are no indications of head and neck tumors or complex maxillofacial trauma",
+     "Systemic antibiotics for simple shallow or moderate caries"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Dental filling restoration (remove decayed tissue, prepare the cavity, disinfect and isolate moisture, then fill with resin or glass ionomer)",
+     "For deep caries close to the pulp, use indirect pulp capping or base and filling."
+    ],
+    "safety_warnings": [
+     "Strictly prevent accidental pulp exposure during cavity preparation and caries removal",
+     "If a pulp exposure is probed with severe pain and bleeding, promptly convert to pulp therapy",
+     "During acid etching and bonding for resin filling, avoid acid etchant burning the gingival soft tissues",
+     "After filling, carefully adjust occlusion to avoid high points causing traumatic apical periodontitis"
+    ],
+    "personalization": [
+     "Shallow caries in primary teeth in children: fluoride application or minimally invasive atraumatic restorative treatment (ART) may be used",
+     "Adults with deep caries close to the pulp and sensitive symptoms: calcium hydroxide or bioceramic base may be placed first, with temporary sealing and observation for 2-4 weeks; if asymptomatic, permanent filling can then be performed",
+     "Large tooth defects: inlay or full crown restoration is recommended"
+    ]
+   },
+   "disease": "dental caries",
+   "department": "Stomatology"
+  },
+  {
+   "presentation": "Spontaneous, paroxysmal severe toothache; pain is markedly aggravated by cold or heat stimuli and persists for a long time after the stimulus is removed; night pain is often worse and may prevent sleep; pain often cannot be localized and radiates to the ipsilateral head and face.",
+   "interview_guide": {
+    "first_questions": [
+     "Does the toothache sometimes start suddenly and severely even when you are not eating?",
+     "Is the pain markedly worse at night when you sleep? Have you ever been awakened by the pain?",
+     "Is the pain markedly worse when you drink hot or cold water? Can you clearly point to which tooth is hurting?"
+    ],
+    "followup_questions": [
+     "Does the pain radiate to the ear, temple, or lower jaw on the same side?",
+     "Has this tooth previously been filled, had caries, or cracked when biting hard objects?",
+     "Do you have a feeling that the tooth is raised, severe pain on biting, or gum redness, swelling, and pus discharge?"
+    ],
+    "stop_conditions": [
+     "The four typical features have been confirmed: spontaneous pain, night pain, prolonged pain after thermal stimulation, and radiating pain",
+     "The affected tooth's previous dental disease and current features of acute/chronic pulpitis have been identified",
+     "Trigeminal neuralgia and purulent periapical disease have been ruled out"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Clinical oral examination (probing deep caries cavities or filling margins, percussion examination)",
+     "Pulp thermal testing (cold/hot testing causing severe persistent pain or delayed pain)",
+     "Periapical radiograph (to assess pulp chamber anatomy, root canal morphology, and periapical bone status)"
+    ],
+    "if_suspected": [
+     "Electric pulp testing (delayed or no response)",
+     "Cone-beam computed tomography (CBCT) of the oral cavity (for suspected cracked tooth, complex curved root canals, or root fracture)"
+    ],
+    "avoid": [
+     "Prescribing systemic intravenous antibiotics for infection control (the pulp chamber is closed, and systemic drugs cannot enter the necrotic pulp chamber)",
+     "Oral analgesics alone without root canal access and drainage"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Emergency treatment with access opening and drainage under local anesthesia (pulp chamber decompression immediately relieves severe pain)",
+     "The definitive treatment of choice is complete root canal therapy (RCT) (root canal preparation, disinfection and medication, and dense obturation), followed by crown restoration for protection."
+    ],
+    "safety_warnings": [
+     "Before local anesthesia, ask about allergy to local anesthetics (lidocaine, articaine) and a history of severe cardiovascular disease",
+     "During access opening and pulp extirpation, strictly prevent instrument lateral perforation of the root canal wall or instrument breakage within the root canal",
+     "Devitalizing agents (such as paraformaldehyde) must not leak, to prevent necrosis of gingival soft tissues and alveolar bone necrosis"
+    ],
+    "personalization": [
+     "Acute pulpitis during pregnancy: treatment is relatively safe in the second trimester (4-6 months); during the emergency phase, local anesthesia for access opening and drainage and placement of a mild analgesic agent are the main measures",
+     "Patients with severe dental anxiety or a very low pain threshold: painless local anesthesia delivery devices or nitrous oxide sedation may be used",
+     "Severely broken roots/crowns with no retention value or pulpitis in a wisdom tooth: extract directly after assessment"
+    ]
+   },
+   "disease": "Pulpitis",
+   "department": "Stomatology"
+  },
+  {
+   "presentation": "Gingival bleeding when brushing or biting hard objects, oral malodor (bad breath), gingival redness, swelling, and recession, widening of interdental spaces, periodontal pocket formation with pus discharge; in the middle and late stages, tooth mobility, weakness in chewing, displacement, and even tooth loss occur.",
+   "interview_guide": {
+    "first_questions": [
+     "Do your gums bleed easily when you usually brush your teeth or eat hard foods such as apples?",
+     "Do you feel that your gums have receded and the spaces between your teeth have widened, with food easily getting stuck when eating?",
+     "Do you have loose teeth or a feeling of soreness and weakness when chewing food?"
+    ],
+    "followup_questions": [
+     "Do you have recurrent gum swelling, pus discharge, or marked oral malodor?",
+     "Do you have risk factors such as diabetes or long-term smoking?",
+     "Have you previously had scaling (supragingival scaling) or systematic periodontal treatment?"
+    ],
+    "stop_conditions": [
+     "The course of gingival bleeding, periodontal pocket pus discharge, and tooth mobility has been clarified",
+     "Systemic contributing factors such as smoking and diabetes have been confirmed",
+     "Oral hygiene habits and previous periodontal maintenance history have been clearly obtained"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Full-mouth periodontal probing (measurement of probing depth [PD], attachment loss [AL], bleeding on probing [BOP], and furcation involvement)",
+     "Full-mouth panoramic radiograph or full-mouth periodontal radiographs (to assess full-mouth alveolar bone resorption height and type of bone defect)",
+     "Tooth mobility examination"
+    ],
+    "if_suspected": [
+     "Fasting blood glucose/glycated hemoglobin (to rule out periodontitis associated with diabetes)",
+     "Subgingival plaque microbiological testing (for severe refractory periodontitis)"
+    ],
+    "avoid": [
+     "Relying solely on oral antibiotics instead of mechanical periodontal scaling and root planing (drug treatment is ineffective without plaque control)",
+     "Blindly extracting mobile teeth that could be retained without a full-mouth periodontal assessment"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Periodontal initial therapy (oral hygiene education and instruction on correct toothbrushing and dental floss use + full-mouth ultrasonic supragingival scaling + subgingival scaling and root planing [SRP])",
+     "When necessary, local irrigation and application of medication (minocycline hydrochloride ointment/iodine glycerin)",
+     "Re-evaluate 6-8 weeks after initial therapy, and perform periodontal surgery if necessary and provide regular maintenance."
+    ],
+    "safety_warnings": [
+     "Subgingival scaling must be strictly aseptic; in patients with rheumatic heart disease or prosthetic valves/joints, prevent infective endocarditis and give preoperative antibiotic prophylaxis",
+     "Patients taking anticoagulants (aspirin, warfarin) require bleeding risk assessment; for warfarin, the procedure may be performed only when INR is monitored and <2.5-3.0",
+     "In patients with diabetes whose blood glucose is not well controlled (HbA1c >8.0%), infection can spread easily; blood glucose should be controlled first"
+    ],
+    "personalization": [
+     "Teeth with severe bone defects: after initial therapy, evaluate for guided tissue regeneration (GTR) or bone grafting",
+     "Acute phase of deep periodontal pocket with pus discharge: alternate local irrigation with hydrogen peroxide and normal saline, and inject minocycline hydrochloride into the pocket",
+     "Patients who smoke: strongly advise smoking cessation to improve periodontal tissue healing prognosis"
+    ]
+   },
+   "disease": "Periodontitis",
+   "department": "Stomatology"
+  },
+  {
+   "presentation": "Isolated round or oval superficial ulcers on the oral mucosa (lips, buccal mucosa, tongue, soft palate, etc.), with slight central depression, a yellow-white pseudomembrane on the base, and a surrounding erythematous halo; marked burning pain; periodic, recurrent, and self-limiting (often self-healing within 7-14 days).",
+   "interview_guide": {
+    "first_questions": [
+     "Where in the mouth do the ulcers occur? How many days does each episode last before improving on its own?",
+     "How often do the ulcers occur? Are they recurrent, or is this the first episode?",
+     "Do you feel severe local burning pain when eating irritating foods or speaking?"
+    ],
+    "followup_questions": [
+     "Do your eyes become red and congested or have blurred vision? Do you have ulcers on the external genitalia? (to rule out Behçet disease)",
+     "Is the ulcer surface superficial and soft, or is the base hard, raised, cauliflower-like, and nonhealing for months? (to rule out oral cancer)",
+     "Recently, have you had severe sleep deprivation, psychological stress, indigestion, or menstrual cycle changes?"
+    ],
+    "stop_conditions": [
+     "The ulcer morphology, episode cycle, and self-limiting characteristics have been clarified",
+     "Behçet disease (ocular-oral-genital) and signs of malignant ulcer have been comprehensively ruled out",
+     "Local and systemic triggering factors have been fully collected"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Specialized oral mucosal visual inspection and palpation (observe ulcer size, number, base softness/hardness, and marginal erythema)",
+     "Complete blood count (to rule out anemia and infection)"
+    ],
+    "if_suspected": [
+     "Histopathological biopsy (for deep/large ulcers, nonhealing for more than 1 month, with a hard raised base, suspected oral cancer)",
+     "Trace elements and vitamins (folate, vitamin B12, ferritin, zinc)",
+     "Autoimmune antibody panel/HLA-B51 (if Behçet syndrome is suspected)"
+    ],
+    "avoid": [
+     "Blindly performing contrast-enhanced maxillofacial CT or whole-body PET-CT for ordinary recurrent aphthous ulcers",
+     "Misuse of high-dose systemic corticosteroids or systemic immunosuppressants for a mild single ulcer"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Local anti-inflammatory, analgesic, and healing-promoting treatment: mouth rinses (chlorhexidine mouthwash, Kangfuxin liquid)",
+     "Topical application of analgesic and healing-promoting drugs (compound benzocaine gel, recombinant human epidermal growth factor spray, dexamethasone patches, cydiodine buccal tablets)",
+     "Maintain oral hygiene and keep a regular sleep schedule."
+    ],
+    "safety_warnings": [
+     "Do not blindly use corticosteroid patches long-term for deep/large ulcers that have not healed for more than 1 month and are somewhat hard in texture; timely histopathological biopsy is mandatory to rule out cancer",
+     "Avoid swallowing mouth rinses containing iodine or antibacterial ingredients; children should use them under adult supervision",
+     "Avoid spicy, rough, or excessively hot foods to prevent secondary mechanical and chemical mucosal injury"
+    ],
+    "personalization": [
+     "Severe recurrent aphthous ulcers (periadenitis aphthae): short-term low-dose oral prednisone or thalidomide may be used (strict contraception required)",
+     "Patients with malnutrition/trace element deficiency: supplement with B-complex vitamins and zinc",
+     "Patients with gastrointestinal dysfunction: concurrently manage underlying digestive tract disease"
+    ]
+   },
+   "disease": "Oral ulcer",
+   "department": "Stomatology"
+  },
+  {
+   "presentation": "Commonly seen in mandibular third molars (wisdom teeth), where the tooth is only partially erupted or completely unable to erupt; redness and swelling of the soft tissue around the crown with formation of a pericoronal blind pocket, recurrent swelling and pain, purulent discharge, limited mouth opening, and cheek swelling, accompanied by ipsilateral pain on swallowing and occlusal trauma.",
+   "interview_guide": {
+    "first_questions": [
+     "Is it swelling and pain behind the last large molar (wisdom tooth area)? How many days has it lasted?",
+     "How wide can you open your mouth? Does opening your mouth or swallowing make the pain worse?",
+     "Is there redness, swelling, or heat on the same side of the cheek, or have you felt enlarged submandibular lymph nodes?"
+    ],
+    "followup_questions": [
+     "Has this area repeatedly swollen and been painful in the past during colds, staying up late, fatigue, or 'internal heat'?",
+     "Does the good tooth in front of the wisdom tooth (second molar) often trap food or have caries-related soreness?",
+     "Are you currently febrile, menstruating, or pregnant?"
+    ],
+    "stop_conditions": [
+     "The site of the impacted tooth, attack frequency, and whether the patient is currently in the acute pericoronitis phase have been clarified",
+     "Signs of infection spread to the submandibular and masseteric spaces have been ruled out",
+     "Systemic contraindications related to tooth extraction have been clearly elicited"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Oral local examination (check the blind pocket, gingival redness/swelling and purulent discharge, and mouth opening)",
+     "Panoramic radiograph (assess the inclination of the impacted tooth, root morphology, and spatial anatomical relationship with the inferior alveolar nerve canal)"
+    ],
+    "if_suspected": [
+     "Oral CBCT (determine whether the roots are close to or traverse the inferior alveolar nerve canal)",
+     "Complete blood count and coagulation function (before planned surgical extraction)"
+    ],
+    "avoid": [
+     "Blind direct extraction of the impacted tooth during acute pericoronitis with severe redness, swelling, and purulent discharge (high risk of spread of space infection and sepsis)",
+     "Misuse of head and neck 3D CT without indications of head and neck fracture"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Acute phase: local irrigation of the blind pocket (alternating irrigation with 3% hydrogen peroxide and normal saline) + application of iodine glycerin, combined with oral antibiotics (e.g., amoxicillin/metronidazole) and analgesics",
+     "Chronic phase/after acute inflammation subsides: minimally invasive extraction of the impacted tooth as soon as possible."
+    ],
+    "safety_warnings": [
+     "For mandibular impacted wisdom teeth close to the inferior alveolar nerve canal, the risk of temporary or permanent lower lip numbness/nerve injury must be fully disclosed before surgery",
+     "Women during menstruation, patients with severe uncontrolled hypertension, and patients with recent myocardial infarction or stroke should postpone tooth extraction",
+     "Within 24 hours after extraction, brushing, rinsing, and vigorous spitting are strictly prohibited to prevent dry socket."
+    ],
+    "personalization": [
+     "High vertical impaction with a normal opposing tooth that can establish occlusion: retention and observation may be considered",
+     "If the adjacent tooth has already been resorbed due to pressure or pericoronitis is repeatedly induced: extraction should be firmly performed after inflammation subsides",
+     "Women planning pregnancy: prophylactic extraction of impacted wisdom teeth is recommended before conception"
+    ]
+   },
+   "disease": "impacted tooth",
+   "department": "Stomatology"
+  },
+  {
+   "presentation": "Patients often complain of occlusal discomfort or mild pain in the affected tooth and feel that the tooth is elevated and weak when chewing. Some patients have a history of recurrent gingival swelling, with a gingival fistula discharging pus, but this is not obvious during acute episodes. The tooth may be discolored, have a lost filling, or have a deep caries cavity. The course is long and symptoms are insidious; patients often present because of physical examination or occasional swelling and pain.",
+   "interview_guide": {
+    "first_questions": [
+     "Has this tooth previously undergone root canal treatment or filling?",
+     "Recently, have you had pain when biting or felt that the tooth is higher?"
+    ],
+    "followup_questions": [
+     "Have there been recurrent small pustules on the gum or ruptures with pus discharge?",
+     "Is the pain continuous or only when chewing hard objects?"
+    ],
+    "stop_conditions": [
+     "A history of previous pulp necrosis and typical occlusal pain symptoms has been clarified",
+     "A gingival fistula has been confirmed and its location is consistent with the suspected tooth",
+     "The patient can clearly describe tooth discoloration or a long history of discomfort"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Periapical radiograph (X-ray) examination",
+     "Pulp vitality testing (electric pulp test/thermal test)",
+     "Percussion examination"
+    ],
+    "if_suspected": [
+     "Cone-beam CT (CBCT) to assess the extent of bone destruction",
+     "Periodontal probing to exclude periodontal-origin lesions",
+     "Transillumination to help determine crown cracks"
+    ],
+    "avoid": [
+     "Unnecessary prophylactic systemic antibiotic use",
+     "Invasive examination of adjacent teeth that are asymptomatic and have no radiographic evidence",
+     "Blind extraction of the suspected tooth before diagnosis is confirmed"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Root canal therapy is the first choice. Thoroughly remove infected material from the root canal, perform mechanical preparation followed by chemical irrigation and disinfection, then tightly fill the root canal and seal the coronal access. If periapical granuloma or cyst is present, apical surgery is required. The course usually involves 2-3 follow-up visits; regular postoperative radiographic follow-up is needed to observe healing."
+    ],
+    "safety_warnings": [
+     "Root canal filling is strictly prohibited during the acute suppurative phase to prevent spread of infection",
+     "Be alert to the risk of instrument separation; avoid excessive lateral pressure causing root fracture",
+     "Be alert to reactions to root canal sealer components in allergic patients"
+    ],
+    "personalization": [
+     "Diabetic patients require strict blood glucose control before complex procedures",
+     "Pregnant women should avoid early and late pregnancy when possible; protective measures should be taken if necessary",
+     "Elderly patients with osteoporosis require assessment of tolerance for apical surgery"
+    ]
+   },
+   "disease": "Chronic apical periodontitis",
+   "department": "Stomatology"
+  },
+  {
+   "presentation": "Patients complain of chalky white, yellow, or brown patches on the tooth surface; severe cases may have enamel defects or depressions. Lesions are mostly symmetrical and commonly affect permanent incisors and first molars. There is usually no spontaneous pain, but esthetic impairment is obvious. History-taking often reveals that the patient lived long-term in a high-fluoride area during childhood or had a history of drinking high-fluoride water.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you lived since childhood in an area with high fluoride content in drinking water?",
+     "Did the tooth discoloration appear in childhood or gradually later?"
+    ],
+    "followup_questions": [
+     "Besides color change, is the tooth surface rough or prone to chipping?",
+     "Do other family members have similar tooth appearances?"
+    ],
+    "stop_conditions": [
+     "The fluoride content of the drinking water source and age at onset have been clarified",
+     "Clinical examination confirms that the lesions are symmetrical and limited to specific tooth positions",
+     "Similar-appearing conditions such as tetracycline staining have been excluded"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Full-mouth oral visual and probe examination",
+     "Grading assessment of tooth staining severity (Dean index)"
+    ],
+    "if_suspected": [
+     "Drinking water fluoride content testing",
+     "X-ray examination (to assess dentin development)"
+    ],
+    "avoid": [
+     "Unnecessary systemic blood tests of fluoride metabolism",
+     "Antibiotic treatment for teeth without dental fluorosis"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For mild cases, the main goal is esthetic improvement, using cold-light bleaching or resin infiltration",
+     "For moderate or more severe cases with enamel defects, composite resin veneer restoration or porcelain veneer restoration is preferred. When severe wear affects function, full crown restoration is required. Before treatment, ensure the patient stops intake of high-fluoride water sources and strengthen daily oral hygiene instruction."
+    ],
+    "safety_warnings": [
+     "Avoid esthetic restoration when acute pulpitis is uncontrolled",
+     "Resin adhesive procedures require strict moisture isolation to prevent debonding",
+     "Bleaching treatment may cause temporary tooth sensitivity"
+    ],
+    "personalization": [
+     "For pediatric patients, permanent restoration is recommended after the permanent dentition has fully erupted",
+     "Pregnant women should preferentially choose physical coverage rather than chemical bleaching",
+     "For those with extremely high esthetic demands, porcelain veneers are recommended for better color stability"
+    ]
+   },
+   "disease": "Dental fluorosis",
+   "department": "Stomatology"
+  },
+  {
+   "presentation": "Patients often complain of migratory red patches on the tongue surface, with white or yellow raised annular borders, resembling a map. The size, shape, and location of the lesions change over time. It is usually painless, but eating spicy or acidic foods may cause mild burning or discomfort. It is more common in children and adolescents; the course is chronic and prone to recurrence.",
+   "interview_guide": {
+    "first_questions": [
+     "Does your tongue have map-like red patches that change location?",
+     "Recently, when eating spicy or sour foods, do you have stinging or burning on the tongue?"
+    ],
+    "followup_questions": [
+     "How long have these patches been present? Do they often change location or shape?",
+     "Recently, have you had high stress, insufficient sleep, or gastrointestinal discomfort?"
+    ],
+    "stop_conditions": [
+     "The migratory nature of the lesions is confirmed and there are no other systemic symptoms.",
+     "After trauma, infection, or other clear causes have been excluded.",
+     "The patient's symptoms are mild and do not affect normal eating or life."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Oral visual examination (observe dorsal tongue morphology and migratory erythema)",
+     "History-taking (exclude association with systemic diseases)"
+    ],
+    "if_suspected": [
+     "Complete blood count (exclude anemia or infection)",
+     "Trace element testing (screen for potential factors such as zinc deficiency)"
+    ],
+    "avoid": [
+     "Unnecessary biopsy (this disease is benign and self-limited; pathological confirmation is not required)",
+     "Routine X-ray examination (no indication of bone or deep tissue lesions)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Geographic tongue is usually a benign, self-limited disease and requires no specific drug treatment. It is recommended to maintain oral hygiene and avoid irritation from spicy, excessively hot, or acidic foods. If pain or inflammation is present, topical compound chlorhexidine mouthwash or vitamin B complex supplements may be used. It generally resolves spontaneously in 2-4 weeks; the focus is on relieving patient anxiety and regular follow-up."
+    ],
+    "safety_warnings": [
+     "Avoid long-term use of potent corticosteroids to prevent secondary fungal infection.",
+     "Contraindicated in those allergic to mouthwash components; watch for allergic reactions.",
+     "Do not perform surgical excision or excessive curettage on your own, to avoid aggravating injury."
+    ],
+    "personalization": [
+     "For pediatric patients, guide parents to strengthen dietary management and avoid irritating foods.",
+     "Pregnant women should use oral drugs with caution; non-drug intervention and local care are preferred.",
+     "For those with mental stress or anxiety tendency, psychological counseling is recommended to reduce symptoms."
+    ]
+   },
+   "disease": "Geographic tongue",
+   "department": "Stomatology"
+  },
+  {
+   "presentation": "Patients often complain of gingival bleeding when brushing their teeth or eating, accompanied by gingival redness, swelling, glossiness, and tenderness. Some patients report halitosis or gingival itching. Typical signs are congestion and swelling of the gingival margin and easy bleeding on probing, but there is no alveolar bone resorption or tooth mobility. Symptoms are mostly confined to the gingival tissues; the key difference from periodontitis is the absence of attachment loss.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had gingival bleeding recently when brushing your teeth or using dental floss?",
+     "Have you had redness or swelling of the gums, pain, or bad breath?"
+    ],
+    "followup_questions": [
+     "Does the bleeding occur occasionally, or every time you brush your teeth?",
+     "Have you recently changed toothpaste, taken anticoagulant medications, or become pregnant?"
+    ],
+    "stop_conditions": [
+     "Bleeding frequency, triggers, and accompanying symptoms (such as pain or halitosis) have been clearly elicited.",
+     "It is confirmed that the patient has no signs of periodontitis such as tooth mobility or weak occlusal force.",
+     "Understanding the patient's oral hygiene habits and systemic medication history is sufficient for an initial assessment."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Full-mouth periodontal probing (measuring gingival sulcus depth and bleeding on probing index)",
+     "Visual inspection of gingival color, contour, and degree of swelling",
+     "Assessment of oral hygiene status (plaque index)"
+    ],
+    "if_suspected": [
+     "Panoramic radiograph (to exclude early alveolar bone resorption and differentiate from periodontitis)",
+     "Complete blood count (if hematologic disease causing gingival bleeding is suspected)"
+    ],
+    "avoid": [
+     "Unnecessary CT scanning (three-dimensional imaging is not needed for gingivitis)",
+     "Excessive use of antibiotic therapy (except for noninfectious acute necrotizing ulcerative gingivitis)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is mechanical removal of etiologic factors, including ultrasonic scaling to remove supragingival calculus and plaque, combined with subgingival scaling. After the procedure, patients should be instructed to master the Bass brushing technique and use dental floss. Topical adjunctive use of 0.12% chlorhexidine mouth rinse may be used twice daily for no more than 2 consecutive weeks. Systemic drug therapy is generally unnecessary; maintaining good oral hygiene can relieve symptoms within 1-2 weeks."
+    ],
+    "safety_warnings": [
+     "Avoid long-term use of chlorhexidine, which can cause tooth staining or taste alteration",
+     "Use iodine-containing mouthwash with caution in patients allergic to iodine",
+     "Pregnant women should inform the physician so that scaling intensity and medication regimen can be adjusted"
+    ],
+    "personalization": [
+     "Patients with diabetes need strengthened glycemic control and increased follow-up frequency",
+     "For gingivitis during pregnancy, invasive procedures should be avoided during the first trimester",
+     "Patients taking anticoagulant drugs need coagulation function assessment and, if necessary, consultation with an internal medicine physician"
+    ]
+   },
+   "disease": "Gingivitis",
+   "department": "Stomatology"
+  },
+  {
+   "presentation": "Patients complain of tongue pain, burning sensation, or numbness, which worsens when eating irritating foods. Physical examination may show atrophy of lingual papillae resulting in a smooth, mirror-like tongue surface (atrophic glossitis), or a red, swollen tongue with erosion, ulceration, and white pseudomembrane coverage (acute inflammation). Some patients have decreased taste, dry mouth, and difficulty speaking; symptoms often recur.",
+   "interview_guide": {
+    "first_questions": [
+     "How long has the tongue pain or discomfort lasted?",
+     "Have you recently had dietary preferences, been dieting, or had a history of gastrointestinal disease?",
+     "Are you currently taking any medications or wearing dentures?"
+    ],
+    "followup_questions": [
+     "If accompanied by generalized fatigue or pallor, ask further whether there are symptoms of anemia.",
+     "If there are white or red patches on the tongue surface, ask further whether the patient smokes, drinks alcohol, or has poor oral hygiene habits.",
+     "If the pain is severe and affects eating, ask further whether there is fever or difficulty swallowing."
+    ],
+    "stop_conditions": [
+     "The duration of symptoms, triggers, and accompanying systemic symptoms have been clarified.",
+     "It has been confirmed that the patient has no history of drug allergy or special underlying diseases.",
+     "The patient's complaints are clear and the described signs are consistent with the preliminary examination."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Oral visual inspection and palpation",
+     "Complete blood count",
+     "Serum ferritin and vitamin B12 level measurement"
+    ],
+    "if_suspected": [
+     "Folate level measurement",
+     "Fungal smear examination (if Candida infection is suspected)",
+     "Patch test (if contact allergy is suspected)"
+    ],
+    "avoid": [
+     "Routine X-ray examination (of low diagnostic value for soft tissue lesions)",
+     "Empirical use of potent corticosteroids without etiologic investigation",
+     "Unnecessary biopsy (unless malignancy is suspected)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Treat the underlying cause: supplement deficient nutrients, such as oral B-complex vitamins (B2, B6, B12) and iron preparations; the course is usually 2-4 weeks. Use compound chlorhexidine mouth rinse topically to maintain oral cleanliness, combined with recombinant human epidermal growth factor gel to promote mucosal repair. Avoid spicy and overheated foods, and quit smoking and alcohol. If fungal infection is present, add nystatin mouth rinse."
+    ],
+    "safety_warnings": [
+     "Long-term use of high-dose vitamin B6 may cause peripheral neuropathy; the dose should be controlled.",
+     "Iron preparations may cause gastrointestinal reactions; taking them after meals is recommended to reduce irritation.",
+     "Corticosteroid-containing ointments should not be used long term to avoid inducing secondary fungal infection."
+    ],
+    "personalization": [
+     "Pregnant women should strictly control the dose of folate and iron supplementation under medical guidance.",
+     "Older adults have poor absorption; vitamin B12 supplementation by injection is recommended.",
+     "Patients with diabetes should pay attention to the sugar content of mouth rinses and choose sugar-free formulations."
+    ]
+   },
+   "disease": "glossitis",
+   "department": "Stomatology"
+  },
+  {
+   "presentation": "Patients often complain of sudden onset of high fever and irritability, accompanied by severe oral pain leading to refusal to eat or drooling. Examination shows widespread gingival congestion and swelling with easy bleeding; clustered small vesicles appear on the oral mucosa (inner lips, buccal mucosa, tongue), which rupture to form multiple superficial ulcers covered by a yellowish-white pseudomembrane with surrounding erythema. Submandibular lymph node enlargement and tenderness are often present.",
+   "interview_guide": {
+    "first_questions": [
+     "Did you have fever or cold-like symptoms before the onset?",
+     "Does the oral pain affect eating and drinking?",
+     "Have you recently been in contact with children or adults with similar symptoms?"
+    ],
+    "followup_questions": [
+     "If vesicles are found, ask further: was there a stinging sensation before the vesicles ruptured?",
+     "If accompanied by high fever, ask further: what was the highest temperature, and how many days did it last?",
+     "If lymph nodes are enlarged, ask further: is there an obviously tender mass in the neck or submandibular area?"
+    ],
+    "stop_conditions": [
+     "The typical vesicle-ulcer evolution and gingival redness and swelling have been clearly described",
+     "It is confirmed that there are no signs of severe dehydration or neurological complications",
+     "Initial inquiry into the association between systemic symptoms and local signs has been completed"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Oral visual inspection (observing vesicle distribution and ulcer morphology)",
+     "Complete blood count (evaluating white blood cell and lymphocyte proportions)",
+     "Temperature monitoring"
+    ],
+    "if_suspected": [
+     "HSV-1-specific IgM antibody testing",
+     "Tzanck smear examination (looking for multinucleated giant cells)",
+     "Throat swab PCR testing (to confirm the virus type)"
+    ],
+    "avoid": [
+     "Routine bacterial culture (the condition is predominantly nonbacterial)",
+     "Unnecessary X-ray examination (when there is no indication of bone destruction)",
+     "Invasive biopsy (typical cases do not require pathological confirmation)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is oral acyclovir (children 50 mg/kg/day in 4 divided doses for 5-7 days); severe cases may receive intravenous administration. Provide symptomatic treatment: use compound chlorhexidine mouth rinse to clean the oral cavity and apply lidocaine gel topically to relieve pain. Encourage small, frequent sips of water to prevent dehydration, and give fluid replacement if necessary. Maintain oral hygiene and avoid irritating foods."
+    ],
+    "safety_warnings": [
+     "Patients with renal impairment need adjusted acyclovir doses to prevent nephrotoxicity",
+     "Avoid long-term use of corticosteroid-containing ointments to prevent worsening of the viral infection",
+     "Be alert to a history of drug allergy; observe for rash reactions after the first dose"
+    ],
+    "personalization": [
+     "Infants and young children require precise weight-based dose calculation and close monitoring for dehydration",
+     "Immunocompromised patients require a prolonged course and combined immunomodulators",
+     "Antiviral drugs should be used with caution in pregnant women; after weighing the benefits and risks, topical treatment should be selected as the main approach"
+    ]
+   },
+   "disease": "Herpetic gingivostomatitis",
+   "department": "Stomatology"
+  },
+  {
+   "presentation": "Patients complain of abnormally enlarged tongue that affects chewing, swallowing, or speech. Common symptoms include macroglossia causing dental misalignment, difficulty biting, and even breathing difficulty or snoring during sleep. Some patients may have facial asymmetry or abnormal jaw development.",
+   "interview_guide": {
+    "first_questions": [
+     "When did your tongue start to become enlarged?",
+     "Is it accompanied by pain, numbness, or other discomfort?"
+    ],
+    "followup_questions": [
+     "Have you noticed changes in tongue size over time?",
+     "Do you have a family history or related systemic disease (such as hypothyroidism)?"
+    ],
+    "stop_conditions": [
+     "The onset time and rate of progression of tongue enlargement have been clarified.",
+     "Reversible factors such as acute infection or trauma have been excluded.",
+     "The patient has no other systemic symptoms requiring further evaluation."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Oral examination (observing tongue morphology and function)",
+     "Imaging examination (such as CT or MRI to assess tongue volume and surrounding structures)"
+    ],
+    "if_suspected": [
+     "Blood tests (to screen for endocrine or metabolic diseases)",
+     "Tissue biopsy (when tumor is suspected)"
+    ],
+    "avoid": [
+     "Unnecessary examination under general anesthesia",
+     "Repeated low-yield imaging scans"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Select the treatment plan according to the cause. If it is benign hyperplasia, partial surgical resection of the tongue may be considered",
+     "If it is caused by a metabolic disease, treat the primary disease (such as thyroid hormone replacement). Postoperative speech rehabilitation training is required. Nonpharmacologic interventions include dietary adjustment to reduce the burden of swallowing."
+    ],
+    "safety_warnings": [
+     "Avoid excessive resection that may impair tongue function.",
+     "Be aware of the risk of postoperative infection and follow up regularly.",
+     "Use general anesthesia with caution in patients allergic to anesthetic drugs."
+    ],
+    "personalization": [
+     "For pediatric patients, growth and development needs must be considered to avoid affecting maxillofacial development.",
+     "For older patients, cardiopulmonary function should be assessed to reduce surgical risk.",
+     "Patients with coagulation disorders need preoperative correction of coagulation function."
+    ]
+   },
+   "disease": "Macroglossia",
+   "department": "Stomatology"
+  },
+  {
+   "presentation": "The patient often reports chronic dull pain in the affected tooth or chewing discomfort, and some have no obvious subjective symptoms. Clinical examination may show discoloration of the affected tooth crown, mild pain on percussion or no response, and the gingiva in the corresponding periapical area may show a sinus tract with pus discharge or swelling. Radiographs show a well-defined round radiolucency around the periapex, surrounded by a white line, suggesting a cystic lesion.",
+   "interview_guide": {
+    "first_questions": [
+     "Has this tooth previously undergone root canal treatment or trauma?",
+     "Recently, have you had persistent dull pain, biting weakness, or recurrent gum swelling with pus discharge?"
+    ],
+    "followup_questions": [
+     "If there has been a history of swelling and pain, what is the frequency and duration of the episodes?",
+     "Do you currently have facial swelling or systemic symptoms such as fever?"
+    ],
+    "stop_conditions": [
+     "The history of the affected tooth and typical periapical sinus tract findings have been clarified",
+     "The patient can clearly describe the previous treatment history and current main discomfort",
+     "Preliminary assessment is a single odontogenic lesion without signs of acute spread"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Periapical Radiograph",
+     "Cone-beam CT (CBCT)"
+    ],
+    "if_suspected": [
+     "Pulp vitality testing (to differentiate necrotic from vital teeth)",
+     "Needle aspiration (if imaging is atypical, to confirm the nature of the cystic fluid)"
+    ],
+    "avoid": [
+     "Unnecessary systemic antibiotic screening (when asymptomatic)",
+     "Non-targeted wide-field radiography of multiple tooth sites"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is root canal therapy, with thorough removal of the infection source and tight obturation. For large cysts (diameter >1 cm) or cases not healed after root canal treatment, apicoectomy combined with cyst curettage is required. Postoperatively, local anti-inflammatory drugs are used, and radiographs are reviewed periodically to observe bone tissue repair; the course usually requires 3–6 months to assess healing."
+    ],
+    "safety_warnings": [
+     "Irreversible invasive surgery is strictly prohibited during the acute suppurative phase",
+     "Take care to avoid injury to adjacent neurovascular bundles (such as the inferior alveolar nerve)",
+     "Postoperatively, be alert to the spread of space infection caused by secondary infection"
+    ],
+    "personalization": [
+     "Patients with diabetes need strict blood glucose control to prevent difficulty in healing of postoperative infection",
+     "Elderly patients need bone quality assessment to determine the surgical plan",
+     "Pregnant women should preferentially receive conservative treatment, avoiding X-ray exposure and complex surgery"
+    ]
+   },
+   "disease": "Radicular cyst",
+   "department": "Stomatology"
+  },
+  {
+   "presentation": "The patient complains of being unable to close the mouth after opening it, with severe pain and drooling. Typical manifestations include mandibular protrusion and marked tenderness in the preauricular area; with bilateral dislocation, the face appears elongated, and with unilateral dislocation, the chin deviates to the unaffected side. It is often accompanied by difficulty chewing, unclear speech, and anxiety, and usually occurs after yawning, laughing, or eating with the mouth wide open.",
+   "interview_guide": {
+    "first_questions": [
+     "Can you close your mouth now? Did it suddenly lock, or did it open gradually?",
+     "Have you recently yawned, laughed, or eaten a large bite of food?",
+     "Is the pain mainly in front of the ear or on both sides of the cheeks?"
+    ],
+    "followup_questions": [
+     "If this is the first episode, have you had a similar dislocation history before?",
+     "Has there been any history of trauma or recent dental treatment?",
+     "Besides difficulty opening the mouth, do you have arm numbness or loss of consciousness (to rule out systemic causes such as epilepsy)?"
+    ],
+    "stop_conditions": [
+     "Typical symptoms of limited mouth opening and inability to close the mouth spontaneously have been clearly elicited.",
+     "Triggering factors (such as wide mouth opening) and accompanying preauricular pain have been confirmed.",
+     "Fracture caused by trauma or other neurologic emergencies has been ruled out."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Clinical physical examination (palpation of condylar position, observation of occlusal relationship)",
+     "Panoramic radiograph (OPG)",
+     "Temporomandibular joint CT plain scan + three-dimensional reconstruction"
+    ],
+    "if_suspected": [
+     "MRI (when disc displacement or soft tissue injury is suspected)",
+     "Skull PA/lateral X-ray (to differentiate condylar fracture)"
+    ],
+    "avoid": [
+     "Unnecessary general anesthesia assessment (unless reduction fails and general anesthesia is required)",
+     "Unnecessary blood biochemistry tests (when there is no infection or systemic symptoms)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is manual reduction (Hippocratic method or knee-to-knee method) under local infiltration anesthesia. After reduction, use a head-chin bandage for 1–2 weeks to limit mouth opening amplitude and avoid wide mouth opening. Combine with nonsteroidal anti-inflammatory drugs (such as ibuprofen 0.4g, 3 times daily) to relieve pain and inflammation; add muscle relaxants if necessary. For recurrent dislocation, consider intra-articular injection of a sclerosing agent or surgical repair."
+    ],
+    "safety_warnings": [
+     "Strictly prohibit violent reduction to prevent condylar fracture or iatrogenic mandibular injury.",
+     "Mandibular fracture must be ruled out before the procedure; otherwise, manual reduction is prohibited.",
+     "Take care to protect the patient's teeth and avoid injury to the dentition from reduction instruments or accidental swallowing of foreign objects."
+    ],
+    "personalization": [
+     "For elderly patients with osteoporosis, perform gentle manipulation to prevent fracture.",
+     "Pediatric patients should be treated by experienced physicians under sedation or general anesthesia.",
+     "For patients with habitual dislocation, long-term use of a restrictive jaw brace and strengthening of muscle training are recommended."
+    ]
+   },
+   "disease": "temporomandibular joint dislocation (TMJ)",
+   "department": "Stomatology"
+  }
+ ]
+}

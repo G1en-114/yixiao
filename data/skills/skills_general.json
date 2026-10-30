@@ -1,0 +1,850 @@
+{
+ "department": "General Surgery",
+ "skills": [
+  {
+   "presentation": "Persistent pain in the right upper quadrant or epigastrium with paroxysmal exacerbation, radiating to the right shoulder or right back, often induced by eating greasy food or a heavy meal; accompanied by nausea, vomiting, fever, and abdominal bloating; physical examination shows right upper quadrant tenderness and muscle guarding, with a positive Murphy sign (tenderness at the gallbladder point with inspiratory arrest).",
+   "interview_guide": {
+    "first_questions": [
+     "Did the right upper abdominal pain start suddenly? Did you eat greasy or fried food or a heavy meal before it started?",
+     "Does the pain radiate to your right shoulder or back?",
+     "Do you have chills and fever, nausea, or vomiting? What temperature did you measure?"
+    ],
+    "followup_questions": [
+     "Have you previously been found on examination to have gallstones, gallbladder polyps, or recurrent biliary colic?",
+     "Have the whites of your eyes and your skin turned yellow? Has your urine become darker? (to evaluate common bile duct stones or suppurative cholangitis)",
+     "Has the abdominal pain spread to the whole abdomen, with severe generalized abdominal pain and a board-like abdomen? (to evaluate gallbladder perforation and gangrenous peritonitis)"
+    ],
+    "stop_conditions": [
+     "Trigger of right upper abdominal pain, site of radiating pain, and abdominal signs (Murphy sign) have been clarified",
+     "Acute obstructive suppurative cholangitis (Reynolds pentad) and signs of gallbladder gangrene and perforation have been ruled out",
+     "History of gallstones and surgical indications have been clearly collected"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Abdominal color Doppler ultrasound of the liver, gallbladder, pancreas, and spleen (first-choice examination: observe gallbladder enlargement, gallbladder wall thickening and edema >3mm with a \"double-wall sign\", impacted gallstones, and pericholecystic fluid)",
+     "Complete blood count (total white blood cell count and neutrophil percentage markedly elevated)",
+     "C-reactive protein (CRP)",
+     "Comprehensive liver function panel (ALT/AST, total bilirubin TBIL, direct bilirubin, ALP, GGT)",
+     "Serum and urine amylase (to evaluate concomitant acute pancreatitis)"
+    ],
+    "if_suspected": [
+     "Contrast-enhanced upper abdominal CT or MRCP (magnetic resonance cholangiopancreatography, to assess gallbladder necrosis or common bile duct stone obstruction)",
+     "Coagulation profile and ECG (routine preoperative workup before planned emergency laparoscopic surgery)"
+    ],
+    "avoid": [
+     "Blind oral cholecystography during an acute attack of abdominal pain (no diagnostic value and delays treatment)",
+     "Indiscriminate brain MRI without definite neurologic signs"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Medical conservative treatment: fasting, fluid replacement, gastrointestinal decompression (if necessary), antispasmodic analgesia (anisodamine/phloroglucinol), anti-infective therapy (covering Gram-negative bacilli and anaerobes: third-generation cephalosporin/cefoperazone-sulbactam + metronidazole)",
+     "Preferred surgical definitive treatment: laparoscopic cholecystectomy (LC) (emergency surgery within 72 hours of onset or elective surgery after conservative improvement)."
+    ],
+    "safety_warnings": [
+     "Expansion of right upper quadrant tenderness, marked muscle guarding, persistent high fever, or signs of shock suggest suppurative gangrenous perforation of the gallbladder, and emergency surgical exploration and drainage are mandatory",
+     "Avoid blind use of morphine alone for analgesia and antispasmodic therapy (morphine can cause spasm and contraction of the sphincter of Oddi and increase biliary pressure; antispasmodics or pethidine are preferred)",
+     "In elderly patients with acute cholecystitis, clinical symptoms and signs are often milder than the pathologic changes, and sudden perforation is very likely; be alert to underestimation of the condition"
+    ],
+    "personalization": [
+     "Critically ill elderly patients with multiple comorbidities who cannot tolerate emergency surgery under general anesthesia: ultrasound-guided percutaneous transhepatic gallbladder puncture drainage (PTCD/PTGBD) can be performed for decompression",
+     "Simple mild acalculous cholecystitis: close follow-up after conservative anti-infective and anti-inflammatory treatment",
+     "Recurrent chronic calculous cholecystitis: elective minimally invasive laparoscopic cholecystectomy is recommended"
+    ]
+   },
+   "disease": "cholecystitis",
+   "department": "General Surgery"
+  },
+  {
+   "presentation": "Internal hemorrhoids mainly manifest as painless, intermittent bright red bleeding after defecation (dripping blood, spraying blood, or blood on toilet paper) and prolapse of the hemorrhoidal tissue; external hemorrhoids manifest as perianal swelling, moisture, foreign body sensation, and itching; if a thrombosed external hemorrhoid forms, it is accompanied by severe knife-like sharp pain or distending pain; mixed hemorrhoids have both internal and external hemorrhoid features.",
+   "interview_guide": {
+    "first_questions": [
+     "Is the blood in your stool bright red? Is it dripping onto the surface of the stool, dripping or spraying after defecation, or mixed with the stool as black stool?",
+     "When you have a bowel movement, does a lump protrude from the anus? Can it retract by itself, or does it need to be pushed back by hand?",
+     "Do you have severe local swelling and pain around the anus, or a hard purplish nodule that you can feel?"
+    ],
+    "followup_questions": [
+     "Do you have long-term constipation, diarrhea, prolonged squatting on the toilet looking at your phone, or prolonged sitting or standing?",
+     "Have your bowel habits changed recently (for example, increased frequency of bowel movements, narrow stools, or mucus, pus, or blood mixed in the stool)? (be highly vigilant and rule out colorectal cancer)",
+     "Have you recently had recurrent dizziness, pallor, or fatigue? (to rule out severe iron deficiency anemia caused by long-term internal hemorrhoid bleeding)"
+    ],
+    "stop_conditions": [
+     "Clinical classification of hemorrhoids has been clarified (internal hemorrhoids grade I-IV, external hemorrhoids, mixed hemorrhoids, thrombosed external hemorrhoids)",
+     "The nature of hematochezia has been strictly differentiated, and colorectal malignant or inflammatory lesions such as rectal cancer and ulcerative colitis have been ruled out",
+     "Anal bleeding volume and degree of anemia have been clearly assessed"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Anal inspection and digital rectal examination (DRE; extremely critical! It must be performed routinely; palpate the lower rectum to rule out rectal cancer, rectal polyps, and perianal abscess)",
+     "Anoscopy (to clarify the number, size, location of internal hemorrhoids and mucosal congestion and bleeding)",
+     "Complete blood count (to assess the degree of chronic blood loss anemia)"
+    ],
+    "if_suspected": [
+     "Total colonoscopy (patients aged >=40 years, with hematochezia accompanied by changes in bowel habits, weight loss, or a family history of colorectal cancer must undergo full colon evaluation)",
+     "Coagulation profile (before planning surgical treatment)"
+    ],
+    "avoid": [
+     "Directly attributing all hematochezia to \"hemorrhoids\" without performing digital rectal examination (very likely to cause misdiagnosis or missed diagnosis of rectal cancer)",
+     "Full abdominal contrast-enhanced CT for simple mild hemorrhoids"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Nonsurgical basic treatment is preferred: increase dietary fiber and water intake to maintain regular bowel movements, and use warm water/potassium permanganate sitz baths to improve local circulation",
+     "Topical drugs (compound carrageenan suppository/ointment, Mayinglong Musk Hemorrhoid Ointment/Suppository, lidocaine gel)",
+     "Oral drugs that improve venous tone (micronized purified flavonoid fraction tablets/diosmin tablets)",
+     "For severe prolapse (grade III-IV) or thrombosed external hemorrhoids unresponsive to conservative treatment, surgery is performed (rubber band ligation RBL, sclerosing agent injection, PPH, or hemorrhoidectomy)."
+    ],
+    "safety_warnings": [
+     "All patients with hematochezia must not be treated directly as having hemorrhoids; digital rectal examination and, when necessary, colonoscopy must be performed to rule out rectal cancer",
+     "Acute incarcerated internal hemorrhoids with strangulation necrosis are an emergency; do not forcibly or roughly reduce them; immediate emergency surgical management is required",
+     "For thrombosed external hemorrhoids with marked severe pain within 48-72 hours of onset, local thrombus excision under local anesthesia can provide immediate pain relief"
+    ],
+    "personalization": [
+     "Grade I-II internal hemorrhoids: mainly dietary adjustment, sitz baths, anal suppositories, and minimally invasive injection/ligation treatment",
+     "Hemorrhoids in pregnant women: avoid surgical stimulation that may induce uterine contractions; mainly use conservative sitz baths, a high-fiber diet to soften stool, and mild topical drugs",
+     "Severe mixed hemorrhoids with massive bleeding causing severe anemia: correct anemia while performing radical surgical excision"
+    ]
+   },
+   "disease": "Hemorrhoids",
+   "department": "General Surgery"
+  },
+  {
+   "presentation": "Diffuse suppurative inflammation of subcutaneous, subfascial, or deep connective tissue, mostly caused by hemolytic Streptococcus or Staphylococcus aureus infection; local redness, swelling, heat, and pain, with indistinct lesion borders, marked central redness and swelling spreading to the periphery, accompanied by regional lymph node enlargement and systemic toxemia symptoms such as chills, high fever, fatigue, and headache.",
+   "interview_guide": {
+    "first_questions": [
+     "Where on the skin is the red, swollen, hot area? Is the area continuously enlarging and spreading?",
+     "Before the onset, was there any local skin break, insect bite, abrasion, tinea pedis (athlete's foot with broken skin), or surgical incision?",
+     "Do you have chills and shaking, or a high fever? What is your temperature?"
+    ],
+    "followup_questions": [
+     "Has the center of the red and swollen area become soft, with pitting edema or fluctuation? (to evaluate deep abscess formation)",
+     "Do you have diabetes, lower extremity varicose veins, lymphedema, or immunocompromise?",
+     "Is the redness and swelling located in the facial danger triangle, submandibular area, or neck? (be highly vigilant for asphyxia and intracranial cavernous sinus thrombophlebitis)"
+    ],
+    "stop_conditions": [
+     "Infection site, extent of spreading redness and swelling, and local suppurative fluctuation have been clarified",
+     "Severe and fatal necrotizing soft tissue infections such as necrotizing fasciitis have been ruled out",
+     "Systemic infection and toxemia symptoms and history of underlying diabetes have been clearly collected"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Surgical specialty physical examination (palpate skin temperature, extent of tenderness, border clarity, and deep fluctuation)",
+     "Complete blood count (total white blood cell count WBC and neutrophil percentage markedly elevated)",
+     "C-reactive protein (CRP), procalcitonin (PCT)",
+     "Fasting blood glucose (to evaluate diabetes)"
+    ],
+    "if_suspected": [
+     "Superficial soft tissue ultrasound (to assess deep subcutaneous pus accumulation or necrotic liquefaction)",
+     "Bacterial smear and bacterial culture + susceptibility testing of wound pus/secretions",
+     "Blood culture (when high fever and chills are accompanied by signs of systemic sepsis)"
+    ],
+    "avoid": [
+     "Blind vigorous squeezing or rough puncture of early immature facial and submandibular cellulitis (likely to cause suppurative cavernous sinusitis)",
+     "Indiscriminate whole-body 3D skeletal CT without fracture indications"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Systemic anti-infective drug therapy (preferred: penicillins or first/second-generation cephalosporins covering Gram-positive cocci, such as cefazolin and cefuroxime; for suspected MRSA, choose vancomycin or linezolid)",
+     "Local treatment: magnesium sulfate wet compresses, ichthammol ointment, or povidone-iodine wet compresses",
+     "Elevation and immobilization of the affected limb",
+     "Once an abscess with fluctuation forms, perform timely multiple incisions and drainage with adequate drainage."
+    ],
+    "safety_warnings": [
+     "Submandibular and neck cellulitis can compress the larynx and trachea and cause acute asphyxia; the airway must be closely monitored, and emergency tracheostomy must be performed if necessary",
+     "Be alert to differentiation from fatal necrotizing fasciitis: if the skin lesion pain is out of proportion, there is subcutaneous crepitus, or purple-black bullae appear, immediate emergency extensive wide incision and debridement are required",
+     "Diabetic patients must strictly use insulin to control blood glucose; otherwise, the infection is extremely difficult to control and readily spreads rapidly"
+    ],
+    "personalization": [
+     "For recurrent lower extremity cellulitis with tinea pedis: the foot fungal infection must be thoroughly treated at the same time to block the bacterial entry portal",
+     "Penicillin/cephalosporin allergy: choose clindamycin, azithromycin, or quinolone antibiotics",
+     "Abscess formation stage: adequate incision and drainage must be performed, necrotic tissue removed, a drainage strip placed, and dressing changes performed regularly"
+    ]
+   },
+   "disease": "cellulitis",
+   "department": "General Surgery"
+  },
+  {
+   "presentation": "Patients often have a clear history of abdominal trauma and complain of local persistent dull pain or stabbing pain that worsens with activity, coughing, or deep breathing. Physical examination shows skin bruising and swelling in the injured area, fixed tenderness on palpation, and abdominal muscle tension but no rebound tenderness, without peritoneal irritation signs. If combined with visceral injury, symptoms such as nausea, vomiting, or hematuria may be present.",
+   "interview_guide": {
+    "first_questions": [
+     "What was the exact mechanism of the injury (for example, impact or fall)?",
+     "Is the pain continuous or does it worsen paroxysmally?",
+     "Do you have nausea, vomiting, or abnormal urination?"
+    ],
+    "followup_questions": [
+     "If the pain is severe, do you also have dizziness or palpitations?",
+     "Did you have any transient loss of consciousness after the injury?",
+     "Do you have a history of coagulation disorders or are you taking anticoagulant drugs?"
+    ],
+    "stop_conditions": [
+     "History of trauma has been clarified and there are no peritoneal irritation signs",
+     "Vital signs are stable, with no progressive worsening of abdominal pain",
+     "Preliminary examination has ruled out the risk of visceral rupture"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Abdominal physical examination (inspection, palpation, percussion, auscultation)",
+     "Complete blood count and coagulation profile testing",
+     "Abdominal ultrasound examination"
+    ],
+    "if_suspected": [
+     "Contrast-enhanced abdominal CT scan (when visceral injury is suspected)",
+     "Urinalysis (to evaluate urinary tract injury)",
+     "Upright abdominal plain film (to evaluate pneumoperitoneum)"
+    ],
+    "avoid": [
+     "Blind abdominal paracentesis (when there is no indication)",
+     "Repeated unnecessary radiation examinations",
+     "Forceful abdominal pressure before fracture has been ruled out"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Conservative treatment is preferred. In the acute phase (24-48 hours), strict bed rest and local cold compresses to reduce bleeding and swelling",
+     "After 48 hours, change to warm compresses to promote hematoma absorption. For marked pain, oral nonsteroidal anti-inflammatory drugs (NSAIDs) (such as ibuprofen 0.2-0.4g, three times daily). Avoid strenuous exercise and actions that increase intra-abdominal pressure, closely observe changes in the condition; symptoms usually resolve in 1-2 weeks."
+    ],
+    "safety_warnings": [
+     "Be alert to delayed intra-abdominal bleeding; if blood pressure decreases, immediate management is required",
+     "Avoid drugs that affect coagulation, such as aspirin, to prevent hematoma expansion",
+     "Pay attention to distinguishing simple abdominal wall injury from intra-abdominal solid organ rupture"
+    ],
+    "personalization": [
+     "Elderly patients require closer monitoring because poor compensatory capacity makes occult bleeding likely",
+     "Pregnant women should use X-ray and CT examinations with caution, and ultrasound should be preferred for assessment",
+     "Patients taking anticoagulants need dose adjustment and prolonged observation time"
+    ]
+   },
+   "disease": "abdominal wall contusion",
+   "department": "General Surgery"
+  },
+  {
+   "presentation": "Patients often report a mass protruding from the anal opening during defecation that either reduces spontaneously afterward or requires manual reduction. Typical symptoms include painless hematochezia, with bright red blood coating the stool surface or blood on toilet paper. Some patients have anal fullness and a bearing-down sensation, a foreign-body sensation, or a feeling of incomplete evacuation. If the polyp is large or becomes incarcerated, severe pain and increased discharge may occur.",
+   "interview_guide": {
+    "first_questions": [
+     "Is there a mass protruding during defecation? Does it reduce on its own after a bowel movement?",
+     "Have you noticed blood in your stool recently? What color is the blood, and how is it related to the stool?"
+    ],
+    "followup_questions": [
+     "Is the mass protrusion accompanied by pain or increased bleeding?",
+     "Have there been changes in stool consistency (such as narrowing) or abnormal bowel habits?"
+    ],
+    "stop_conditions": [
+     "The nature of the mass, bleeding, and associated symptoms have been clearly described.",
+     "The patient has provided a history of prior anorectal disease and family history of tumors.",
+     "The duration of symptoms and aggravating factors have been clearly defined."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Digital rectal examination",
+     "Colonoscopy"
+    ],
+    "if_suspected": [
+     "Pathological biopsy (to confirm the nature of the lesion)",
+     "Pelvic MRI (to assess deep invasion or complex lesions)"
+    ],
+    "avoid": [
+     "Non-indicated noncontrast abdominal CT",
+     "Repeated barium enema examinations"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Endoscopic polypectomy (such as EMR or ESD) is the first choice; for low-lying small polyps, transanal local excision may be performed. Postoperatively, hemostatic drugs and sitz bath care are routinely provided, and regular bowel movements should be maintained. The typical course is inpatient observation for 3-5 days; within 1 month after surgery, avoid strenuous exercise and spicy food, and undergo regular follow-up colonoscopy to monitor for recurrence."
+    ],
+    "safety_warnings": [
+     "Patients using anticoagulants need to stop the drugs before surgery and have bleeding risk assessed.",
+     "Be alert for postoperative delayed massive hemorrhage and perforation complications.",
+     "Avoid surgery during acute inflammation."
+    ],
+    "personalization": [
+     "Elderly patients require cardiopulmonary function assessment and adjustment of anesthesia method.",
+     "For pediatric patients, consider growth and development characteristics and use minimally invasive approaches whenever possible.",
+     "Patients with coagulation disorders require preoperative correction of coagulation parameters."
+    ]
+   },
+   "disease": "Anal polyp",
+   "department": "General Surgery"
+  },
+  {
+   "presentation": "Patients often report recurrent purulent discharge, pain, and itching around the anus, and may palpate a subcutaneous induration or cord-like structure. Typical manifestations include an external opening that closes and opens intermittently, discharging pus or bloody secretions, and underwear is often stained. Some patients have local redness, swelling, heat, and pain; if an abscess forms, the pain is severe and may be accompanied by systemic symptoms such as fever. The course is protracted and does not heal despite prolonged treatment.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had recurrent pus or discharge around the anus?",
+     "Have you recently had severe anal pain or felt a lump?"
+    ],
+    "followup_questions": [
+     "If there is pus drainage, what color and odor does the discharge have? Is it accompanied by fever?",
+     "Have you previously undergone incision and drainage surgery for a perianal abscess? How long after wound healing did it recur?"
+    ],
+    "stop_conditions": [
+     "A typical history of pus drainage, pain, and induration has been clearly described, with no signs of complex complications.",
+     "The patient has provided a history of prior perianal abscess surgery and treatment course.",
+     "The symptom description is clear enough to make a preliminary diagnosis of anal fistula, and further questioning about nonspecific symptoms is unnecessary."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Digital rectal examination",
+     "Anoscopy",
+     "Perianal ultrasound"
+    ],
+    "if_suspected": [
+     "Pelvic MRI (to assess high complex anal fistula and its relationship with the sphincter)",
+     "Examination under anesthesia (EUA)",
+     "Methylene blue staining test"
+    ],
+    "avoid": [
+     "Routine abdominal CT (limited diagnostic value for anal fistula and high radiation exposure)",
+     "Blind probing of the fistula tract (may lead to false tract formation)",
+     "Unnecessary colonoscopy (unless concomitant Crohn's disease is suspected)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Surgery is the main treatment, including fistulotomy, seton therapy, or ligation of the intersphincteric fistula tract (LIFT). The procedure is selected according to fistula location to preserve anal function. Postoperatively, the wound should be kept clean, with daily warm water sitz baths, antibiotics to control infection, and regular dressing changes until healing. The course depends on the surgical method and healing, usually requiring weeks to months."
+    ],
+    "safety_warnings": [
+     "Radical excision is strictly prohibited during the acute abscess phase; incision and drainage should be performed first.",
+     "Avoid excessive damage to the anal sphincter that could cause fecal incontinence.",
+     "Postoperatively, be alert for bleeding and urinary retention; especially when analgesics are used, monitor urination."
+    ],
+    "personalization": [
+     "For female patients, pay special attention to anterior fistulas to avoid damaging the vaginal wall.",
+     "Patients with Crohn's disease require combined immunosuppressive therapy and should avoid aggressive surgery.",
+     "Elderly patients or those with coagulation disorders require adjustment of anticoagulants and enhanced postoperative monitoring."
+    ]
+   },
+   "disease": "Anal fistula",
+   "department": "General Surgery"
+  },
+  {
+   "presentation": "Patients often report cyclical breast distending pain or stabbing pain, which usually worsens before menstruation and relieves after menstruation. Unilateral or bilateral diffuse nodularity may be palpable, with a firm but not hard texture, unclear boundaries, and good mobility. Some patients have nipple discharge, mostly serous or pale yellow. Symptoms may worsen with emotional fluctuations and fatigue, but there is usually no peau d'orange skin change or fixed mass.",
+   "interview_guide": {
+    "first_questions": [
+     "Is your breast pain clearly related to your menstrual cycle?",
+     "Can you describe whether the lump you feel is single or multiple, and what its texture is like?"
+    ],
+    "followup_questions": [
+     "Have you had any nipple discharge recently? What color is it?",
+     "Is there a family history of breast cancer?"
+    ],
+    "stop_conditions": [
+     "The association between pain and the menstrual cycle has been clearly established, and there are no high-risk factors.",
+     "Necessary imaging examinations have been completed and the results support a benign diagnosis.",
+     "Typical signs of malignancy (such as skin dimpling or a fixed hard nodule) have been excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Breast ultrasound",
+     "Mammography"
+    ],
+    "if_suspected": [
+     "Breast magnetic resonance imaging (MRI)",
+     "Core needle biopsy"
+    ],
+    "avoid": [
+     "Routine whole-body bone scan (when there is no evidence of bone pain)",
+     "Blind fine-needle aspiration cytology (if imaging features are typical)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Symptomatic treatment and lifestyle intervention are the mainstays. It is recommended to wear a properly supportive bra, reduce caffeine intake, and maintain emotional stability. For marked pain, short-term oral nonsteroidal anti-inflammatory drugs (such as ibuprofen 200-400 mg per dose, 3 times daily, after meals) or Chinese patent medicines (such as Rupixiao tablets) may be used. For severe cyclical pain, danazol or tamoxifen may be considered, but risks must be strictly assessed, and the course generally should not exceed 3 months. Follow up regularly to observe lesion changes."
+    ],
+    "safety_warnings": [
+     "Use of hormonal drugs (such as tamoxifen) requires vigilance for thrombotic risk and endometrial lesions.",
+     "Nonsteroidal anti-inflammatory drugs are contraindicated in patients with a history of gastrointestinal ulcer or renal insufficiency.",
+     "Avoid long-term misuse of estrogen-containing health products or drugs."
+    ],
+    "personalization": [
+     "For women of reproductive age, prioritize nonpharmacologic interventions and use hormonal therapy with caution.",
+     "If symptoms persist in postmenopausal women, closer monitoring is needed to exclude other lesions.",
+     "Patients with obvious anxiety should receive combined psychological counseling."
+    ]
+   },
+   "disease": "Breast adenosis",
+   "department": "General Surgery"
+  },
+  {
+   "presentation": "Patients often have a clear history of chest wall trauma and report localized persistent dull or stabbing pain that worsens with deep breathing, coughing, or turning the trunk. Physical examination may reveal localized chest wall tenderness, sometimes with subcutaneous ecchymosis or swelling. If rib fracture or hemopneumothorax is present, critical signs such as dyspnea, cyanosis, and decreased breath sounds may occur.",
+   "interview_guide": {
+    "first_questions": [
+     "What was the specific mechanism of injury (such as impact or compression)?",
+     "Does the pain worsen markedly with breathing or coughing?",
+     "Have you had difficulty breathing, coughing up blood, or confusion?"
+    ],
+    "followup_questions": [
+     "Did you have any brief loss of consciousness or vomiting after the injury?",
+     "Do you have a history of osteoporosis or coagulation disorders?",
+     "Is your breathing rate increased now, or do you feel short of breath?"
+    ],
+    "stop_conditions": [
+     "The trauma history is clear, vital signs are stable, and there is no dyspnea.",
+     "A basic physical examination has been completed, excluding tension pneumothorax or flail chest.",
+     "Imaging (such as X-ray) has confirmed the absence of rib fracture or visceral injury."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Chest X-ray",
+     "Vital sign monitoring (heart rate, oxygen saturation, respiratory rate)",
+     "Chest wall palpation and auscultation"
+    ],
+    "if_suspected": [
+     "Chest CT scan (to detect occult pulmonary contusion or tiny pneumothorax)",
+     "Arterial blood gas analysis (to assess degree of hypoxia)",
+     "Electrocardiography (to exclude cardiac contusion)"
+    ],
+    "avoid": [
+     "Routine whole-body PET-CT examination",
+     "Repeated forceful pressing at suspected rib fracture sites",
+     "Non-indicated invasive thoracentesis"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Conservative treatment is the mainstay, including adequate analgesia (oral nonsteroidal anti-inflammatory drugs such as ibuprofen 400 mg q8h, with short-term opioids if necessary), and encouraging effective coughing and expectoration to prevent pulmonary infection. Instruct patients to use restrictive chest binders (avoiding excessive tightness that impairs breathing), rest in bed, and elevate the head of the bed. The course is usually 2-4 weeks, until pain is significantly relieved."
+    ],
+    "safety_warnings": [
+     "Strictly avoid excessive use of sedatives to prevent suppression of respiratory drive.",
+     "Be alert for delayed hemopneumothorax and closely observe changes in condition.",
+     "Avoid prolonged bed rest that may lead to deep vein thrombosis."
+    ],
+    "personalization": [
+     "Elderly patients require adjustment of analgesic doses and prevention of falls and constipation.",
+     "Use aspirin with caution in pediatric patients; acetaminophen is preferred.",
+     "For pregnant women, prioritize physical therapy, and drugs require strict safety assessment."
+    ]
+   },
+   "disease": "chest contusion",
+   "department": "General Surgery"
+  },
+  {
+   "presentation": "Patients often present with dull or distending pain in the right upper quadrant, which is usually aggravated after eating greasy food and may radiate to the right shoulder and back. Some patients have dyspeptic symptoms such as belching, abdominal bloating, and nausea. On physical examination, Murphy sign may be positive, but acute attacks are not prominent. Symptoms are recurrent and the course is long; diagnosis should be confirmed with imaging studies.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have pain in your right upper abdomen? Is the pain related to eating?",
+     "Have you recently had nausea, vomiting, or fever?"
+    ],
+    "followup_questions": [
+     "If the pain is related to eating, which specific foods trigger it?",
+     "Have you had recurrent episodes of similar symptoms?"
+    ],
+    "stop_conditions": [
+     "The patient has clearly described the typical symptoms and triggers.",
+     "The necessary physical examination and preliminary diagnosis have been completed.",
+     "The patient has no other complications that require further evaluation."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Abdominal ultrasound",
+     "Liver function tests",
+     "Complete blood count"
+    ],
+    "if_suspected": [
+     "CT scan (for evaluation of complex cases)",
+     "MRCP (magnetic resonance cholangiopancreatography)",
+     "Gallbladder function testing"
+    ],
+    "avoid": [
+     "Unnecessary radionuclide scanning",
+     "Routine ERCP (unless common bile duct stones are suspected)",
+     "Overreliance on serum tumor markers"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes dietary adjustment (low-fat diet), antispasmodic and analgesic drugs (such as 654-2), and antibiotics (if infection is present). For patients with recurrent attacks or complications, laparoscopic cholecystectomy is recommended. Postoperatively, attention should be paid to wound care and dietary management during recovery."
+    ],
+    "safety_warnings": [
+     "Avoid drugs that may cause liver injury",
+     "Check history of antibiotic allergy and drug interactions",
+     "Watch for serious postoperative complications such as bile leakage or bleeding"
+    ],
+    "personalization": [
+     "Elderly patients require dose adjustment and close monitoring of liver and kidney function",
+     "For pregnant women, non-surgical treatment is preferred; surgery should be considered cautiously when necessary",
+     "Patients with diabetes require intensified glycemic control"
+    ]
+   },
+   "disease": "Chronic cholecystitis",
+   "department": "General Surgery"
+  },
+  {
+   "presentation": "Patients often report cyclical bilateral breast distending pain or stinging pain; the intensity fluctuates with the menstrual cycle, worsening before menstruation and easing after menstruation. Multiple nodules of varying sizes or plaque-like thickened areas may be palpable in one or both breasts; they are firm rather than hard, with indistinct borders and good mobility. Some patients have nipple discharge (mostly serous or pale yellow). Symptoms are often aggravated by emotional fluctuations and fatigue.",
+   "interview_guide": {
+    "first_questions": [
+     "Is your breast pain clearly related to your menstrual cycle?",
+     "Can you feel a lump in your breast? Where exactly is it located?"
+    ],
+    "followup_questions": [
+     "If you have a lump, has it recently enlarged rapidly or become harder?",
+     "Do you have nipple discharge when not breastfeeding? What color is it?"
+    ],
+    "stop_conditions": [
+     "The association between the pain and the menstrual cycle has been clarified, and there are no high-risk factors.",
+     "The necessary imaging examinations have been completed, and the results support a benign diagnosis.",
+     "Diseases requiring urgent management, such as breast cancer and acute infection, have been excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Breast ultrasound",
+     "Mammography (for those aged 40 years and older)"
+    ],
+    "if_suspected": [
+     "Breast magnetic resonance imaging (MRI)",
+     "Fine-needle aspiration cytology (FNA)"
+    ],
+    "avoid": [
+     "Routine whole-body bone scan (when there are no bone pain symptoms)",
+     "Blind core needle biopsy (when imaging features are typically benign)",
+     "Repeated high-frequency CT examinations (radiation risk outweighs benefit)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Psychological counseling and lifestyle adjustment are the main measures; avoid high-fat diets and caffeine-containing foods. For marked pain, short-term use of Chinese patent medicines such as Rupixiao or Xiaoyao Wan may relieve symptoms. For severe pain, low-dose short-course tamoxifen may be considered (10 mg/day for a 3-month course), but contraindications must be strictly evaluated. Regular follow-up is required to observe changes in the condition."
+    ],
+    "safety_warnings": [
+     "Before using hormone-based drugs, pregnancy and breast cancer risk must be excluded.",
+     "Note that the drugs may cause gastrointestinal reactions such as nausea and dizziness.",
+     "Long-term tamoxifen use requires vigilance for the risk of endometrial lesions."
+    ],
+    "personalization": [
+     "Women of childbearing age should use antiestrogen drugs cautiously, with traditional Chinese medicine regulation preferred.",
+     "Perimenopausal patients require treatment plan adjustment in conjunction with bone density monitoring.",
+     "Patients with anxiety or depression tendencies should receive combined psychological intervention."
+    ]
+   },
+   "disease": "Fibrocystic breast disease",
+   "department": "General Surgery"
+  },
+  {
+   "presentation": "Patients often present with dull or distending pain in the right upper quadrant, and a painless, firm mass may be palpable. Some patients have a history of long-term residence in pastoral areas or contact with dogs and sheep. If the cyst ruptures, sudden severe abdominal pain with anaphylactic shock may occur; if it compresses the biliary tract, jaundice and chills with high fever occur. Early stage is often asymptomatic and is frequently discovered incidentally during physical examination.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you ever lived in a pastoral area or worked in animal husbandry?",
+     "Have you recently felt persistent dull pain in the right upper abdomen or noticed a mass?",
+     "Has a space-occupying liver lesion ever been found on a previous physical examination?"
+    ],
+    "followup_questions": [
+     "Is the pain aggravated after eating greasy food, or is it accompanied by nausea and vomiting?",
+     "Have you recently had skin itching, rash, or sudden difficulty breathing (suggesting allergy)?",
+     "Have you had fever, chills, or yellowing of the skin and sclera?"
+    ],
+    "stop_conditions": [
+     "A history of pastoral-area contact and typical symptoms (abdominal pain, mass) have been clearly asked about and documented.",
+     "The patient has described previous imaging results or relevant treatment history.",
+     "The symptom features are sufficient to suggest parasitic infection, and there are no other complex comorbidities requiring further differential diagnosis."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Abdominal ultrasound (preferred screening method)",
+     "Serum hydatid antibody test (ELISA)",
+     "Contrast-enhanced CT or MRI of the upper abdomen (to assess cyst size, location, and relationship to blood vessels and bile ducts)"
+    ],
+    "if_suspected": [
+     "Chest X-ray or CT (to screen for metastatic pulmonary hydatid disease)",
+     "Comprehensive liver function tests (to assess the degree of biliary obstruction)",
+     "Complete blood count (pay attention to eosinophil count)"
+    ],
+    "avoid": [
+     "Percutaneous liver biopsy (strictly prohibited to prevent cyst fluid spillage causing anaphylactic shock or seeding metastasis)",
+     "Blind abdominal exploration without imaging localization",
+     "Unnecessary radionuclide scanning"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Surgical treatment is the main approach, including endocystectomy or partial hepatectomy. Albendazole (400 mg/dose, twice daily) should be used before and after surgery, usually for a course of no less than 3 months. For small cysts that cannot be treated surgically, PAIR (puncture-aspiration-injection-reaspiration) may be considered. At the same time, antiallergic and supportive treatment are required to prevent complications caused by cyst fluid spillage."
+    ],
+    "safety_warnings": [
+     "Puncture must not be performed without adequate preparation to prevent cyst fluid leakage causing fatal anaphylactic shock",
+     "Albendazole is hepatotoxic; liver function must be closely monitored during treatment",
+     "Albendazole is contraindicated in pregnant and breastfeeding women; doses in children must be strictly calculated"
+    ],
+    "personalization": [
+     "For elderly or frail patients, minimally invasive surgery or conservative drug treatment is preferred to reduce trauma",
+     "Patients with hepatic impairment require albendazole dose adjustment or temporary discontinuation, along with liver-protective treatment",
+     "Patients with diabetes or hypertension require concurrent control of underlying diseases to facilitate postoperative recovery"
+    ]
+   },
+   "disease": "Hepatic echinococcosis",
+   "department": "General Surgery"
+  },
+  {
+   "presentation": "In newborns, a cystic mass protruding from the center of the umbilicus may be seen, covered by a translucent membrane (peritoneum and amnion) and containing abdominal organs such as intestines or liver. The mass varies in size; when ruptured, viscera may be exposed with bleeding. It is often accompanied by other congenital anomalies such as congenital heart disease and chromosomal abnormalities.",
+   "interview_guide": {
+    "first_questions": [
+     "Was a protruding mass at the umbilicus noticed when your child was born?",
+     "Is the skin over the mass intact, and is there any ulceration or exudate?",
+     "Did prenatal ultrasound suggest a fetal abdominal abnormality?"
+    ],
+    "followup_questions": [
+     "If the membrane has ruptured, is there visceral evisceration or contamination?",
+     "Does your child have difficulty breathing, feeding difficulties, or other systemic abnormalities?",
+     "Is there a family history of similar congenital anomalies?"
+    ],
+    "stop_conditions": [
+     "The diagnosis has been clearly established, and there are no emergency complications requiring immediate management",
+     "The initial vital sign assessment has been completed and a surgical plan has been formulated",
+     "It has been confirmed that there are no other life-threatening comorbidities requiring priority intervention"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Abdominal ultrasound",
+     "General physical examination (with focus on membrane integrity)",
+     "Chest X-ray (to assess cardiopulmonary function and possible diaphragmatic hernia)"
+    ],
+    "if_suspected": [
+     "Echocardiography (to screen for congenital heart disease)",
+     "Chromosomal karyotype analysis (to screen for syndromes such as trisomy 21)",
+     "CT or MRI (to assess organ position and extent in complex cases)"
+    ],
+    "avoid": [
+     "Avoid unnecessary sedated examinations in premature infants",
+     "Do not forcefully press or puncture when the membrane is intact",
+     "Avoid high-radiation imaging examinations unless urgent"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Surgical treatment is preferred; primary repair or staged repair is selected according to the size of the defect. Small defects can be closed directly",
+     "For large defects, a silicone bag is used for protection followed by delayed closure. Before surgery, maintain body temperature, prevent infection, and perform gastrointestinal decompression when necessary. After surgery, closely monitor respiratory and circulatory function and provide nutritional support and anti-infective treatment."
+    ],
+    "safety_warnings": [
+     "Do not forcefully reduce viscera without anesthesia to prevent injury",
+     "Observe indications for antibiotic use and avoid misuse leading to resistance",
+     "Watch for postoperative abdominal compartment syndrome and monitor intra-abdominal pressure promptly"
+    ],
+    "personalization": [
+     "Premature infants require enhanced warming and respiratory support before surgery",
+     "For those with severe cardiac anomalies, cardiac function should be stabilized first before considering surgical timing",
+     "For giant omphalocele, multidisciplinary collaboration is recommended to develop an individualized staged treatment plan"
+    ]
+   },
+   "disease": "omphalocele",
+   "department": "General Surgery"
+  },
+  {
+   "presentation": "Patients often complain of continuous severe throbbing pain around the anus, with restlessness and exacerbation of pain during defecation. Local erythema, swelling, and induration are visible, with marked tenderness; some patients have systemic infection symptoms such as fever and chills. If the abscess ruptures or after incision and drainage, pus may drain and pain may temporarily improve, but it tends to recur and form an anal fistula.",
+   "interview_guide": {
+    "first_questions": [
+     "Is the anal pain continuous or intermittent? Does it feel throbbing?",
+     "Have you recently had systemic discomfort such as fever, chills, or fatigue?"
+    ],
+    "followup_questions": [
+     "Is the pain aggravated by defecation? Do you have difficulty defecating or tenesmus?",
+     "Is there erythema, swelling, a hard lump, or spontaneous rupture with pus drainage in the local skin?"
+    ],
+    "stop_conditions": [
+     "Typical local erythema, swelling, heat, and pain plus systemic infection symptoms have been clearly described",
+     "It has been confirmed that no other systemic diseases interfere with the diagnosis",
+     "Physical examination has identified definite fluctuation or a point of tenderness"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Digital rectal examination",
+     "Anoscopy",
+     "Complete blood count (WBC count and differential)"
+    ],
+    "if_suspected": [
+     "Pelvic MRI (to assess the extent of deep abscess and relationship to the sphincter)",
+     "Transrectal ultrasound (to locate the abscess)",
+     "Blood glucose testing (to identify diabetes as a predisposing factor)"
+    ],
+    "avoid": [
+     "Blind needle aspiration of pus (may cause spread of infection)",
+     "Routine noncontrast CT (lower soft-tissue resolution than MRI and increased radiation)",
+     "Antibiotic therapy instead of surgical drainage (delays treatment)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Emergency surgical incision and drainage is the first choice, with thorough evacuation of pus and placement of a drainage strip. After surgery, daily warm sitz baths promote healing; broad-spectrum antibiotics (e.g., cephalosporins combined with metronidazole) control infection for a course of 5-7 days. Analgesics are also given to relieve symptoms, and stools should be kept soft to avoid constipation worsening pain."
+    ],
+    "safety_warnings": [
+     "Do not use antibiotics alone without adequate drainage, to avoid formation of a complex anal fistula",
+     "Pay attention to drug allergy history, especially to penicillins and cephalosporins",
+     "Be alert to risks of postoperative bleeding and urinary retention; vital signs should be closely monitored"
+    ],
+    "personalization": [
+     "Patients with diabetes need strict blood glucose monitoring and adjustment of insulin dose to control infection",
+     "X-ray and CT examinations should be used cautiously in pregnant women; MRI or ultrasound is preferred",
+     "Older and frail patients need enhanced nutritional support to prevent postoperative complications"
+    ]
+   },
+   "disease": "Perianal abscess",
+   "department": "General Surgery"
+  },
+  {
+   "presentation": "Patients often present with painless hematochezia, with blood mostly adherent to the stool surface or dripping bright red; some patients may have changes in bowel habits, such as alternating diarrhea and constipation or tenesmus. Larger polyps may cause intestinal obstruction symptoms such as abdominal pain, bloating, and difficulty defecating. A few patients have a foreign-body sensation in the anus due to polyp prolapse.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have hematochezia? What color is the blood?",
+     "Have your bowel habits changed recently?",
+     "Has anyone in your family had colorectal cancer or polyps?"
+    ],
+    "followup_questions": [
+     "Is the hematochezia related to defecation? Is it accompanied by abdominal pain?",
+     "Do you have systemic symptoms such as weight loss or fatigue?",
+     "Have you had a colonoscopy before? What were the results?"
+    ],
+    "stop_conditions": [
+     "Typical hematochezia and changes in bowel habits have been clearly described",
+     "Family history and previous examination information are complete",
+     "There are no other warning symptoms requiring further differential diagnosis"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Colonoscopy",
+     "Pathological biopsy"
+    ],
+    "if_suspected": [
+     "Abdominal CT scan",
+     "Tumor marker testing (e.g., CEA)"
+    ],
+    "avoid": [
+     "Routine X-ray barium meal contrast examination",
+     "Unnecessary serological screening"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Endoscopic polypectomy (e.g., EMR or ESD) is preferred, and follow-up frequency is determined by pathological results. For high-risk polyps, follow-up colonoscopy is recommended 3-6 months after the procedure. Nonpharmacologic interventions include dietary modification, increased dietary fiber intake, and avoidance of a high-fat diet."
+    ],
+    "safety_warnings": [
+     "Endoscopic surgery is contraindicated in patients with coagulation disorders",
+     "Coordinate the timing of surgery with anticoagulant use",
+     "Be alert to risks of postoperative bleeding and perforation"
+    ],
+    "personalization": [
+     "In older patients, cardiopulmonary function should be assessed to determine whether they can tolerate anesthesia",
+     "In pediatric patients, appropriate minimally invasive techniques should be selected",
+     "Patients with a family history should have an intensified long-term follow-up plan"
+    ]
+   },
+   "disease": "Rectal polyp",
+   "department": "General Surgery"
+  },
+  {
+   "presentation": "Patients complain of a mass prolapsing from the anus; initially it appears only during defecation and reduces spontaneously afterward; later it requires manual reduction or cannot be reduced. It is often accompanied by a sensation of incomplete evacuation, anal heaviness, fecal incontinence, and increased mucus secretion. Some patients describe the prolapsed tissue as having concentric circular folds; severe cases may be accompanied by bleeding or pain from incarceration and necrosis.",
+   "interview_guide": {
+    "first_questions": [
+     "Under what circumstances does the prolapsed mass appear? Can it go back by itself?",
+     "Have you recently had constipation, diarrhea, or prolonged coughing?",
+     "Do you feel that you cannot control your bowel movements, or is there mucus discharge?"
+    ],
+    "followup_questions": [
+     "If the prolapsed mass cannot be reduced, is there severe pain or does it turn black?",
+     "How long has this been going on? Does it happen with every bowel movement?",
+     "Have you had pelvic floor surgery or a neurologic disease (such as stroke)?"
+    ],
+    "stop_conditions": [
+     "The nature of the prolapsed mass, degree of reducibility, and associated defecatory dysfunction have been clearly defined.",
+     "Acute emergencies requiring urgent management, such as acute incarceration and necrosis, have been excluded.",
+     "Sufficient past medical history has been obtained to assess surgical indications and risks."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Digital rectal examination",
+     "Anoscopy",
+     "Defecography"
+    ],
+    "if_suspected": [
+     "Colonoscopy (to exclude concomitant tumor or inflammation)",
+     "Pelvic MRI (to assess pelvic floor structure and nerve injury)",
+     "Anal manometry"
+    ],
+    "avoid": [
+     "Routine noncontrast abdominal CT (low specificity for diagnosing rectal prolapse and increased radiation)",
+     "Unnecessary barium enema (repetitive if defecography has already been performed)",
+     "Blind endoscopic biopsy (unless a definite space-occupying lesion is found)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For mild cases, conservative treatment is preferred, including a high-fiber diet, maintaining soft stools, pelvic floor muscle (Kegel) exercises, and avoiding prolonged squatting. For moderate to severe cases or those in whom conservative treatment fails, surgery is recommended. Adults mostly undergo abdominal rectal fixation (such as laparoscopic rectal suspension and fixation), while children mostly undergo perineal Altemeier or Thiersch procedures. Postoperative biofeedback therapy is needed to improve continence."
+    ],
+    "safety_warnings": [
+     "Rectal malignancy must be excluded before surgery to avoid delaying treatment.",
+     "When mesh fixation is used, be alert to infection and foreign-body rejection reactions.",
+     "Avoid straining during defecation in the early postoperative period to prevent anastomotic dehiscence or recurrence."
+    ],
+    "personalization": [
+     "For older and frail patients, minimally invasive perineal surgery should be preferred.",
+     "Patients with severe constipation need concomitant management of intestinal motility disorders.",
+     "Female patients should be assessed for concomitant bladder or uterine prolapse and undergo simultaneous repair."
+    ]
+   },
+   "disease": "Rectal prolapse",
+   "department": "General Surgery"
+  },
+  {
+   "presentation": "Patients often present with severe postprandial epigastric distending pain or colicky pain, accompanied by nausea and vomiting; vomitus is mostly bile or food from the previous day, and abdominal pain may temporarily improve after vomiting. Symptoms are chronic and recurrent; long-term difficulty eating leads to marked weight loss, malnutrition, and dehydration. Physical signs may include epigastric tenderness but no fixed rebound tenderness; some patients may have a palpable wasted abdominal contour.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have epigastric pain or fullness shortly after eating?",
+     "Does the abdominal pain decrease after vomiting?",
+     "Have you had marked unexplained weight loss recently?"
+    ],
+    "followup_questions": [
+     "If vomiting is frequent, please describe the color and character of the vomitus (e.g., whether it is bile-stained)",
+     "What is the frequency and duration of pain episodes?",
+     "Have you had a history of prolonged bed rest or rapid weight loss?"
+    ],
+    "stop_conditions": [
+     "The typical triad of postprandial abdominal pain, vomiting, and relief after vomiting has been clearly identified",
+     "A clear history of marked weight loss and malnutrition has been confirmed",
+     "Other common gastrointestinal obstructive diseases (such as tumor and ulcer) have been excluded"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Upper gastrointestinal barium meal contrast examination (to observe compression of the horizontal part of the duodenum and delayed emptying)",
+     "Contrast-enhanced abdominal CT angiography (to measure the angle and distance between the superior mesenteric artery and abdominal aorta)"
+    ],
+    "if_suspected": [
+     "Gastroscopy (to exclude organic lesions such as ulcer and tumor)",
+     "Small bowel contrast examination (to assess involvement of the entire small bowel)"
+    ],
+    "avoid": [
+     "Routine abdominal plain radiography (low specificity for diagnosis and easily misjudged as simple intestinal obstruction)",
+     "Blind exploratory laparotomy (invasive procedures should be avoided before confirmation)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Conservative treatment is preferred, including short-term fasting, gastrointestinal decompression, and intravenous nutritional support to correct fluid and electrolyte disturbances and malnutrition. Patients are instructed to eat in the prone or left lateral decubitus position to use gravity to increase the aortomesenteric angle and promote duodenal patency. After nutritional status improves, gradually transition to a liquid diet and slowly increase caloric intake; the course usually requires 2-4 weeks, and most mild cases can be relieved."
+    ],
+    "safety_warnings": [
+     "Do not force oral intake before severe malnutrition is corrected, to prevent worsening obstruction",
+     "Monitor electrolyte balance to prevent hypokalemia-induced arrhythmia",
+     "Avoid using potent antiemetics that may mask disease progression"
+    ],
+    "personalization": [
+     "In children and adolescents, pay special attention to growth and development indicators and adjust the nutritional plan",
+     "In older patients, assess cardiopulmonary function and carefully choose intravenous nutrition formulas",
+     "In patients with diabetes, strictly control blood glucose to prevent infection risk"
+    ]
+   },
+   "disease": "Superior mesenteric artery syndrome",
+   "department": "General Surgery"
+  }
+ ]
+}

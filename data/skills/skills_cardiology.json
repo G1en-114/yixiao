@@ -1,0 +1,2420 @@
+{
+ "department": "Cardiology",
+ "skills": [
+  {
+   "presentation": "Dizziness, head fullness, neck stiffness, tinnitus, palpitations, and fatigue; some patients may have no subjective symptoms, and persistently elevated blood pressure is detected on physical examination or occasional blood pressure measurement (resting SBP >=140 mmHg and/or DBP >=90 mmHg on 3 separate occasions).",
+   "interview_guide": {
+    "first_questions": [
+     "What is the highest blood pressure you have measured? What level does your resting blood pressure usually fluctuate around?",
+     "How long have you had dizziness and head fullness? Have you had blurred vision or nosebleeds?",
+     "Do you have a history of hypertension, and what antihypertensive medications are you currently taking? Is there a family history of hypertension?"
+    ],
+    "followup_questions": [
+     "Do you have chest tightness, palpitations, nocturnal dyspnea, or bilateral lower-limb edema (to assess heart and kidney target-organ damage)?",
+     "Have you had paroxysmal sweating, pallor, central obesity, or refractory hypokalemia (to screen for secondary causes such as pheochromocytoma and primary aldosteronism)?",
+     "What are your lifestyle habits: a long-term high-salt diet, excessive alcohol intake, smoking, or prolonged high mental stress?"
+    ],
+    "stop_conditions": [
+     "The grade of blood pressure elevation, disease duration, and current medication regimen have been clearly established",
+     "Symptoms of heart, brain, and kidney target-organ damage and clues to common secondary hypertension have been comprehensively screened",
+     "All elements of comprehensive cardiovascular risk stratification have been collected"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Office blood pressure measurement / 24-hour ambulatory blood pressure monitoring (ABPM)",
+     "Electrocardiogram (ECG)",
+     "Urinalysis (urine microalbumin)",
+     "Blood chemistry (serum creatinine, urea nitrogen, serum potassium, fasting glucose, four-item lipid panel)"
+    ],
+    "if_suspected": [
+     "Echocardiography (to assess left ventricular hypertrophy and cardiac geometry)",
+     "Carotid color Doppler ultrasound (to assess vascular wall atherosclerosis and plaques)",
+     "Renal and renal artery/adrenal ultrasound (if secondary hypertension is suspected)",
+     "Plasma aldosterone/renin ratio (ARR) (if primary aldosteronism is suspected)"
+    ],
+    "avoid": [
+     "Coronary angiography or myocardial perfusion imaging when there are no signs of ischemia",
+     "Misuse of head MRI/PET-CT when there are no focal neurological localizing signs"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Lifestyle modification (low-salt diet <5 g/day, smoking cessation and alcohol restriction, weight loss, regular aerobic exercise)",
+     "First-line antihypertensive drugs: CCB (e.g., amlodipine besylate), ACEI (e.g., perindopril), ARB (e.g., losartan, valsartan), or thiazide diuretics (e.g., indapamide); the blood pressure target is generally <130/80 mmHg."
+    ],
+    "safety_warnings": [
+     "ACEI/ARB are contraindicated in pregnant women (teratogenic), in bilateral renal artery stenosis, and in hyperkalemia (K+ >5.5 mmol/L)",
+     "Dihydropyridine CCBs commonly cause ankle edema, facial flushing, and tachycardia",
+     "Thiazide diuretics require vigilance for electrolyte disturbances (hypokalemia, hyponatremia) and hyperuricemia"
+    ],
+    "personalization": [
+     "Elderly hypertension (isolated systolic hypertension): prefer CCB or diuretics, lower blood pressure steadily and slowly, and watch for orthostatic hypotension",
+     "Patients with diabetes or proteinuria: ACEI or ARB is preferred to protect the kidneys and improve insulin resistance",
+     "Patients with coronary heart disease and angina: beta-blockers and CCBs are preferred"
+    ]
+   },
+   "disease": "Essential hypertension",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Paroxysmal crushing, pressing, or constricting substernal or precordial pain, often provoked by exertion, emotional stress, cold exposure, or a heavy meal; it may radiate to the left shoulder, the medial aspect of the left upper limb, or the jaw and neck, lasts 3-5 minutes, and is promptly relieved by rest or sublingual nitroglycerin.",
+   "interview_guide": {
+    "first_questions": [
+     "Where is the chest pain or chest tightness located and what is it like? How many minutes does each episode last?",
+     "Under what circumstances is the chest pain provoked (e.g., climbing stairs, brisk walking, emotional stress)? Is it relieved by rest or sublingual nitroglycerin?",
+     "Do you have hypertension, hyperlipidemia, diabetes, a long-term smoking history, or a family history of premature coronary heart disease?"
+    ],
+    "followup_questions": [
+     "Has the frequency or severity of episodes increased recently? Do episodes occur at rest or at night (to rule out ACS)?",
+     "During chest pain episodes, do you have drenching sweats, a sense of impending death, dyspnea, nausea, or vomiting?",
+     "Do you regularly take cardiovascular medications such as aspirin and statins?"
+    ],
+    "stop_conditions": [
+     "The triggers, location, radiation, duration, and relieving measures of the chest pain have been clearly established",
+     "Clinical risk stratification has been accurately assessed, and the presence or absence of signs of acute coronary syndrome such as acute myocardial infarction has been clarified",
+     "The underlying cardiovascular etiology and prior antiplatelet/statin medication history have been clearly obtained"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Standard 12-lead ECG (during episodes versus when symptom-free)",
+     "Myocardial injury markers (high-sensitivity troponin hs-cTnI/T, CK-MB)",
+     "Echocardiography (to assess regional wall motion abnormalities and ejection fraction)",
+     "Four-item lipid panel, fasting glucose, glycated hemoglobin"
+    ],
+    "if_suspected": [
+     "Coronary CTA or coronary angiography (CAG) (the gold standard for confirming the diagnosis in intermediate- to high-risk patients or suspected severe disease)",
+     "Treadmill exercise stress ECG (to identify myocardial ischemia in the stable phase)",
+     "24-hour Holter monitoring (if accompanied by arrhythmias)"
+    ],
+    "avoid": [
+     "Treadmill exercise testing during acute episodes of acute myocardial infarction or unstable angina (absolute contraindication)",
+     "Misuse of whole-abdomen contrast-enhanced CT when there are no abdominal symptoms"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Antiplatelet therapy (aspirin 100 mg/d) + intensive statin lipid-lowering and plaque stabilization (atorvastatin or rosuvastatin) as the cornerstone",
+     "For anti-ischemic therapy, beta-blockers (metoprolol sustained-release tablets) are used to control ventricular rate and oxygen consumption",
+     "For acute angina attacks, sublingual nitroglycerin tablets 0.5 mg."
+    ],
+    "safety_warnings": [
+     "Beta-blockers are contraindicated in severe sinus bradycardia (HR <50 bpm), second-degree or higher atrioventricular block, and acute decompensated heart failure",
+     "Nitrates must not be used in patients who have taken PDE-5 inhibitors such as sildenafil within the preceding 24 hours (to prevent fatal hypotension)",
+     "Long-term antiplatelet use requires close monitoring for melena, gum bleeding, and skin ecchymoses"
+    ],
+    "personalization": [
+     "Acute coronary syndrome (ACS) or after stent implantation: dual antiplatelet therapy with clopidogrel or ticagrelor for 12 months",
+     "Patients with peptic ulcer disease or high bleeding risk: add a proton pump inhibitor (PPI) for gastric protection",
+     "Patients with heart failure or left ventricular remodeling: add an ACEI/ARB or ARNI plus a mineralocorticoid receptor antagonist"
+    ]
+   },
+   "disease": "Coronary atherosclerotic heart disease (coronary artery disease, CAD)",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Sudden or recurrent palpitations, a fluttering sensation, chest tightness, shortness of breath, fatigue, and dizziness; physical examination is characterized by an irregularly irregular rhythm, varying intensity of the first heart sound, and a pulse deficit (pulse rate less than heart rate); some patients have no obvious symptoms, and the diagnosis is made on physical examination or when ischemic stroke occurs.",
+   "interview_guide": {
+    "first_questions": [
+     "How long have you felt your heartbeat racing or irregular? Does it start and stop suddenly, or is it continuous?",
+     "During episodes, do you have dizziness, visual blackouts, chest pain, shortness of breath, or a sense of impending death?",
+     "Do you have a history of hypertension, coronary heart disease, valvular heart disease, cardiomyopathy, or hyperthyroidism?"
+    ],
+    "followup_questions": [
+     "Have you had transient limb weakness, numbness, slurred speech, or visual blackouts, which are warning signs of cerebral embolism/TIA?",
+     "Are you currently taking anticoagulants (warfarin/rivaroxaban) or rate-control medications?",
+     "Before episodes, were there triggers such as heavy alcohol intake, strong tea or coffee, staying up late, emotional stress, or overexertion?"
+    ],
+    "stop_conditions": [
+     "The type of AF episodes (paroxysmal, persistent, or permanent) and the symptom score have been clearly established",
+     "All components of the CHA2DS2-VASc stroke risk score and the HAS-BLED bleeding risk score have been collected",
+     "The underlying cardiovascular disease and the current anticoagulation/antiarrhythmic regimen are clearly defined"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Standard 12-lead ECG (confirming absence of P waves, replaced by f waves of varying morphology and amplitude, with an absolutely irregular RR interval)",
+     "24-hour Holter monitoring",
+     "Transthoracic echocardiography (TTE) (to measure left atrial diameter and assess valves and systolic and diastolic function)",
+     "Thyroid function (TSH, FT3, FT4), electrolytes, liver and kidney function"
+    ],
+    "if_suspected": [
+     "Transesophageal echocardiography (TEE) (to rule out left atrial appendage thrombus before planned cardioversion or radiofrequency ablation)",
+     "Coagulation testing (prothrombin time INR monitoring for warfarin)",
+     "Head CT/MRI (if stroke or transient ischemic attack is suspected)"
+    ],
+    "avoid": [
+     "Blind direct cardioversion without TEE assessment or adequate anticoagulation (highly likely to dislodge thrombus and cause large-area cerebral infarction)",
+     "Misuse of high-grade antibiotics when there are no signs of infection"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Anticoagulation for stroke prevention (novel oral anticoagulants [DOACs] such as rivaroxaban or dabigatran etexilate are preferred in nonvalvular AF, or warfarin with INR maintained at 2.0-3.0)",
+     "Ventricular rate control (beta-blockers such as metoprolol, or non-dihydropyridine CCBs such as diltiazem, are first-line recommendations)",
+     "Rhythm control (drugs such as propafenone or amiodarone, or catheter radiofrequency ablation)."
+    ],
+    "safety_warnings": [
+     "Digitalis, beta-blockers, and calcium antagonists must not be used in AF with pre-excitation syndrome (they can accelerate accessory pathway conduction and induce ventricular fibrillation)",
+     "During oral anticoagulation, strictly guard against severe intracranial and gastrointestinal bleeding and monitor hemoglobin and coagulation parameters",
+     "With long-term amiodarone use, monitor for pulmonary fibrosis, thyroid toxicity, and corneal pigment deposition"
+    ],
+    "personalization": [
+     "Low-risk stroke patients (CHA2DS2-VASc score 0 in men/1 in women): no long-term anticoagulation needed",
+     "Intermediate- to high-risk stroke patients (>=2 in men, >=3 in women): standardized long-term anticoagulation is mandatory",
+     "AF with moderate-to-severe mitral stenosis or after mechanical valve replacement: warfarin must be used; DOACs are strictly prohibited"
+    ]
+   },
+   "disease": "Atrial fibrillation",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Progressive decline in exercise tolerance, exertional dyspnea, paroxysmal nocturnal dyspnea, orthopnea, bilateral lower-limb edema, poor appetite, abdominal distension, and oliguria; physical examination reveals jugular venous distension, basal pulmonary crackles, a positive hepatojugular reflux sign, and pitting edema of both lower limbs.",
+   "interview_guide": {
+    "first_questions": [
+     "How long have you had chest tightness and shortness of breath after activity? Is it markedly worse when walking briskly on level ground or climbing stairs?",
+     "Do you need extra pillows to sleep at night? Have you ever suddenly sat up at night because of chest tightness and breathlessness?",
+     "Do you have swelling in your legs? Has your weight increased noticeably in the past few days?"
+    ],
+    "followup_questions": [
+     "Do you have a history of myocardial infarction, coronary heart disease, long-standing hypertension, valvular heart disease, or cardiomyopathy?",
+     "Recently, have you had a cold or fever, overexertion, emotional stress, eaten too salty, or stopped your diuretic on your own?",
+     "What is your usual urine output? Do you have upper-right abdominal fullness and decreased appetite?"
+    ],
+    "stop_conditions": [
+     "The type of dyspnea, NYHA functional class, and extent of fluid retention have been clearly established",
+     "The underlying cardiac etiology of heart failure and the precipitating factors for this decompensation have been confirmed",
+     "Prior use of medications (diuretics, ACEI/ARB/ARNI, beta-blockers, etc.) is clear"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Plasma B-type natriuretic peptide (BNP) or NT-proBNP measurement",
+     "Echocardiography (to assess LVEF, cardiac chamber dimensions, wall motion, and diastolic function)",
+     "12-lead ECG",
+     "Chest X-ray (to observe cardiac silhouette size and signs of pulmonary congestion/alveolar edema)",
+     "Blood chemistry (electrolytes K+/Na+, creatinine, urea nitrogen, liver function)"
+    ],
+    "if_suspected": [
+     "Myocardial markers (high-sensitivity troponin hs-cTnI, if acute ischemia is suspected as the trigger)",
+     "Coronary CTA or angiography (if ischemic cardiomyopathy is suspected)",
+     "Cardiac magnetic resonance (CMR) (if idiopathic or infiltrative cardiomyopathy is suspected)"
+    ],
+    "avoid": [
+     "Exercise stress testing during acute decompensated heart failure (absolute contraindication)",
+     "Blind whole-brain angiography when there are no focal neurological signs"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Diuretics to relieve edema and congestion (furosemide/torasemide)",
+     "The four-pillar foundational therapy for improving prognosis in HFrEF: ARNI (sacubitril/valsartan) or ACEI/ARB + beta-blocker (metoprolol succinate/bisoprolol) + mineralocorticoid receptor antagonist (spironolactone) + SGLT2 inhibitor (dapagliflozin/empagliflozin)."
+    ],
+    "safety_warnings": [
+     "During acute heart failure with pulmonary edema, do not up-titrate beta-blockers; start at a low dose after hemodynamics are stable and dry weight is achieved",
+     "When ARNI/ACEI/ARB are combined with spironolactone, hyperkalemia (K+ >5.5 mmol/L) or severe renal failure (eGFR <30) requires close monitoring or dose reduction/discontinuation",
+     "Excessive diuretics can easily cause hypovolemic hypotension, hypokalemia, and digitalis toxicity"
+    ],
+    "personalization": [
+     "Heart failure with preserved ejection fraction (HFpEF): SGLT2 inhibitors, blood pressure control, and symptomatic diuretic therapy are the mainstays",
+     "Severe renal insufficiency: use loop diuretics and adjust the dose according to creatinine clearance",
+     "Heart failure with rapid atrial fibrillation: intravenous lanatoside C or oral digoxin may be used to control resting heart rate"
+    ]
+   },
+   "disease": "Heart failure",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "There is often a history of upper respiratory tract infection (fever, sore throat, cough) or gastrointestinal infection (diarrhea, nausea) 1-3 weeks before onset, followed by palpitations, chest tightness, shortness of breath, vague precordial pain, fatigue, and dizziness; in severe cases, sudden syncope, severe arrhythmia, or cardiogenic shock may occur.",
+   "interview_guide": {
+    "first_questions": [
+     "In the 1-3 weeks before the onset of palpitations and chest tightness, did you have a cold, fever, sore throat, or diarrhea?",
+     "How many days have the chest tightness, heartbeat that suddenly speeds up or slows down, or sensation of missed beats lasted? Do they worsen noticeably with activity?",
+     "Have you had dizziness, transient visual blackout, or sudden fainting/syncope?"
+    ],
+    "followup_questions": [
+     "Do you have orthopnea (inability to lie flat at night), breathlessness, or lower-extremity edema?",
+     "Do you have a history of congenital heart disease, hypertension, or coronary heart disease?",
+     "Recently, have you had severe sleep deprivation, strenuous exercise, or high-load exertion?"
+    ],
+    "stop_conditions": [
+     "The temporal relationship between the prodromal history of viral infection and the onset of myocardial involvement has been clarified.",
+     "High-grade atrioventricular block, malignant ventricular arrhythmias, and danger signs of cardiogenic shock have been ruled out.",
+     "The severity of myocardial injury and the baseline medical history have been fully collected."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "12-lead electrocardiogram (ST-T changes, atrioventricular block, premature contractions, etc.)",
+     "Myocardial injury markers (high-sensitivity troponin hs-cTnI/T, CK-MB)",
+     "Echocardiography (assessment of cardiac structure, left ventricular systolic function, and pericardial effusion)",
+     "Complete blood count, ESR, C-reactive protein (CRP)"
+    ],
+    "if_suspected": [
+     "Cardiac magnetic resonance imaging (CMR) (noninvasive gold standard for confirming myocardial edema, hyperemia, and necrotic fibrosis)",
+     "24-hour Holter monitoring (to capture malignant or frequent arrhythmias)",
+     "Serology or nucleic acid testing for common respiratory/enteric viruses",
+     "Coronary angiography (to differentiate from acute myocardial infarction in difficult cases)"
+    ],
+    "avoid": [
+     "Blindly ordering treadmill exercise electrocardiography during acute myocarditis (extremely dangerous; may cause ventricular fibrillation and sudden death)",
+     "Ordering high-dose radionuclide bone scintigraphy without indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Absolute bed rest (critical to reduce myocardial oxygen demand)",
+     "Myocardial metabolic and nutritional support (coenzyme Q10, vitamin C, creatine phosphate, trimetazidine)",
+     "Symptomatic support for arrhythmias and heart failure",
+     "Early full-dose glucocorticoids and life support (IABP/ECMO) for severe fulminant myocarditis."
+    ],
+    "safety_warnings": [
+     "During the acute phase, strenuous exercise and heavy physical labor are strictly prohibited; otherwise, extension of myocardial necrosis and malignant arrhythmias are highly likely to be induced.",
+     "Use beta-blockers and non-dihydropyridine CCBs with caution when myocarditis is complicated by atrioventricular block",
+     "Patients with myocarditis are extremely sensitive to digitalis toxicity; cardiac glycosides should be used with caution in the acute phase"
+    ],
+    "personalization": [
+     "Severe fulminant myocarditis: early high-dose methylprednisolone pulse therapy + intravenous immunoglobulin (IVIG) + mechanical support",
+     "For patients with frequent premature beats without hemodynamic compromise: adequate rest is preferred; avoid indiscriminate overuse of proarrhythmic drugs",
+     "Convalescent patients: restrict strenuous sports for at least 3-6 months"
+    ]
+   },
+   "disease": "Viral myocarditis",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often report a history of long-term heavy alcohol consumption, followed by progressively worsening dyspnea, decreased exercise tolerance, and bilateral lower-extremity edema. Typical manifestations include paroxysmal nocturnal dyspnea and orthopnea, accompanied by palpitations and fatigue. Physical examination may reveal signs of heart failure such as cardiac enlargement, gallop rhythm, pulmonary moist rales, and jugular venous distension; some patients may have atrial fibrillation or conduction block.",
+   "interview_guide": {
+    "first_questions": [
+     "How much alcohol do you drink per day? For how many years have you been drinking?",
+     "Recently, have you felt worsening shortness of breath or chest tightness when walking or climbing stairs?",
+     "Have you ever been awakened at night by breathlessness and needed to sit up to relieve it?"
+    ],
+    "followup_questions": [
+     "If lower-extremity edema is present, is it bilaterally symmetric? Does it leave a pitting depression after pressure?",
+     "Have you had unexplained rapid weight gain recently?",
+     "During periods of alcohol consumption, have you had syncope or sensations of a very fast/irregular heartbeat?"
+    ],
+    "stop_conditions": [
+     "A history of long-term heavy alcohol consumption has been clarified, and typical heart failure symptoms (dyspnea, edema) are present.",
+     "Echocardiography has been completed and shows cardiac enlargement and reduced systolic function.",
+     "Preliminary evidence excluding other common etiologies (such as coronary heart disease and hypertensive heart disease) has been obtained."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Transthoracic echocardiography (assessment of cardiac size, wall thickness, and ejection fraction)",
+     "Electrocardiogram (screening for arrhythmias and conduction block)",
+     "Serum BNP or NT-proBNP (assessment of heart failure severity)"
+    ],
+    "if_suspected": [
+     "Coronary CTA or coronary angiography (to exclude ischemic cardiomyopathy)",
+     "24-hour Holter monitoring (to capture paroxysmal arrhythmias)",
+     "Liver function tests and abdominal ultrasound (assessment of coexisting alcoholic liver disease)"
+    ],
+    "avoid": [
+     "Invasive myocardial biopsy without indication (unless the diagnosis is unclear and an infiltrative disease needs to be differentiated)",
+     "Routine use of stress testing (high risk in patients with cardiac dysfunction)",
+     "Unnecessary whole-body PET-CT (not directly helpful for confirming alcoholic cardiomyopathy)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "The core treatment is strict alcohol abstinence, which is key to reversing the condition. Pharmacotherapy follows standard chronic heart failure guidelines: ACEI/ARB combined with a beta-blocker (e.g., metoprolol extended-release tablets) is preferred, starting at a low dose and gradually titrating to the target dose",
+     "If fluid retention is present, add a diuretic (e.g., furosemide). Also supplement vitamin B1 (thiamine) to prevent Wernicke encephalopathy. Treatment should be maintained long term; reassess cardiac function recovery 3-6 months after alcohol abstinence."
+    ],
+    "safety_warnings": [
+     "Do not abruptly discontinue beta-blockers during acute decompensation, to prevent rebound tachycardia.",
+     "Note that ACEIs may cause hyperkalemia and angioedema; electrolytes should be monitored.",
+     "Avoid concomitant use with NSAID analgesics to prevent worsening of renal impairment and sodium-water retention."
+    ],
+    "personalization": [
+     "Older patients require slower drug dose titration, with vigilance for hypotension and fall risk.",
+     "Use diuretics with caution in patients with cirrhosis, with close monitoring of electrolytes and hepatic and renal function.",
+     "ACEI/ARB drugs are contraindicated in pregnant women; switch to labetalol or methyldopa."
+    ]
+   },
+   "disease": "alcoholic cardiomyopathy",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "The classic presentation is the triad of exertional dyspnea, angina pectoris, and syncope. Patients often report shortness of breath after activity that is relieved by rest; chest pain is often pressure-like, resembling angina; in severe cases, sudden syncope may occur with positional changes or exercise. Auscultation reveals a harsh systolic ejection murmur at the second intercostal space at the right sternal border, radiating to the neck, with diminished second heart sound. The onset of symptoms indicates that the disease has reached a moderate-to-severe stage.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently felt marked shortness of breath or chest tightness with activity?",
+     "Have you had sudden dizziness or even fainting?",
+     "Is the chest pain related to exertion, and does it relieve with rest?"
+    ],
+    "followup_questions": [
+     "If the shortness of breath worsens, is it more pronounced when lying flat (suggesting heart failure)?",
+     "Before syncope occurs, are there any warning signs, such as visual blackout or sweating?",
+     "Have you had rapid weight gain or lower-extremity edema recently?"
+    ],
+    "stop_conditions": [
+     "The classic triad symptoms and their triggers have been specifically asked about and documented.",
+     "It has been confirmed that the patient has no critical manifestations requiring immediate resuscitation, such as acute pulmonary edema or shock.",
+     "The history of prior cardiac surgery and comorbidities has been obtained."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Transthoracic echocardiography (TTE)",
+     "Electrocardiogram (ECG)",
+     "Chest X-ray"
+    ],
+    "if_suspected": [
+     "Transesophageal echocardiography (TEE)",
+     "Coronary computed tomography angiography (CCTA)",
+     "Cardiac magnetic resonance imaging (CMR)"
+    ],
+    "avoid": [
+     "Routine stress testing (contraindicated in moderate-to-severe stenosis)",
+     "Invasive cardiac catheterization (not recommended unless for preoperative assessment)",
+     "Radionuclide myocardial perfusion imaging (nonspecific and associated with high radiation exposure)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Asymptomatic mild stenosis is managed mainly with regular follow-up. For symptomatic moderate-to-severe stenosis, surgical aortic valve replacement (SAVR) or transcatheter aortic valve replacement (TAVR) is preferred. Medications are used only to control comorbidities: diuretics to relieve pulmonary congestion, low-dose ACEI/ARB used cautiously for blood pressure control; potent vasodilators are strictly prohibited. Avoid strenuous exercise and prevent infective endocarditis."
+    ],
+    "safety_warnings": [
+     "Nitrates and potent diuretics are contraindicated to prevent hypotensive shock",
+     "Avoid negative inotropic drugs (e.g., beta-blockers should be used with caution)",
+     "Be alert to bleeding risk with anticoagulant therapy (especially after mechanical valve replacement)"
+    ],
+    "personalization": [
+     "For older or high-risk patients, TAVR is preferred over open-heart surgery",
+     "For patients with renal impairment, adjust contrast agent dosage or switch to a contrast-free regimen",
+     "For younger patients, prioritize weighing the long-term durability of bioprosthetic versus mechanical valves"
+    ]
+   },
+   "disease": "Aortic stenosis",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often present with exertional shortness of breath and fatigue; some children have growth retardation. The typical sign is a systolic ejection murmur audible at the second to third intercostal spaces at the left sternal border, accompanied by fixed splitting of the second heart sound. In severe cases, signs of right heart failure may appear, such as jugular venous distension and lower-extremity edema. Many patients with small defects are asymptomatic early on, and a cardiac murmur is found only during physical examination.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have chest tightness, shortness of breath, or easy fatigue after activity?",
+     "Did you frequently have colds or pneumonia in childhood, and was your growth and development behind that of peers?"
+    ],
+    "followup_questions": [
+     "If lower-extremity edema or inability to lie flat at night has occurred, how long have the symptoms lasted?",
+     "Is there a family history of congenital heart disease?"
+    ],
+    "stop_conditions": [
+     "The chief complaints have been clarified, and the past medical history and family history have been obtained.",
+     "The symptoms described by the patient are highly consistent with the typical signs, and there are no abnormalities in other systems.",
+     "An initial physical examination (auscultation) has been completed and the characteristic splitting of the second heart sound has been confirmed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Echocardiography (transthoracic)",
+     "Electrocardiogram",
+     "Chest X-ray"
+    ],
+    "if_suspected": [
+     "Transesophageal echocardiography",
+     "Right heart catheterization",
+     "Cardiac magnetic resonance imaging"
+    ],
+    "avoid": [
+     "Routine coronary angiography (unless high-risk factors for coronary heart disease are present)",
+     "Invasive pulmonary function tests without indication",
+     "Repeat non-contrast CT scans"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For small defects and asymptomatic patients, regular follow-up observation",
+     "For moderate-to-large defects or symptomatic patients, percutaneous interventional closure is preferred and is suitable for secundum-type defects. Surgical repair is used for those unsuitable for intervention or with other concomitant anomalies. Pharmacotherapy is mainly used to control heart failure or arrhythmias before surgery, such as diuretics and ACEIs, but it cannot cure the defect itself."
+    ],
+    "safety_warnings": [
+     "After interventional closure, be alert to the risks of occluder displacement, thrombosis, and hemolysis.",
+     "During antiplatelet therapy, monitor for bleeding tendency and avoid concomitant use of NSAIDs.",
+     "After the procedure, infective endocarditis prophylaxis is required; prophylactic antibiotics should be used before dental procedures."
+    ],
+    "personalization": [
+     "For infants with very low body weight or complex anatomy, surgery may be deferred until maturation.",
+     "For older patients, assess cardiopulmonary reserve and weigh surgical risk against benefit.",
+     "If a defect is discovered during pregnancy, multidisciplinary assessment is required; management is usually recommended after delivery unless hemodynamics are extremely unstable."
+    ]
+   },
+   "disease": "Atrial septal defect",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often complain of persistent dizziness, fatigue, or exertional dyspnea; in severe cases, amaurosis fugax or even syncope may occur. Some patients have no obvious symptoms and are found only on physical examination to have a heart rate below 60 beats/min. Typical findings include a slow and regular or irregular pulse, accompanied by pallor, cold sweats, and other signs of cerebral hypoperfusion. If accompanied by chest pain or loss of consciousness, the condition is critical.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had dizziness, darkening of vision, or sudden fainting?",
+     "Has your exercise tolerance decreased, so that you feel palpitations or shortness of breath with even slight exertion?",
+     "Have you recently taken medications that slow the heart rate (such as beta-blockers), or do you have a history of heart disease?"
+    ],
+    "followup_questions": [
+     "Were there any warning signs before the syncope, and how long did it last?",
+     "Do you have palpitations or a feeling of apnea during sleep at night?",
+     "Do you have neck pain, difficulty swallowing, or other compressive symptoms?"
+    ],
+    "stop_conditions": [
+     "Resting heart rate and ECG characteristics have been clearly documented",
+     "Reversible factors such as drug toxicity or electrolyte disturbance have been excluded",
+     "The patient has acute hemodynamic instability requiring immediate resuscitation"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "12-lead ECG",
+     "24-hour ambulatory ECG (Holter)",
+     "Serum electrolytes and thyroid function tests"
+    ],
+    "if_suspected": [
+     "Echocardiography",
+     "Exercise stress test",
+     "Electrophysiologic study"
+    ],
+    "avoid": [
+     "Coronary CTA without indication",
+     "Routine use of atropine for non-emergency diagnostic treatment"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For symptomatic bradycardia, intravenous atropine (0.5-1 mg) is the first choice to raise the heart rate",
+     "If ineffective or in chronic disease, permanent pacemaker implantation is required. For drug-induced cases, the offending drug should be stopped immediately and electrolytes corrected. Non-pharmacologic interventions include avoiding abrupt postural changes and discontinuing rate-slowing drugs."
+    ],
+    "safety_warnings": [
+     "Atropine is contraindicated in patients with glaucoma and prostatic hypertrophy",
+     "Be alert to the risk of digitalis toxicity",
+     "Pacemaker implantation requires prevention of infection and lead dislodgement"
+    ],
+    "personalization": [
+     "Elderly patients require assessment of fall risk and cognitive function",
+     "Physiologic bradycardia in athletes requires no specific treatment",
+     "Bradycardia in pregnancy requires weighing the effect of a pacemaker on the fetus"
+    ]
+   },
+   "disease": "Bradycardia",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often complain of palpitations, chest tightness, or chest pain; some may experience dizziness, fatigue, or even syncope. Symptoms may worsen after activity, or an irregular heartbeat sensation may occur at rest. Attention should be paid to whether severe manifestations such as dyspnea, amaurosis fugax, or loss of consciousness accompany the symptoms.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have noticeable palpitations or a sensation of irregular heartbeat?",
+     "Are the symptoms worse with exercise or emotional excitement?"
+    ],
+    "followup_questions": [
+     "If you have palpitations, are they accompanied by chest pain or dyspnea?",
+     "Have you ever experienced syncope or darkening of vision?"
+    ],
+    "stop_conditions": [
+     "The patient has clearly described the symptom characteristics and triggers",
+     "Past medical history and medication use have been obtained",
+     "There are no further red flags requiring additional questioning"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Electrocardiogram (ECG)",
+     "Ambulatory ECG (Holter)",
+     "Echocardiography"
+    ],
+    "if_suspected": [
+     "Electrolyte panel",
+     "Thyroid function tests",
+     "Cardiac enzyme panel"
+    ],
+    "avoid": [
+     "Routine chest X-ray (unless pulmonary disease is suspected)",
+     "Unnecessary invasive tests"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes antiarrhythmic drugs such as amiodarone or beta-blockers, with the specific dose adjusted according to the patient's condition. In severe cases, radiofrequency ablation or pacemaker implantation may be considered. Patients are also advised to avoid caffeine intake and maintain a regular daily routine."
+    ],
+    "safety_warnings": [
+     "Amiodarone may cause thyroid dysfunction and requires regular monitoring",
+     "Beta-blockers are contraindicated in patients with asthma",
+     "Watch for drug interactions, especially when co-administered with warfarin"
+    ],
+    "personalization": [
+     "Elderly patients require reduced drug doses to avoid hypotension",
+     "Antiarrhythmic drugs should be used with caution in pregnant women, with physical interventions preferred",
+     "Patients with renal impairment require dose adjustment of renally metabolized drugs"
+    ]
+   },
+   "disease": "Arrhythmia",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often complain of progressively worsening dyspnea, fatigue, and lower limb edema, accompanied by abdominal distension or loss of appetite. Typical findings include jugular venous distension, hepatomegaly, ascites, and pulsus paradoxus (a fall in systolic pressure of >10 mmHg during inspiration). Physical examination may reveal distant heart sounds, low-voltage ECG, and the characteristic Kussmaul sign (more pronounced jugular venous filling during inspiration); the symptoms are easily confused with right heart failure but respond poorly to diuretics.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently felt increasingly short of breath, especially when lying flat?",
+     "Have you had unexplained swelling or bloating in your legs or abdomen?",
+     "Have you ever had tuberculosis, chest trauma, or heart surgery?"
+    ],
+    "followup_questions": [
+     "When you are short of breath, do the neck veins bulge abnormally and change with breathing?",
+     "How well does the edema resolve after you take diuretics? Is the effect poor?",
+     "Do you have paroxysmal nocturnal dyspnea or orthopnea?"
+    ],
+    "stop_conditions": [
+     "A history of tuberculosis, purulent or radiation-induced pericarditis has been clearly asked about and documented.",
+     "The patient has described the typical triad (dyspnea, ascites, jugular venous distension) with poor response to diuretics.",
+     "Confirmation questions regarding symptoms related to pulsus paradoxus and the Kussmaul sign have been completed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Transthoracic echocardiography (assessment of pericardial thickening, ventricular septal bounce, and restricted diastolic filling)",
+     "Chest CT scan (accurate measurement of the thickness and extent of pericardial calcification)",
+     "ECG (showing low voltage and T-wave inversion)"
+    ],
+    "if_suspected": [
+     "Cardiac magnetic resonance imaging (MRI, to assess pericardial inflammatory activity and myocardial involvement)",
+     "Cardiac catheterization (to determine equalization of right and left ventricular end-diastolic pressures and the 'square root sign')",
+     "Tuberculin skin test and PPD testing (to investigate a tuberculous etiology)"
+    ],
+    "avoid": [
+     "Relying solely on intensified diuretic therapy as a diagnostic basis",
+     "Pericardiocentesis without indication (unless accompanied by a large effusion requiring differentiation)",
+     "Routine use of anticoagulants (unless there is a clear thrombotic risk, as it increases bleeding risk)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "The definitive treatment is surgical pericardiectomy, which should be performed as early as possible to reverse myocardial atrophy. Short-term diuretics may be used preoperatively to relieve symptoms, but excessive diuresis should be avoided to prevent hypotension. If active tuberculosis is suspected, standardized antituberculous therapy should be given for 2-4 weeks before surgery. Non-pharmacologic interventions include sodium restriction and monitoring of body weight."
+    ],
+    "safety_warnings": [
+     "Strong diuretics must not be forced in states of severe hypovolemia, to prevent precipitating shock.",
+     "Postoperatively, watch for low cardiac output syndrome and arrhythmias, and monitor hemodynamics closely.",
+     "Antituberculous drugs require attention to adverse reactions such as hepatic impairment and peripheral neuropathy."
+    ],
+    "personalization": [
+     "Elderly patients require assessment of cardiopulmonary reserve, with adjustment of surgical timing and anesthetic plan.",
+     "Patients with renal impairment require careful adjustment of diuretic doses to prevent electrolyte disturbances.",
+     "Malnourished patients require enhanced preoperative nutritional support to reduce the risk of postoperative complications."
+    ]
+   },
+   "disease": "Chronic constrictive pericarditis",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often present with progressive dyspnea, fatigue, and reduced exercise tolerance, similar to the symptoms of mitral stenosis. Some patients may have hemoptysis, recurrent respiratory infections, or systemic embolism (such as stroke). In infants and young children, growth retardation and feeding difficulties may be seen; in adults, signs of right heart failure due to pulmonary hypertension are common, such as jugular venous distension, hepatomegaly, and lower limb edema. A diastolic murmur may be heard on auscultation, and the condition is easily misdiagnosed as rheumatic heart disease.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have exertional dyspnea, paroxysmal nocturnal dyspnea, or hemoptysis?",
+     "Have you recently had unexplained dizziness, limb weakness, or slurred speech (suspected embolism)?",
+     "In pediatric patients, is there a history of growth retardation or recurrent pneumonia?"
+    ],
+    "followup_questions": [
+     "If you have a history of palpitations or syncope, please describe the specific triggers and duration of the episodes.",
+     "Have you ever been diagnosed with a heart murmur or had a history of rheumatic fever?",
+     "Is there a family history of congenital heart disease or other hereditary diseases?"
+    ],
+    "stop_conditions": [
+     "The chief complaint has been clarified as typical dyspnea with hemoptysis, and there are no other systemic symptoms requiring investigation.",
+     "The patient has provided complete prior cardiac examination reports (such as echocardiography results).",
+     "The symptom characteristics are highly consistent with the signs, and the workup can be initiated without further questioning about unrelated history."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Transthoracic echocardiography (TTE)",
+     "Transesophageal echocardiography (TEE)",
+     "Computed tomography angiography (CTA) of the chest"
+    ],
+    "if_suspected": [
+     "Cardiac magnetic resonance imaging (CMR) to assess anatomic details and hemodynamics",
+     "Right heart catheterization to measure pulmonary artery pressure and the transmembrane pressure gradient",
+     "Electrocardiogram (ECG) to assess atrial enlargement and arrhythmias"
+    ],
+    "avoid": [
+     "Routine chest X-ray (only as initial screening; it cannot confirm the diagnosis and involves unnecessary radiation)",
+     "Invasive coronary angiography (not first choice unless there is evidence of concomitant coronary artery disease)",
+     "Radionuclide myocardial perfusion imaging (of low diagnostic value for anatomic malformations)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Once diagnosed, surgical treatment is the first choice, consisting of excision of the abnormal membrane and repair of the atrial septal defect, combined with mitral valve plasty when necessary. Heart failure should be controlled preoperatively with diuretics to relieve pulmonary congestion, and anticoagulation to prevent thrombosis. Long-term postoperative follow-up is needed to monitor residual shunts and valve function. Non-surgical intervention is limited to critically ill patients who cannot tolerate surgery, using palliative balloon dilation to relieve obstruction."
+    ],
+    "safety_warnings": [
+     "Coagulation function must be assessed before surgery, and anticoagulants require strict INR monitoring to prevent bleeding or thrombosis.",
+     "Anesthetic risk during surgery is high; be alert to intraoperative acute pulmonary edema and severe arrhythmias.",
+     "Avoid fluids that increase cardiac workload to prevent precipitating acute right heart failure."
+    ],
+    "personalization": [
+     "In infants and young children, drug doses must be calculated precisely according to body weight, and minimally invasive surgical approaches are preferred.",
+     "For elderly patients or those with multiple organ dysfunction, the benefits and risks of surgery should be assessed individually, and staged treatment considered.",
+     "Pregnant patients should be managed by a multidisciplinary team, weighing the risks of terminating versus continuing the pregnancy; correction before pregnancy is generally recommended."
+    ]
+   },
+   "disease": "Cor triatriatum",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often present because a heart murmur or abnormal electrocardiogram is found during physical examination; some have cyanosis and exertional dyspnea. The typical finding is a systolic murmur audible at the left sternal border, with the apical impulse located at the fifth intercostal space in the right midclavicular line. If congenital heart disease is present, hypoxic signs such as clubbing and cyanosis may be seen, and hemodynamic compromise caused by complex malformations should be suspected.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had long-standing bluish discoloration of the lips or difficulty breathing after activity?",
+     "Has a previous physical examination mentioned an abnormal heart position, or have you had relevant tests?"
+    ],
+    "followup_questions": [
+     "If there are palpitations, ask about their frequency and duration.",
+     "If there is a history of syncope, ask about the triggers.",
+     "Ask whether there is a family history of congenital heart disease to assess genetic risk."
+    ],
+    "stop_conditions": [
+     "The patient has been clearly informed of abnormal cardiac anatomical position and has no acute symptoms.",
+     "A basic physical examination has been completed and imaging has been arranged for confirmation.",
+     "The patient's reported symptoms are unrelated to dextrocardia, and the patient has been referred to another department."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Chest X-ray (to assess cardiac silhouette position and lung markings)",
+     "Echocardiography (to confirm cardiac structure and great-vessel relationships)",
+     "12-lead electrocardiogram (to identify inverted P waves and QRS complexes)"
+    ],
+    "if_suspected": [
+     "Cardiac computed tomography angiography (CTA) (three-dimensional reconstruction to assess complex malformations)",
+     "Cardiac magnetic resonance imaging (MRI) (detailed assessment of cardiac function and blood flow)",
+     "Cardiac catheterization (pressure measurement and oxygen saturation if necessary)"
+    ],
+    "avoid": [
+     "Routine abdominal ultrasound (unless situs inversus syndrome is suspected)",
+     "Unnecessary invasive puncture procedures (avoid inadvertent injury before anatomy is clarified)",
+     "Diagnosis based solely on auscultation (easily misjudged as mitral valve disease)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Simple dextrocardia requires no specific drug therapy; the focus is on monitoring cardiac function. If congenital heart disease is present, surgical correction or interventional treatment is selected according to the specific type of malformation. First-line interventions include prevention of infective endocarditis (e.g., antibiotics before tooth extraction), regular follow-up echocardiography to assess ventricular function and pulmonary artery pressure, and guidance on exercise intensity to avoid excessive load."
+    ],
+    "safety_warnings": [
+     "Left thoracentesis or thoracotomy must not be performed before the anatomical structure is clearly defined.",
+     "ECG electrode placement must be mirror-reversed; otherwise, it will lead to misdiagnosis.",
+     "Pay attention to drug dose adjustment to avoid increasing the risk of right heart failure."
+    ],
+    "personalization": [
+     "For pediatric patients, attention should be paid to growth and development and neuropsychological effects, with early intervention for complex malformations.",
+     "In older patients with hypertension, blood pressure should be strictly controlled to prevent increased right heart load.",
+     "Pregnant women require multidisciplinary assessment and an individualized delivery plan to prevent heart failure."
+    ]
+   },
+   "disease": "Dextrocardia",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often present with progressively worsening dyspnea, fatigue, and reduced exercise tolerance; some have lower limb edema or paroxysmal nocturnal dyspnea. Physical examination may reveal signs of heart failure such as cardiac enlargement, a third heart sound gallop, pulmonary crackles, and jugular venous distension. Symptoms often have an insidious onset and are easily mistaken for ordinary fatigue or respiratory infection.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently felt significantly short of breath or become easily winded when walking?",
+     "Have you been waking up at night short of breath, or do you need to prop yourself up on pillows to sleep?"
+    ],
+    "followup_questions": [
+     "If lower limb edema is present, please describe the location and duration of the swelling.",
+     "Have you recently had rapid weight gain or decreased urine output?"
+    ],
+    "stop_conditions": [
+     "The patient has clearly described typical heart failure symptoms and has no other systemic abnormal complaints.",
+     "History taking has covered previous heart disease history, family history, and medication use.",
+     "The patient's symptoms are stable, and there is no need to further ask about triggers of acute exacerbation."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Echocardiography (to assess left ventricular enlargement and ejection fraction)",
+     "Electrocardiogram (to screen for arrhythmias and conduction block)",
+     "B-type natriuretic peptide (BNP or NT-proBNP) testing"
+    ],
+    "if_suspected": [
+     "Cardiac magnetic resonance (CMR) to evaluate the extent of myocardial fibrosis",
+     "Coronary angiography (to exclude ischemic cardiomyopathy)",
+     "Virological testing or myocardial biopsy (when an inflammatory cause is suspected)"
+    ],
+    "avoid": [
+     "Routine chest X-ray (not essential for diagnosis; only as supportive reference)",
+     "Coronary CTA without indication (if angiography has already been performed or clinical evidence is insufficient)",
+     "Repeated nonspecific blood tests (e.g., tests beyond routine liver and kidney function)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes ACEI/ARB/ARNI combined with beta-blockers and aldosterone receptor antagonists; the target dose should be gradually titrated to the tolerated level. Diuretics are used to relieve fluid retention. The treatment course is usually long-term or even lifelong management, combined with nonpharmacological interventions such as salt restriction and moderate exercise."
+    ],
+    "safety_warnings": [
+     "Avoid excessive use of diuretics in hypotension or renal insufficiency.",
+     "Note that beta-blockers may induce acute heart failure worsening; start with a low dose.",
+     "Monitor serum potassium levels to prevent hyperkalemia, especially when RAAS inhibitors are used in combination."
+    ],
+    "personalization": [
+     "Older patients require slower drug dose adjustment and close electrolyte monitoring.",
+     "ACEI/ARB drugs are contraindicated in pregnant women; a safe alternative regimen should be used instead.",
+     "In patients with diabetes, prefer drug combinations with less effect on blood glucose."
+    ]
+   },
+   "disease": "Dilated cardiomyopathy",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often present with severe cyanosis in the neonatal or infant period, worsening especially during crying or feeding. Clubbing of the fingers (toes), growth retardation, and reduced exercise tolerance may be seen. Some affected infants have tachypnea and easy fatigue; auscultation may reveal a systolic murmur at the left sternal border. If pulmonary artery stenosis is present, the murmur is loud; if transposition of the great arteries is present, arrhythmias may accompany it.",
+   "interview_guide": {
+    "first_questions": [
+     "Has your child had persistent bluish discoloration of the lips or nails since birth?",
+     "During routine feeding or activity, has your child shown obvious shortness of breath, sweating, or fatigue?",
+     "Has your child had an echocardiogram before? What was the result?"
+    ],
+    "followup_questions": [
+     "Do the cyanotic symptoms worsen significantly after crying or exertion?",
+     "Has there recently been any history of syncope, seizures, or recurrent respiratory infections?",
+     "Is there a family history of congenital heart disease?"
+    ],
+    "stop_conditions": [
+     "The diagnosis has been clearly confirmed and key imaging assessment has been completed; no further detailed symptom questioning is needed.",
+     "The patient's complaints are highly consistent with typical signs, and other common causes of cyanosis have been excluded.",
+     "The condition is critical and requires immediate referral to surgery; the focus of history taking shifts to preoperative assessment rather than diagnosis."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Transthoracic echocardiography (TTE)",
+     "Electrocardiogram (ECG)",
+     "Chest X-ray"
+    ],
+    "if_suspected": [
+     "Cardiac magnetic resonance imaging (CMR)",
+     "Cardiac catheterization and cardiovascular angiography",
+     "Oxygen saturation monitoring"
+    ],
+    "avoid": [
+     "Noninvasive pulmonary function testing (infants cannot cooperate and it is not first-line)",
+     "Routine coagulation panel before anticoagulant therapy (unless interventional surgery is planned)",
+     "Unnecessary radionuclide scanning"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "This disease mainly relies on surgical correction; first-line strategies are establishment of a systemic-to-pulmonary shunt or definitive repair (e.g., Rastelli procedure). Before surgery, intravenous prostaglandin E1 infusion should be maintained to keep the ductus arteriosus open and improve hypoxia. Drugs are only used to relieve heart failure symptoms (e.g., diuretics) and cannot cure the malformation. Long-term postoperative follow-up of cardiac function and valve status is required."
+    ],
+    "safety_warnings": [
+     "Prostaglandin E1 must not be stopped arbitrarily, to prevent closure of the ductus arteriosus causing acute worsening of hypoxia.",
+     "When using diuretics, electrolytes must be closely monitored to prevent hypokalemia-induced arrhythmias.",
+     "Avoid using potent vasodilators without assessment, to prevent worsening of the right-to-left shunt."
+    ],
+    "personalization": [
+     "For premature or low-birth-weight infants, drug doses need adjustment and nutritional support should be strengthened.",
+     "For those with complex anatomical malformations, an individualized surgical plan must be made before surgery.",
+     "After surgery, children need dynamic adjustment of anticoagulant or antiplatelet drug doses according to growth and development."
+    ]
+   },
+   "disease": "Double outlet right ventricle",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often present with reduced exercise tolerance, palpitations, shortness of breath, and fatigue; some may develop cyanosis. Typical signs include a systolic murmur audible at the left sternal border in the third to fourth intercostal spaces, accompanied by a third or fourth heart sound. If atrioventricular conduction abnormalities are present (e.g., WPW syndrome), sudden episodes of tachycardia may occur. Severe cases in infants may show marked cyanosis and manifestations of heart failure.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had chest tightness, shortness of breath, or bluish discoloration of the lips after activity?",
+     "Have you ever had sudden racing of the heart or syncope?",
+     "Has anyone in your family been diagnosed with congenital heart disease?"
+    ],
+    "followup_questions": [
+     "If palpitations occur, are they accompanied by dizziness or temporary loss of vision?",
+     "Have you recently had lower limb edema or paroxysmal nocturnal dyspnea?",
+     "Have you had an echocardiogram before, and what was the result?"
+    ],
+    "stop_conditions": [
+     "A history of congenital heart disease has been clearly established and symptoms are typical; no further detailed history is needed.",
+     "The patient has provided a complete echocardiography report and the diagnosis has been confirmed; there is no need to repeat symptom questioning.",
+     "The patient's symptoms are mild and there are no signs of complications; the initial assessment has been completed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Transthoracic echocardiography (TTE)",
+     "Electrocardiogram (ECG)",
+     "Chest X-ray"
+    ],
+    "if_suspected": [
+     "Transesophageal echocardiography (TEE)",
+     "Cardiac magnetic resonance imaging (CMR)",
+     "Right heart catheterization"
+    ],
+    "avoid": [
+     "Routine coronary angiography (unless concomitant coronary heart disease is suspected)",
+     "Unnecessary invasive biopsy",
+     "Radionuclide myocardial perfusion imaging without indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Regular follow-up for asymptomatic patients with mild disease",
+     "For symptomatic patients, diuretics are first-line to reduce edema; beta-blockers or amiodarone may be used to control arrhythmias. Severe tricuspid regurgitation or right ventricular dysfunction requires surgical repair or tricuspid valve replacement. Radiofrequency ablation should be performed when necessary in patients with pre-excitation syndrome. Nonpharmacological interventions include sodium restriction, avoidance of strenuous exercise, and prevention of infective endocarditis."
+    ],
+    "safety_warnings": [
+     "When using anticoagulants, be alert to bleeding risk, especially in postoperative patients.",
+     "Amiodarone may cause thyroid dysfunction and pulmonary fibrosis; regular monitoring is required.",
+     "Avoid misuse of vasodilators causing hypotension and worsening right heart failure."
+    ],
+    "personalization": [
+     "Pregnant women need medication adjustment under the guidance of a multidisciplinary team, avoiding teratogenic drugs.",
+     "For pediatric patients, drug doses must be precisely calculated according to body weight, with attention to growth and development.",
+     "In older patients, consider the impact of reduced liver and kidney function on drug metabolism and reduce doses appropriately."
+    ]
+   },
+   "disease": "Ebstein anomaly (downward displacement of the tricuspid valve)",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often present in infancy with dyspnea, feeding difficulties, sweating, and growth retardation. Some children may have recurrent respiratory infections; auscultation reveals a systolic murmur at the left sternal border with an accentuated second heart sound. Severe cases may develop cyanosis and symptoms of heart failure.",
+   "interview_guide": {
+    "first_questions": [
+     "Does your child have feeding difficulties or sweat during feeding?",
+     "Does your child frequently have respiratory infections?",
+     "Is your child's weight gain normal?"
+    ],
+    "followup_questions": [
+     "Has your child had rapid breathing or cyanosis?",
+     "Is there a family history of congenital heart disease?",
+     "Does your child tire easily or have reduced exercise tolerance?"
+    ],
+    "stop_conditions": [
+     "Typical symptoms such as feeding difficulties and recurrent infections have already been confirmed",
+     "Imaging studies already support the diagnosis",
+     "Symptoms and signs are highly consistent and no further questioning is needed"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Echocardiography",
+     "Electrocardiography",
+     "Chest radiography"
+    ],
+    "if_suspected": [
+     "Cardiac magnetic resonance imaging",
+     "Cardiac catheterization"
+    ],
+    "avoid": [
+     "Routine blood chemistry tests (unless complications are suspected)",
+     "Invasive procedures without indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes pharmacologic control of heart failure (such as diuretics and ACEIs), with surgical repair of the defect when necessary. Nonpharmacologic interventions include nutritional support and regular follow-up. Surgery is usually completed in infancy, and the specific timing should be assessed according to the condition."
+    ],
+    "safety_warnings": [
+     "Avoid drugs that may increase cardiac burden",
+     "Monitor for electrolyte disturbances",
+     "Be alert to the risk of postoperative infection"
+    ],
+    "personalization": [
+     "Adjust drug doses in premature infants",
+     "Individualize the treatment plan for patients with other malformations",
+     "Assess surgical tolerance in older children"
+    ]
+   },
+   "disease": "Endocardial cushion defect",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often report persistent distending or dull pain in the right upper quadrant that worsens after eating, accompanied by marked fatigue, decreased appetite, and abdominal bloating. Some patients may develop symptoms of heart failure such as lower-limb edema and paroxysmal nocturnal dyspnea. On examination, the liver is enlarged, firm, and rounded at the edge, with a positive hepatojugular reflux sign; in severe cases, a pulsatile liver may be palpable.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had pain or fullness in the right upper quadrant?",
+     "Have you had lower-limb swelling or shortness of breath after activity?"
+    ],
+    "followup_questions": [
+     "Does the abdominal pain worsen when lying flat and improve after sitting up?",
+     "Has your urine output decreased recently, or have you had rapid weight gain?"
+    ],
+    "stop_conditions": [
+     "A history of right heart failure has been established and typical signs are present (such as positive hepatojugular reflux)",
+     "Recent echocardiography and liver function test results have been obtained",
+     "The patient's reported symptoms are consistent with the pattern of previous heart failure episodes, and there are no new warning symptoms"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Transthoracic echocardiography",
+     "Comprehensive liver function panel",
+     "Serum BNP/NT-proBNP measurement"
+    ],
+    "if_suspected": [
+     "Contrast-enhanced abdominal CT or MRI (to exclude space-occupying lesions)",
+     "Inferior vena cava ultrasound (to assess dilation and respiratory variation)",
+     "Coagulation studies"
+    ],
+    "avoid": [
+     "Routine abdominal plain radiography (of very low diagnostic value)",
+     "Invasive liver biopsy (unless differentiation from cirrhosis is needed and the risk is manageable)",
+     "Unnecessary tumor marker screening (when not indicated)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "The primary treatment is to improve cardiac function to reduce hepatic congestion. First-line therapy is a diuretic (such as furosemide 20-40 mg orally once or twice daily) combined with a positive inotropic agent (such as digoxin 0.125 mg once daily), with addition of a vasodilator if necessary. At the same time, strictly restrict sodium intake (<3 g/d) and fluid intake. The course of treatment depends on recovery of cardiac function and usually needs to continue until edema resolves and the liver shrinks."
+    ],
+    "safety_warnings": [
+     "Avoid excessive diuresis leading to hypokalemia and worsening renal function",
+     "Monitor serum concentrations of digitalis glycosides and watch for toxicity",
+     "Be aware of the risk of electrolyte disturbances triggering malignant arrhythmias"
+    ],
+    "personalization": [
+     "Halve the starting dose in older patients and titrate slowly",
+     "Use diuretics cautiously in patients with renal insufficiency, adjust the dose, and closely monitor creatinine",
+     "In pregnant women, select safe drugs in collaboration with obstetrics and cardiology"
+    ]
+   },
+   "disease": "Hepatic congestion",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often report persistent dizziness, blurred vision, or visual dimming, especially worsening with changes in position (such as standing up from lying down). Some patients have fatigue, difficulty concentrating, nausea, and cold sweats; severe cases may experience syncope or loss of consciousness. Symptoms are often triggered by getting up in the morning, after meals, or after prolonged standing, and may resolve after rest and lying flat.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had recurrent dizziness, visual dimming, or fainting?",
+     "Under what circumstances do these symptoms usually occur (such as getting up, after meals, or standing)?"
+    ],
+    "followup_questions": [
+     "If accompanied by chest pain or shortness of breath, ask further: 'Do you have palpitations or a sense of impending doom during the episode?'",
+     "If dehydration is suspected, ask further: 'Have you recently had diarrhea, vomiting, or heavy sweating?'"
+    ],
+    "stop_conditions": [
+     "The triggers and frequency of orthostatic hypotension versus postprandial hypotension have been clearly differentiated.",
+     "The patient's current medication history (especially antihypertensives and diuretics) has been obtained, and there are no new warning symptoms.",
+     "Vital sign monitoring shows that systolic blood pressure is stable within a safe range and the patient is alert."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Supine-to-standing blood pressure measurement (the gold standard for diagnosing orthostatic hypotension)",
+     "Electrocardiography (to exclude hemodynamic abnormalities caused by arrhythmias)",
+     "Complete blood count (to screen for anemia or infection)"
+    ],
+    "if_suspected": [
+     "Electrolyte and renal function tests (to assess volume status and drug metabolism)",
+     "Echocardiography (to screen for structural heart disease or valvular disease)",
+     "Glycated hemoglobin (to screen for diabetic autonomic neuropathy)"
+    ],
+    "avoid": [
+     "CT angiography without indication (high radiation exposure and low diagnostic value for functional hypotension)",
+     "Routine use of invasive arterial catheterization (only for monitoring in critical shock)",
+     "Blind allergen screening (unless anaphylactic shock is clearly suggested)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line management is nonpharmacologic intervention, including increased water and salt intake, wearing compression stockings, and changing position slowly. If ineffective, the first-line drug is midodrine (2.5-10 mg three times daily), taken before meals to control postprandial hypotension. The course should be adjusted according to symptom improvement; it is usually recommended to start at a low dose and titrate gradually to an effective dose while avoiding nocturnal supine hypertension."
+    ],
+    "safety_warnings": [
+     "Contraindications: sympathomimetic drugs are contraindicated in patients with severe coronary heart disease, acute urinary retention, and uncontrolled congestive heart failure.",
+     "Drug interactions: avoid concomitant use with monoamine oxidase inhibitors to prevent rebound increases in blood pressure.",
+     "Prevent serious adverse reactions: closely monitor supine hypertension and instruct patients to stop the drug 4 hours before bedtime."
+    ],
+    "personalization": [
+     "Older adults: halve the starting dose, focus on preventing fall risk, and prioritize adjustment of the antihypertensive regimen.",
+     "Pregnant women: use drugs cautiously, prefer physical therapy, and require joint management with obstetrics.",
+     "Patients with diabetes: strengthen blood glucose monitoring and be alert to the additive effect of hypoglycemia and hypotension."
+    ]
+   },
+   "disease": "Hypotension",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often report progressively worsening exertional dyspnea and fatigue, accompanied by paroxysmal nocturnal dyspnea or orthopnea. Some patients have palpitations, chest pain, or presyncope. On examination, moist rales in both lungs, lower-limb edema, and signs of cardiac enlargement may be seen. The onset is insidious, and symptoms are easily mistaken for fatigue; be alert to unexplained manifestations of cardiac dysfunction.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently felt short of breath with slight activity or been unable to lie flat?",
+     "Have you had unexplained syncope or near-fainting?"
+    ],
+    "followup_questions": [
+     "If you have palpitations, do they worsen at night or occur with chest tightness?",
+     "Is there a family history of sudden death at a young age or similar heart disease?"
+    ],
+    "stop_conditions": [
+     "Typical heart failure symptoms have clearly occurred recently, and there is no evidence of involvement of other systems",
+     "A clear trigger (such as viral myocarditis) has been confirmed, excluding an idiopathic diagnosis",
+     "The patient has provided a complete family history and past medication history, sufficient to initiate initial evaluation"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Echocardiography",
+     "Electrocardiography",
+     "Natriuretic peptide testing"
+    ],
+    "if_suspected": [
+     "Cardiac magnetic resonance imaging",
+     "Coronary angiography",
+     "Genetic testing"
+    ],
+    "avoid": [
+     "Routine chest radiography (not essential for diagnosis, only supportive)",
+     "Invasive cardiac catheterization without indication",
+     "Repeated nonspecific blood screening"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes angiotensin-converting enzyme inhibitors (such as perindopril 4-8 mg/d), beta-blockers (such as metoprolol extended-release tablets 23.75-190 mg/d), and aldosterone receptor antagonists. Combine with diuretics to relieve edema. Treatment requires long-term maintenance, with the goal of improving ventricular remodeling. Nonpharmacologic interventions emphasize sodium restriction, moderate exercise rehabilitation, and vaccination."
+    ],
+    "safety_warnings": [
+     "Monitor serum potassium and renal function to prevent hyperkalemia",
+     "Avoid concomitant use with digoxin that may lead to additive toxicity",
+     "Be alert to the risk of syncope caused by hypotension and bradycardia"
+    ],
+    "personalization": [
+     "Halve the starting dose in older patients and titrate slowly",
+     "ACEIs/ARBs are contraindicated during pregnancy",
+     "Adjust diuretic and RAAS inhibitor doses in patients with renal insufficiency"
+    ]
+   },
+   "disease": "Idiopathic cardiomyopathy",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often report progressive exertional dyspnea that is easily overlooked in the early stage. A typical presentation is unexplained syncope or near-syncope, especially during physical activity. Associated symptoms include chest pain, extreme fatigue, lower extremity edema, and hoarseness (due to compression of the recurrent laryngeal nerve by an enlarged pulmonary artery). Signs may include jugular venous distension, left parasternal heave, and an accentuated pulmonary component of the second heart sound.",
+   "interview_guide": {
+    "first_questions": [
+     "Has your shortness of breath been progressively worsening or sudden in onset?",
+     "Have you recently fainted or had a blackout during exertion?",
+     "Does anyone in your family have a similar heart or lung disease?"
+    ],
+    "followup_questions": [
+     "When you become short of breath, is it accompanied by chest pain or palpitations?",
+     "Is there obvious swelling in your legs or ankles?",
+     "Have you had unexplained rapid weight gain recently?"
+    ],
+    "stop_conditions": [
+     "Typical exertional dyspnea with a history of syncope has been clearly described.",
+     "Secondary causes such as connective tissue disease and congenital heart disease have been ruled out.",
+     "Initial physical examination has been completed and vital signs are stable."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Right heart catheterization (gold standard for diagnosis)",
+     "Echocardiography (to assess pulmonary artery pressure and right ventricular function)",
+     "Electrocardiography (to screen for right ventricular hypertrophy and arrhythmias)"
+    ],
+    "if_suspected": [
+     "High-resolution CT pulmonary angiography (to exclude chronic thromboembolic disease)",
+     "Ventilation/perfusion scan (V/Q Scan, to screen for chronic thromboembolism)",
+     "Autoantibody panel testing (to exclude connective tissue disease)"
+    ],
+    "avoid": [
+     "Routine chest radiography (low specificity for diagnosis; not first-line)",
+     "Invasive bronchoscopy (unless airway disease is suspected)",
+     "Stress testing (may induce right heart failure; contraindicated)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment requires selection of targeted drugs according to risk stratification. For intermediate- and high-risk patients, oral endothelin receptor antagonists (e.g., bosentan 40mg bid), phosphodiesterase-5 inhibitors (e.g., sildenafil 20mg tid), or prostacyclin analogues are recommended. Diuretics should also be given to control volume load, with oxygen if necessary. Treatment should be maintained long term, with periodic assessment of 6-minute walk distance and NT-proBNP levels to adjust the regimen."
+    ],
+    "safety_warnings": [
+     "Beta-blockers are strictly contraindicated because they may depress myocardial contractility and cause acute right heart failure.",
+     "Endothelin receptor antagonists are hepatotoxic; liver function should be monitored monthly.",
+     "All vasodilators may cause hypotension; start at a low dose and titrate."
+    ],
+    "personalization": [
+     "Endothelin receptor antagonists and tadalafil are contraindicated during pregnancy; switch to a prostacyclin analogue.",
+     "In patients with renal insufficiency, adjust diuretic type and dose to avoid electrolyte disturbances.",
+     "Older patients are more sensitive to vasodilators; use a lower initial dose and monitor closely."
+    ]
+   },
+   "disease": "Idiopathic pulmonary arterial hypertension",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often present with progressive dyspnea, reduced exercise tolerance, and bilateral lower extremity edema, accompanied by palpitations or paroxysmal nocturnal dyspnea. Some patients have a history of typical or atypical angina, and heart failure may even be the initial presentation. Physical examination may show cardiomegaly, gallop rhythm, pulmonary crackles, and jugular venous distension, consistent with left-sided or biventricular heart failure.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently felt short of breath with minimal exertion or needed to sit up to breathe?",
+     "Have you had episodes of chest pain or chest tightness in the past, especially with exertion?"
+    ],
+    "followup_questions": [
+     "If chest pain occurs, what is its character, how long does it last, and does it relieve with rest?",
+     "Do you need to sleep with extra pillows at night, or have you been awakened suddenly with breathlessness?"
+    ],
+    "stop_conditions": [
+     "A history of coronary heart disease has been confirmed and current symptoms are consistent with typical heart failure.",
+     "Recent key ECG and echocardiographic results have been obtained, allowing initial assessment of cardiac function.",
+     "The patient's vital signs are stable, with no signs of acute deterioration, so there is no need for urgent detailed questioning."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "12-lead ECG",
+     "Transthoracic echocardiography",
+     "N-terminal pro-B-type natriuretic peptide (NT-proBNP)"
+    ],
+    "if_suspected": [
+     "Coronary CT angiography (CCTA) or coronary angiography",
+     "Ambulatory ECG monitoring",
+     "Chest radiography"
+    ],
+    "avoid": [
+     "Stress testing without an indication (contraindicated during acute heart failure)",
+     "Unnecessary invasive procedures (e.g., right heart catheterization, unless needed to differentiate other causes)",
+     "Repeated low-value routine blood chemistry screening"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is \"new quadruple\" therapy: ARNI (sacubitril/valsartan), beta-blockers (metoprolol extended-release tablets/bisoprolol), MRA (spironolactone), and SGLT2 inhibitors (dapagliflozin). Start at low doses and titrate to target doses every 2-4 weeks. Add diuretics as appropriate to relieve congestion. Treatment is usually long-term maintenance, aimed at improving prognosis rather than only relieving symptoms."
+    ],
+    "safety_warnings": [
+     "When switching between ARNI and ACEI, a 36-hour washout is required to prevent angioedema.",
+     "Monitor serum potassium and renal function to avoid hyperkalemia and acute kidney injury.",
+     "Beta-blockers are contraindicated in acute decompensated heart failure and should be started only after stabilization."
+    ],
+    "personalization": [
+     "In older patients, titrate drug doses more slowly and monitor blood pressure closely.",
+     "In patients with renal insufficiency, adjust diuretic and MRA doses and monitor electrolytes closely.",
+     "In patients with diabetes, prefer SGLT2 inhibitors and monitor changes in blood glucose."
+    ]
+   },
+   "disease": "Ischemic cardiomyopathy",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often report unexplained chest pain, dyspnea, or palpitations, suggesting a risk of aortic dissection. Physical examination may show a tall, slender body habitus, elongated limbs (arachnodactyly), chest wall deformity (pectus excavatum or pectus carinatum), and scoliosis. Some patients have blurred vision due to lens dislocation. Sudden tearing chest and back pain with asymmetric blood pressure should raise high suspicion for aortic dissection.",
+   "interview_guide": {
+    "first_questions": [
+     "Has anyone in your family been diagnosed with Marfan syndrome or had an aortic dissection at a young age?",
+     "Have you noticed that your fingers are unusually long and slender, or that you are significantly taller than peers but underweight?",
+     "Have you recently had sudden severe chest pain, back pain, or felt an abnormal acceleration of your heartbeat?"
+    ],
+    "followup_questions": [
+     "If you have sudden vision loss or floaters, is it related to changes in lens position?",
+     "Have you had joint hypermobility or recurrent dislocations in the past?",
+     "Have you had unexplained spontaneous pneumothorax?"
+    ],
+    "stop_conditions": [
+     "Family history is clear and typical signs (e.g., arachnodactyly, chest wall deformity) are present; no need to ask further about nonspecific symptoms.",
+     "The patient has been diagnosed and is receiving standard follow-up treatment; only current medication adherence needs to be confirmed.",
+     "During an acute chest pain episode with unstable vital signs, immediate transfer to the emergency department is required rather than continuing the interview."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Transthoracic echocardiography (TTE): assess aortic root diameter and valve function",
+     "Cardiac magnetic resonance imaging (CMR): accurately measure the diameter of the entire aorta and hemodynamics",
+     "Whole-body skeletal radiography: screen for scoliosis and chest wall deformity"
+    ],
+    "if_suspected": [
+     "CT angiography (CTA): for emergency evaluation when aortic dissection is suspected",
+     "Ophthalmologic slit-lamp examination: confirm lens subluxation",
+     "Genetic testing (e.g., FBN1): provide genetic confirmation"
+    ],
+    "avoid": [
+     "Noninvasive exercise stress testing: may increase the risk of aortic rupture",
+     "Routine noncontrast chest CT: limited value for assessing the vessel wall and unnecessary radiation exposure",
+     "Invasive coronary angiography: avoid because it increases hemodynamic stress, unless coronary heart disease is present and intervention is required"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is mainly beta-blockers (e.g., metoprolol extended-release tablets 23.75-47.5mg once daily), with a target resting heart rate below 60 beats/min to reduce aortic wall shear stress. For patients with aortic root dilation >4.5cm or rapid progression, elective aortic root replacement is recommended. Also restrict strenuous exercise, avoid weightlifting and competitive sports, and repeat imaging every 6-12 months to monitor changes in aortic diameter."
+    ],
+    "safety_warnings": [
+     "High-dose ACEI/ARB drugs must not be used as first-line antihypertensive therapy unless combined with a beta-blocker and closely monitored.",
+     "Avoid stimulant drugs (e.g., epinephrine, cocaine) to prevent triggering aortic dissection.",
+     "Pregnant women should undergo pre-pregnancy aortic risk assessment; ACEI/ARB are contraindicated during pregnancy to prevent fetal malformations and maternal vascular rupture."
+    ],
+    "personalization": [
+     "In pediatric patients, adjust beta-blocker doses according to body surface area and monitor effects on growth and development.",
+     "In older patients, watch for hypotension; start with a low dose and titrate slowly.",
+     "In patients with hypertension, strictly control blood pressure to <120/80mmHg, adding a calcium channel blocker if necessary."
+    ]
+   },
+   "disease": "Marfan syndrome",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often report exertional dyspnea and fatigue; in severe cases, paroxysmal nocturnal dyspnea or orthopnea may occur. Some patients experience palpitations, chest tightness, or even hemoptysis. Auscultation may reveal a holosystolic blowing murmur at the apex radiating to the axilla. Those with chronic severe regurgitation may develop signs of right heart failure such as lower extremity edema and abdominal distension. Acute episodes present with sudden severe dyspnea, hypotension, and pulmonary edema.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had shortness of breath with activity or been awakened at night with breathlessness?",
+     "Do you feel that your heartbeat is fast or irregular?"
+    ],
+    "followup_questions": [
+     "If you have shortness of breath, does it worsen when lying flat, requiring extra pillows to sleep?",
+     "Have you recently had syncope, chest pain, or coughed up pink frothy sputum?"
+    ],
+    "stop_conditions": [
+     "The duration of symptoms, triggers, and effect of positional changes have been clarified.",
+     "History of previous rheumatic fever, cardiac surgery, or family history of heart disease has been obtained.",
+     "The patient has clearly described current medications and allergy history."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Transthoracic echocardiography (TTE)",
+     "Electrocardiography (ECG)",
+     "Chest radiography"
+    ],
+    "if_suspected": [
+     "Transesophageal echocardiography (TEE)",
+     "Cardiac magnetic resonance imaging (CMR)",
+     "Coronary angiography"
+    ],
+    "avoid": [
+     "Routine radionuclide myocardial perfusion imaging without an indication",
+     "Unnecessary invasive hemodynamic monitoring (unless intervention is planned)",
+     "Repeated plain CT scans without clinical significance"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Asymptomatic mild regurgitation is managed mainly with regular follow-up.",
+     "For symptomatic or moderate-to-severe regurgitation, first-line treatment is medical therapy, including diuretics to reduce volume load and ACEI/ARB to dilate vessels and reduce afterload. For severe primary regurgitation with left ventricular dysfunction or persistent symptoms, evaluate surgical repair or replacement, or transcatheter edge-to-edge mitral valve repair (MitraClip). Nonpharmacologic interventions include limiting sodium intake, controlling fluid volume, and moderate exercise rehabilitation."
+    ],
+    "safety_warnings": [
+     "When using potent diuretics, monitor electrolytes closely to prevent hypokalemia-induced arrhythmias.",
+     "Avoid blindly using high-dose vasodilators during acute decompensated heart failure, which may cause hypotensive shock.",
+     "During anticoagulation therapy, be alert to bleeding risk, especially in patients with atrial fibrillation."
+    ],
+    "personalization": [
+     "In older patients, start with a low dose, titrate slowly, and monitor renal function.",
+     "In pregnant women, use ACEI/ARB drugs with caution; labetalol or hydralazine may be used as alternatives.",
+     "In patients with renal insufficiency, adjust diuretic and anticoagulant doses according to creatinine clearance."
+    ]
+   },
+   "disease": "Mitral regurgitation",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often complain of exertional dyspnea and fatigue, and as the disease progresses, orthopnea or paroxysmal nocturnal dyspnea occurs. Typical symptoms include hemoptysis (which may be blood-streaked sputum or massive hemoptysis) and hoarseness. Some patients experience palpitations, dizziness, or even syncope due to atrial fibrillation. On auscultation, an apical diastolic rumbling murmur with an opening snap may be heard, but patients' complaints mostly focus on dyspnea and hemoptysis.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently felt short of breath with slight activity, or unable to lie flat at night?",
+     "Have you ever coughed up blood, either blood-streaked sputum or a large amount of hemoptysis?"
+    ],
+    "followup_questions": [
+     "If you have palpitations, do you feel that your heartbeat is suddenly fast or slow, or irregular?",
+     "Have you ever suddenly fainted or had transient visual blackout?",
+     "Have you ever been diagnosed with rheumatic fever or had a history of joint pain?"
+    ],
+    "stop_conditions": [
+     "The degree of dyspnea, hemoptysis, and arrhythmia symptoms have already been clearly elicited.",
+     "The history of prior rheumatic fever and surgical history have already been obtained.",
+     "The symptom description is sufficient to distinguish other cardiopulmonary diseases and there are no new critical signs."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Transthoracic echocardiography (TTE)",
+     "Electrocardiogram (ECG)",
+     "Chest X-ray"
+    ],
+    "if_suspected": [
+     "Transesophageal echocardiography (TEE)",
+     "Coronary CT angiography (CCTA)",
+     "Right heart catheterization"
+    ],
+    "avoid": [
+     "Invasive procedures without assessing bleeding risk before routine anticoagulant use",
+     "Invasive myocardial biopsy without indication",
+     "Unnecessary radionuclide myocardial perfusion imaging"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment focuses on controlling ventricular rate and preventing thrombosis. The preferred agents are beta-blockers or non-dihydropyridine calcium channel blockers (such as diltiazem), with resting heart rate controlled at 60-80 beats/min. If atrial fibrillation is present, long-term oral warfarin anticoagulation is required, with a target INR of 2.0-3.0. For severe symptoms, percutaneous balloon mitral valvuloplasty (PBMV) is recommended. At the same time, restrict sodium intake and avoid strenuous exercise."
+    ],
+    "safety_warnings": [
+     "Digitalis drugs are contraindicated for rapid conversion of atrial fibrillation, to avoid worsening outflow tract obstruction or inducing hypotension.",
+     "During anticoagulation therapy, INR must be closely monitored, and serious adverse reactions such as gastrointestinal bleeding should be watched for.",
+     "Use warfarin with caution in early pregnancy; multidisciplinary assessment and regimen adjustment are needed."
+    ],
+    "personalization": [
+     "For elderly patients, halve the starting dose to prevent hypotension and falls.",
+     "In patients with renal insufficiency, the type and dose of diuretics need to be adjusted to prevent electrolyte disturbances.",
+     "In women of childbearing age, the anticoagulation regimen should be assessed before conception, and low-molecular-weight heparin should be substituted if necessary."
+    ]
+   },
+   "disease": "Mitral stenosis",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often present with progressively worsening exertional dyspnea, fatigue, and lower limb edema. Typical complaints include paroxysmal nocturnal dyspnea, orthopnea, or dizziness and a history of syncope (especially with aortic stenosis). On auscultation, murmurs may be heard at multiple sites, such as a systolic murmur in the mitral region combined with a diastolic murmur in the aortic region. In patients with rapid progression, acute pulmonary edema or signs of right heart failure such as jugular venous distension, hepatomegaly, and ascites are likely to occur.",
+   "interview_guide": {
+    "first_questions": [
+     "What is your recent exercise tolerance? Do you become more short of breath than usual when walking on level ground?",
+     "Have you ever woken up at night short of breath and needed to sit up to relieve it?",
+     "Have you had an echocardiogram in the past? What was the diagnosis at that time?"
+    ],
+    "followup_questions": [
+     "If chest pain or syncope occurs, is it related to strenuous exercise?",
+     "Have you recently gained weight rapidly or had marked ankle swelling?",
+     "Do you have a history of rheumatic fever or a long-term history of dental disease/infection?"
+    ],
+    "stop_conditions": [
+     "All major valve lesion types and severity have been clearly identified",
+     "Whether heart failure symptoms are present and their classification have been confirmed",
+     "Prior surgical history and current medication use have been obtained"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Transthoracic echocardiography (TTE)",
+     "Electrocardiogram (ECG)",
+     "Chest X-ray",
+     "Brain natriuretic peptide (BNP) testing"
+    ],
+    "if_suspected": [
+     "Transesophageal echocardiography (TEE)",
+     "Coronary CT angiography (CCTA) or coronary angiography",
+     "Cardiac magnetic resonance imaging (CMR)"
+    ],
+    "avoid": [
+     "Invasive hemodynamic monitoring without indication",
+     "Unnecessary radionuclide myocardial perfusion imaging",
+     "Relying solely on clinical auscultation without imaging confirmation"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Drug treatment mainly controls heart failure symptoms, including diuretics to reduce volume load, ACEI/ARB to improve remodeling, and beta-blockers to control heart rate. In patients with cardiac insufficiency due to severe stenosis or regurgitation, the timing of surgery needs to be assessed. First-line interventions include transcatheter or surgical valve replacement/repair. Non-drug interventions emphasize salt restriction, weight monitoring, and moderate rehabilitation training. The course of treatment depends on the condition; long-term anticoagulant or antiplatelet therapy is required after surgery."
+    ],
+    "safety_warnings": [
+     "Potent positive inotropic agents are contraindicated because they may worsen obstructive lesions",
+     "Be alert to the risk of hypokalemia and worsening renal function caused by diuretics",
+     "Anticoagulation therapy requires strict INR monitoring to prevent bleeding or thrombosis"
+    ],
+    "personalization": [
+     "For elderly or high-risk patients, transcatheter intervention should be preferred over open-heart surgery",
+     "Pregnant women need anticoagulation regimen adjustment and avoidance of teratogenic drugs",
+     "In patients with renal insufficiency, diuretic and contrast agent doses need to be adjusted according to eGFR"
+    ]
+   },
+   "disease": "Multivalvular heart disease",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often develop symptoms 1-3 weeks after upper respiratory tract or enteroviral infection, with complaints including unexplained chest tightness, shortness of breath, palpitations, and extreme fatigue. Some patients may present with chest pain resembling acute myocardial infarction or sudden syncope. On physical examination, an increased heart rate disproportionate to the elevated body temperature may be seen (relative bradycardia is uncommon but should be watched for); in severe cases, a third heart sound or gallop rhythm may be heard, accompanied by enlargement of the cardiac silhouette or signs of heart failure.",
+   "interview_guide": {
+    "first_questions": [
+     "Did you have a history of infection such as fever, sore throat, or diarrhea within 1-3 weeks before onset?",
+     "Which symptom is most distressing now: palpitations, chest pain, or dyspnea? How severe is it?"
+    ],
+    "followup_questions": [
+     "Have you had transient visual blackout, syncope, or paroxysmal nocturnal dyspnea?",
+     "Do you have a history of autoimmune disease or a recent vaccination history?"
+    ],
+    "stop_conditions": [
+     "Recent infection history has been clearly established and typical cardiac symptoms (such as chest pain or palpitations) are present.",
+     "Vital signs are unstable, and emergency care must be started immediately rather than continuing the interview.",
+     "The patient already has the key history and preliminary examination results needed for diagnosis."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Electrocardiogram (ECG)",
+     "Serum troponin (cTnI/cTnT)",
+     "B-type natriuretic peptide (BNP) or NT-proBNP",
+     "Echocardiography"
+    ],
+    "if_suspected": [
+     "Cardiac magnetic resonance imaging (CMR)",
+     "Virological testing (throat swab/stool PCR)",
+     "24-hour ambulatory electrocardiogram (Holter)"
+    ],
+    "avoid": [
+     "Coronary angiography without indication (unless ACS is highly suspected and cannot be excluded)",
+     "Routine chest X-ray (not the first choice for evaluating heart failure; only auxiliary for pulmonary congestion)",
+     "Invasive myocardial biopsy (not required in all cases; consider only in severe or undiagnosed cases)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Treatment is mainly rest and supportive therapy, with absolute bed rest until symptoms disappear and indicators normalize. First-line drugs include coenzyme Q10 and vitamin C, which improve myocardial metabolism",
+     "If heart failure is present, use diuretics (such as furosemide) as appropriate to reduce load, and ACEI/ARB drugs to improve remodeling. For severe or fulminant myocarditis, early use of immunosuppressants (such as glucocorticoids) or mechanical circulatory support (ECMO) is needed. The course of treatment depends on recovery; follow-up usually requires weeks to months."
+    ],
+    "safety_warnings": [
+     "Strictly avoid strenuous exercise to prevent induction of malignant arrhythmias or sudden death.",
+     "Use nonsteroidal anti-inflammatory drugs (NSAIDs) with caution to avoid worsening myocardial inflammatory response.",
+     "Monitor electrolyte disturbances, especially hypokalemia, to prevent induction of ventricular arrhythmias."
+    ],
+    "personalization": [
+     "For pediatric patients, drug doses must be precisely calculated according to body weight, and effects on growth and development should be closely observed.",
+     "For pregnant patients, the teratogenic risk of anticoagulant and diuretic drugs must be weighed, and fetal-safe regimens should be preferred.",
+     "For elderly patients, attention should be paid to renal function when adjusting diuretic and ACEI doses to prevent hypotension."
+    ]
+   },
+   "disease": "Myocarditis",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often complain of a clear history of prior chest pain episodes, and now have subtle symptoms or present with exertional chest tightness, shortness of breath, and fatigue. Some patients may have silent myocardial ischemia or signs of chronic heart failure such as paroxysmal nocturnal dyspnea and lower limb edema. Typically there is no acute chest pain, but pathological Q waves may be seen on ECG, indicating that irreversible myocardial necrosis has occurred.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you ever had a confirmed myocardial infarction or severe chest pain in the past?",
+     "Do you currently feel chest tightness or shortness of breath during daily activities (such as climbing stairs or brisk walking)?"
+    ],
+    "followup_questions": [
+     "If you have heart failure symptoms, please describe whether you need to prop up on pillows at night or have lower limb edema?",
+     "Have you recently had palpitations, syncope, or new-onset chest pain discomfort?"
+    ],
+    "stop_conditions": [
+     "Prior history of myocardial infarction has been clearly established and there are currently no acute ischemic symptoms.",
+     "Review of baseline medications and assessment of cardiac function status have been completed.",
+     "The patient can clearly describe the prior treatment course and current stable condition."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "12-lead electrocardiogram",
+     "Echocardiography",
+     "Serum cardiac markers (troponin, BNP/NT-proBNP)"
+    ],
+    "if_suspected": [
+     "Coronary CT angiography (CCTA)",
+     "Exercise stress test or pharmacologic stress echocardiography",
+     "Ambulatory electrocardiogram (Holter)"
+    ],
+    "avoid": [
+     "Routine repeat invasive coronary angiography (unless interventional treatment is planned)",
+     "Radionuclide myocardial perfusion imaging without indication",
+     "Unnecessary serial emergency cardiac enzyme testing"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Long-term standardized secondary prevention: antiplatelet drugs (aspirin 100mg/d or clopidogrel 75mg/d), high-intensity statins (atorvastatin 40-80mg/d), beta-blockers (metoprolol sustained-release tablets starting at 12.5-25mg/d titrated to target heart rate), ACEI/ARB drugs. For patients with heart failure, add aldosterone receptor antagonists. At the same time, strictly quit smoking, control blood pressure and blood glucose, and perform cardiac rehabilitation training."
+    ],
+    "safety_warnings": [
+     "Antiplatelet drugs require vigilance for the risk of gastrointestinal bleeding; high-risk patients should be given concomitant PPI.",
+     "Beta-blockers are contraindicated in acute decompensated heart failure or severe bradycardia.",
+     "Statins require monitoring of liver enzymes and creatine kinase to prevent rhabdomyolysis."
+    ],
+    "personalization": [
+     "Elderly patients should start with low doses and titrate slowly to prevent orthostatic hypotension.",
+     "In patients with renal insufficiency, adjust ACEI/ARB and diuretic doses and monitor serum potassium.",
+     "For patients with diabetes comorbidities, prioritize glucose-lowering regimens with little metabolic impact."
+    ]
+   },
+   "disease": "old myocardial infarction",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often report exertional dyspnea and easy fatigue; in infants and young children, feeding difficulties or slow weight gain may be seen. The typical sign is a continuous machinery-like murmur audible at the second left intercostal space, accompanied by a thrill. Some adult patients develop pulmonary arterial hypertension due to long-standing shunt, with cyanosis (differential cyanosis), i.e., cyanosis of the lower limbs with normal upper limbs. If heart failure is present, paroxysmal nocturnal dyspnea may occur.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you feel chest tightness, shortness of breath, or easy fatigue after activity?",
+     "When you were a child, were you told by a doctor that you had a heart murmur or slow growth and development?"
+    ],
+    "followup_questions": [
+     "If you have lower-limb cyanosis with normal upper limbs, please describe in detail when it occurs and what triggers it.",
+     "Have you recently had recurrent respiratory infections or episodes of awakening at night with breathlessness?"
+    ],
+    "stop_conditions": [
+     "A characteristic continuous machinery-like murmur has been clearly heard and confirmed by echocardiography.",
+     "The patient's symptoms are mild and there is no evidence of hemodynamic abnormality; further questioning is not needed.",
+     "Key differential diagnostic information (such as coarctation of the aorta, ventricular septal defect, etc.) has been obtained and these conditions have been excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Transthoracic echocardiography (TTE)",
+     "Electrocardiography (ECG)",
+     "Chest X-ray"
+    ],
+    "if_suspected": [
+     "Transesophageal echocardiography (TEE)",
+     "Cardiac magnetic resonance imaging (CMR)",
+     "Right heart catheterization and pulmonary vascular resistance measurement"
+    ],
+    "avoid": [
+     "Coronary angiography without an indication",
+     "Routine full coagulation panel screening before starting anticoagulants (unless an interventional procedure is planned)",
+     "Unnecessary radionuclide myocardial perfusion imaging"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For hemodynamically significant patent ductus arteriosus, percutaneous interventional closure is the first choice. Anatomic structure should be assessed before the procedure; after the procedure, aspirin antiplatelet therapy is given for 3-6 months to prevent thrombosis. For premature infants, oral indomethacin or ibuprofen may be tried to promote ductal closure. If intervention is not possible or the anatomy is unsuitable, surgical ligation is considered. Non-surgical treatment mainly consists of regular follow-up for asymptomatic small defects."
+    ],
+    "safety_warnings": [
+     "Contraindication: Closure is contraindicated in severe pulmonary arterial hypertension with Eisenmenger syndrome (irreversible).",
+     "Drug interaction: When using indomethacin, avoid concomitant use with NSAIDs to prevent additive nephrotoxicity.",
+     "Prevention of serious adverse reactions: After interventional closure, closely monitor for residual shunt, device migration, or hemolytic reaction."
+    ],
+    "personalization": [
+     "For premature infants, drug therapy is preferred; for term infants, interventional treatment is mostly used.",
+     "For elderly patients or those with other heart diseases, surgical risk should be assessed, and a minimally invasive or open-chest approach should be selected individually.",
+     "If intervention is needed in pregnant women, it is recommended to perform it in the second trimester and adjust the anticoagulation strategy."
+    ]
+   },
+   "disease": "Patent ductus arteriosus",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often report palpitations, a sensation of 'skipped' heartbeats, or chest discomfort, occasionally with chest tightness. Symptoms are often aggravated by exertion, emotional excitement, or consumption of coffee/alcohol and may be relieved by rest. Some patients are asymptomatic and the condition is found only on an ECG during physical examination. If frequent, it may be accompanied by dizziness or fatigue and, in severe cases, may trigger atrial fibrillation.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you feel that your heartbeat suddenly speeds up, pauses, or becomes irregular?",
+     "Under what circumstances is this symptom most likely to occur (for example, after exercise or drinking coffee)?"
+    ],
+    "followup_questions": [
+     "When the symptoms occur, are they accompanied by chest pain, difficulty breathing, or a premonition of syncope?",
+     "Have you recently had habits of staying up late, heavy alcohol drinking, or consuming caffeine-containing beverages?"
+    ],
+    "stop_conditions": [
+     "The relationship between symptoms and triggers has been clarified, and there is no evidence of structural heart disease",
+     "Baseline ECG has been completed and a rhythm abnormality has been confirmed",
+     "The patient has no manifestations of hemodynamic instability"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "12-lead ECG",
+     "Ambulatory electrocardiography (Holter)"
+    ],
+    "if_suspected": [
+     "Echocardiography",
+     "Thyroid function testing",
+     "Electrolyte panel analysis"
+    ],
+    "avoid": [
+     "Coronary angiography (when there is no evidence of ischemia)",
+     "Invasive electrophysiologic study (in uncomplicated cases)",
+     "Routine chest CT (when there are no pulmonary symptoms)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Asymptomatic or occasional cases do not require drug therapy; lifestyle intervention is recommended, such as smoking cessation, reducing alcohol intake, reducing caffeine intake, and improving sleep. For patients with obvious symptoms, beta-blockers are the first choice (e.g., metoprolol 25-50 mg bid), starting at a low dose and adjusted according to heart rate. If ineffective, non-dihydropyridine calcium channel blockers may be considered. The course of treatment depends on symptom control and is usually assessed at 3-6 months."
+    ],
+    "safety_warnings": [
+     "Beta-blockers are contraindicated in patients with asthma or severe bradycardia",
+     "Avoid concomitant use with digoxin because of increased risk of conduction block",
+     "Be alert for hypotension or excessive bradycardia caused by drug overdose"
+    ],
+    "personalization": [
+     "Older adults should start at a reduced dose to prevent orthostatic hypotension",
+     "During pregnancy, beta-blockers are preferred, but fetal heart rate should be monitored",
+     "Non-dihydropyridine calcium channel blockers should be used with caution in patients with heart failure"
+    ]
+   },
+   "disease": "Premature atrial contractions (PACs)",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often report palpitations, a sensation of 'skipped' heartbeats, or a chest-thumping sensation, and some have chest tightness and fatigue. Symptoms often occur at rest, with exertion, or with emotional excitement and may be paroxysmal. If frequent, they may cause dizziness or even amaurosis. It is important to distinguish whether symptoms of structural heart disease, such as chest pain or difficulty breathing, are present.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you feel that your heartbeat suddenly pauses or beats irregularly? How long does each episode last?",
+     "Under what circumstances are the symptoms most likely to occur (for example, after exercise or at night while resting)?",
+     "Have the episodes been accompanied by syncope, visual blackout, or chest pain?"
+    ],
+    "followup_questions": [
+     "If you have palpitations, are they accompanied by sweating, shortness of breath, or a feeling of impending doom?",
+     "Have you recently consumed large amounts of coffee, strong tea, or alcohol?",
+     "Do you have a history of coronary heart disease, cardiomyopathy, or hypertension?"
+    ],
+    "stop_conditions": [
+     "The relationship between symptoms and triggers has been clarified, and there are no danger signals such as syncope",
+     "It has been confirmed that there is no underlying structural heart disease and no family history of sudden death",
+     "Initial symptom characterization has been completed and acute coronary syndrome has been excluded"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "12-lead ECG",
+     "24-hour ambulatory electrocardiography (Holter)",
+     "Echocardiography"
+    ],
+    "if_suspected": [
+     "Exercise treadmill test",
+     "Serum electrolyte and thyroid function testing",
+     "Coronary CTA or angiography"
+    ],
+    "avoid": [
+     "Routine invasive electrophysiologic study in asymptomatic patients with a normal ECG",
+     "Repeated myocardial enzyme screening without an indication",
+     "Unnecessary whole-body PET-CT scanning"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For patients without structural heart disease and with mild symptoms, lifestyle intervention is preferred, including smoking cessation, limiting alcohol, reducing caffeine intake, and improving sleep. If symptoms significantly affect daily life, first-line drugs are beta-blockers (e.g., metoprolol 25-50 mg bid), starting at a low dose and gradually titrated. For frequent symptoms refractory to drugs, radiofrequency ablation may be considered. The course of treatment depends on symptom relief and usually requires long-term follow-up assessment."
+    ],
+    "safety_warnings": [
+     "Beta-blockers are contraindicated in patients with severe bradycardia, atrioventricular block, and acute decompensated heart failure",
+     "Note that concomitant use with antihypertensive drugs may increase the risk of hypotension",
+     "Be alert for the proarrhythmic effects of antiarrhythmic drugs, and monitor the QT interval"
+    ],
+    "personalization": [
+     "Older patients should start at a reduced dose to prevent falls and bradycardia",
+     "Beta-blockers should be used with caution in pregnant women; propranolol is preferred with close monitoring",
+     "Avoid non-selective beta-blockers in patients with asthma"
+    ]
+   },
+   "disease": "Premature ventricular contractions (PVCs)",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often present with a history of chronic cough, sputum production, or wheezing, and recent worsening of exertional dyspnea. Typical signs include jugular venous distention, hepatomegaly with tenderness, and symmetric pitting edema of the lower limbs. On auscultation, an accentuated second heart sound in the pulmonary valve area may be heard, and some patients have cyanosis of the lips. Symptoms often worsen with acute exacerbation of respiratory infection and are easily mistaken for isolated heart failure.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have a long history of chronic bronchitis, asthma, or emphysema?",
+     "Have you recently had worsening difficulty breathing, especially after activity or when lying flat at night?",
+     "Do you have swelling in both lower limbs, and does pressing leave an indentation?"
+    ],
+    "followup_questions": [
+     "If you have sputum, is it yellow or green (suggesting infection)?",
+     "Do you have a history of chest pain, hemoptysis, or syncope?",
+     "Have you had rapid weight gain recently (suggesting water and sodium retention)?"
+    ],
+    "stop_conditions": [
+     "The diagnosis of underlying lung disease has been established and typical signs of right heart failure are present.",
+     "The patient's reported symptoms are highly consistent with the pattern of previous cor pulmonale episodes.",
+     "Key vital signs have been assessed and there are no new critical symptoms."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Chest X-ray (to observe prominence of the pulmonary artery segment and cardiac silhouette)",
+     "Echocardiography (to assess right ventricular size, function, and pulmonary artery pressure)",
+     "Arterial blood gas analysis (to assess the degree of hypoxia and carbon dioxide retention)",
+     "Electrocardiography (to screen for right ventricular hypertrophy and right axis deviation)"
+    ],
+    "if_suspected": [
+     "D-dimer and CT pulmonary angiography (to exclude pulmonary embolism)",
+     "Pulmonary function testing (to identify obstructive or restrictive ventilatory impairment)",
+     "BNP/NT-proBNP (to differentiate left heart failure)"
+    ],
+    "avoid": [
+     "Routine use of potent diuretics without electrolyte monitoring",
+     "Blind invasive central venous catheterization without an indication",
+     "Overreliance on digitalis glycosides as first-line treatment"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "The core is to control the underlying disease and improve hypoxia. Low-flow continuous oxygen therapy is preferred (target SpO2 88%-92%), and antibiotics are given during the acute phase to control infection. Diuretics such as furosemide 20-40 mg intravenously relieve edema; start with a low dose and monitor electrolytes. Vasodilators should be used cautiously and considered only in specific circumstances. Non-pharmacologic interventions include respiratory rehabilitation training and smoking cessation counseling. The course of treatment depends on the degree of disease stability; the acute phase is usually 1-2 weeks."
+    ],
+    "safety_warnings": [
+     "Avoid high-concentration oxygen therapy, which can worsen carbon dioxide narcosis",
+     "Use sedatives with caution to avoid suppressing the respiratory center",
+     "Strictly monitor electrolytes to prevent hypokalemia-induced arrhythmias"
+    ],
+    "personalization": [
+     "Older patients should receive reduced doses of diuretics to prevent dehydration and kidney injury",
+     "Adjust the type and dose of diuretics in patients with renal impairment",
+     "In patients with severe COPD, long-acting bronchodilators are preferred over beta-blockers"
+    ]
+   },
+   "disease": "cor pulmonale",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often complain of exertional dyspnea, fatigue, or chest tightness, and severe cases may experience syncope. On auscultation, a harsh systolic ejection murmur with a thrill may be heard at the left sternal border in the 2nd-3rd intercostal spaces. Some patients may have jugular venous distention or lower extremity edema, suggesting right heart dysfunction. Symptom severity correlates with the degree of stenosis; mild stenosis may be asymptomatic, while severe stenosis affects the ability to perform daily activities.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you easily become short of breath or feel chest tightness when walking or climbing stairs?",
+     "Have you recently had sudden dizziness or even fainting?"
+    ],
+    "followup_questions": [
+     "If your lips or nails turn bluish (cyanosis), does this worsen after crying or exercise?",
+     "Is there a family history of congenital heart disease or similar heart problems?"
+    ],
+    "stop_conditions": [
+     "Typical exertional dyspnea and a history of syncope have been clearly described, and there is a documented diagnosis of a heart murmur.",
+     "The patient's symptoms are mild and stable, with no signs of acute deterioration, and the initial assessment does not require emergency intervention.",
+     "Key history has been completed, including symptom duration, triggers, and family history, sufficient to guide further testing."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Transthoracic echocardiography",
+     "Electrocardiography (ECG)",
+     "Chest X-ray"
+    ],
+    "if_suspected": [
+     "Cardiac magnetic resonance imaging (CMR)",
+     "Cardiac catheterization and right ventricular angiography",
+     "CT angiography (CTA)"
+    ],
+    "avoid": [
+     "Full coagulation panel before routine anticoagulation (unless other indications are present)",
+     "Unnecessary invasive pulmonary function tests (unless concomitant lung disease is suspected)",
+     "Repeated noninvasive hemodynamic monitoring (if echocardiographic findings are conclusive)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For symptomatic moderate-to-severe stenosis, percutaneous balloon pulmonary valvuloplasty (PBPV) is the first choice. Valve morphology should be assessed before the procedure, and pulmonary regurgitation should be monitored after the procedure. Mild asymptomatic cases require only regular follow-up. Drug therapy is mainly used to relieve symptoms of right heart failure, such as diuretics to reduce edema, but it cannot relieve the mechanical obstruction."
+    ],
+    "safety_warnings": [
+     "Balloon dilation may cause severe pulmonary regurgitation and requires close intraprocedural monitoring.",
+     "Avoid blind balloon dilation when muscular right ventricular outflow tract hypertrophy has not been relieved.",
+     "Take care to prevent puncture-site hematoma and infection, especially in children."
+    ],
+    "personalization": [
+     "For infants and young children, the balloon diameter should be calculated precisely according to body weight to prevent over-dilation.",
+     "In adult patients with complex malformations, surgery may be required rather than intervention alone.",
+     "In pregnant women, imaging modalities should be selected cautiously, with echocardiography preferred for assessment."
+    ]
+   },
+   "disease": "pulmonary artery stenosis",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often complain of exertional dyspnea, fatigue, or chest pain, and severe cases may experience syncope. On auscultation, a harsh systolic ejection murmur may be heard at the left sternal border in the 2nd intercostal space, radiating to the neck, with a diminished or absent pulmonary component of the second heart sound. Some patients may have increased jugular venous pulsation or a right ventricular heave. Symptom severity correlates with the degree of stenosis; mild cases may be asymptomatic.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you feel obviously short of breath or chest tightness when walking quickly or climbing stairs?",
+     "Have you had sudden dizziness or even fainting?",
+     "Have you recently noticed bluish discoloration of the lips or nails (cyanosis)?"
+    ],
+    "followup_questions": [
+     "If you have lower extremity edema, please describe how long the swelling lasts and how severe it is.",
+     "If you have palpitations, are they related to changes in posture or emotional stress?",
+     "Do you have a history of congenital heart disease, or is there a similar history in your family?"
+    ],
+    "stop_conditions": [
+     "Typical exertional dyspnea, premonitory symptoms of syncope, and chest pain have been specifically asked about and documented.",
+     "Murmur characteristics and associated signs such as abnormal jugular venous pulsation have been confirmed.",
+     "Interference from other common cardiopulmonary disease complaints has been excluded, and the information is sufficient to guide initial testing."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Transthoracic echocardiography",
+     "Electrocardiography",
+     "Chest X-ray"
+    ],
+    "if_suspected": [
+     "Right heart catheterization (for precise measurement of the transvalvular pressure gradient)",
+     "Cardiac magnetic resonance imaging (to assess right ventricular function and structure)",
+     "Coronary angiography (to exclude coronary artery disease before planned intervention)"
+    ],
+    "avoid": [
+     "Invasive myocardial biopsy without indication",
+     "Routine use of anticoagulants (unless specific indications such as atrial fibrillation are present)",
+     "Unnecessary radionuclide myocardial perfusion imaging"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Asymptomatic patients with mild-to-moderate stenosis should undergo regular follow-up",
+     "For symptomatic moderate-to-severe stenosis, percutaneous balloon pulmonary valvuloplasty is the first choice. Drug therapy is mainly used to relieve symptoms of right heart failure, such as diuretics to reduce edema, but excessive diuresis should be avoided to prevent a decrease in cardiac output. For severe cases that cannot undergo surgery, surgical valve replacement may be considered."
+    ],
+    "safety_warnings": [
+     "Strong vasodilators must not be used before severe stenosis is relieved, to prevent a sudden drop in blood pressure.",
+     "Monitor electrolytes to prevent hypokalemia caused by diuretics from inducing arrhythmias.",
+     "After the intervention, be alert to worsening pulmonary regurgitation and the risk of bleeding at the puncture site."
+    ],
+    "personalization": [
+     "In pediatric patients, balloon dilation is preferred to preserve the valve's growth potential.",
+     "In older patients with multivessel coronary disease, surgical risk should be comprehensively assessed when selecting a treatment plan.",
+     "In pregnant patients, maternal and fetal safety should be weighed through multidisciplinary collaboration, and treatment may need to be deferred until after delivery."
+    ]
+   },
+   "disease": "pulmonary valve stenosis",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often complain of exertional dyspnea and fatigue, and in severe cases may have orthopnea or paroxysmal nocturnal dyspnea. On auscultation, a holosystolic blowing murmur may be heard at the apex, radiating to the axilla, with a diminished first heart sound. Some patients have a history of rheumatic fever, presenting with palpitations, hemoptysis, or recurrent respiratory infections; in advanced stages, signs of right heart failure such as jugular venous distention and lower extremity edema may be seen.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have a history of rheumatic fever or joint pain?",
+     "Have you recently felt reduced exercise tolerance or waking up short of breath at night?"
+    ],
+    "followup_questions": [
+     "If you have palpitations, are they related to changes in posture?",
+     "Have you had hemoptysis or hoarseness?"
+    ],
+    "stop_conditions": [
+     "A prior history of rheumatic fever has been clearly established, and typical murmur characteristics are evident",
+     "Symptoms and signs are highly consistent, with no manifestations of other system involvement",
+     "Key tests have been completed and other causes have been excluded"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Transthoracic echocardiography (TTE)",
+     "Electrocardiography (ECG)",
+     "Chest X-ray"
+    ],
+    "if_suspected": [
+     "Transesophageal echocardiography (TEE)",
+     "Cardiac magnetic resonance imaging (CMR)",
+     "Coronary angiography"
+    ],
+    "avoid": [
+     "Routine invasive cardiac catheterization (unless intervention is planned)",
+     "Radionuclide myocardial perfusion imaging without indication",
+     "Unnecessary whole-body angiography"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Mild asymptomatic cases should undergo regular follow-up. For moderate-to-severe or symptomatic cases, diuretics (e.g., furosemide 20-40 mg/d) are preferred to reduce volume load, combined with ACEI/ARB to improve hemodynamics. Acute exacerbations or atrial fibrillation require heart rate control (beta-blockers or digoxin). For end-stage disease or cases refractory to medication, surgical valve repair or replacement may be considered. Nonpharmacologic interventions include sodium restriction and moderate exercise rehabilitation."
+    ],
+    "safety_warnings": [
+     "Avoid drugs that increase cardiac preload",
+     "Anticoagulation therapy requires INR monitoring to prevent bleeding",
+     "Be alert to electrolyte disturbances and hypotension caused by diuretics"
+    ],
+    "personalization": [
+     "Use ACEI/ARB with caution during pregnancy; switch to labetalol or methyldopa",
+     "For older patients, start at half the dose and titrate slowly",
+     "For patients with renal insufficiency, adjust the type and dose of diuretics"
+    ]
+   },
+   "disease": "rheumatic mitral regurgitation",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often complain of exertional dyspnea, palpitations, and fatigue, and some have hemoptysis or paroxysmal nocturnal dyspnea. Signs may include mitral facies (malar flush), a diastolic rumbling murmur with a thrill at the apex, or a systolic ejection murmur in aortic regurgitation. In advanced stages, manifestations of right heart failure such as lower extremity edema and abdominal distension may occur, and atrial fibrillation is common, which may cause sudden syncope or thromboembolic symptoms.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have a history of recurrent sore throat, fever, or joint swelling and pain?",
+     "Have you recently felt short of breath with slight activity or woken up short of breath at night?",
+     "Have you had palpitations, dizziness, or sudden numbness or weakness in a limb?"
+    ],
+    "followup_questions": [
+     "If you have palpitations, do you feel that your heartbeat is irregular (suggesting atrial fibrillation)?",
+     "If you have edema, does it start at the ankles and gradually spread upward?",
+     "Have you recently had unexplained fever or skin bruising (suggesting infective endocarditis)?"
+    ],
+    "stop_conditions": [
+     "A prior history of rheumatic fever has been clearly established, and typical valve murmurs are present on cardiac auscultation",
+     "Echocardiography has confirmed that the degree of valve disease is consistent with the symptoms",
+     "Other common cardiopulmonary diseases such as coronary artery disease or hypertensive heart disease have been excluded"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Transthoracic echocardiography (TTE)",
+     "Electrocardiography (ECG)",
+     "Chest X-ray"
+    ],
+    "if_suspected": [
+     "Transesophageal echocardiography (TEE)",
+     "24-hour ambulatory electrocardiography (Holter)",
+     "Antistreptolysin O (ASO) and erythrocyte sedimentation rate (ESR) testing"
+    ],
+    "avoid": [
+     "Coronary angiography (unless coronary artery disease is highly suspected)",
+     "Cardiac magnetic resonance imaging (not first-line for noncomplex cases)",
+     "Invasive hemodynamic monitoring (not required in routine outpatient care)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes prevention of rheumatic recurrence (intramuscular benzathine penicillin every 3-4 weeks, maintained long term) and symptomatic treatment. In patients with heart failure, diuretics (e.g., furosemide) are used to reduce volume load, and ACEI/ARB improve remodeling",
+     "Patients with atrial fibrillation require anticoagulation (warfarin or novel oral anticoagulants) and ventricular rate control. For severe valve stenosis or regurgitation, the timing of surgery should be assessed, and valve repair or replacement should be performed. At the same time, restrict sodium intake and avoid strenuous exercise."
+    ],
+    "safety_warnings": [
+     "Warfarin use requires strict INR monitoring to prevent bleeding or thrombosis",
+     "Long-term diuretic use requires vigilance for hypokalemia and electrolyte disturbances",
+     "Antibiotic prophylaxis is contraindicated in patients allergic to penicillin; macrolides should be used instead"
+    ],
+    "personalization": [
+     "ACEI/ARB drugs should be used with caution in pregnant women; labetalol or hydralazine may be selected",
+     "For older patients, start with a small dose and titrate slowly to prevent orthostatic hypotension",
+     "For patients with renal insufficiency, adjust the doses of diuretics and anticoagulants"
+    ]
+   },
+   "disease": "rheumatic heart disease",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often present with fever, fatigue, palpitations, and chest pain, with marked exertional dyspnea. On examination, tachycardia (disproportionate to the elevated body temperature), cardiac enlargement, muffled heart sounds, or a gallop rhythm may be seen; some patients may have mitral or aortic valve murmurs. It is more common in children and often follows a recent streptococcal infection such as pharyngitis or scarlet fever.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had an infection such as a sore throat, fever, or skin erythema?",
+     "Do you feel palpitations, chest tightness, or shortness of breath after activity?",
+     "Have you had similar episodes or a history of rheumatic fever?"
+    ],
+    "followup_questions": [
+     "If you have palpitations, are they accompanied by precordial pain or syncope?",
+     "If you have joint pain, which joints are affected, and is it migratory?",
+     "Do your symptoms worsen at night or make it difficult to lie flat?"
+    ],
+    "stop_conditions": [
+     "Evidence of recent streptococcal infection has been established and typical cardiac signs are present",
+     "The patient's reported symptoms are highly consistent with the signs and there is no involvement of other systems",
+     "Initial vital sign assessment has been completed and acute coronary syndrome has been excluded"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum antistreptolysin O (ASO) measurement",
+     "Electrocardiography (to screen for conduction block and ST-T changes)",
+     "Echocardiography (to assess cardiac size and valve function)"
+    ],
+    "if_suspected": [
+     "C-reactive protein (CRP) and erythrocyte sedimentation rate (ESR) testing",
+     "Myocardial enzyme panel (CK-MB, troponin)",
+     "24-hour Holter monitoring"
+    ],
+    "avoid": [
+     "Routine coronary angiography (unless coronary artery disease is highly suspected)",
+     "Invasive endomyocardial biopsy (not first-line for non-difficult cases)",
+     "Unnecessary unenhanced chest CT"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Bed rest until symptoms resolve and biochemical markers normalize. Aspirin is first-line for anti-inflammatory therapy at 30–50 mg/(kg·d) orally in divided doses for 2–4 weeks",
+     "For severe cases or heart failure, add glucocorticoids (prednisone 1–2 mg/kg/day) and taper gradually. When heart failure is present, give diuretics and inotropic agents. At the same time, use penicillin to eradicate streptococcal infection and prevent recurrence."
+    ],
+    "safety_warnings": [
+     "Long-term corticosteroid use requires monitoring of blood glucose, blood pressure, and osteoporosis risk",
+     "Aspirin may cause gastrointestinal bleeding and should be taken after meals",
+     "Beware of arrhythmias induced by drugs such as quinidine; avoid coadministration"
+    ],
+    "personalization": [
+     "Pediatric patients require precise drug dose calculation based on body weight",
+     "Use nonsteroidal anti-inflammatory drugs with caution in pregnant women; prefer acetaminophen or adjust the corticosteroid regimen",
+     "Adjust diuretic and antibiotic doses in patients with renal impairment"
+    ]
+   },
+   "disease": "rheumatic myocarditis",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often complain of palpitations, chest tightness, or dizziness; some may experience transient visual obscuration or even syncope. Auscultation may reveal an irregular rhythm, manifesting as a sensation of a 'skipped beat' or a pulse deficit. Symptoms often worsen at night or when vagal tone is increased and may improve with activity (Mobitz type I) or persist (Mobitz type II). If fatigue and dyspnea are present, they suggest decreased cardiac output.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had sudden palpitations, visual blackouts, or fainting?",
+     "Is this discomfort more obvious at rest or after exercise?"
+    ],
+    "followup_questions": [
+     "If you have chest pain or difficulty breathing, please describe the exact location and duration.",
+     "Have you recently taken beta-blockers, digoxin, or calcium channel blockers?"
+    ],
+    "stop_conditions": [
+     "The frequency, triggers, and associated symptoms of episodes have been clarified, and there are no signs of acute hemodynamic instability.",
+     "The patient has provided a complete medication history and history of prior heart disease.",
+     "The ECG has documented a typical abnormal relationship between P waves and QRS complexes."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "12-lead electrocardiogram",
+     "Holter monitoring",
+     "Echocardiography"
+    ],
+    "if_suspected": [
+     "Electrolyte testing (potassium, magnesium, calcium)",
+     "Myocardial enzyme panel and troponin",
+     "Coronary CTA or angiography"
+    ],
+    "avoid": [
+     "Routine chest radiography (unless pulmonary complications are suspected)",
+     "Invasive electrophysiologic study (during initial screening of noncomplex cases)",
+     "Unnecessary anticoagulation assessment (when there is no evidence of atrial fibrillation)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Mobitz type I usually requires no specific treatment; remove triggers and observe closely",
+     "Mobitz type II or wide-QRS-complex cases require emergency management. Atropine 0.5–1 mg IV push is first-line to increase the heart rate; if ineffective, use temporary pacing. Long-term treatment is mainly permanent pacemaker implantation (class II indication); avoid drugs that suppress atrioventricular conduction. Nonpharmacologic interventions include blood pressure control, correction of electrolyte disturbances, and discontinuation of related drugs."
+    ],
+    "safety_warnings": [
+     "Beta-blockers, nondihydropyridine calcium antagonists, digoxin, and other drugs that slow conduction are contraindicated.",
+     "Atropine is contraindicated in patients with glaucoma, prostatic enlargement, and severe tachycardia.",
+     "During temporary pacing, closely monitor for lead displacement and infection risk."
+    ],
+    "personalization": [
+     "For older patients, prefer transvenous pacemakers to reduce surgical trauma.",
+     "For young patients with idiopathic disease, radiofrequency ablation may be considered as an adjunctive assessment.",
+     "For patients with heart failure, simultaneously optimize the heart failure medication regimen."
+    ]
+   },
+   "disease": "Second-degree atrioventricular block",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often complain of unexplained recurrent dizziness, visual blackouts, or syncope, especially worsening after postural changes or exercise. Some patients present with palpitations and fatigue, or symptoms of cerebral hypoperfusion related to bradycardia (such as memory decline and poor concentration). A typical feature is paroxysmal episodes that often alternate with tachyarrhythmias (such as atrial fibrillation), causing the heart rate to fluctuate between fast and slow.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had sudden visual blackouts, unsteadiness while standing, or even fainting?",
+     "Do you feel palpitations with a very fast heartbeat, followed by a very slow heartbeat or a pause?",
+     "Under what circumstances do these symptoms usually occur (e.g., exercise, rest, or at night)?"
+    ],
+    "followup_questions": [
+     "When syncope occurs, is there loss of consciousness, and how long does it last?",
+     "Have you recently taken medications that slow the heart rate (such as beta-blockers or digoxin)?",
+     "Do you have a history of hypothyroidism or cardiac surgery?"
+    ],
+    "stop_conditions": [
+     "Typical syncope/blackout episodes and their relationship to heart rate changes have been clearly described.",
+     "It has been confirmed that there are no contraindications requiring emergency management, such as acute myocardial infarction or unstable angina.",
+     "Previous ECG or Holter recordings have been obtained to assess the underlying rhythm."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "12-lead resting electrocardiogram",
+     "24-hour or longer Holter monitoring",
+     "Atropine test or isoproterenol stress test"
+    ],
+    "if_suspected": [
+     "Transesophageal pacing study (to assess sinus node recovery time)",
+     "Cardiac ultrasound (to exclude structural heart disease)",
+     "Thyroid function tests (to exclude bradycardia caused by hypothyroidism)"
+    ],
+    "avoid": [
+     "Routine coronary angiography (unless there is evidence of coronary artery disease)",
+     "Invasive electrophysiologic study as the first-line screening method",
+     "Blind use of anticoagulants without evidence of atrial fibrillation"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Asymptomatic patients: regular follow-up",
+     "For symptomatic patients, permanent pacemaker implantation is first-line. For those with coexisting tachyarrhythmias, a pacemaker can be implanted first, followed by antiarrhythmic drug therapy. Nonpharmacologic interventions include discontinuation of drugs that slow the heart rate. Generally, do not rely solely on drugs to increase heart rate, because efficacy is limited and side effects are significant."
+    ],
+    "safety_warnings": [
+     "Avoid using beta-blockers, calcium channel blockers, or nondihydropyridine antiarrhythmic drugs alone, as they may worsen bradycardia.",
+     "After pacemaker implantation, monitor for pocket infection and lead dislodgement.",
+     "If atrial fibrillation is present, assess bleeding risk before deciding on anticoagulation; do not neglect stroke prevention because of bradycardia."
+    ],
+    "personalization": [
+     "For older patients, consider the choice of pacemaker type (e.g., dual-chamber pacing is superior to single-chamber pacing) and pay attention to effects on cognitive function.",
+     "For young patients with congenital or idiopathic disease, minimally invasive surgery or specific genetic testing guidance may be considered.",
+     "Adjust anticoagulant doses in patients with renal impairment to avoid bleeding complications."
+    ]
+   },
+   "disease": "Sick sinus syndrome",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often have palpitations with sudden onset and termination, perceiving a very fast and regular heartbeat, usually at 150–250 beats/min. It may be accompanied by chest tightness, shortness of breath, dizziness, or visual blackouts; some patients have increased jugular venous pulsation (cannon waves). Symptoms may last from seconds to hours. During episodes, the ECG shows a narrow-QRS-complex tachycardia, with abnormal P waves or P waves buried in the QRS complex.",
+   "interview_guide": {
+    "first_questions": [
+     "Did the palpitations start suddenly or gradually worsen? How long did they last?",
+     "During episodes, do you have chest pain, difficulty breathing, or a feeling of fainting?",
+     "Have you had similar episodes before or been diagnosed with an arrhythmia?"
+    ],
+    "followup_questions": [
+     "Have you tried the Valsalva maneuver (such as taking a deep breath, holding it, and bearing down) to terminate the episode?",
+     "Have you recently had triggers such as coffee, strong tea, alcohol, or cold medicines?",
+     "About what was your heart rate during episodes? Did the heartbeat feel perfectly regular?"
+    ],
+    "stop_conditions": [
+     "A regular, rapid palpitation with sudden onset and termination has been clearly described, and there are no signs of hemodynamic instability.",
+     "The patient has provided prior ECG diagnostic records or Holter results supporting the diagnosis.",
+     "Critical conditions such as acute coronary syndrome and severe electrolyte disturbances have been excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "12-lead electrocardiogram (during episode)",
+     "Serum electrolytes (potassium, magnesium)",
+     "Thyroid function tests"
+    ],
+    "if_suspected": [
+     "Echocardiography (to assess cardiac structure and function)",
+     "Exercise stress test (to induce or differentiate)",
+     "Transesophageal pacing or electrophysiologic study (to localize the reentrant pathway)"
+    ],
+    "avoid": [
+     "Routine use of adenosine before establishing IV access and preparing for defibrillation",
+     "Blind use of verapamil or digoxin in patients with known Wolff-Parkinson-White syndrome and atrial fibrillation",
+     "Coronary angiography without indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For hemodynamically stable patients, vagal stimulation (such as the Valsalva maneuver) is first-line. If ineffective, give adenosine 6 mg rapid IV push as the first dose; if ineffective, repeat 12 mg after 1–2 minutes. If maintenance therapy is needed, beta-blockers (e.g., metoprolol 25–50 mg twice daily) or nondihydropyridine calcium channel blockers (e.g., verapamil 5 mg slow IV push) may be used. Radiofrequency ablation is recommended for long-term cure.",
+     ""
+    ],
+    "safety_warnings": [
+     "After adenosine injection, transient dyspnea, facial flushing, or transient atrioventricular block may occur; emergency equipment should be ready.",
+     "In Wolff-Parkinson-White syndrome with atrial fibrillation, digitalis and nondihydropyridine calcium antagonists are contraindicated to prevent acceleration of accessory pathway conduction and ventricular fibrillation.",
+     "Use beta-blockers with caution in patients with hypotension or asthma."
+    ],
+    "personalization": [
+     "For pregnant patients, vagal stimulation is first-line; drug selection should balance fetal safety and avoid teratogenic risk.",
+     "For older patients or those with cardiac dysfunction, use calcium channel blockers with caution and prefer low-dose beta-blockers.",
+     "For pediatric patients, accurately calculate adenosine and antiarrhythmic drug doses based on body weight."
+    ]
+   },
+   "disease": "Supraventricular tachycardia",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often report sudden-onset or persistent palpitations, sensing forceful, rapid, or irregular heartbeats, possibly with chest tightness, shortness of breath, dizziness, or even syncope. Some patients describe it as 'the heart is jumping out' or a 'skipped beat' sensation. Symptoms may worsen at rest or with activity; if caused by structural heart disease, they may be accompanied by chest pain or dyspnea. It is necessary to distinguish paroxysmal from persistent episodes.",
+   "interview_guide": {
+    "first_questions": [
+     "Did the palpitations start suddenly or gradually? How long does each episode last?",
+     "During episodes, do you have chest pain, transient visual loss, syncope, or difficulty breathing?",
+     "Have you recently had triggers such as coffee, alcohol, or emotional excitement?"
+    ],
+    "followup_questions": [
+     "Do you have a history of hypertension, coronary heart disease, or thyroid disease?",
+     "What was your approximate heart rate during episodes? Have you had an ECG to confirm the type?",
+     "What medications are you currently taking (such as bronchodilators or antidepressants)?"
+    ],
+    "stop_conditions": [
+     "Episode characteristics, duration, and associated symptoms have been clarified",
+     "Past medical history, medication history, and family history have been obtained",
+     "The patient's vital signs are stable and there are no emergency danger signs"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "12-lead ECG (best obtained during an episode)",
+     "Ambulatory ECG (Holter monitoring)",
+     "Echocardiography"
+    ],
+    "if_suspected": [
+     "Thyroid function tests",
+     "Electrolyte panel (potassium, magnesium, calcium)",
+     "Cardiac enzymes and BNP"
+    ],
+    "avoid": [
+     "Routine chest X-ray (unless pulmonary disease is suspected)",
+     "Invasive electrophysiology study (not required at initial evaluation)",
+     "Coronary CTA (not first-line when there is no evidence of ischemia)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For the acute phase, vagal maneuvers (such as the Valsalva maneuver) are first-line; if ineffective, intravenous bolus adenosine or a beta-blocker (such as metoprolol) may be given. For the chronic phase, choose an oral beta-blocker or a non-dihydropyridine calcium channel blocker to control heart rate according to the type.",
+     "For atrial fibrillation, assess the CHA2DS2-VASc score to determine whether anticoagulation is needed. Combine with lifestyle interventions and avoid caffeine and excessive fatigue."
+    ],
+    "safety_warnings": [
+     "Adenosine and beta-blockers are contraindicated in patients with hypotension or cardiogenic shock",
+     "Concomitant use with digoxin requires vigilance for severe conduction block",
+     "Long-term amiodarone use requires monitoring for thyroid function and pulmonary toxicity"
+    ],
+    "personalization": [
+     "In older adults, prefer drugs with minimal hemodynamic effects",
+     "During pregnancy, physical measures are preferred; propranolol should be used cautiously if necessary",
+     "Avoid verapamil in patients with heart failure; beta-blockers are preferred"
+    ]
+   },
+   "disease": "Tachycardia",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often present with cyanosis since childhood, worsening especially after crying, feeding, or activity. Typical signs include a harsh systolic ejection murmur audible at the left sternal border between the 2nd and 4th intercostal spaces; some children exhibit squatting to relieve hypoxic spells. Severe cases may have clubbing of the fingers (and toes) or syncope, and growth retardation is also a common feature.",
+   "interview_guide": {
+    "first_questions": [
+     "Since birth, have you noticed bluish discoloration of the child's lips or nails?",
+     "Does the child have difficulty breathing or sudden fainting during activity or crying?",
+     "Does the child like to squat to rest?"
+    ],
+    "followup_questions": [
+     "If syncope occurs, how frequent are the episodes and how long do they last?",
+     "Has the child previously had an echocardiogram or surgery?",
+     "Is there a family history of congenital heart disease?"
+    ],
+    "stop_conditions": [
+     "The degree of cyanosis, squatting behavior, and murmur characteristics have been clarified",
+     "It is confirmed that there are no acute hypoxic spells and vital signs are stable",
+     "Key history such as prior surgery or family history has been obtained"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Transthoracic echocardiography",
+     "ECG",
+     "Chest X-ray"
+    ],
+    "if_suspected": [
+     "Cardiac magnetic resonance imaging",
+     "Cardiac catheterization",
+     "Oxygen saturation monitoring"
+    ],
+    "avoid": [
+     "Routine exercise stress testing (may induce hypoxia)",
+     "Unnecessary full coagulation screening before anticoagulation",
+     "Invasive pulmonary angiography in non-emergency settings"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Surgical corrective repair is first-line and is usually performed in infancy. Before surgery, hypoxic spells should be prevented; beta-blockers (such as propranolol) may be used to reduce right ventricular outflow tract spasm. Non-pharmacologic interventions include avoiding dehydration, keeping warm, and soothing the child to reduce oxygen consumption. Long-term follow-up after surgery is needed to assess residual shunts and valve function."
+    ],
+    "safety_warnings": [
+     "Vasodilators are contraindicated to avoid worsening hypotension and hypoxia",
+     "Note that propranolol may cause hypoglycemia and bronchospasm",
+     "Watch for postoperative arrhythmias and bleeding risk"
+    ],
+    "personalization": [
+     "Neonates or low-birth-weight infants may require staged surgery or palliative treatment",
+     "Patients with complex concomitant anomalies require individualized surgical planning",
+     "In adult patients, the irreversibility of pulmonary hypertension should be assessed before deciding on surgical timing"
+    ]
+   },
+   "disease": "Tetralogy of Fallot",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often present with lower extremity edema, abdominal distension, and fatigue; in severe cases, jugular venous distension, hepatomegaly, and ascites may occur. Exertional dyspnea or palpitations are prominent, and some patients have signs of right heart failure such as hepatic tenderness and abdominal distension. Symptoms are often related to positional changes and worsen when lying flat.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have swelling in your lower limbs or a feeling of abdominal fullness?",
+     "Have you recently felt short of breath or easily fatigued?"
+    ],
+    "followup_questions": [
+     "Do these symptoms worsen at night or affect your sleep?",
+     "Do you have a history of cardiac surgery or rheumatic fever?"
+    ],
+    "stop_conditions": [
+     "The patient has clearly described typical symptoms of right heart failure and there are no clues to other systemic diseases.",
+     "The patient can provide a complete cardiac history and relevant test results.",
+     "The symptoms are consistent with the previous diagnosis and no further differential diagnosis is needed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Echocardiography (to assess the degree of regurgitation and right heart function)",
+     "ECG (to detect arrhythmias and increased right heart load)",
+     "Chest X-ray (to observe cardiac silhouette and pulmonary vasculature)"
+    ],
+    "if_suspected": [
+     "Cardiac magnetic resonance imaging (to precisely assess right ventricular structure and function)",
+     "Right heart catheterization (to measure pulmonary artery pressure and hemodynamics)",
+     "BNP/NT-proBNP testing (to assess the severity of heart failure)"
+    ],
+    "avoid": [
+     "Routine CT coronary angiography (unless concomitant coronary heart disease is suspected)",
+     "Unnecessary invasive procedures (such as endomyocardial biopsy without an indication)",
+     "Repetitive low-value tests (such as frequent repeat echocardiography without new symptoms)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is mainly diuretics, such as furosemide 20–40 mg once daily, to reduce fluid retention",
+     "If right heart failure is present, spironolactone 25–50 mg once daily may be added. For severe cases, surgical repair or tricuspid valve replacement should be considered. Non-pharmacologic interventions include sodium restriction, fluid control, and moderate activity."
+    ],
+    "safety_warnings": [
+     "Avoid excessive diuresis, which can lead to hypotension or worsening renal function.",
+     "Note that spironolactone may cause hyperkalemia; electrolytes should be monitored regularly.",
+     "Watch for bleeding risk when anticoagulants are used with warfarin."
+    ],
+    "personalization": [
+     "In older patients, adjust the diuretic dose to prevent dehydration.",
+     "Use ACE inhibitors cautiously in patients with renal insufficiency and closely monitor creatinine levels.",
+     "Pregnant women should avoid ACE inhibitors/ARBs and use safe alternatives."
+    ]
+   },
+   "disease": "Tricuspid regurgitation",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often present with symptoms of right heart failure, such as lower extremity edema, abdominal distension, decreased appetite, and fatigue. Typical signs include jugular venous distension, hepatomegaly with tenderness, and ascites. Some patients may have palpitations or syncope, especially worsening after activity. Auscultation may reveal a diastolic murmur at the left sternal border in the 4th to 5th intercostal spaces, which increases with inspiration.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have symptoms of lower limb edema or abdominal distension?",
+     "Have you recently felt marked fatigue or difficulty breathing?"
+    ],
+    "followup_questions": [
+     "If edema is present, is it accompanied by decreased urine output?",
+     "Have you had episodes of syncope or palpitations?"
+    ],
+    "stop_conditions": [
+     "The patient has clearly described typical symptoms of right heart failure and there are no other systemic abnormalities.",
+     "The history already includes key signs (such as jugular venous distension and hepatomegaly).",
+     "The patient's complaints are consistent with the previous diagnosis and no further questioning is needed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Echocardiography (to assess valve morphology and hemodynamics)",
+     "ECG (to detect atrial enlargement and arrhythmias)",
+     "Chest X-ray (to observe the cardiac silhouette and pulmonary vasculature)"
+    ],
+    "if_suspected": [
+     "Cardiac magnetic resonance imaging (MRI, for anatomic assessment in complex cases)",
+     "Right heart catheterization (to precisely measure pressure gradients)"
+    ],
+    "avoid": [
+     "Routine use of anticoagulants (unless atrial fibrillation is present)",
+     "Overreliance on invasive tests as the first choice"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is mainly diuretics to reduce right heart load; furosemide 20–40 mg/day orally is commonly used. For severe cases, percutaneous balloon dilation or surgical valve replacement may be considered. Non-pharmacologic interventions include sodium restriction and avoiding strenuous exercise."
+    ],
+    "safety_warnings": [
+     "Avoid excessive diuresis, which can cause hypotension or renal impairment.",
+     "Monitor for electrolyte disturbances, especially hypokalemia.",
+     "If atrial fibrillation is present, weigh the bleeding risk of anticoagulation."
+    ],
+    "personalization": [
+     "In older patients, adjust diuretic doses to prevent dehydration.",
+     "Use certain drugs cautiously in pregnant women and prioritize regimens that are safe for the fetus.",
+     "In patients with renal insufficiency, diuretic doses should be adjusted individually."
+    ]
+   },
+   "disease": "Tricuspid stenosis",
+   "department": "Cardiology"
+  },
+  {
+   "presentation": "Patients often present with exertional dyspnea and easy fatigue; in infants, feeding difficulties, excessive sweating, and growth retardation may be seen. The typical sign is a harsh holosystolic murmur audible at the 3rd-4th intercostal space along the left sternal border, accompanied by a thrill. Those with large defects may develop recurrent respiratory tract infections or symptoms of heart failure, such as tachypnea and pallor.",
+   "interview_guide": {
+    "first_questions": [
+     "Does your child tire easily or sweat a lot during feeding, or gain weight slowly?",
+     "How is their exercise tolerance day to day — do they become short of breath easily or have repeated colds?"
+    ],
+    "followup_questions": [
+     "If a cardiac murmur is heard, ask further: when did the murmur appear, and does it worsen with crying?",
+     "If edema or dyspnea is present, ask further: can they lie flat at night, and is there any swelling in the legs?"
+    ],
+    "stop_conditions": [
+     "The chief complaint symptoms have been clarified and the murmur characteristics and associated symptoms have been clearly described.",
+     "Previous echocardiographic findings and medication history have been obtained.",
+     "The patient shows no signs of acute heart failure and vital signs are stable."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Echocardiography (to confirm the diagnosis and assess defect size and shunt direction)",
+     "Electrocardiography (to assess ventricular hypertrophy and arrhythmias)",
+     "Chest X-ray (to assess pulmonary blood flow and cardiac silhouette)"
+    ],
+    "if_suspected": [
+     "Right heart catheterization (to assess the severity of pulmonary hypertension)",
+     "Coronary CTA (to rule out concomitant coronary anomalies)",
+     "24-hour Holter monitoring (to detect paroxysmal arrhythmias)"
+    ],
+    "avoid": [
+     "Routine cardiac enzyme panel (not necessary in the absence of evidence of myocardial injury)",
+     "Invasive angiography (unless planned before interventional treatment)",
+     "MRI (avoid over-testing when echocardiography has already established the diagnosis)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Small defects usually close spontaneously; regular follow-up is sufficient.",
+     "In moderate-to-large defects with heart failure, diuretics (e.g., furosemide) are first-line to reduce volume load, combined with ACE inhibitors to improve hemodynamics. If a significant left-to-right shunt is present causing increased pulmonary blood flow, elective percutaneous transcatheter closure or surgical repair is recommended; anticoagulation and infective endocarditis prophylaxis are required postoperatively."
+    ],
+    "safety_warnings": [
+     "Monitor electrolytes closely during diuretic use to prevent hypokalemia.",
+     "ACE inhibitors are contraindicated in patients with bilateral renal artery stenosis; be alert to the risk of hyperkalemia.",
+     "After the intervention, watch for hemolysis and valve injury, and maintain strict aseptic technique to prevent infection."
+    ],
+    "personalization": [
+     "In infants and young children, minimally invasive transcatheter therapy is preferred to reduce trauma, but weight limitations must be assessed.",
+     "In patients with pulmonary hypertension, pulmonary vascular resistance must be assessed first; surgery should not be undertaken blindly.",
+     "In elderly patients, drug doses should be adjusted based on a comprehensive assessment of renal function and coagulation status."
+    ]
+   },
+   "disease": "Ventricular septal defect (VSD)",
+   "department": "Cardiology"
+  }
+ ]
+}

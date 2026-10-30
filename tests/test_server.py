@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Web 服务：/health 比赛入口 / 登录会话 / 首页可达 / /test 单病例入口。"""
+"""Web server: /health entry / sign-in session / index page / /test single-case entry."""
 import http.cookiejar
 import json
 import threading
@@ -34,7 +34,7 @@ def test_login_and_session(server):
     try:
         opener.open(urllib.request.Request(server + '/login', data=bad,
                                            headers={'Content-Type': 'application/json'}))
-        assert False, '错误密码不应登录成功'
+        assert False, 'a wrong password must not sign in'
     except urllib.error.HTTPError as e:
         assert e.code == 401
     good = json.dumps({'username': 'demo', 'password': 'yixiao2026'}).encode()
@@ -50,14 +50,14 @@ def test_login_and_session(server):
 def test_index_page_served(server):
     with urllib.request.urlopen(server + '/') as r:
         body = r.read().decode('utf-8')
-    assert '多智能体临床决策平台' in body
+    assert 'One complaint in.' in body
 
 
 def test_test_entry_sync_run(server, monkeypatch):
-    monkeypatch.setenv('HOSPITAL_FAKE_LLM', '1')   # 测试环境：不真实调用大模型
-    body = json.dumps({'chief_complaint': '胸口疼并伴有呼吸困难，持续半小时', 'age': 56,
-                       'sex': '男', 'duration': '半小时', 'symptoms': ['胸痛', '呼吸困难'],
-                       'past_history': '高血压'}, ensure_ascii=False).encode('utf-8')
+    monkeypatch.setenv('HOSPITAL_FAKE_LLM', '1')   # test environment: never call a real model
+    body = json.dumps({'chief_complaint': 'Chest pain with shortness of breath for 30 minutes', 'age': 56,
+                       'sex': 'Male', 'duration': '30 minutes', 'symptoms': ['chest pain', 'shortness of breath'],
+                       'past_history': 'hypertension'}, ensure_ascii=False).encode('utf-8')
     req = urllib.request.Request(server + '/test', data=body,
                                  headers={'Content-Type': 'application/json'})
     with urllib.request.urlopen(req, timeout=90) as r:

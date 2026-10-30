@@ -1,0 +1,1927 @@
+{
+ "department": "Otolaryngology (ENT)",
+ "skills": [
+  {
+   "presentation": "Before onset, there is often a history of a cold, with nasal congestion and copious purulent or mucopurulent nasal discharge (cannot be cleared by blowing, yellow-green), hyposmia or anosmia, and facial fullness, pain, or tenderness over the cheeks or frontal region (often with a temporal pattern: e.g., frontal sinusitis pain is worse in the morning and milder in the afternoon, whereas maxillary sinusitis is milder in the morning and worse in the afternoon), accompanied by low-grade systemic fever, headache, and malaise.",
+   "interview_guide": {
+    "first_questions": [
+     "How many days have you had nasal congestion and yellow purulent nasal discharge? Is the discharge particularly thick and yellow-green?",
+     "Do you have obvious fullness, aching, or tenderness over the forehead, above the eyebrows, or on both sides of the cheeks?",
+     "In the 1-2 weeks before these symptoms appeared, did you have a history of a cold, fever, or exposure to cold?"
+    ],
+    "followup_questions": [
+     "Is the headache patterned? For example, is it markedly worse on waking in the morning and gradually lessens in the afternoon, or is it more painful in the afternoon?",
+     "Has your sense of smell clearly worsened, or are you unable to smell odors at all?",
+     "Do you have redness or swelling around the eyes, blurred vision, or double vision? (Be alert for orbital complications)"
+    ],
+    "stop_conditions": [
+     "Purulent discharge, nasal congestion, and characteristic localized headache patterns over the facial sinus regions have been clearly established",
+     "Severe orbital and intracranial suppurative infectious complications have been ruled out",
+     "History of allergic rhinitis and prior antibiotic use has been clearly obtained"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Anterior rhinoscopy or nasal endoscopy (to observe congestion and swelling of the mucosa in the middle meatus or olfactory cleft and drainage of mucopurulent secretions)",
+     "Noncontrast sinus CT (coronal thin-slice bone window, clearly showing sinus mucosal thickening, air-fluid levels, and ostiomeatal complex [OMC] obstruction—the gold standard for diagnosis)"
+    ],
+    "if_suspected": [
+     "Bacterial culture and antimicrobial susceptibility testing of nasal secretions (for refractory or severe infection)",
+     "Allergen screening (if concomitant allergic rhinitis is suspected)"
+    ],
+    "avoid": [
+     "Blindly performing contrast-enhanced MRI during the acute phase without indications of orbital involvement",
+     "Prescribing high-dose systemic intravenous antifungal drugs without indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Anti-infective therapy (first-line oral amoxicillin-clavulanate or a second-generation cephalosporin such as cefuroxime axetil, for 7-14 days)",
+     "Intranasal corticosteroid sprays (mometasone furoate nasal spray, budesonide nasal spray to reduce ostial mucosal edema and promote drainage)",
+     "Nasal saline irrigation (daily irrigation with hypertonic or normal saline)",
+     "Oral mucolytics (eucalyptol, limonene, and pinene enteric soft capsules / erdosteine)",
+     "Decongestants (oxymetazoline hydrochloride spray, short-term use <=7 days)."
+    ],
+    "safety_warnings": [
+     "Topical vasoconstrictive decongestants (such as oxymetazoline) must absolutely not be used continuously for more than 7 days, to strictly prevent drug-induced rhinitis (rebound severe nasal congestion that is difficult to treat)",
+     "If high fever, severe headache, proptosis, restricted eye movement, or decreased vision occurs, urgently evaluate for orbital subperiosteal abscess and intracranial cavernous sinus thrombophlebitis",
+     "A detailed allergy history must be obtained before using penicillin/cephalosporin antibiotics"
+    ],
+    "personalization": [
+     "Patients with severe penicillin and cephalosporin allergy: choose macrolides (azithromycin/clarithromycin) or respiratory fluoroquinolones (moxifloxacin)",
+     "Patients with obvious concomitant allergic rhinitis: add oral second-generation antihistamines (loratadine/cetirizine)",
+     "Patients with chronic sinusitis with polyps after failed standard medical therapy: elective endoscopic sinus surgery (FESS)"
+    ]
+   },
+   "disease": "Acute sinusitis",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Sudden, unexplained sensorineural hearing loss occurring within 72 hours, with hearing loss >=20dBHL at at least two adjacent frequencies; it often presents as sudden unilateral hearing loss, aural fullness, and a sensation of ear blockage, frequently accompanied by high-pitched continuous tinnitus (machine roar or cicada-like sound), vertigo, nausea, vomiting, and unsteady gait.",
+   "interview_guide": {
+    "first_questions": [
+     "Did your hearing loss occur suddenly within one or two days, or even within a few hours? Which ear is affected?",
+     "Do you hear tinnitus in the ear like cicada chirping or a whistle? Do you feel fullness or blockage in the ear, as if water has entered?",
+     "Is it accompanied by spinning dizziness (vertigo) or nausea and vomiting?"
+    ],
+    "followup_questions": [
+     "Before onset, did you have severe sleep deprivation, intense psychological stress, fatigue, or severe emotional excitement?",
+     "Have you previously had ear discharge of pus or fluid, or a history of otitis media?",
+     "Do you have numbness or weakness in the hands or feet, slurred speech, or facial numbness? (Stroke and acoustic neuroma must be firmly ruled out)"
+    ],
+    "stop_conditions": [
+     "Sudden unilateral sensorineural hearing loss within 72 hours and the features of tinnitus and aural fullness have been confirmed",
+     "The interval from onset to presentation (golden treatment window) and whether there is accompanying vertigo as a poor-prognosis indicator have been clarified",
+     "Cerebellar or brainstem stroke, acoustic neuroma, and other central or space-occupying lesions have been ruled out"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Pure-tone audiometry (PTA) (to clarify the type and severity subtype of hearing loss: low-frequency descending type, high-frequency descending type, flat type, and total deafness type—the core diagnostic gold standard)",
+     "Tympanometry (type A tympanogram, to rule out conductive hearing loss due to secretory otitis media)",
+     "Otoscopy (to rule out external auditory canal cerumen impaction and tympanic membrane lesions)"
+    ],
+    "if_suspected": [
+     "Contrast-enhanced MRI of the internal auditory canal and brain (to rule out internal auditory canal acoustic neuroma, cerebellopontine angle space-occupying lesions, and brainstem infarction)",
+     "Auditory brainstem response (ABR) and electrocochleography (EcochG)",
+     "Vestibular function tests (caloric test/vHIT, to assess semicircular canal function in patients with vertigo)"
+    ],
+    "avoid": [
+     "Treating sudden deafness as ordinary 'internal heat' or 'earwax blockage' and delaying treatment (missing the golden rescue window and causing lifelong total deafness)",
+     "Blindly using systemic ototoxic antibiotics (aminoglycosides) without performing hearing tests"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Sudden deafness is an otolaryngologic emergency! Comprehensive treatment must be started race against time within the 7-14-day golden window after onset: first-line systemic glucocorticoids (oral prednisone 1mg/kg/d as a single morning dose, continued for 3-5 days and then gradually tapered, total course 10-14 days",
+     "or intravenous methylprednisolone)",
+     "Drugs to improve inner ear microcirculation (Ginkgo biloba extract injection, alprostadil)",
+     "Neurotrophic drugs (mecobalamin, mouse nerve growth factor)",
+     "Hyperbaric oxygen therapy as adjunctive treatment",
+     "For patients with contraindications to systemic corticosteroids or poor response, intratympanic corticosteroid injection (dexamethasone/methylprednisolone intratympanic perfusion)."
+    ],
+    "safety_warnings": [
+     "Rescue treatment for sudden deafness has a very strong 'time-window' effect; the recovery rate is highest when patients present within the first 3-7 days after onset, and hearing recovery is extremely difficult if treatment is started more than 1 month later; do not delay",
+     "Before high-dose glucocorticoid use, screening for diabetes, active gastric ulcer, and severe hypertension is mandatory; during treatment, closely monitor blood pressure and blood glucose and provide gastric protection",
+     "Patients with total deafness accompanied by vertigo generally have a poor prognosis and require early combination treatment with tympanic membrane puncture and drug injection plus hyperbaric oxygen therapy"
+    ],
+    "personalization": [
+     "Low-frequency descending type (mostly associated with endolymphatic hydrops of the inner ear): glucocorticoids + diuretic dehydrating agents (hydrochlorothiazide/carbonic anhydrase inhibitors) are the main treatment, with the best prognosis",
+     "High-frequency descending type and total deafness type: glucocorticoids combined with drugs to improve microcirculation and thrombolytic/anticoagulant drugs, with active hyperbaric oxygen therapy",
+     "Patients with diabetes in whom systemic corticosteroids are limited: first-line intratympanic/retroauricular corticosteroid injection to avoid systemic blood glucose fluctuations"
+    ]
+   },
+   "disease": "Sudden sensorineural hearing loss",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Recurrent sore throat, foreign body sensation in the throat, itching, dryness, mild pain, or irritating dry cough, accompanied by halitosis (fetid odor from caseous purulent plugs in the tonsillar crypts); in children, it is often accompanied by tonsillar hypertrophy causing snoring, mouth breathing, and sleep apnea; examination shows chronic tonsillar congestion, enlarged crypt openings with yellow-white purulent plugs, adhesion of the tonsils to the palatoglossal arch, and enlarged submandibular lymph nodes.",
+   "interview_guide": {
+    "first_questions": [
+     "About how many times per year do you have sore throat and recurrent inflamed and enlarged tonsils? (e.g., >=3-5 episodes per year)",
+     "Do you usually have a foreign body sensation, dryness, or itching in the throat, or obvious halitosis?",
+     "When coughing, do you sometimes cough up small yellow-white particles like tofu dregs that have a foul odor when crushed (tonsilloliths/purulent plugs)?"
+    ],
+    "followup_questions": [
+     "During sleep, do you snore loudly, breathe through an open mouth, or even have pauses in breathing? (adenoid and tonsillar hypertrophy in children)",
+     "After tonsillitis, have you ever had joint aching, red urine or increased frothy urine, or palpitations? (to evaluate rheumatic fever, rheumatic heart disease, and IgA nephropathy/nephritis)",
+     "Is each acute tonsillar episode accompanied by high fever and the need for intravenous antibiotics?"
+    ],
+    "stop_conditions": [
+     "The annual frequency of acute tonsillitis and chronic local symptoms have been clarified",
+     "Systemic complications such as nephritis and rheumatic fever caused by the tonsils as a focus of infection have been evaluated",
+     "Indications and contraindications for surgical removal have been assessed"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Otolaryngology specialty pharyngeal inspection (to assess tonsillar enlargement grade I-III, chronic mucosal congestion, crypt purulent plugs, and adhesion to the anterior and posterior pillars)",
+     "Complete blood count and C-reactive protein (CRP)"
+    ],
+    "if_suspected": [
+     "Antistreptolysin O (ASO) and erythrocyte sedimentation rate (ESR) (to evaluate streptococcal focal infection)",
+     "Urinalysis and renal function (to rule out concomitant post-streptococcal glomerulonephritis and IgA nephropathy)",
+     "Polysomnography (PSG) (for children and adults with severe snoring and sleep apnea)",
+     "Throat swab bacterial culture and antimicrobial susceptibility testing"
+    ],
+    "avoid": [
+     "Blindly using long-term oral antibiotics during the chronic phase without signs of acute infection",
+     "Performing tonsillectomy during an acute suppurative episode (which may easily cause spread of wound infection and massive bleeding)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Non-surgical treatment during the chronic phase: strengthen physical exercise to improve immunity, maintain oral hygiene, rinse with compound chlorhexidine gargle, and eat a light diet",
+     "During acute episodes: susceptible antibiotics (penicillins/cephalosporins) to control infection",
+     "For those meeting surgical indications, perform tonsillectomy (preferably low-temperature plasma ablation or traditional tonsillectomy by dissection)."
+    ],
+    "safety_warnings": [
+     "Elective tonsillectomy is prohibited during an acute suppurative tonsillar infection; surgery may be performed only after acute inflammation has completely resolved for 2-3 weeks",
+     "Within 24 hours after tonsil surgery, strictly take cold liquids and observe for continuous fresh blood in the mouth (be alert for primary and secondary postoperative massive hemorrhage)",
+     "Surgery is contraindicated in patients with hematopoietic system diseases, coagulation disorders, active pulmonary tuberculosis, or uncontrolled hypertension"
+    ],
+    "personalization": [
+     "Severe pediatric obstructive sleep apnea-hypopnea syndrome (OSAHS) caused by tonsillar hypertrophy: early low-temperature plasma tonsillectomy + adenoidectomy ablation is recommended",
+     "Recurrent tonsillar infection that has induced nephritis, arthritis, or rheumatic fever: as a 'focal tonsil,' early surgical removal should be performed",
+     "Patients with only 1-2 episodes per year and no systemic complications: conservative observation and lifestyle modification are the main approach"
+    ]
+   },
+   "disease": "Chronic tonsillitis",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Acute secretory otitis media presents as sudden earache after a cold, aural fullness, 'autophony' in the ear (one's own voice sounds unusually loud), hearing loss (conductive deafness), possible improvement in hearing when the head position changes, and a bubbling sound in the ear; acute suppurative otitis media presents as severe earache (throbbing or stabbing pain), high fever, and hearing loss, and after tympanic membrane perforation there is a sudden large amount of pus draining from the ear canal with abrupt relief of earache.",
+   "interview_guide": {
+    "first_questions": [
+     "How long have you had ear pain and a feeling of fullness or blockage in the ear? Do sounds seem muffled as if heard through a layer of paper?",
+     "In the days before onset, did you have a cold, runny nose, or nasal congestion, or travel by airplane, dive, or swim?",
+     "Is there fluid or yellow pus draining from the ear? Did the earache suddenly lessen after the pus drained?"
+    ],
+    "followup_questions": [
+     "Does your own voice sound especially loud (autophony)? Does hearing change when you shake your head or change position?",
+     "Is it accompanied by fever, headache around the ear, dizziness and nausea, or facial deviation or twitching? (Be alert for mastoiditis and intracranial/extracranial complications)",
+     "Have you had recurrent ear discharge in the past? Do you have the bad habit of pinching both nostrils closed and blowing forcefully at the same time when blowing your nose?"
+    ],
+    "stop_conditions": [
+     "The clinical type of otitis media has been clarified (secretory otitis media vs acute suppurative otitis media vs chronic suppurative otitis media)",
+     "Tympanic membrane integrity has been determined (intact vs perforated with pus drainage)",
+     "Acute mastoiditis, labyrinthitis, and otogenic intracranial suppurative infection have been ruled out"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Otoscopy (to observe the degree of tympanic membrane congestion, light reflex shape, tympanic membrane retraction or bulging, fluid level from middle ear effusion, and the site of tympanic membrane perforation with pus drainage)",
+     "Tympanometry (tympanogram: secretory otitis media shows a typical type B flat curve or type C negative-pressure curve)",
+     "Pure-tone audiometry (PTA) (to clarify the air-bone gap in conductive hearing loss)"
+    ],
+    "if_suspected": [
+     "High-resolution temporal bone CT (thin-slice bone window, to evaluate middle ear cholesteatoma, mastoid bone destruction/resorption, and ossicular chain discontinuity)",
+     "Bacterial culture and antimicrobial susceptibility testing of purulent ear canal secretions (to guide precise selection of antibiotic ear drops for suppurative otitis media)"
+    ],
+    "avoid": [
+     "Blindly using ototoxic aminoglycoside ear drops (gentamicin/neomycin) before tympanic membrane perforation has been clearly determined",
+     "Directly ordering contrast-enhanced whole-brain MRI without performing otoscopy"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Acute secretory otitis media: short-term intranasal decongestant drops (ephedrine/oxymetazoline) to open the Eustachian tube + intranasal corticosteroid spray + mucolytic (eucalyptol, limonene, and pinene) + oral antibiotics",
+     "If conservative treatment is ineffective, perform tympanic membrane puncture and fluid aspiration or tympanostomy tube insertion",
+     "Acute suppurative otitis media: adequate oral antibiotics (amoxicillin-clavulanate/cefuroxime) + local cleaning of purulent external ear canal secretions with hydrogen peroxide followed by ofloxacin ear drops (non-ototoxic antibiotic eye/ear drops)",
+     "For patients with an intact but bulging tympanic membrane and severe pain, perform tympanotomy and drainage."
+    ],
+    "safety_warnings": [
+     "In patients with tympanic membrane perforation, ototoxic antibiotic ear drops containing gentamicin, streptomycin, etc. are absolutely contraindicated to prevent irreversible inner ear hair cell necrosis causing permanent sensorineural total deafness",
+     "Instruct patients never to pinch both nostrils closed and blow forcefully at the same time (this can easily force purulent nasopharyngeal secretions into the Eustachian tube and trigger or worsen otitis media)",
+     "If redness, swelling, and tenderness behind the ear, high fever with convulsions, severe headache, or projectile vomiting occur, suggesting acute mastoiditis or otogenic meningitis, emergency surgical exploration and mastoidotomy must be performed immediately"
+    ],
+    "personalization": [
+     "Secretory otitis media lasting more than 3 months with persistent effusion: perform tympanotomy with tube insertion (Tympanostomy tube)",
+     "Recurrent secretory otitis media in children: actively perform concurrent resection of hypertrophied adenoids to relieve mechanical compression of the Eustachian tube orifice",
+     "Middle ear cholesteatoma otitis media: early radical mastoidectomy to remove the lesion and ossicular chain reconstruction with tympanoplasty must be performed"
+    ]
+   },
+   "disease": "Otitis media",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Patients often complain of progressive, painless hearing loss, often starting unilaterally and gradually involving both ears. A typical feature is 'paracusis of Willis,' in which patients hear better in noisy environments than in quiet ones. Some patients have tinnitus, described as a low-pitched buzzing or cicada-like sound. Early disease may manifest only as high-frequency hearing loss, often described by patients as 'hearing sound but not understanding speech,' and female patients often experience rapid hearing deterioration during pregnancy.",
+   "interview_guide": {
+    "first_questions": [
+     "Did your hearing loss start suddenly or worsen gradually?",
+     "In a noisy restaurant or party, do you feel it is easier to hear others than in a quiet environment?",
+     "Do you have persistent tinnitus? What does it sound like (e.g., buzzing or cicada-like)?"
+    ],
+    "followup_questions": [
+     "Did your hearing loss worsen markedly during pregnancy or childbirth?",
+     "Does anyone else in your family have similar hearing problems or has anyone been diagnosed with this disease?",
+     "Besides hearing loss, do you have vertigo, ear pain, or a feeling of ear fullness?"
+    ],
+    "stop_conditions": [
+     "The nature of hearing loss (progressive), paracusis of Willis, and tinnitus have been clearly asked about and documented.",
+     "It has been confirmed that there are no acute infection symptoms (such as ear pain or purulent discharge) and no features of sudden deafness.",
+     "Family history and pregnancy-related changes have been obtained, sufficient to support an initial clinical judgment."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Pure-tone audiometry (PTA): assess air-bone gap (Carhart notch)",
+     "Acoustic immittance testing: look for absent stapedial reflex or abnormal curves",
+     "High-resolution temporal bone CT: observe bone destruction at the oval window or round window region"
+    ],
+    "if_suspected": [
+     "Speech recognition score testing: differentiate the degree of conductive and mixed hearing loss",
+     "Vestibular function testing: exclude vertigo caused by coexisting inner ear disease",
+     "Genetic testing: screen for relevant mutation sites in patients with a family history"
+    ],
+    "avoid": [
+     "Unnecessary antibiotic therapy (noninfectious disease)",
+     "Routine tympanocentesis (no evidence of effusion)",
+     "Blind use of high-dose corticosteroids (unless accompanied by sudden hearing loss)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Mild hearing loss with no desire for surgery may be observed first",
+     "Sodium fluoride can be used to slow disease progression (600mg daily for 6-12 months). For patients with a significant air-bone gap (>15dB) affecting communication, surgery is preferred, namely stapedectomy with stapes prosthesis implantation. After surgery, avoid vigorous head movement to prevent displacement of the stapes prosthesis, and perform regular audiometric follow-up to assess outcomes."
+    ],
+    "safety_warnings": [
+     "Sodium fluoride therapy requires monitoring of serum calcium levels and vigilance for kidney stone risk",
+     "Surgical contraindications include active otitis media and uncorrected eustachian tube dysfunction",
+     "Postoperative risks include temporary vertigo, taste changes, or facial nerve injury"
+    ],
+    "personalization": [
+     "For patients with hearing deterioration during pregnancy, recommend postpartum assessment for surgical timing; use sodium fluoride cautiously during pregnancy",
+     "In older patients with other systemic diseases, weigh surgical tolerance and consider hearing aids first",
+     "In pediatric patients, carefully evaluate surgical indications and prioritize hearing aid intervention until skeletal maturity"
+    ]
+   },
+   "disease": "Otosclerosis",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Patients often complain of persistent or alternating nasal obstruction, worse in the morning or at night, accompanied by mouth breathing and hyposmia. Some patients have headache, dizziness, and sleep disturbance. If inflammation is present, there may be mucopurulent discharge. Examination shows hyperemia and swelling of the inferior turbinate mucosa, with a smooth surface that is soft and elastic to touch and responds well to vasoconstrictors.",
+   "interview_guide": {
+    "first_questions": [
+     "Is your nasal congestion continuous or intermittent?",
+     "Do you have rhinorrhea, sneezing, or reduced sense of smell?",
+     "Do you breathe through your mouth at night because of nasal congestion, or does it affect sleep?"
+    ],
+    "followup_questions": [
+     "Do symptoms worsen after exposure to cold air or allergens?",
+     "Have you used nasal drops before, and what was the effect?",
+     "Do you have a history of allergic rhinitis or sinusitis?"
+    ],
+    "stop_conditions": [
+     "The nature of nasal obstruction has been clarified and other nasal space-occupying lesions have been excluded",
+     "Symptoms have lasted more than 3 months and conservative treatment has been ineffective",
+     "The patient has provided a complete history of prior medication use and allergies"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Anterior rhinoscopy",
+     "Nasal endoscopy",
+     "Sinus CT scan (if necessary)"
+    ],
+    "if_suspected": [
+     "Allergen skin prick test",
+     "Nasal secretion smear",
+     "Rhinomanometry"
+    ],
+    "avoid": [
+     "Routine plain X-ray (low diagnostic value)",
+     "Systemic hormone testing without indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is intranasal corticosteroid spray (e.g., mometasone furoate), once daily, 2 sprays per nostril, for at least 4 weeks. It may be combined with saline nasal irrigation. For patients with poor response to medication, consider minimally invasive surgery (e.g., radiofrequency ablation of the inferior turbinate). Avoid long-term use of decongestants to prevent rhinitis medicamentosa."
+    ],
+    "safety_warnings": [
+     "Strictly prohibit long-term continuous use of decongestants such as oxymetazoline to prevent rebound nasal congestion",
+     "Intranasal corticosteroids must be used correctly; avoid spraying toward the nasal septum to prevent bleeding",
+     "Use corticosteroid drugs cautiously in pregnant and breastfeeding women"
+    ],
+    "personalization": [
+     "In pediatric patients, prioritize nonsteroid antihistamines or physical therapy",
+     "In older adults, monitor blood pressure and cardiovascular responses",
+     "In patients with asthma, control airway inflammation concurrently"
+    ]
+   },
+   "disease": "Inferior turbinate hypertrophy",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Patients report long-term (more than 12 weeks) persistent nasal obstruction, intermittent or alternating, worse in the morning or with cold exposure. It is often accompanied by increased thick nasal discharge, hyposmia, and dizziness and headache. Some patients have postnasal drip causing a foreign body sensation in the throat, cough, or throat clearing. Symptoms recur, without severe systemic symptoms of acute infection such as high fever.",
+   "interview_guide": {
+    "first_questions": [
+     "How long have your nasal obstruction symptoms lasted? Is it present all day or different in the morning and evening?",
+     "What is the character of your nasal discharge (clear and watery, white and viscous, or yellow and purulent)? Is it accompanied by sneezing or nasal itching?"
+    ],
+    "followup_questions": [
+     "Do you have a history of allergies, sinusitis, or long-term use of decongestants (such as naphazoline nasal drops)?",
+     "Do you have reduced sense of smell, facial fullness/pain, or sleep disturbance caused by mouth breathing at night?"
+    ],
+    "stop_conditions": [
+     "It has been confirmed that the disease duration exceeds 3 months and features of an acute exacerbation have been excluded.",
+     "It has been confirmed that there is no history of drug misuse (such as vasoconstrictor dependence).",
+     "Prior treatment history and allergen exposure history have been obtained."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Anterior rhinoscopy or nasal endoscopy (observe the degree of mucosal hyperemia and swelling and the character of secretions)",
+     "Rhinomanometry or acoustic rhinometry (assess nasal ventilation function)"
+    ],
+    "if_suspected": [
+     "Allergen skin prick test or serum specific IgE testing (screen for allergic rhinitis)",
+     "Sinus CT scan (exclude chronic sinusitis or anatomic abnormalities)"
+    ],
+    "avoid": [
+     "Routine complete blood count (usually no specific changes outside acute infection)",
+     "Blind nasal plain X-ray (low diagnostic value and unnecessary radiation)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is intranasal corticosteroid spray (e.g., mometasone furoate or fluticasone propionate), once daily, 1-2 sprays per nostril, for at least 4 weeks. Combine with saline nasal irrigation 1-2 times daily to clear secretions. Avoid long-term use of vasoconstrictors to prevent rhinitis medicamentosa. If allergy is present, add oral antihistamines."
+    ],
+    "safety_warnings": [
+     "Do not use vasoconstrictors such as oxymetazoline continuously for more than 7 days to avoid rhinitis medicamentosa.",
+     "Intranasal corticosteroids should be sprayed correctly toward the lateral nasal wall; avoid direct spraying onto the nasal septum to reduce bleeding risk.",
+     "Pregnant and breastfeeding women should choose drug types cautiously under medical guidance."
+    ],
+    "personalization": [
+     "For pediatric patients, select age-appropriate formulations and strictly control the dose.",
+     "For pregnant women, saline irrigation is preferred; weigh the benefits and risks of medications.",
+     "For patients with poor response to multiple drugs, consider radiofrequency ablation of the inferior turbinate or surgical intervention."
+    ]
+   },
+   "disease": "Chronic rhinitis",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Patients often have sudden severe ear pain, throbbing or stabbing, worsening with swallowing, chewing, or pulling the auricle. Some patients have mild hearing loss, tinnitus, and a feeling of fullness in the ear. If the tympanic membrane ruptures, a small amount of bloody discharge may appear, after which ear pain rapidly improves. Symptoms often follow upper respiratory tract infection and have an acute onset.",
+   "interview_guide": {
+    "first_questions": [
+     "Did your ear pain start suddenly? Is the pain throbbing or stabbing?",
+     "Have you recently had a cold, fever, or sore throat?",
+     "Do you feel fluid draining from the ear or a sudden decrease in hearing?"
+    ],
+    "followup_questions": [
+     "Does the pain worsen markedly when you open your mouth, chew, or pull on your auricle?",
+     "What color is the fluid draining? Is there a lot?",
+     "Have you recently been swimming or do you have a habit of forceful nose blowing?"
+    ],
+    "stop_conditions": [
+     "Severe ear pain associated with upper respiratory tract infection has been clearly described, and auricular traction pain has been confirmed.",
+     "The patient reports that ear pain decreased immediately after tympanic membrane rupture and that bloody discharge was present.",
+     "Symptoms are typical and there are no signs of complex complications; no further history-taking is needed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Otoscopy (observe tympanic membrane hyperemia, bulla formation, or rupture)",
+     "Pure-tone audiometry (assess degree of hearing loss)",
+     "Tympanometry (determine middle ear function status)"
+    ],
+    "if_suspected": [
+     "Complete blood count (differentiate bacterial from viral infection)",
+     "Tympanocentesis (for drainage in bullous myringitis)",
+     "Bacterial culture and susceptibility testing (for recurrent infection or abundant secretions)"
+    ],
+    "avoid": [
+     "Blind use of ear drops (do not use ototoxic drugs before tympanic membrane integrity is confirmed)",
+     "Excessive ear canal irrigation (may worsen inflammation or spread infection)",
+     "CT scan (not essential for diagnosis; consider only to exclude complications)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line local treatment includes 2% phenol in glycerin ear drops for anti-inflammatory and analgesic effects",
+     "If the tympanic membrane is intact, oral nonsteroidal anti-inflammatory drugs (e.g., ibuprofen 0.4g three times daily) can relieve severe pain. If there is evidence of bacterial infection, add antibiotics (e.g., amoxicillin-clavulanate). Bullous myringitis requires aspiration of bulla fluid under sterile technique. The course is usually 5-7 days, with rest and avoidance of forceful nose blowing."
+    ],
+    "safety_warnings": [
+     "Before tympanic membrane perforation, strictly avoid ototoxic ear drops such as aminoglycosides.",
+     "Patients allergic to penicillin should not receive β-lactam antibiotics; switch to cephalosporins or macrolides.",
+     "Long-term high-dose NSAID use requires vigilance for gastrointestinal bleeding risk."
+    ],
+    "personalization": [
+     "In pediatric patients, adjust antibiotic dose by weight and avoid aspirin to prevent Reye syndrome.",
+     "In older adults or those with underlying diseases, use NSAIDs cautiously and prefer acetaminophen for analgesia.",
+     "Pregnant women should use category B drugs under medical guidance and avoid self-medication."
+    ]
+   },
+   "disease": "Acute myringitis",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Patients often report persistent nasal obstruction with mouth breathing, severe snoring during sleep at night accompanied by apnea. Some children develop recurrent otitis media, hearing loss, or symptoms of otitis media with effusion; they may have a bitter taste and halitosis on waking in the morning, and long-term disease can lead to facial changes (adenoid facies), such as a short, thick, upturned upper lip, malaligned teeth, and a dull expression.",
+   "interview_guide": {
+    "first_questions": [
+     "Does your child often snore or have pauses in breathing during sleep?",
+     "Does your child usually have persistent nasal congestion, and does he or she habitually breathe through the mouth?"
+    ],
+    "followup_questions": [
+     "Has your child had recurrent ear infections or hearing loss recently?",
+     "Have there been changes in your child's facial features, such as protruding teeth or a dull expression?"
+    ],
+    "stop_conditions": [
+     "Typical mouth breathing, snoring, and nasal congestion symptoms have been explicitly asked about and documented.",
+     "It has been confirmed whether there is a history of recurrent otitis media or hearing impairment.",
+     "The duration of illness and its impact on daily life have been understood."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Electronic nasopharyngoscopy",
+     "Nasal endoscopy",
+     "Pure-tone audiometry and tympanometry"
+    ],
+    "if_suspected": [
+     "Sinus CT scan (to evaluate for sinusitis)",
+     "Polysomnography (PSG, to assess degree of hypoxia)",
+     "Allergen testing (to identify triggers of allergic rhinitis)"
+    ],
+    "avoid": [
+     "Routine chest X-ray (not needed as first-line when there is no indication)",
+     "Unnecessary systemic antibiotic cultures (outside the acute infection phase)",
+     "Excessive imaging studies before blindly performing tonsillectomy"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is conservative: use an intranasal corticosteroid spray (e.g., mometasone furoate, once daily, 1 spray per nostril, for 4-8 weeks) combined with a leukotriene receptor antagonist (e.g., montelukast sodium, 5 mg every night). At the same time, nasal irrigation should be used. If drug therapy is ineffective and there is severe obstructive sleep apnea or recurrent otitis media, adenoidectomy should be performed."
+    ],
+    "safety_warnings": [
+     "Long-term use of intranasal corticosteroids requires monitoring for local mucosal reactions, and contact with the eyes should be avoided.",
+     "Montelukast sodium may cause neuropsychiatric events (such as nightmares and anxiety), and close observation is required.",
+     "Surgery requires strict assessment of anesthetic risk to prevent postoperative bleeding and airway obstruction."
+    ],
+    "personalization": [
+     "Montelukast sodium should be used with caution in children under 3 years of age; normal saline irrigation is preferred.",
+     "Patients with concomitant allergic rhinitis require concurrent desensitization therapy or environmental control.",
+     "Children with severe sleep apnea should undergo surgery as early as possible to avoid affecting maxillofacial development."
+    ]
+   },
+   "disease": "adenoid hypertrophy",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Patients often report a painless mass on one side of the neck, usually located in the middle to lower portion of the anterior border of the sternocleidomastoid muscle. The mass is usually soft or cystic in consistency, grows slowly, and may move slightly with swallowing or tongue protrusion. If secondary infection occurs, it presents with local redness, swelling, and increased pain, and may even rupture and discharge pus, forming a fistula that does not heal for a long time. Some patients notice sudden enlargement of the mass only after a cold or upper respiratory tract infection.",
+   "interview_guide": {
+    "first_questions": [
+     "How long ago did you notice the neck mass? Has it become larger or painful recently?",
+     "Is the mass fixed in position, or does it move when you swallow or turn your head?",
+     "Have you previously had a similar mass that ruptured and discharged pus or was repeatedly infected?"
+    ],
+    "followup_questions": [
+     "If you have pain or fever, please describe the specific changes in temperature and the extent of redness and swelling.",
+     "Have you had a history of neck surgery or trauma, or a family history of congenital neck malformations?",
+     "Is the mass related to eating, or do you have a feeling of difficulty swallowing or breathing discomfort?"
+    ],
+    "stop_conditions": [
+     "The location and nature of the mass (cystic/solid) and history of infection have been clarified.",
+     "It has been confirmed that there is no risk of acute severe dyspnea or major bleeding.",
+     "The patient has provided relevant previous examination reports or surgical records."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Neck ultrasonography",
+     "Contrast-enhanced neck CT or MRI",
+     "Fine-needle aspiration cytology (FNA)"
+    ],
+    "if_suspected": [
+     "Fiberoptic laryngoscopy (to rule out a pharyngeal fistula)",
+     "Thyroid function and antibody testing (to differentiate thyroid lesions)",
+     "Chest CT (to evaluate for mediastinal lesions or metastasis)"
+    ],
+    "avoid": [
+     "Blind incision and drainage (which can easily lead to spread of infection and fistula formation)",
+     "Unnecessary radionuclide scanning (unless ectopic thyroid is suspected)",
+     "Radical resection when infection is not controlled"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Surgery is the first-line treatment and includes complete excision of the cyst and the internal opening of the fistula. Infection should be controlled before surgery, and the procedure should be performed after inflammation subsides. Asymptomatic small cysts can be observed, but the recurrence rate is high. Postoperatively, antibiotics are routinely used to prevent infection, and the wound should be kept clean and dry. Long-term drug therapy is generally not required; the focus is on complete removal of the lesion to prevent recurrence."
+    ],
+    "safety_warnings": [
+     "Radical resection is strictly prohibited during the acute suppurative phase to avoid injury to the carotid sheath or facial nerve.",
+     "Careful dissection is required during surgery to avoid injury to the internal jugular vein, vagus nerve, and accessory nerve.",
+     "Postoperatively, watch for complications such as bleeding, subcutaneous fluid accumulation, and wound infection."
+    ],
+    "personalization": [
+     "Pediatric patients require general anesthesia, with attention to protecting developing tissue structures.",
+     "Elderly patients or those with comorbid underlying diseases require assessment of cardiopulmonary function and adjustment of the anesthesia plan.",
+     "Recurrent cases require a wider resection margin and, when necessary, combined plastic surgery repair."
+    ]
+   },
+   "disease": "branchial cleft cyst",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Patients often report a unilateral or bilateral feeling of ear fullness and hearing loss, similar to 'water in the ear.' Some patients have tinnitus (such as a buzzing sound) or a reflexive cough. If secondary infection occurs, ear pain and a small amount of purulent discharge may occur. Examination may show the external auditory canal completely or partially obstructed by yellow-brown or black cerumen masses, and the tympanic membrane cannot be clearly visualized.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you feel that something is blocking your ear, causing your hearing to worsen?",
+     "Did this symptom occur suddenly or gradually worsen?"
+    ],
+    "followup_questions": [
+     "Do you have a habit of cleaning your ears yourself, or have you been swimming recently?",
+     "Do you have ear pain, pus discharge, or dizziness?"
+    ],
+    "stop_conditions": [
+     "The patient clearly describes typical ear fullness and hearing loss without severe pain or vertigo",
+     "A history of ear cleaning or recent water exposure has been confirmed, and the symptoms are consistent with cerumen",
+     "No further questioning is needed to rule out acute conditions such as otitis media or sudden deafness"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Otoscopy",
+     "Pure-tone audiometry (if necessary)"
+    ],
+    "if_suspected": [
+     "Tympanometry (to differentiate middle ear pathology)",
+     "Temporal bone CT (when external auditory canal cholesteatoma is suspected)"
+    ],
+    "avoid": [
+     "Blind use of cotton swabs to probe deep into the external auditory canal",
+     "High-pressure irrigation before assessing tympanic membrane integrity",
+     "Routine antibiotic prescribing (when there is no evidence of infection)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is nonsurgical removal after softening. First use 3% sodium bicarbonate ear drops, 3 times daily for 3 consecutive days to soften the cerumen",
+     "Then remove it gently under otoscopy with suction or a dedicated cerumen hook. If otitis externa is present, inflammation should be controlled before cleaning. Avoid forceful manipulation to prevent injury to the tympanic membrane or external auditory canal skin."
+    ],
+    "safety_warnings": [
+     "In patients with tympanic membrane perforation, water irrigation is strictly prohibited; only suction or careful instrument removal may be used",
+     "Use iodine-containing disinfectants with caution in patients with diabetes to prevent allergy or irritation",
+     "If severe pain or bleeding occurs during the procedure, stop immediately and assess for injury"
+    ],
+    "personalization": [
+     "Pediatric patients require sedation or restraint to prevent injury from agitation",
+     "In elderly patients with hypertension or coagulation disorders, the procedure should be performed with extra care",
+     "Patients with recurrent episodes are advised to have regular follow-up and receive guidance on correct cleaning methods"
+    ]
+   },
+   "disease": "Cerumen impaction",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Patients often report a foreign-body sensation in the pharynx, dryness, burning, or mild pain, with symptoms being obvious in the morning after waking. Typical manifestations include frequent throat clearing and coughing up thick secretions; some patients have nasal congestion, rhinorrhea, or tinnitus. Symptoms persist for more than 3 months and worsen with tobacco, alcohol, spicy food, or fatigue; there are generally no systemic signs of acute infection such as fever.",
+   "interview_guide": {
+    "first_questions": [
+     "What exactly does your throat discomfort feel like (for example, a foreign-body sensation, dryness, or itching), and how long has it lasted?",
+     "Do you have postnasal drip, nasal congestion, or tinnitus?",
+     "Have you recently smoked, consumed alcohol, or been exposed to irritating gases?"
+    ],
+    "followup_questions": [
+     "If nighttime cough is mentioned, ask further: do the symptoms worsen when lying flat?",
+     "If ear fullness is mentioned, ask further: is there hearing loss or ear pain?",
+     "If acid regurgitation is mentioned, ask further: is there a history of heartburn or gastroesophageal reflux disease?"
+    ],
+    "stop_conditions": [
+     "The symptom duration is clearly more than 3 months and the nature of symptoms is stable",
+     "Acute infection and high-risk tumor factors (such as neck mass and blood-stained nasal discharge) have been ruled out",
+     "The patient has described the complete triggers and accompanying symptoms"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Electronic nasopharyngoscopy",
+     "Nasal endoscopy"
+    ],
+    "if_suspected": [
+     "Allergen testing (when allergic factors are suspected)",
+     "24-hour esophageal pH monitoring (when reflux laryngopharyngitis is suspected)",
+     "Sinus CT (when concomitant sinusitis is suspected)"
+    ],
+    "avoid": [
+     "Routine chest X-ray (when there are no other respiratory symptoms)",
+     "Blind bacterial culture (outside the acute suppurative phase)",
+     "Repeated unnecessary imaging studies"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment focuses on local care and intervention directed at the cause. It is recommended to use normal saline irrigation of the nasal cavity and pharynx daily to reduce irritation from secretions. Lozenges may be dissolved in the mouth to relieve symptoms. If there is evidence of bacterial infection, use antibiotics for a short course",
+     "If reflux is present, give a course of proton pump inhibitor therapy. At the same time, strictly stop smoking and alcohol, avoid spicy and irritating foods, and maintain appropriate indoor humidity."
+    ],
+    "safety_warnings": [
+     "Long-term use of lozenges containing menthol may worsen mucosal dryness",
+     "Antibiotics must be used strictly as prescribed to avoid misuse leading to resistance",
+     "Long-term high-dose use of proton pump inhibitors may affect calcium absorption"
+    ],
+    "personalization": [
+     "Use drugs containing strong astringents with caution in elderly patients to prevent difficulty swallowing",
+     "For pregnant women, physical therapy is preferred, and medications require obstetric evaluation",
+     "Avoid sprays containing anesthetic components in children to prevent aspiration"
+    ]
+   },
+   "disease": "Chronic nasopharyngitis",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Patients often report a foreign body sensation in the pharynx, dryness, burning, or mild pain, and are prone to nausea and dry retching when brushing teeth in the morning. Symptoms are mostly persistent, worsen in the afternoon or after exertion, and become pronounced after eating irritating foods. Dysphagia is usually absent, but patients perceive adherent mucus in the pharynx and need to clear the throat frequently. The course is long, with recurrent episodes, and systemic symptoms are not prominent.",
+   "interview_guide": {
+    "first_questions": [
+     "How long have you had discomfort in your throat?",
+     "Do you smoke or drink alcohol, or does your job require prolonged use of your voice?"
+    ],
+    "followup_questions": [
+     "Do you have acid regurgitation, heartburn, or nighttime cough (to evaluate for gastroesophageal reflux)?",
+     "Recently, have you had nasal congestion, rhinorrhea, or mouth breathing?"
+    ],
+    "stop_conditions": [
+     "It has been established that symptoms have lasted more than 3 months and acute infection has been excluded",
+     "It has been confirmed that there are no warning symptoms such as dysphagia, persistent hoarseness that does not resolve, or a neck mass",
+     "The main triggers (such as tobacco and alcohol, reflux, rhinitis) have been identified"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Electronic laryngoscopy (to observe pharyngeal mucosal congestion and lymphoid follicle hyperplasia)",
+     "Indirect laryngoscopy or fiberoptic laryngoscopy"
+    ],
+    "if_suspected": [
+     "24-hour esophageal pH monitoring (when gastroesophageal reflux is suspected)",
+     "Allergen testing (when allergic factors are suspected)",
+     "Sinus CT (when postnasal drip due to sinusitis is suspected)"
+    ],
+    "avoid": [
+     "Routine complete blood count (usually no specific changes in the non-acute phase)",
+     "Chest CT (when there are no pulmonary symptoms or warning signs)",
+     "Pharyngeal bacterial culture (in the chronic phase, the flora is mostly nonspecific and clinical significance is limited)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Treatment mainly consists of removing the cause and symptomatic treatment. It is recommended to stop smoking and limit alcohol, avoid spicy foods, and drink more water to keep the throat moist. Locally, compound chlorhexidine gargle may be used as a mouth rinse, or cydiodine buccal tablets may be dissolved in the mouth to relieve symptoms. If gastroesophageal reflux is present, a proton pump inhibitor may be given (e.g., omeprazole 20mg once daily for 4-8 weeks). Adjunctive nebulized inhalation therapy (e.g., budesonide suspension) can reduce mucosal edema."
+    ],
+    "safety_warnings": [
+     "Long-term use of lozenges containing antibiotics may lead to oral flora imbalance or drug resistance",
+     "Antireflux drugs require attention to the risk of osteoporosis and interactions with other drugs",
+     "Avoid indiscriminate use of corticosteroid sprays to prevent fungal infection"
+    ],
+    "personalization": [
+     "Elderly patients should use potent astringents with caution to avoid worsening dry mouth",
+     "Pregnant women should avoid iodine-containing preparations and nonsteroidal anti-inflammatory drugs; physical therapy is preferred",
+     "Professional voice users such as teachers need voice training to reduce mechanical irritation"
+    ]
+   },
+   "disease": "Chronic pharyngitis",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Patients most often report long-term hoarseness lasting more than 3 weeks, with symptoms being more severe in the morning and worsening after speaking a lot. It is often accompanied by a foreign body sensation in the pharynx, dryness, burning, or mild pain, and frequent throat clearing. Some patients have an irritating dry cough, with thick, tenacious sputum that is difficult to expectorate. If it is the hypertrophic type, there may be labored breathing; in the atrophic type, patients feel marked laryngeal dryness.",
+   "interview_guide": {
+    "first_questions": [
+     "How long has your hoarseness lasted?",
+     "Do you smoke or drink alcohol, or have a history of occupational prolonged voice use?",
+     "Do you have acid regurgitation, heartburn, or worsening nighttime cough?"
+    ],
+    "followup_questions": [
+     "Does the change in your voice worsen in specific environments (such as dust)?",
+     "Do you have dysphagia or difficulty breathing?",
+     "Have you had a recent upper respiratory tract infection?"
+    ],
+    "stop_conditions": [
+     "It has been established that the disease course is more than 3 months and there are no signs of acute infection",
+     "The main triggers (such as voice overuse, tobacco and alcohol irritation) have been identified",
+     "Typical alarm symptoms of vocal cord neoplasm and reflux laryngopharyngitis have been excluded"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Electronic laryngoscopy",
+     "Stroboscopy"
+    ],
+    "if_suspected": [
+     "24-hour esophageal pH monitoring (when gastroesophageal reflux is suspected)",
+     "Allergen testing (when allergic factors are suspected)",
+     "Chest CT (to exclude referred symptoms caused by pulmonary lesions)"
+    ],
+    "avoid": [
+     "Routine chest radiography (not essential when there are no symptoms of respiratory compression)",
+     "Empirical antibiotic therapy (not recommended for nonbacterial infection)",
+     "Blind vocal cord biopsy (unless a suspicious mass is found)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "The primary measure is to remove the cause, including stopping smoking and alcohol, avoiding spicy and irritating foods, and correcting poor vocal habits. For drug therapy, nebulized inhalation may be used (e.g., budesonide suspension combined with normal saline), 1-2 times daily for 2-4 weeks",
+     "Oral Chinese patent medicine (e.g., Huangshi Xiangsheng Wan) as an adjunct to soothe the throat and restore voice. At the same time, voice training is recommended to improve vocal technique and reduce mechanical damage to the vocal cords."
+    ],
+    "safety_warnings": [
+     "Long-term use of nebulized glucocorticoids requires vigilance for oral candidiasis; rinse the mouth after use",
+     "Avoid misuse of iodine-containing preparations to prevent thyroid dysfunction",
+     "Distinguish reflux laryngitis from simple chronic laryngitis; inappropriate use of acid-suppressing drugs may mask the condition"
+    ],
+    "personalization": [
+     "Professional voice users such as teachers need to focus on voice rehabilitation training",
+     "Elderly patients should use potent expectorants with caution to prevent dehydration from making sputum more viscous",
+     "Patients with concomitant gastroesophageal reflux require prolongation of acid-suppressing therapy to 8-12 weeks"
+    ]
+   },
+   "disease": "Chronic laryngitis",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Patients often report nasal congestion, purulent rhinorrhea, or postnasal drip lasting more than 12 weeks, accompanied by facial pressure, headache, and hyposmia. Symptoms are persistent or recurrent and worsen in the morning; cough (especially at night) and fatigue may accompany them. Typical manifestations are bilateral or unilateral nasal obstruction and yellow-green purulent secretions when blowing the nose; some patients may describe it as 'there is always phlegm in my throat that I cannot cough out'.",
+   "interview_guide": {
+    "first_questions": [
+     "How long have you had nasal congestion, purulent rhinorrhea, or facial pain?",
+     "Do you have a decrease in smell or worsening nighttime cough?",
+     "Do you have a history of allergic rhinitis, asthma, or nasal surgery?"
+    ],
+    "followup_questions": [
+     "If fever or severe headache occurs, does it suggest an acute exacerbation?",
+     "Do symptoms worsen after exposure to specific environments (such as dust or pollen)?",
+     "Have you ever used decongestants on your own, and has their effect gradually diminished?"
+    ],
+    "stop_conditions": [
+     "It has been established that symptoms have lasted more than 12 weeks and typical purulent nasal discharge is present.",
+     "It has been confirmed that there are no signs of acute infection (such as high fever or severe throbbing headache).",
+     "A history of prior allergies and drug responses has been obtained, sufficient for a preliminary etiologic assessment."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Electronic nasal endoscopy",
+     "Sinus CT scan (coronal + axial views)"
+    ],
+    "if_suspected": [
+     "Allergen-specific IgE testing",
+     "Bacterial culture and antimicrobial susceptibility testing of nasal secretions",
+     "Pulmonary function testing (to evaluate for aspirin triad)"
+    ],
+    "avoid": [
+     "Routine skull X-ray (low diagnostic value; replaced by CT)",
+     "Empirical blood cultures before long-term systemic antibiotic use without indication",
+     "Unnecessary invasive sinus puncture and irrigation (unless identification of the pathogen is required)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment consists mainly of intranasal corticosteroid spray (e.g., mometasone furoate or fluticasone propionate, 1-2 times daily, 1-2 sprays per nostril), for at least 8-12 weeks. Combine with hypertonic or isotonic saline nasal irrigation, 1-2 times daily, to clear secretions and improve ciliary function. If there is evidence of bacterial infection, a short course of oral macrolide or β-lactam antibiotics (2-4 weeks) may be given, avoiding long-term misuse."
+    ],
+    "safety_warnings": [
+     "Intranasal corticosteroids should be sprayed properly toward the lateral nasal wall; avoid spraying directly onto the nasal septum to prevent bleeding.",
+     "Long-term use of decongestants (e.g., oxymetazoline) must not exceed 7 days; be alert for rhinitis medicamentosa.",
+     "Antibiotic treatment must be strictly followed as prescribed to prevent the emergence of resistant bacteria and intestinal flora imbalance."
+    ],
+    "personalization": [
+     "During pregnancy, topical corticosteroids are preferred; avoid oral antibiotics and antihistamines.",
+     "Pediatric patients require dose adjustment according to body weight, and formulations with a high safety profile should be preferred.",
+     "Patients with aspirin-induced asthma should not use nonsteroidal anti-inflammatory drugs and should use aspirin-containing combination preparations with caution."
+    ]
+   },
+   "disease": "Chronic sinusitis",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Patients often report deep, persistent headache, mostly located at the vertex, occiput, or behind the eye, milder in the morning and worse in the afternoon. It may be accompanied by nasal congestion, purulent rhinorrhea (draining back into the pharynx and causing cough), hyposmia, and blurred vision. Some patients develop facial numbness due to inflammatory irritation of the trigeminal nerve. Symptoms persisting without resolution for more than 12 weeks are key to recognition.",
+   "interview_guide": {
+    "first_questions": [
+     "Where exactly is the headache located? Do you feel it deep in the top of the head or behind the eye socket?",
+     "Do you have a sensation of nasal discharge dripping down into your throat, or a long-standing cough?",
+     "How long have these symptoms lasted? Is it more severe when you wake up in the morning or in the afternoon?"
+    ],
+    "followup_questions": [
+     "When the headache occurs, is it accompanied by decreased vision, diplopia, or pain with eye movement?",
+     "Have you had recent nasal trauma or an upper respiratory tract infection?",
+     "Do symptoms temporarily improve after using antibiotics or nasal sprays?"
+    ],
+    "stop_conditions": [
+     "It has been established that the headache is a deep dull pain lasting more than 3 months and is accompanied by typical nasal symptoms.",
+     "The patient has described a clear history of postnasal drip and olfactory changes, and migraine features have been excluded.",
+     "The initial interview has covered prior treatment response and accompanying neurologic warning symptoms."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Nasal endoscopy (to observe the posterior aspect of the middle meatus and olfactory cleft for purulent secretions)",
+     "Sinus CT scan (coronal and axial views, to assess sphenoid sinus pneumatization and bone destruction)"
+    ],
+    "if_suspected": [
+     "Brain MRI (when intracranial complications such as cavernous sinus thrombosis or meningitis are suspected)",
+     "Visual field and fundus examination (to assess optic nerve compression)",
+     "Allergen testing (to exclude allergic factors)"
+    ],
+    "avoid": [
+     "Routine X-ray (low resolution; cannot clearly show sphenoid sinus structures)",
+     "Systemic angiography without indication (unless vascular malformation is highly suspected)",
+     "Blind sinus puncture and irrigation (high risk before imaging localization)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line medical treatment includes intranasal corticosteroid spray (e.g., mometasone furoate, 1-2 times daily for 4-8 weeks) combined with saline nasal irrigation. If bacterial infection is present, oral macrolide or penicillin antibiotics (e.g., amoxicillin-clavulanate potassium, for 2-4 weeks) may be given. For patients with poor response to medication, functional endoscopic sinus surgery (FESS) is needed to open the sphenoid sinus ostium, remove diseased tissue, and improve drainage."
+    ],
+    "safety_warnings": [
+     "Long-term use of intranasal corticosteroids requires monitoring for the risk of oral candidiasis; rinsing the mouth after use is recommended.",
+     "Before antibiotic use, a detailed allergy history should be obtained, and cross-allergy to β-lactam drugs should be considered.",
+     "Surgical manipulation must strictly avoid the internal carotid artery and optic nerve to prevent fatal hemorrhage or blindness."
+    ],
+    "personalization": [
+     "Pediatric patients require antibiotic dose adjustment according to body weight to avoid affecting bone development.",
+     "Pregnant women should preferentially receive local physical therapy and should use systemic antibiotics and corticosteroids with caution.",
+     "Patients with diabetes need strict glycemic control to prevent poor postoperative wound healing and spread of infection."
+    ]
+   },
+   "disease": "Chronic sphenoid sinusitis",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Patients often present with congenital conductive hearing loss, unilateral or bilateral. The chief complaint is often decreased responsiveness to sound, delayed speech development, or communication difficulty. Some children have external auditory canal atresia, microtia, or auricular malformation. If inner ear malformation is present, sensorineural hearing loss may also occur. Parents often notice that the child turns the TV volume too high or does not respond when called.",
+   "interview_guide": {
+    "first_questions": [
+     "When did you first notice that your child has poor hearing? Is it unilateral or bilateral?",
+     "At birth, were there any abnormalities in auricle shape or external auditory canal atresia?",
+     "Is your child's language development significantly delayed compared with peers?"
+    ],
+    "followup_questions": [
+     "Did your child undergo newborn hearing screening? What was the result?",
+     "Is there a family history of similar hearing impairment or ear malformations?",
+     "Has your child had recurrent otitis media or ear discharge?"
+    ],
+    "stop_conditions": [
+     "The nature of external auditory canal atresia and hearing loss (conductive or mixed) has been clarified.",
+     "It has been confirmed whether inner ear structural abnormalities and related neurological symptoms are present.",
+     "Preliminary intention for imaging examination and information for surgical contraindication assessment have been obtained."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Pure-tone audiometry and tympanometry",
+     "Temporal bone high-resolution CT (HRCT)",
+     "Otoendoscopy"
+    ],
+    "if_suspected": [
+     "Auditory brainstem response (ABR)",
+     "Inner ear MRI (to rule out inner ear malformation)",
+     "Genetic testing (e.g., GJB2)"
+    ],
+    "avoid": [
+     "Routine plain X-ray (insufficient resolution, cannot assess fine structures)",
+     "Blind tympanic membrane puncture (contraindicated in external auditory canal atresia)",
+     "Direct hearing reconstruction surgery without imaging evaluation"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Choose non-surgical or surgical treatment according to the degree of malformation. For mild conductive hearing loss, a bone-conduction hearing aid or CROS system is preferred",
+     "Severe external auditory canal atresia with middle ear malformation requires radical mastoidectomy combined with ossicular chain reconstruction or artificial ossicle implantation. Preoperatively, HRCT must be used to assess the facial nerve course and inner ear structures. Postoperatively, regular follow-up is needed to monitor hearing improvement and prevent infection."
+    ],
+    "safety_warnings": [
+     "It is strictly prohibited to blindly enlarge the external auditory canal when the facial nerve course is unknown or abnormal, to prevent facial nerve injury.",
+     "Artificial ossicle implantation requires vigilance for rejection reactions and displacement causing new hearing loss.",
+     "Postoperatively, strictly prevent upper respiratory tract infections to avoid triggering cholesteatoma recurrence."
+    ],
+    "personalization": [
+     "In infancy, prioritize non-invasive bone-conduction hearing devices; evaluate surgery after skeletal maturity.",
+     "For children with bilateral malformations, intervene as early as possible to protect the critical period of language development.",
+     "Patients with syndromic conditions require multidisciplinary collaboration to develop individualized plans."
+    ]
+   },
+   "disease": "Congenital middle ear malformation",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Infants develop inspiratory stridor shortly after birth, which worsens with crying, supine position, or feeding and improves with quiet or prone position. It is often accompanied by feeding difficulty, choking, and slow weight gain; severe cases may have retractions, cyanosis, and apnea. Symptoms are progressive or fluctuating and usually peak at 6-12 months of age and then gradually resolve.",
+   "interview_guide": {
+    "first_questions": [
+     "Has your child had a crowing-like inspiratory sound after birth?",
+     "Is this sound more obvious when your child is feeding, sleeping, or crying?",
+     "Is your child's weight gain normal? Does your child often choke or spit up during feeding?"
+    ],
+    "followup_questions": [
+     "If your child has blue lips or apnea, how long does it last?",
+     "Is there obvious difficulty breathing or frequent awakening during night sleep?",
+     "Besides stridor, has your child had recurrent respiratory infections or pneumonia?"
+    ],
+    "stop_conditions": [
+     "The characteristics of stridor (position/feeding related) have been clearly described and there is no history of severe suffocation.",
+     "The degree of feeding difficulty and the completeness of growth curve data have been confirmed.",
+     "Other common causes of stridor (such as vascular ring, tracheal stenosis) have been excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Flexible fiberoptic laryngoscopy (gold standard for diagnosis; observe epiglottis and arytenoid collapse)",
+     "Swallowing function assessment (screen for aspiration risk)",
+     "Growth curve monitoring (assess nutritional status)"
+    ],
+    "if_suspected": [
+     "24-hour esophageal pH monitoring (differentiate gastroesophageal reflux disease)",
+     "Chest X-ray or CT (rule out airway foreign body, vascular compression and other structural lesions)",
+     "Polysomnography (assess whether obstructive sleep apnea is present)"
+    ],
+    "avoid": [
+     "Routine chest X-ray (not first choice unless pulmonary infection or structural abnormality is suspected)",
+     "Blind use of antibiotics (this disease is non-infectious unless complicated by acute infection)",
+     "Empirical anti-asthma treatment (avoid misdiagnosis as wheezing bronchitis)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Most mild to moderate patients receive conservative treatment, including small frequent meals and keeping upright for 30 minutes after feeding to prevent reflux; if necessary, use prokinetics or proton pump inhibitors to control gastroesophageal reflux. Regular follow-up is needed to monitor growth and respiratory status. About 90% of children self-resolve by 18-24 months of age as they grow."
+    ],
+    "safety_warnings": [
+     "It is strictly prohibited to force intubation or sedation before assessing airway patency, to prevent worsening of laryngeal obstruction.",
+     "When using acid-suppressing drugs, be alert to the effects of long-term use on bone development and gut microbiota.",
+     "If severe apnea or cyanosis occurs, immediate emergency management is required; do not rely solely on oral medications."
+    ],
+    "personalization": [
+     "For premature or low-birth-weight infants, monitor apnea and feeding tolerance more closely.",
+     "For those with neuromuscular disease, surgical indications should be appropriately broadened and early intervention considered.",
+     "In severe cases with growth stagnation or recurrent aspiration pneumonia, laryngoplasty should be performed promptly."
+    ]
+   },
+   "disease": "Congenital laryngomalacia",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Patients often complain of persistent unilateral or bilateral nasal obstruction that progressively worsens and responds poorly to decongestants. Some patients have recurrent epistaxis, headache (mostly frontal or temporal), and hyposmia. If sinusitis is present, purulent discharge and facial pressure may occur. Symptoms often worsen after a cold, and at night nasal obstruction leads to mouth breathing or snoring.",
+   "interview_guide": {
+    "first_questions": [
+     "Is your nasal obstruction unilateral or bilateral? Is it persistent?",
+     "Have you had frequent nosebleeds or unexplained headaches?",
+     "Does nasal obstruction worsen significantly during colds and affect sleep?"
+    ],
+    "followup_questions": [
+     "Where exactly is the headache, and is it related to changes in position?",
+     "Have you had nasal trauma or previous nasal surgery?",
+     "Do you have yellow-green purulent discharge or facial pressure?"
+    ],
+    "stop_conditions": [
+     "The nature, duration, and accompanying symptoms of nasal obstruction (such as bleeding, headache) have been clarified.",
+     "Common triggers such as allergic rhinitis have been excluded and trauma history is known.",
+     "The patient's symptoms are typical and no complex complications are described; referral for endoscopic examination is needed for diagnosis."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Anterior rhinoscopy",
+     "Nasal endoscopy",
+     "Non-contrast sinus CT"
+    ],
+    "if_suspected": [
+     "Allergy testing (differentiate allergic rhinitis)",
+     "Rhinomanometry (assess ventilation)",
+     "Nasal acoustic impedance testing (assess Eustachian tube function)"
+    ],
+    "avoid": [
+     "Routine chest X-ray (unless pulmonary complications are suspected)",
+     "Unnecessary systemic contrast-enhanced CT (excessive radiation and unnecessary)",
+     "Blind nasal mucosal biopsy (no indication and prone to bleeding)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Asymptomatic patients require no treatment; regular follow-up is sufficient. For symptomatic but mild cases, the first choice is intranasal corticosteroid spray (e.g., mometasone furoate, once daily, 2 sprays per nostril) combined with saline nasal irrigation, for at least 4 weeks to reduce mucosal edema. If drug treatment is ineffective and quality of life is severely affected, or complicated by severe sinusitis or epistaxis, septoplasty is required."
+    ],
+    "safety_warnings": [
+     "Long-term use of intranasal corticosteroids requires vigilance for the risk of nasal septal perforation; avoid directing the spray tip at the nasal septum.",
+     "Before surgery, anticoagulants (e.g., aspirin, warfarin) must be stopped for at least 7 days to prevent major intraoperative bleeding.",
+     "After surgery, forceful nose blowing or nose picking is strictly prohibited to prevent graft displacement or secondary bleeding."
+    ],
+    "personalization": [
+     "In pediatric patients, surgical indications must be carefully evaluated; surgery is usually recommended after developmental maturity.",
+     "In older adults or those with a history of hypertension, blood pressure must be strictly controlled before surgery to prevent postoperative bleeding.",
+     "For patients with coagulation disorders, coagulation parameters must be corrected first; hematology consultation if necessary."
+    ]
+   },
+   "disease": "deviated nasal septum",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Patients often complain of long-standing unilateral ear fullness and gradual hearing loss, accompanied by persistent or intermittent foul-smelling purulent discharge. Typical manifestations include ear pain (especially worse after cleaning the ear canal); some patients may have complication symptoms such as facial palsy or vertigo. Physical examination may reveal destruction of the bony wall of the external auditory canal; the tympanic membrane may be intact but obscured by accumulated epithelial debris, or keratin debris accumulation with bone erosion may be seen.",
+   "interview_guide": {
+    "first_questions": [
+     "Is there persistent ear discharge or odor?",
+     "Did the hearing loss occur suddenly or gradually worsen?",
+     "Have you had recent ear trauma or surgery?"
+    ],
+    "followup_questions": [
+     "If the ear pain is obvious, does it radiate to the same side of the head or face?",
+     "Have you had facial asymmetry or difficulty closing your eyes?",
+     "Have you previously been diagnosed with otitis media or otitis externa, and how effective was the treatment?"
+    ],
+    "stop_conditions": [
+     "The foul-smelling discharge and characteristics of hearing loss have been clearly described, and there are no signs of acute infection.",
+     "The patient has provided complete information on previous ear disease and surgical history.",
+     "Symptoms have lasted more than 3 months and are progressively worsening, consistent with chronic lesion characteristics."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Otoendoscopy (observe keratin debris accumulation and bone destruction)",
+     "Pure-tone audiometry (assess the degree of conductive or mixed hearing loss)",
+     "Temporal bone high-resolution CT (confirm the extent of bone erosion and relationship with surrounding structures)"
+    ],
+    "if_suspected": [
+     "Facial nerve function assessment (when facial nerve involvement is suspected)",
+     "Vestibular function testing (when vertigo symptoms occur)",
+     "Mastoid plain X-ray (as preliminary screening for CT, now rarely used)"
+    ],
+    "avoid": [
+     "Blind use of cotton swabs deep in the ear canal for cleaning (may cause injury or push material deeper)",
+     "Tympanotomy without imaging confirmation",
+     "Long-term routine use of antibiotic ear drops without targeted debridement"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Surgery is the first choice; under the microscope, completely remove the keratinized epithelial mass and granulation tissue in the external auditory canal and middle ear, and if necessary perform radical mastoidectomy or tympanoplasty to reconstruct hearing. Postoperatively, regular follow-up is needed to clean residual debris and prevent recurrence. Non-pharmacological interventions include keeping the ear canal dry and avoiding water entry. The course depends on the extent of surgery; follow-up is usually at 1-2 weeks after surgery and then every 3-6 months."
+    ],
+    "safety_warnings": [
+     "It is strictly prohibited to forcefully dig without anesthesia or when visualization is unclear, to prevent facial nerve or tympanic membrane injury.",
+     "If severe headache, high fever, or worsening facial palsy occurs postoperatively, be alert to intracranial complications.",
+     "Avoid ototoxic aminoglycoside antibiotic ear drops."
+    ],
+    "personalization": [
+     "For pediatric patients, consider the risk of general anesthesia and cooperation; fine manipulation under general anesthesia is recommended.",
+     "For older patients with diabetes, strictly control blood glucose to promote wound healing.",
+     "For bilateral disease, staged surgery should be performed, prioritizing the side with poorer hearing or more severe bone destruction."
+    ]
+   },
+   "disease": "External auditory canal cholesteatoma",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Patients often report severe throbbing pain in the ear, and the pain worsens with chewing, opening the mouth, or pulling the auricle. Locally, redness, swelling, and raised lesions may be seen on the auricle or in the external auditory canal, with fluctuance on palpation; some patients have low-grade fever. If the abscess ruptures, pus with a foul odor may drain, and the pain then decreases.",
+   "interview_guide": {
+    "first_questions": [
+     "Is the ear pain continuous or episodic?",
+     "Have you recently had ear cleaning, swimming, or trauma?"
+    ],
+    "followup_questions": [
+     "Does the pain worsen markedly when the auricle is pulled?",
+     "Do you have fever or hearing loss?"
+    ],
+    "stop_conditions": [
+     "The extent of ear redness and swelling and the sign of fluctuance have been clarified.",
+     "Symptoms related to otitis media and mastoiditis have been excluded.",
+     "It has been confirmed that there are no severe systemic infection or toxic symptoms."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Otoscopy",
+     "Complete blood count"
+    ],
+    "if_suspected": [
+     "Temporal bone CT (if deep extension is suspected)",
+     "Bacterial culture and antimicrobial susceptibility testing of pus"
+    ],
+    "avoid": [
+     "Blind use of ear drops (may mask the condition before diagnosis)",
+     "Puncture and drainage under non-specialist conditions"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Early treatment is primarily anti-infective, with oral cephalosporin antibiotics (e.g., cefuroxime 0.5g twice daily) for 7-10 days. Once an abscess forms, prompt incision and drainage are required, with evacuation of pus and placement of a drainage strip. Adjunct local warm compresses promote resolution of inflammation; avoid letting water enter the affected ear."
+    ],
+    "safety_warnings": [
+     "Contraindicated in patients allergic to penicillins or cephalosporins",
+     "Avoid squeezing the abscess to prevent spread of infection to the intracranial space",
+     "Be alert for drug-induced liver and kidney injury; monitor liver and kidney function regularly"
+    ],
+    "personalization": [
+     "Patients with diabetes need strengthened blood glucose control and a prolonged antibiotic course",
+     "Older adults need antibiotic doses adjusted according to kidney function",
+     "Pediatric dosing must be calculated precisely by body weight"
+    ]
+   },
+   "disease": "External ear abscess",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Patients often experience sudden-onset severe rotational vertigo, accompanied by nausea, vomiting, and balance disturbance, with unsteady gait. It is often accompanied by unilateral hearing loss, tinnitus, or aural fullness. Symptoms often worsen with head movement; some patients have a recent history of upper respiratory tract infection or otitis media. If purulent labyrinthitis is present, systemic toxic symptoms such as high fever and severe headache may occur.",
+   "interview_guide": {
+    "first_questions": [
+     "Is the vertigo continuous or episodic? Is it accompanied by hearing loss or tinnitus?",
+     "Have you recently had a cold, an episode of otitis media, or ear trauma?"
+    ],
+    "followup_questions": [
+     "If hearing loss is present, did it occur suddenly or worsen gradually?",
+     "Do you have fever, severe headache, neck stiffness, or other signs of systemic infection?"
+    ],
+    "stop_conditions": [
+     "The nature of the vertigo (rotational) has been clarified and accompanying auditory/vestibular symptoms confirmed.",
+     "A clear recent history of infection or trauma has been obtained.",
+     "Warning signs of central nervous system involvement have been excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Pure-tone audiometry",
+     "Vestibular function testing (e.g., video head impulse test, vHIT)",
+     "High-resolution temporal bone CT"
+    ],
+    "if_suspected": [
+     "Contrast-enhanced MRI of the inner ear (to differentiate tumors or demyelinating lesions)",
+     "Lumbar puncture (when purulent meningitis complication is suspected)",
+     "Complete blood count and C-reactive protein (to assess severity of infection)"
+    ],
+    "avoid": [
+     "Blindly performing positional testing (BPPV provocation test), to avoid worsening vertigo",
+     "Cervical spine X-ray without indication",
+     "Unnecessary angiography"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "In the acute phase, glucocorticoids are first-line (e.g., prednisone 60mg/d, with gradual tapering) to reduce inflammation and edema",
+     "Combined use of microcirculation-improving drugs (e.g., Ginkgo biloba extract). For bacterial labyrinthitis, intravenous infusion of broad-spectrum antibiotics (e.g., ceftriaxone combined with vancomycin) is required for 2-3 weeks. Adjunctive antiemetics (e.g., metoclopramide) and vestibular suppressants (e.g., diazepam, short-term use)."
+    ],
+    "safety_warnings": [
+     "Corticosteroid therapy requires monitoring of blood glucose and blood pressure; use with caution in patients with diabetes",
+     "Avoid long-term use of vestibular suppressants to prevent impairment of vestibular compensation",
+     "Aminoglycoside antibiotics are ototoxic; serum drug concentrations must be monitored strictly"
+    ],
+    "personalization": [
+     "Older adults need corticosteroid doses adjusted to prevent osteoporosis and psychiatric side effects",
+     "Aminoglycosides and some quinolones are contraindicated in pregnant women",
+     "In patients with renal insufficiency, antibiotic doses need adjustment according to creatinine clearance"
+    ]
+   },
+   "disease": "labyrinthitis",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Patients often report persistent hoarseness, voice pitch changes, or vocal effort, and some have a foreign body sensation on swallowing, breathing difficulty, or cough. If the cyst becomes secondarily infected, symptoms of acute laryngeal obstruction may occur, such as inspiratory dyspnea, stridor, and high fever. The course is usually long, and symptoms may fluctuate slightly with changes in position but most often show a progressive worsening trend.",
+   "interview_guide": {
+    "first_questions": [
+     "How long has your hoarseness lasted? Is it gradually worsening?",
+     "Do you have difficulty swallowing, shortness of breath, or waking at night with breathlessness?",
+     "Have you recently had an upper respiratory tract infection or neck trauma?"
+    ],
+    "followup_questions": [
+     "Does the voice change worsen in certain positions (e.g., bending the head down)?",
+     "Is it accompanied by fever, sore throat, or blood-streaked sputum?",
+     "Do you have a history of thyroid disease or neck surgery?"
+    ],
+    "stop_conditions": [
+     "The chief complaint has been clarified as persistent hoarseness with a foreign body sensation on swallowing, and there are no signs of acute asphyxia.",
+     "It has been confirmed that there is no severe dyspnea caused by acute infection, and vital signs are stable.",
+     "The patient has provided a complete past medical history and medication history, sufficient to guide initial examination."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Electronic laryngoscopy",
+     "Non-contrast and contrast-enhanced neck CT",
+     "Dynamic fiberoptic laryngoscopy"
+    ],
+    "if_suspected": [
+     "Neck MRI (to assess the extent of soft tissue infiltration)",
+     "Thyroid function tests (to exclude compression by thyroid disease)",
+     "Bronchoscopy (to assess lower respiratory tract involvement)"
+    ],
+    "avoid": [
+     "Routine chest X-ray (low diagnostic value for small laryngeal cysts)",
+     "Blind puncture biopsy (may easily cause cyst fluid leakage or spread of infection)",
+     "Unnecessary whole-body PET-CT (not needed for non-neoplastic lesions)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is transoral suspension laryngoscopic cyst excision or laser fenestration and drainage. For asymptomatic small cysts, short-term observation may be used, but most require surgical intervention to relieve airway obstruction and improve phonation. Postoperatively, aerosolized glucocorticoid inhalation is given to reduce edema, along with antibiotics to prevent infection; the course is usually 7-14 days. Voice rest for 2 weeks is also recommended to promote healing."
+    ],
+    "safety_warnings": [
+     "Blind puncture is strictly prohibited without adequate anesthesia and preparation, to prevent aspiration of cyst fluid and asphyxia.",
+     "Postoperatively, respiratory status must be monitored closely, and vigilance is required for delayed laryngeal edema causing acute laryngeal obstruction.",
+     "Avoid anticoagulants to prevent intraoperative and postoperative bleeding that could affect the surgical field and recovery."
+    ],
+    "personalization": [
+     "Pediatric patients require general anesthesia; care should be taken to protect the developing vocal fold structures.",
+     "Older patients with cardiopulmonary disease need preoperative optimization of cardiopulmonary function and shortened anesthesia time.",
+     "Pregnant patients should preferentially receive conservative treatment or local management; minimally invasive surgery may be performed in the second trimester if necessary."
+    ]
+   },
+   "disease": "Laryngeal cyst",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Patients often report persistent severe deep ear pain, accompanied by fever and generalized fatigue. Typical findings are postauricular redness and swelling with marked tenderness, palpable fluctuance, and the auricle displaced anteriorly and inferiorly. Some patients have purulent otorrhea, and hearing loss is conductive or mixed. If severe headache, vomiting, or altered consciousness occurs, it suggests possible intracranial infection.",
+   "interview_guide": {
+    "first_questions": [
+     "How long has the ear pain lasted? Is there any pus or bleeding?",
+     "Have you recently had a cold, a history of otitis media, or an upper respiratory tract infection?",
+     "Is it accompanied by fever, headache, vertigo, or blurred vision?"
+    ],
+    "followup_questions": [
+     "Is the skin behind the ear red, swollen, or feels like a hard lump?",
+     "Did the hearing loss occur suddenly or worsen gradually?",
+     "Do you have nausea, vomiting, neck stiffness, or other neurological symptoms?"
+    ],
+    "stop_conditions": [
+     "Postauricular redness, swelling, and tenderness and a history of acute otitis media have been clarified, and there are no signs of intracranial complications.",
+     "The patient has undergone imaging (CT/MRI) and been diagnosed, so no further history-taking is needed.",
+     "The patient's vital signs are stable, with no high fever or impaired consciousness, and the initial assessment is complete."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "High-resolution temporal bone CT scan",
+     "Pure-tone audiometry and acoustic immittance testing",
+     "Complete blood count and C-reactive protein testing"
+    ],
+    "if_suspected": [
+     "Contrast-enhanced cranial MRI (to evaluate meningitis or brain abscess)",
+     "Lumbar puncture (when intracranial hypertension or meningitis is suspected)",
+     "Bacterial culture and antimicrobial susceptibility testing of ear canal secretions"
+    ],
+    "avoid": [
+     "Blind myringotomy and drainage (before skull base bone destruction has been excluded)",
+     "Over-reliance on plain X-ray (insufficient resolution, easy to miss diagnosis)",
+     "Complex neurological function tests other than audiometry when infection is uncontrolled"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Immediately administer intravenous infusion of broad-spectrum antibiotics (e.g., ceftriaxone combined with vancomycin), usually for 2-3 weeks, until body temperature is normal and symptoms resolve. At the same time, give adequate analgesics and antipyretics. If a subperiosteal abscess forms or conservative treatment is ineffective, emergency radical mastoidectomy or tympanoplasty for drainage is required. After surgery, continue oral antibiotics for consolidation therapy for 1-2 weeks."
+    ],
+    "safety_warnings": [
+     "Strictly prohibit squeezing the postauricular swelling in the acute phase to prevent spread of infection to the intracranial space.",
+     "When using aminoglycoside antibiotics, monitor kidney function and hearing to avoid ototoxicity.",
+     "Be alert for drug allergic reactions, especially in patients with a history of penicillin or cephalosporin allergy."
+    ],
+    "personalization": [
+     "Pediatric patients need antibiotic doses calculated precisely according to body weight, with attention to effects on growth and development.",
+     "For pregnant patients, penicillins or cephalosporins are preferred; tetracyclines and quinolones are contraindicated.",
+     "Older or immunosuppressed patients should receive a prolonged antibiotic course and close monitoring for complications."
+    ]
+   },
+   "disease": "Mastoiditis",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Patients often report unilateral or bilateral external ear hypoplasia, manifesting as abnormal or absent auricle morphology, possibly accompanied by external auditory canal atresia. Some patients may mention hearing loss, especially conductive hearing loss. Parents may notice abnormal ear appearance in the neonatal period, accompanied by delayed response to sound.",
+   "interview_guide": {
+    "first_questions": [
+     "Did you notice any abnormal ear shape when your child was born?",
+     "Has your child shown any signs of hearing loss?"
+    ],
+    "followup_questions": [
+     "Are there any other facial or neck developmental abnormalities?",
+     "Is there any family history of similar cases?"
+    ],
+    "stop_conditions": [
+     "Auricular and external auditory canal development has been clearly defined",
+     "Hearing assessment results have been obtained",
+     "No other related systemic abnormalities"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "High-resolution temporal bone CT",
+     "Pure-tone audiometry",
+     "Tympanometry"
+    ],
+    "if_suspected": [
+     "MRI (to exclude inner ear malformations)",
+     "Genetic testing (to screen for syndromic forms)"
+    ],
+    "avoid": [
+     "Routine plain radiography (low diagnostic value)",
+     "Unnecessary soft tissue ultrasound"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Select the treatment plan according to age and condition severity. Mild deformities may be treated with a nonsurgical molding device",
+     "Severe deformities require auricular reconstruction (autologous rib cartilage or synthetic material). Patients with hearing impairment are advised to wear a bone-conduction hearing aid or undergo cochlear implantation. Regular follow-up after surgery is needed to assess functional recovery."
+    ],
+    "safety_warnings": [
+     "Avoid surgery when infection is not controlled",
+     "Pay attention to postoperative wound care to prevent infection",
+     "Be alert to anesthesia risks"
+    ],
+    "personalization": [
+     "Nonsurgical correction is preferred for infants and young children",
+     "Adolescents may choose autologous rib cartilage reconstruction",
+     "Patients with syndromic conditions require multidisciplinary collaborative treatment"
+    ]
+   },
+   "disease": "Microtia",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Patients develop paroxysmal vertigo in moving environments such as cars, boats, or airplanes, often accompanied by nausea, vomiting, pallor, cold sweats, and fatigue. Symptoms usually appear within a few minutes to several tens of minutes after motion begins and gradually improve after resting motionless. Patients often report a sensation of 'spinning', accompanied by stomach discomfort and dizziness, without ear-specific symptoms such as tinnitus or hearing loss.",
+   "interview_guide": {
+    "first_questions": [
+     "Did your dizziness and nausea occur while riding in transportation?",
+     "With this vertigo, do you feel that surrounding objects are spinning or that you yourself are swaying?",
+     "After stopping motion and resting, do the symptoms significantly lessen or disappear?"
+    ],
+    "followup_questions": [
+     "In addition to dizziness and nausea, do you have tinnitus, hearing loss, or aural fullness?",
+     "Have you had similar episodes before, or are they more easily triggered by specific types of transportation?",
+     "Have you recently taken medications that may cause dizziness, or had any head trauma?"
+    ],
+    "stop_conditions": [
+     "It is clear that symptoms occur only during motion and resolve rapidly after rest, with no focal neurological signs.",
+     "Typical manifestations of inner ear organic disease such as vestibular neuritis and Ménière disease have been excluded.",
+     "The patient's complaint is typical and the history is clear, allowing a preliminary diagnosis without further questioning."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Vestibular function testing (e.g., positional testing)",
+     "Pure-tone audiometry",
+     "Electronystagmography"
+    ],
+    "if_suspected": [
+     "Brain MRI (to exclude central vertigo)",
+     "Cervical spine X-ray or CT (to exclude cervicogenic factors)",
+     "Glycerol test (to differentiate Ménière disease)"
+    ],
+    "avoid": [
+     "Routine head CT (unnecessary when there are no signs of acute trauma or stroke)",
+     "Lumbar puncture (contraindicated when there is no clear indication of a noninfectious process or increased intracranial pressure)",
+     "Overreliance on angiography (unless vascular malformation is suspected)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment focuses on prevention; it is recommended to take dimenhydrinate (50-100mg) orally or apply a scopolamine patch (behind the ear) 30-60 minutes before departure. If symptoms have already occurred, ginger slices may be held in the mouth or vitamin B6 taken to help relieve vomiting. At the same time, instruct the patient to rest with eyes closed, look at the horizon, avoid reading or looking at a mobile phone, and keep the vehicle ventilated. The usual course is a single use; if necessary, no more than 3 times per day, for no more than 3 consecutive days."
+    ],
+    "safety_warnings": [
+     "Contraindicated before driving or operating machinery because the drug may cause drowsiness and slowed reactions.",
+     "Use anticholinergic drugs (such as scopolamine) with caution in patients with glaucoma or prostatic hypertrophy.",
+     "Avoid concomitant use with alcohol or other central nervous system depressants to prevent worsening respiratory depression."
+    ],
+    "personalization": [
+     "Pediatric doses should be adjusted by body weight, usually halved or given as a suspension according to medical advice.",
+     "Older adults should start at a low dose and be monitored for fall risk and cognitive impairment.",
+     "Pregnant and breastfeeding women should use these agents cautiously after a physician assesses the risks and benefits, with nonpharmacologic interventions preferred."
+    ]
+   },
+   "disease": "Motion sickness",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Patients often report recurrent episodes of rotational vertigo, each lasting from 20 minutes to several hours, accompanied by nausea and vomiting. At the same time, fluctuating hearing loss (usually low-frequency sensorineural hearing loss), tinnitus (such as cicada-like or roaring sound), and aural fullness occur. Symptoms recur periodically and may resolve completely between episodes, but hearing may progressively decline irreversibly as the disease progresses.",
+   "interview_guide": {
+    "first_questions": [
+     "How long did your most recent vertigo attack last? Was it accompanied by a sensation of spinning?",
+     "During attacks, do you have tinnitus, aural fullness, or sudden hearing loss?",
+     "Is this the first time these symptoms have occurred, or do they recur? How often?"
+    ],
+    "followup_questions": [
+     "Are vertigo attacks related to changes in body position? (to exclude benign paroxysmal positional vertigo)",
+     "Do you have a history of migraine or a family history of migraine? (to differentiate vestibular migraine)",
+     "Have you recently had head trauma, infection, or noise exposure?"
+    ],
+    "stop_conditions": [
+     "It is clear that the vertigo is spontaneous and its duration matches typical features (20 minutes to 12 hours).",
+     "The typical triad of fluctuating hearing loss and tinnitus/aural fullness has been confirmed.",
+     "Key information excluding other common vestibular disorders (such as BPPV and vestibular neuritis) has been obtained."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Pure-tone audiometry (to assess type and degree of hearing loss)",
+     "Glycerol test (to aid diagnosis of endolymphatic hydrops)",
+     "Vestibular function testing (e.g., video head impulse test, vHIT; caloric testing)"
+    ],
+    "if_suspected": [
+     "Electrocochleography (ECochG, to measure the SP/AP amplitude ratio)",
+     "Brain MRI (to exclude central lesions such as acoustic neuroma)",
+     "Allergen screening (if an allergic trigger is suspected)"
+    ],
+    "avoid": [
+     "Routine CT scanning (low soft tissue resolution, not first-line)",
+     "Lumbar puncture without indication (unless intracranial pressure abnormality is suspected)",
+     "Overreliance on serologic testing (lacks specific markers)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes restriction of sodium intake (daily <2g) and diuretics (such as hydrochlorothiazide combined with triamterene), for at least 3 months. In the acute phase, use vestibular suppressants (such as betahistine 8-16mg tid) to relieve vertigo, supplemented with antiemetics. Nonpharmacologic interventions emphasize lifestyle adjustment, avoiding caffeine, alcohol, and excessive stress."
+    ],
+    "safety_warnings": [
+     "Monitor electrolytes during long-term diuretic use to prevent hypokalemia.",
+     "Betahistine is contraindicated in patients with active peptic ulcer disease.",
+     "Vestibular suppressants should not be used continuously long term, to avoid inhibiting vestibular compensation mechanisms."
+    ],
+    "personalization": [
+     "Use anticholinergic drugs with caution in older adults to prevent fall risk.",
+     "Pregnant women should weigh medication safety under medical guidance.",
+     "For refractory cases, intratympanic injection of gentamicin or corticosteroids may be considered, with strict assessment of hearing risk."
+    ]
+   },
+   "disease": "Meniere disease",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Patients often report severe pain, swelling, and obvious deformity after nasal trauma, such as a depressed or deviated nasal bridge. Some patients have epistaxis and a sensation of nasal obstruction; on palpation, bony crepitus or abnormal mobility may be felt. If soft tissue injury is present, subcutaneous ecchymosis (black eyes) may be seen.",
+   "interview_guide": {
+    "first_questions": [
+     "When and how exactly did the injury occur?",
+     "Do you have persistent epistaxis or difficulty breathing?",
+     "Have you had blurred vision or loss of consciousness?"
+    ],
+    "followup_questions": [
+     "If there is epistaxis, how heavy is the bleeding? Has it stopped on its own?",
+     "Do you have a history of nasal surgery or septal deviation?",
+     "Are you experiencing headache, nausea, or other symptoms of intracranial injury?"
+    ],
+    "stop_conditions": [
+     "Trauma history is clear and typical signs have been clearly described",
+     "No neurological symptoms and vital signs are stable",
+     "The patient can clearly describe the injury mechanism and current symptoms"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Nasal CT scan (coronal + axial views)",
+     "Nasal endoscopy",
+     "Facial X-ray (lateral view)"
+    ],
+    "if_suspected": [
+     "Head CT (if skull base fracture is suspected)",
+     "Orbital CT (if orbital wall fracture is suspected)",
+     "Coagulation testing (for severe epistaxis)"
+    ],
+    "avoid": [
+     "Routine sinus MRI (not recommended in the non-acute phase)",
+     "Repeated X-ray examinations (increased radiation risk)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Apply cold compresses early to reduce swelling, and use antibiotics if necessary to prevent infection. For fractures with obvious displacement, closed reduction is recommended within 7-10 days after injury. Regular follow-up is required after surgery, and strenuous exercise should be avoided to prevent re-injury. Nonsurgical treatment is suitable for fractures without obvious displacement, mainly consisting of observation."
+    ],
+    "safety_warnings": [
+     "Open surgery is contraindicated in the acute phase to avoid worsening tissue damage",
+     "Check the history of drug allergy, especially before antibiotic use",
+     "Be alert to the risk of suffocation due to delayed nasal septal hematoma"
+    ],
+    "personalization": [
+     "Perform procedures cautiously in pediatric patients to avoid affecting nasal development",
+     "Assess for osteoporosis in older adults and adjust the force used during reduction",
+     "Correct coagulation parameters in advance in patients with coagulopathy"
+    ]
+   },
+   "disease": "nasal bone fracture",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Patients often report persistent nasal obstruction that is progressively worsening and usually bilateral. It is accompanied by hyposmia or anosmia and increased nasal discharge, which is mostly mucoid or purulent. Some patients may experience dizziness, headache, and a feeling of ear fullness. If asthma or aspirin intolerance is present, symptoms may be more complex. Physical examination may reveal a grayish-white, semitranslucent, painless, lychee-flesh-like polypoid mass in the nasal cavity.",
+   "interview_guide": {
+    "first_questions": [
+     "Is your nasal obstruction unilateral or bilateral? How long has it lasted?",
+     "Do you feel that your sense of smell has decreased or that you cannot smell odors at all?",
+     "Have you had long-term rhinorrhea, sneezing, or facial fullness/pain?"
+    ],
+    "followup_questions": [
+     "If you have wheezing or difficulty breathing, does it worsen after exposure to specific drugs (such as aspirin)?",
+     "Do you have a history of allergic rhinitis, asthma, or sinusitis?",
+     "Have you ever undergone nasal surgery or used decongestant nasal drops long term?"
+    ],
+    "stop_conditions": [
+     "Bilateral persistent nasal obstruction with hyposmia has been clearly established, and there are no signs of acute infection.",
+     "A history of asthma or aspirin intolerance has been confirmed, consistent with the typical triad features.",
+     "The patient's complaints are clear, and conditions requiring emergency management, such as acute purulent sinusitis, have been excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Electronic nasal endoscopy",
+     "Non-contrast sinus CT"
+    ],
+    "if_suspected": [
+     "Allergen skin prick test",
+     "Pulmonary function testing and fractional exhaled nitric oxide measurement",
+     "Serum total IgE and eosinophil count"
+    ],
+    "avoid": [
+     "Routine skull X-ray (low diagnostic value and high radiation exposure)",
+     "Unnecessary bacterial culture (during non-acute infection)",
+     "Blind use of vasoconstrictors for diagnostic treatment"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is an intranasal corticosteroid spray (e.g., mometasone furoate or fluticasone propionate), 1-2 times daily for at least 3 months. For moderate-to-severe polyps, a short course of oral corticosteroids (e.g., prednisone, starting dose 0.5mg/kg/d, with gradual tapering) may be used. Concurrent saline nasal irrigation helps clear secretions and improve the mucosal environment. If medical therapy is ineffective or polyps cause severe obstruction, functional endoscopic sinus surgery should be considered."
+    ],
+    "safety_warnings": [
+     "Long-term use of intranasal corticosteroids requires attention to the risk of local fungal infection, with regular follow-up.",
+     "Oral corticosteroids must not be stopped abruptly; strict adherence to physician instructions for tapering is required to prevent adrenal cortical insufficiency.",
+     "Patients with diabetes using corticosteroids require close monitoring of blood glucose fluctuations."
+    ],
+    "personalization": [
+     "In pediatric patients, systemic corticosteroids should be used cautiously; highly selective intranasal corticosteroids are preferred.",
+     "Pregnant women should avoid oral corticosteroids; local preparations should be used only when necessary after weighing risks and benefits.",
+     "In patients with aspirin-exacerbated respiratory disease (AERD), aspirin and nonsteroidal anti-inflammatory drugs are contraindicated."
+    ]
+   },
+   "disease": "nasal polyp",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Patients often report unilateral or bilateral persistent nasal obstruction, facial fullness or pressure, with pain most often located in the forehead, cheeks, or around the orbits. Some patients have purulent nasal discharge, hyposmia, or recurrent sinusitis symptoms. If the cyst is large and compresses adjacent structures, diplopia or a sensation of globe displacement may occur. Physical examination may reveal a cystic bulge in the nasal cavity that feels fluctuant on palpation.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have persistent nasal obstruction or facial fullness/pressure? Where exactly is it located?",
+     "Recently, have you had purulent nasal discharge, reduced sense of smell, or worsening headache?",
+     "Did these symptoms appear suddenly or gradually worsen? How long have they lasted?"
+    ],
+    "followup_questions": [
+     "If you have eye symptoms (such as diplopia or blurred vision), please describe in detail when they occur and how often.",
+     "Have you had any history of trauma or prior sinus surgery?",
+     "Have you ever taken antibiotics or intranasal corticosteroids on your own? What was the effect?"
+    ],
+    "stop_conditions": [
+     "The patient has clearly described typical facial fullness/pressure and nasal obstruction, with no signs of neurologic involvement.",
+     "The history has covered trauma, infection, and previous treatment response, sufficient for a preliminary assessment of the nature of the condition.",
+     "The patient's symptoms are mild and stable, with no risk of acute infection or complications."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Nasal endoscopy",
+     "Non-contrast and contrast-enhanced sinus CT",
+     "Sinus X-ray (if necessary)"
+    ],
+    "if_suspected": [
+     "MRI (to differentiate tumor or assess the extent of soft-tissue invasion)",
+     "Allergen testing (to exclude comorbid allergic rhinitis)",
+     "Complete blood count and C-reactive protein (to assess for acute infection)"
+    ],
+    "avoid": [
+     "Routine chest CT (unless metastatic systemic disease is suspected)",
+     "Blind puncture biopsy (may lead to infection spread or misdiagnosis)",
+     "Long-term antibiotic therapy without indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Asymptomatic small cysts can be followed with regular observation.",
+     "For symptomatic patients, functional endoscopic sinus surgery (FESS) is preferred to resect the cyst and open the sinus ostium. Postoperatively, saline nasal irrigation is used, and a short course of intranasal corticosteroid spray (e.g., mometasone furoate, once daily, 2 sprays per nostril) may be used as needed to reduce inflammation. The course is usually 4-6 weeks and adjusted according to follow-up findings."
+    ],
+    "safety_warnings": [
+     "Avoid elective surgery during acute infection to prevent spread of infection.",
+     "Intranasal corticosteroids must be used appropriately; be alert to the risk of nasal septal perforation or local fungal infection with long-term use.",
+     "Postoperatively, closely monitor for bleeding and cerebrospinal fluid rhinorrhea, especially after surgery in the sphenoid sinus region."
+    ],
+    "personalization": [
+     "In pediatric patients, the necessity of surgery should be carefully assessed, and conservative treatment is preferred to avoid affecting jaw development.",
+     "Pregnant women should avoid unnecessary imaging and nonessential drugs; physical treatment may be selected when necessary.",
+     "In immunocompromised patients, postoperative anti-infection management should be strengthened and follow-up intervals prolonged."
+    ]
+   },
+   "disease": "paranasal sinus cyst",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Patients often present with chronic nasal obstruction, purulent or bloody nasal discharge, and granulomatous lesions visible in the nasal cavity that bleed easily on the surface. Some cases may develop facial swelling, pain, or even invasion of adjacent structures such as the orbit or skull base, leading to visual impairment or headache. Symptoms progress slowly and are easily misdiagnosed as tumor or ordinary sinusitis.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had long-term nasal obstruction, purulent nasal discharge, or recurrent epistaxis?",
+     "How long have these symptoms lasted? Have they gradually worsened?"
+    ],
+    "followup_questions": [
+     "Have you had facial swelling, pain, or changes in vision?",
+     "Have you traveled recently, especially to tropical or subtropical regions?"
+    ],
+    "stop_conditions": [
+     "The patient has clearly described typical symptoms and mentioned possible exposure history.",
+     "Symptoms have lasted more than 3 months and have not responded to conventional treatment.",
+     "The patient has undergone relevant examinations and has a preliminary diagnosis."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Nasal endoscopy",
+     "Histopathological biopsy",
+     "Fungal culture and molecular testing"
+    ],
+    "if_suspected": [
+     "Sinus CT scan",
+     "MRI (to assess intracranial or orbital invasion)",
+     "Immunohistochemical staining"
+    ],
+    "avoid": [
+     "Systemic antibiotic therapy without indication",
+     "Extensive surgical resection without pathologic confirmation",
+     "Nonspecific imaging (e.g., plain X-ray)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes antifungal agents, such as itraconazole (200-400mg/day for 3-6 months) or voriconazole (200mg bid). For severe infection, intravenous amphotericin B may be used in combination. Local debridement and lesion resection are also required, with immunomodulatory therapy added when necessary."
+    ],
+    "safety_warnings": [
+     "Avoid concomitant use with CYP3A4 inhibitors to prevent increased hepatotoxicity.",
+     "Monitor liver function, especially with long-term use of azoles.",
+     "Be aware of the risk of drug-induced QT interval prolongation."
+    ],
+    "personalization": [
+     "In pediatric patients, adjust the dose according to body weight.",
+     "Use azoles cautiously in pregnant women; amphotericin B is preferred.",
+     "In immunocompromised patients, prolong the course and follow up closely."
+    ]
+   },
+   "disease": "rhinosporidiosis",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Patients often have sudden severe sore throat that worsens on swallowing, accompanied by high fever (above 38℃) and chills. Physical examination reveals pharyngeal congestion, enlarged tonsils with purulent exudate, and marked tenderness of the submandibular lymph nodes. Usually there is no cough, rhinorrhea, or other upper respiratory catarrhal symptoms; if these symptoms occur, viral infection should be considered.",
+   "interview_guide": {
+    "first_questions": [
+     "How long has the sore throat lasted? Is it accompanied by high fever or chills?",
+     "Do you have difficulty swallowing or painful swollen cervical lymph nodes?",
+     "Have you recently had contact with someone with similar symptoms?"
+    ],
+    "followup_questions": [
+     "If you have a rash, is it a scarlet fever-like rash? When did it appear?",
+     "Have you had ear pain, joint pain, or changes in urine color?",
+     "Do you have a history of rheumatic fever or penicillin allergy?"
+    ],
+    "stop_conditions": [
+     "Typical symptoms are clear and there are no high-risk factors, allowing a preliminary diagnosis.",
+     "Rapid antigen testing or culture of a throat swab has been completed and sent for testing.",
+     "Features of viral cold (such as cough and rhinorrhea) have been excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Rapid group A streptococcal antigen test on throat swab",
+     "Throat swab bacterial culture (gold standard)"
+    ],
+    "if_suspected": [
+     "Complete blood count (to assess white blood cell and neutrophil percentages)",
+     "Antistreptolysin O (ASO) titer (for retrospective diagnosis)"
+    ],
+    "avoid": [
+     "Routine chest CT (unnecessary when there are no pulmonary symptoms)",
+     "Nonspecific inflammatory marker screening before empiric use of broad-spectrum antibiotics"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is oral penicillin V potassium for 10-14 days, or amoxicillin 50mg/kg/day in divided doses. For patients allergic to penicillin, cephalosporins (for non-severe allergy) or macrolides (e.g., azithromycin) may be selected. Supportive treatment includes antipyretics, fluid replacement, and rest; avoid irritating foods."
+    ],
+    "safety_warnings": [
+     "Beta-lactam drugs are strictly contraindicated in patients allergic to penicillin to prevent anaphylactic shock.",
+     "Be aware of gastrointestinal reactions and QT interval prolongation risk with macrolides.",
+     "Ensure a full course of treatment to prevent recurrence of rheumatic fever."
+    ],
+    "personalization": [
+     "Pediatric doses must be accurately calculated by body weight to avoid overdose.",
+     "Penicillins are preferred in pregnant women; tetracyclines and quinolones should be used cautiously.",
+     "Adjust doses of macrolides or cephalosporins in patients with renal impairment."
+    ]
+   },
+   "disease": "streptococcal pharyngitis",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Patients often report severe throbbing pain deep in the ear, followed by otorrhea; the discharge is initially bloody and then becomes mucopurulent or frankly purulent. Some patients have hearing loss, tinnitus, and systemic symptoms such as fever. In the acute phase, pain is marked; after tympanic membrane perforation, pain decreases but otorrhea persists; in the chronic phase, patients present with recurrent otorrhea and progressive hearing loss, without severe pain.",
+   "interview_guide": {
+    "first_questions": [
+     "How long have you had ear pain or discharge?",
+     "Have you recently had a cold, been swimming, or picked your ears?",
+     "Have you had noticeable hearing loss or tinnitus?"
+    ],
+    "followup_questions": [
+     "Has the discharge had a foul odor or been bloody?",
+     "Have you had high fever, vertigo, or facial paralysis?",
+     "Have you had similar episodes or previous middle ear surgery?"
+    ],
+    "stop_conditions": [
+     "Acute episode features (severe pain, otorrhea) have been clarified, with no signs of complications",
+     "A history of chronic suppurative otitis media and the nature of current otorrhea have been confirmed",
+     "Necessary otoscopy has been completed and the risk of intracranial complications has been ruled out"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Otoscopy",
+     "Pure-tone audiometry",
+     "Tympanometry"
+    ],
+    "if_suspected": [
+     "High-resolution CT of the temporal bone",
+     "Bacterial culture and susceptibility testing of the discharge",
+     "Plain radiography of the mastoid"
+    ],
+    "avoid": [
+     "Blindly inserting cotton swabs deep into the ear canal for cleaning",
+     "High-pressure irrigation before cholesteatoma has been ruled out",
+     "Unnecessary whole-body MRI"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "In the acute phase, first-line treatment is susceptible antibiotic ear drops (e.g., ofloxacin ear drops), 3-4 times daily for 7-10 days",
+     "If systemic infection symptoms are present, oral antibiotics are needed (e.g., amoxicillin-clavulanate potassium). Keep the ear canal dry and clean, and remove purulent crusts. In the chronic phase, if medication is ineffective or cholesteatoma is present, surgery should be considered."
+    ],
+    "safety_warnings": [
+     "Avoid aminoglycoside ear drops to prevent ototoxicity",
+     "Do not use alcohol-containing preparations in patients with tympanic membrane perforation because they may irritate the wound",
+     "Watch for early signs of intracranial complications such as meningitis"
+    ],
+    "personalization": [
+     "For pediatric patients, calculate the oral antibiotic dose precisely according to body weight",
+     "Use quinolones with caution in pregnant women; penicillins or cephalosporins are preferred",
+     "Patients with diabetes need strengthened glycemic control to prevent spread of infection"
+    ]
+   },
+   "disease": "Suppurative otitis media",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Patients often report severe sore throat that worsens with swallowing, accompanied by high fever, chills, and generalized fatigue. Examination shows marked tonsillar redness and swelling, with yellow-white purulent spots or exudate on the surface, and enlarged, tender submandibular lymph nodes. Some patients may have halitosis, slurred speech, or limited mouth opening.",
+   "interview_guide": {
+    "first_questions": [
+     "How long has the sore throat lasted? Is it accompanied by fever?",
+     "Do you have difficulty swallowing or trouble breathing?",
+     "Have you recently had an upper respiratory tract infection?"
+    ],
+    "followup_questions": [
+     "If the high fever persists, ask whether antipyretics were used and how effective they were.",
+     "If the sore throat radiates to the ear, ask whether there is hearing loss or tinnitus.",
+     "If there is difficulty breathing, confirm whether hoarseness or stridor is present."
+    ],
+    "stop_conditions": [
+     "Sore throat with high fever and purulent tonsillar exudate has been confirmed",
+     "Other serious complications such as epiglottitis have been ruled out",
+     "Symptoms have lasted more than 3 days without improvement"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Throat swab bacterial culture",
+     "Complete blood count",
+     "C-reactive protein testing"
+    ],
+    "if_suspected": [
+     "Neck ultrasound (if abscess is suspected)",
+     "Laryngoscopy (to assess airway patency)",
+     "Rapid streptococcal antigen testing"
+    ],
+    "avoid": [
+     "Routine chest X-ray (unless pneumonia is suspected)",
+     "Unnecessary CT scans (in non-complex cases)",
+     "Repeated throat swab cultures (when already confirmed initially)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is a penicillin antibiotic (e.g., amoxicillin), at a dose of 500 mg three times daily for adults, for 7-10 days. For patients allergic to penicillin, a macrolide (e.g., azithromycin) may be selected. At the same time, give antipyretics (e.g., acetaminophen) to relieve symptoms, and advise increased fluid intake, rest, and warm saline gargles."
+    ],
+    "safety_warnings": [
+     "Penicillin-allergic patients must not use related drugs",
+     "Avoid concomitant use with anticoagulants such as warfarin to prevent bleeding risk",
+     "Monitor for abnormal liver and kidney function"
+    ],
+    "personalization": [
+     "Adjust the dose by body weight in children",
+     "For pregnant women, prefer penicillins with a favorable safety profile",
+     "In older adults, pay attention to underlying diseases and drug interactions"
+    ]
+   },
+   "disease": "Suppurative tonsillitis",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Patients report continuous or intermittent abnormal sounds in the ear or head, such as buzzing, cicada-like ringing, or running water, without an external sound source. Symptoms may be unilateral or bilateral and are often accompanied by hearing loss, vertigo, or a feeling of ear fullness. In some patients, symptoms worsen in quiet environments, affecting sleep and concentration.",
+   "interview_guide": {
+    "first_questions": [
+     "Is your tinnitus continuous or intermittent?",
+     "What does the tinnitus sound like (e.g., buzzing, cicada-like ringing)?",
+     "Is it accompanied by hearing loss, vertigo, or ear fullness?"
+    ],
+    "followup_questions": [
+     "Does the tinnitus worsen at specific times (e.g., at night)?",
+     "Have you had noise exposure or a recent ear infection?",
+     "Have you taken any medications that may cause tinnitus?"
+    ],
+    "stop_conditions": [
+     "The nature, duration, and associated symptoms of the tinnitus have been clarified.",
+     "The patient's noise exposure history and medication use have been obtained.",
+     "Acute ear infection or other urgent conditions have been ruled out."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Pure-tone audiometry",
+     "Tympanometry",
+     "Otoscopy"
+    ],
+    "if_suspected": [
+     "Brain MRI (if acoustic neuroma is suspected)",
+     "Blood tests (e.g., thyroid function, blood glucose)",
+     "Vestibular function testing (if vertigo is present)"
+    ],
+    "avoid": [
+     "Routine X-ray (limited diagnostic value for tinnitus)",
+     "Overreliance on CT scanning (unless bony lesions are suspected)",
+     "Antibiotic treatment without an indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes etiology-directed treatment (e.g., cerumen removal, hypertension control) and nonpharmacologic interventions such as sound therapy and cognitive behavioral therapy. For idiopathic tinnitus, Ginkgo biloba extract or zinc supplementation may be considered. The course is usually 3-6 months, with regular assessment of efficacy."
+    ],
+    "safety_warnings": [
+     "Avoid long-term high-dose aspirin, which may worsen tinnitus.",
+     "Be aware of the ototoxic risk of certain drugs (e.g., aminoglycoside antibiotics).",
+     "Be alert for sudden hearing loss with tinnitus; prompt medical attention is needed to prevent permanent hearing damage."
+    ],
+    "personalization": [
+     "Adjust drug doses in older adults to avoid the risks of polypharmacy.",
+     "Use potentially teratogenic drugs with caution in pregnant women; nonpharmacologic interventions are preferred.",
+     "For pediatric patients, combine treatment with psychological support to avoid anxiety worsening symptoms."
+    ]
+   },
+   "disease": "Tinnitus",
+   "department": "Otolaryngology (ENT)"
+  },
+  {
+   "presentation": "Patients often report paroxysmal nasal itching and frequent sneezing, accompanied by copious clear watery rhinorrhea and nasal congestion. Symptoms are markedly variable and often have sudden onset upon exposure to cold air, odor irritation, emotional fluctuations, or abrupt temperature changes, with no seasonal pattern. They are usually not accompanied by fever, generalized myalgia, or other signs of infection, and the response to antihistamines varies; the course is prolonged and recurrent.",
+   "interview_guide": {
+    "first_questions": [
+     "Do your nasal congestion and rhinorrhea worsen immediately after exposure to cold air, cooking fumes, or perfume?",
+     "Are these symptoms continuous or intermittent? Are there obvious triggers?"
+    ],
+    "followup_questions": [
+     "Is it accompanied by itchy eyes, tearing, or a history of skin allergy (e.g., eczema, asthma)?",
+     "Have you recently used decongestants (e.g., naphazoline nasal drops), and how effective was the relief?"
+    ],
+    "stop_conditions": [
+     "Symptoms have been clarified as triggered by nonspecific environmental factors, and a history of exposure to typical allergens of allergic rhinitis has been ruled out.",
+     "The patient denies fever, purulent nasal discharge, facial tenderness, or other signs of sinusitis or upper respiratory tract infection.",
+     "No history of drug abuse has been confirmed, and the symptom pattern is consistent with autonomic nervous system dysfunction."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Anterior rhinoscopy: observe pallor and edema or congestion of the nasal mucosa",
+     "Nasal endoscopy: assess the degree of inferior turbinate hypertrophy and the nature of secretions",
+     "Nasal secretion smear cytology: eosinophil count"
+    ],
+    "if_suspected": [
+     "Allergen skin prick test: to rule out allergic factors",
+     "Serum specific IgE testing: to assist differential diagnosis",
+     "Sinus CT scan: if comorbid chronic sinusitis is suspected"
+    ],
+    "avoid": [
+     "Routine bacterial culture (unless purulent secretions suggest secondary infection)",
+     "Long-term blind use of vasoconstrictors (to avoid the risk of rhinitis medicamentosa)",
+     "Systemic steroid therapy without an indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is an intranasal corticosteroid spray (e.g., mometasone furoate, 1-2 sprays per nostril once daily), for at least 4 weeks to stabilize the mucosa. An intranasal anticholinergic (e.g., ipratropium bromide) may be combined to control watery rhinorrhea. Advise patients to perform nasal irrigation and avoid cold/heat stimulation and known triggers. For refractory nasal congestion, physical therapy or surgical intervention may be considered."
+    ],
+    "safety_warnings": [
+     "Long-term use of intranasal corticosteroids requires vigilance for the risk of nasal septal perforation and local fungal infection",
+     "Do not use vasoconstrictors continuously for more than 7 days to prevent rebound nasal congestion",
+     "Ipratropium bromide may cause dry mouth; use with caution in patients with glaucoma"
+    ],
+    "personalization": [
+     "For pregnant women, budesonide is preferred, with strict assessment of the benefit-risk ratio",
+     "For pediatric patients, adjust the dose by body weight and prefer formulations with a favorable safety profile",
+     "In older adults, monitor blood pressure changes and avoid adverse effects caused by systemic absorption"
+    ]
+   },
+   "disease": "vasomotor rhinitis",
+   "department": "Otolaryngology (ENT)"
+  }
+ ]
+}

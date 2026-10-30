@@ -1,0 +1,1332 @@
+{
+ "department": "Urology",
+ "skills": [
+  {
+   "presentation": "Sudden onset of marked urinary tract irritation: urinary frequency (abrupt increase in voiding, every few minutes, with very small volume each time), urgency (intolerable desire to void), dysuria (burning, stinging pain in the urethra and suprapubic area during voiding and at the end of voiding), accompanied by dragging, painful discomfort in the suprapubic bladder region; urine is cloudy, meat-washing-water-like, or terminal gross hematuria; usually no systemic infection symptoms such as fever, chills, or flank pain.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have to urinate very frequently and can't hold your urine (urgency), and does it burn and sting sharply in the urethra each time you urinate?",
+     "Did this stinging pain on urination and urgency start suddenly within the past one or two days?",
+     "What color is your urine? Is it cloudy, red, or is there blood visible to the eye?"
+    ],
+    "followup_questions": [
+     "Do you have chills or fever, or a raised temperature? Do you have aching or severe pain in the lower back? (Extremely important: rule out acute pyelonephritis)",
+     "For female patients, before the onset, was there any history of holding urine, fatigue, too little fluid intake, or sexual intercourse?",
+     "Have you ever had urinary tract stones, urinary tract malformation, or recurrent urinary tract infections?"
+    ],
+    "stop_conditions": [
+     "The triad of sudden urinary frequency, urgency, and dysuria plus suprapubic discomfort has been confirmed",
+     "Fever, flank pain, and renal angle percussion tenderness have been clearly ruled out, excluding acute pyelonephritis of the upper urinary tract",
+     "Drinking habits, sexual precipitating factors, and drug allergy history have been clearly documented"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Urinalysis + urine sediment microscopy (core test: white cells filling the field, WBC >5/HPF, positive leukocyte esterase, positive nitrite (NIT), with varying degrees of microscopic hematuria)",
+     "Color Doppler ultrasound of the urinary system (to rule out hydronephrosis, urinary tract stones, and bladder mass)"
+    ],
+    "if_suspected": [
+     "Clean midstream urine bacterial culture + drug susceptibility testing (for patients with recurrent, refractory, or treatment-refractory disease)",
+     "Gynecological examination/vaginal discharge examination (in women with vulvar itching, to rule out pseudo-dysuria caused by vaginitis)"
+    ],
+    "avoid": [
+     "Invasive cystoscopy or retrograde urography during the acute attack (absolute contraindication: highly likely to cause mucosal trauma and hematogenous spread of infection to the kidney)",
+     "Blind long-term high-dose intravenous antibiotic infusion for simple acute uncomplicated cystitis"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First choice is short-course oral antibiotic therapy: fosfomycin trometamol sachet (3 g as a single dose) or nitrofurantoin enteric-coated tablets (100 mg bid for 5 days) or second/third-generation cephalosporins (cefdinir/cefixime for 3 days) or quinolones (levofloxacin for 3 days)",
+     "General measures: drink plenty of water (daily intake >2000–2500 ml, maintain daily urine output >2000 ml to flush the urethra), alkalinize the urine (oral sodium bicarbonate to relieve bladder irritation pain), and avoid holding urine."
+    ],
+    "safety_warnings": [
+     "If the patient develops high fever (temperature >38.5 °C), chills, and obvious flank pain with renal angle percussion tenderness, this indicates the infection has ascended and evolved into acute pyelonephritis; intravenous anti-infective therapy must be given according to the standard for upper urinary tract infection for 10–14 days",
+     "Quinolone antibiotics (levofloxacin, etc.) are contraindicated in pregnant and breastfeeding women; for urinary tract infection in pregnancy, cephalosporins or amoxicillin are the first choice",
+     "Nitrofurantoin has poor efficacy and a risk of neurotoxicity in patients with renal impairment (eGFR <30 ml/min) and is contraindicated"
+    ],
+    "personalization": [
+     "Postmenopausal elderly women with recurrent cystitis: may combine with low-dose topical vaginal estrogen cream to improve urethral mucosal atrophy and local resistance",
+     "Honeymoon cystitis (frequent after intercourse): instruct to void immediately after intercourse and may give prophylactic single low-dose oral antibiotic after intercourse",
+     "Asymptomatic bacteriuria or cystitis in pregnancy: must be actively treated with a full standard course to prevent precipitation of preterm birth and acute pyelonephritis"
+    ]
+   },
+   "disease": "Acute cystitis",
+   "department": "Urology"
+  },
+  {
+   "presentation": "Adult male with acute onset; systemic toxic symptoms such as fever, chills, fatigue, weakness, and generalized joint aching; accompanied by marked heaviness, distending pain and severe throbbing pain in the perineum, suprapubic area, and lumbosacral region, worsened by defecation or prolonged sitting; severe urinary irritation symptoms: urinary frequency, urgency, dysuria, difficulty voiding, thin urine stream, dribbling, or even sudden acute urinary retention.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have sudden high fever, chills, or shivering? What temperature did you measure?",
+     "Do you have severe heaviness, distension, or severe pain in the perineum (between the testicles and the anus) or lower abdomen? Is the pain severe when you pass stool or sit?",
+     "Is it very difficult to urinate, with severe stinging in the urethra when you pass urine? Have you been unable to pass urine (urinary retention)?"
+    ],
+    "followup_questions": [
+     "Before the onset, was there excessive alcohol drinking, a large amount of spicy stimulating food, long periods of bicycle riding, or holding urine?",
+     "Recently, have you had a urethral catheter inserted, cystoscopy, or prostate needle biopsy?",
+     "Is there any purulent discharge from the urethral meatus?"
+    ],
+    "stop_conditions": [
+     "The four core features of acute systemic high fever toxic symptoms, severe perineal pain, and voiding difficulty have been confirmed",
+     "Acute urinary retention and the critical complication of prostatic abscess have been ruled out",
+     "History of prior urinary tract instrumentation and precipitating factors are clearly documented"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Digital rectal examination (DRE) (the maneuver must be gentle! The prostate may be markedly enlarged, with extremely high surface tension, extremely severe tenderness, and markedly elevated local skin temperature)",
+     "Urinalysis (abundant white cells, red cells, and bacteria)",
+     "Midstream urine bacterial culture + drug susceptibility testing",
+     "Complete blood count, CRP, procalcitonin (PCT) (systemic inflammatory response markedly elevated)"
+    ],
+    "if_suspected": [
+     "Bilateral blood cultures (during the high fever and chills phase to rule out bacteremia/sepsis)",
+     "Transrectal/transabdominal color Doppler ultrasound of the prostate (to assess prostatic congestion and enlargement and to rule out prostatic abscess formation)",
+     "Prostate-specific antigen (PSA; often rebounds markedly in the acute phase; recheck after inflammation is completely controlled for 1–3 months)"
+    ],
+    "avoid": [
+     "Prostate massage to obtain expressed prostatic secretions (EPS) is strictly prohibited in the acute phase! (Absolute contraindication: vigorous massage can easily cause bacteria to enter the bloodstream instantly, inducing fatal septic shock and septicemia)",
+     "Forceful blind insertion of a metal urethral catheter during acute urinary retention (suprapubic bladder puncture cystostomy should be performed first)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Systemic high-dose intravenous broad-spectrum antibacterial therapy (first choice: drugs with high prostate lipid solubility and penetration covering Gram-negative bacilli such as Escherichia coli: intravenous third-generation cephalosporins such as ceftriaxone, ceftazidime, or piperacillin-tazobactam, or quinolones levofloxacin/ciprofloxacin)",
+     "After the temperature returns to normal and fever subsides, continue oral susceptible antibiotics for at least 4–6 weeks (to prevent transition to chronic bacterial prostatitis)",
+     "Symptomatic antispasmodic and analgesic treatment (ibuprofen/diclofenac), α-blockers (tamsulosin to relax prostatic smooth muscle and improve voiding)",
+     "Bed rest, plenty of fluids, and keep the bowels open."
+    ],
+    "safety_warnings": [
+     "Prostate massage is absolutely prohibited in acute bacterial prostatitis! Transurethral instrumentation is contraindicated!",
+     "If acute urinary retention occurs, forceful repeated transurethral catheterization is strictly prohibited; emergency ultrasound-guided suprapubic bladder puncture cystostomy should be performed for urine drainage",
+     "The antibiotic course must be completed for at least 4 weeks; stopping early easily leads to relapse or a protracted course with formation of prostatic abscess and chronic prostatitis"
+    ],
+    "personalization": [
+     "Patients with ultrasound findings of prostatic abscess formation in whom drug therapy is ineffective: ultrasound-guided transrectal or transperineal abscess puncture, aspiration, irrigation, and drainage",
+     "Sexually active young men: also screen for Neisseria gonorrhoeae and Chlamydia trachomatis infection, and choose ceftriaxone combined with azithromycin/doxycycline",
+     "Patients with severe septic shock: immediate intravenous fluid resuscitation, vasoactive drugs, and escalation to broad-spectrum carbapenems"
+    ]
+   },
+   "disease": "Acute bacterial prostatitis",
+   "department": "Urology"
+  },
+  {
+   "presentation": "Sudden onset of severe knife-cut-like colicky pain (renal colic) in the unilateral lower back or costal flank, radiating along the ureter to the lower abdomen, groin, ipsilateral testicle, or labium majus; the pain occurs in paroxysms and is extremely severe, with profuse sweating, restlessness and inability to lie still, nausea, vomiting, and pallor; often accompanied by microscopic or gross hematuria; if the stone is complicated by urinary tract infection, chills and high fever may occur; on physical examination there is marked percussion tenderness over the renal angle on the affected side.",
+   "interview_guide": {
+    "first_questions": [
+     "Did the back pain start suddenly as a knife-cut-like, tearing severe pain? Is it so severe that you roll around in bed?",
+     "Does the severe pain in your back radiate downward along the lower abdomen, the groin, or the testicle/vulvar area?",
+     "Is the urine red like meat-washing water (hematuria)? Do you have nausea or severe vomiting during the attack?"
+    ],
+    "followup_questions": [
+     "Do you have chills or high fever? (Extremely dangerous: be alert to stone obstruction complicated by purulent infection/pyonephrosis)",
+     "Have you ever had kidney stones on this side before? Have you ever passed a small stone yourself?",
+     "What are your usual drinking habits? Do you work long-term in a high-temperature environment, drink little water, or have a history of gout/hyperuricemia?"
+    ],
+    "stop_conditions": [
+     "The characteristics of the sudden renal colic attack, the radiation site, and gross/microscopic hematuria have been confirmed",
+     "The fatal complication of obstruction complicated by infection (acute obstructive suppurative pyelonephritis) has been strictly ruled out",
+     "Prior stone history, unilateral/bilateral status, and risk of renal function impairment are clear"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Non-contrast low-dose plain CT of the whole abdomen/urinary tract (NCCT) (gold standard for diagnosis of urinary tract stones: sensitivity and specificity above 98%, clearly showing stone size, number, location, CT attenuation value (hardness), and degree of hydronephrosis)",
+     "Color Doppler ultrasound of the urinary tract (rapid bedside screening for strong echogenic foci with acoustic shadowing in the kidney and separation/hydronephrosis of the renal pelvis)",
+     "Urinalysis (abundant red cells, white cells, urinary crystals)",
+     "Renal function panel (serum creatinine, blood urea nitrogen) and serum electrolytes"
+    ],
+    "if_suspected": [
+     "CT urography (CTU) or intravenous urography (IVU) (to assess the anatomical structure of the entire urinary tract and renal excretory function; contraindicated in patients with elevated serum creatinine)",
+     "Infrared spectroscopy stone composition analysis (must be performed on stones passed spontaneously or obtained after surgery; guides subsequent dietary and pharmacologic recurrence prevention)",
+     "Serum calcium, phosphorus, intact parathyroid hormone (iPTH), and serum uric acid (to rule out metabolic causes such as hyperparathyroidism or gout)"
+    ],
+    "avoid": [
+     "Unwarranted indiscriminate use of systemic contrast-enhanced high-dose MRI during an acute stone attack",
+     "Ultrasound is the first choice for renal colic in pregnant women; avoid arbitrary high-dose CT radiation exposure"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For acute renal colic, first choice for analgesia and antispasmodic therapy: nonsteroidal anti-inflammatory drugs (NSAIDs such as diclofenac sodium suppository per rectum or flurbiprofen axetil IV) combined with antispasmodics (phloroglucinol/anisodamine)",
+     "For severe pain, combine opioid analgesics (pethidine/tramadol)",
+     "Conservative stone-expulsion therapy (stone diameter <6 mm, smooth surface, no obstruction or infection): drink plenty of water >2500–3000 ml/day, oral α-blockers (tamsulosin to relax the distal ureter and promote stone passage), moderate jumping",
+     "Surgical intervention (stone >6–10 mm or severe obstruction): extracorporeal shock wave lithotripsy (ESWL), flexible/rigid ureteroscopic lithotripsy (URL/FURL), percutaneous nephrolithotomy (PCNL)."
+    ],
+    "safety_warnings": [
+     "Complete stone obstruction complicated by acute febrile infection (pyonephrosis/urosepsis) is a fatal emergency! Extracorporeal shock wave lithotripsy (ESWL) is absolutely prohibited immediately; emergency ureteral stent (double-J) placement or percutaneous nephrostomy drainage for decompression must be performed urgently, and the stone managed after infection is controlled and the patient stabilized",
+     "Obstruction by a stone in a solitary kidney or bilateral urinary tract stone obstruction can cause sudden anuria and acute renal failure; emergency minimally invasive relief of obstruction is mandatory",
+     "For analgesia of renal colic during pregnancy, acetaminophen and antispasmodics are preferred; avoid indiscriminate use of NSAIDs (in late pregnancy they can cause premature closure of the fetal ductus arteriosus)"
+    ],
+    "personalization": [
+     "Patients with uric acid stones: oral sodium bicarbonate or potassium sodium hydrogen citrate to alkalinize the urine (maintain urine pH 6.5–6.8) can achieve complete drug dissolution of the stone",
+     "Lower pole renal stones or giant staghorn calculi >2 cm in diameter: minimally invasive percutaneous nephrolithotomy (PCNL) is the first choice",
+     "Patients with high recurrence of calcium oxalate stones: advise a low-oxalate, low-salt diet, limit intake of spinach, strong tea, and nuts, and maintain adequate hydration"
+    ]
+   },
+   "disease": "nephrolithiasis",
+   "department": "Urology"
+  },
+  {
+   "presentation": "Patients often have sudden interruption of urination, with severe lower abdominal or urethral pain, and need to change position to continue voiding. Typical manifestations are terminal hematuria, urinary frequency, urgency, and difficulty voiding. Some patients may have gross hematuria or secondary urinary tract infection symptoms such as fever and flank pain. Pain is mostly located in the suprapubic region and may radiate to the perineum, often worsening with activity or voiding.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have sudden interruption of urination?",
+     "Do you feel severe pain in the lower abdomen or urethra when you urinate?"
+    ],
+    "followup_questions": [
+     "Can you continue urinating after changing position (such as squatting or lying on your side)?",
+     "Have you noticed blood or blood clots in your urine?"
+    ],
+    "stop_conditions": [
+     "A typical description of interruption of urination with symptom relief on change of position has been clearly obtained",
+     "Presence of terminal hematuria or a history of recurrent urinary tract infection has been confirmed",
+     "The patient has provided a history of prior prostate disease or neurogenic bladder"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Ultrasound of the urinary tract",
+     "Plain abdominal radiograph (KUB)",
+     "Urinalysis"
+    ],
+    "if_suspected": [
+     "CT urography (CTU)",
+     "Cystoscopy",
+     "Post-void residual urine measurement"
+    ],
+    "avoid": [
+     "Intravenous pyelography (IVP) without indication",
+     "Unnecessary radionuclide scanning",
+     "Retrograde pyelography before obstruction has been excluded"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First choice is transurethral cystoscopic lithotripsy and stone extraction, with pneumatic, laser, or ultrasonic lithotripsy chosen according to stone size. For small stones, a trial of medical expulsive therapy with copious water intake may be attempted. Postoperative anti-infective treatment for 3–5 days is required, and the underlying cause (such as benign prostatic hyperplasia) should be addressed subsequently. Open surgery is generally not required unless complicated anatomic abnormalities are present."
+    ],
+    "safety_warnings": [
+     "Active urinary tract infection must be excluded before surgery to avoid intraoperative bacteremia",
+     "Be alert to the risk of intraoperative bladder perforation, especially in patients with an impacted stone",
+     "Monitor for bleeding postoperatively to prevent secondary hematuria causing clot obstruction"
+    ],
+    "personalization": [
+     "Elderly men with coexisting benign prostatic hyperplasia require concurrent transurethral resection of the prostate",
+     "Pediatric patients require assessment of anesthesia tolerance and risk of stone recurrence",
+     "Patients with renal impairment require antibiotic dose adjustment and intensified hydration"
+    ]
+   },
+   "disease": "bladder calculi",
+   "department": "Urology"
+  },
+  {
+   "presentation": "Patients mainly present with progressive difficulty voiding, a weak, forked, or interrupted urinary stream, often accompanied by urinary frequency, urgency, and a sense of incomplete emptying. A typical feature is recurrence or worsening of symptoms after a history of prostate surgery (e.g., TURP), and some patients develop acute urinary retention. Pain is mostly located in the lower abdomen or perineum; in severe cases, it can lead to a marked increase in postvoid residual urine volume.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you ever had prostate surgery or any other urethral procedure?",
+     "Has your current difficulty voiding gradually worsened or did it occur suddenly?",
+     "Do you also have urinary frequency, urgency, or an increased number of nighttime awakenings to urinate?"
+    ],
+    "followup_questions": [
+     "If a surgical history is mentioned: How long after surgery did the difficulty voiding begin?",
+     "If urinary retention is mentioned: Have you ever needed catheterization?",
+     "Do you have any signs of infection, such as blood in the urine or fever?"
+    ],
+    "stop_conditions": [
+     "A history of prior prostate surgery has been clearly established and the current symptoms are typical",
+     "Initial physical examination has been completed and there is no risk of acute urinary retention",
+     "The patient's complaints are highly consistent with the auxiliary test results"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Uroflowmetry",
+     "Postvoid residual urine ultrasound",
+     "Cystoscopy"
+    ],
+    "if_suspected": [
+     "Urodynamic study",
+     "CT urography (CTU) of the urinary tract",
+     "Urethrography"
+    ],
+    "avoid": [
+     "Blind urethral dilation",
+     "Unnecessary radionuclide scanning",
+     "Whole-body PET-CT without indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is transurethral incision of the bladder neck (TUIBN), usually performed with a resectoscope by incising at the 5 o'clock and 7 o'clock positions down to the submucosal layer. For mild strictures, intermittent self-catheterization or regular urethral dilation may be attempted. Postoperative infection prevention is required, with short-term indwelling catheterization if necessary. Drug therapy such as alpha-blockers can be used as an adjunct to relieve symptoms but cannot reverse fibrosis."
+    ],
+    "safety_warnings": [
+     "Avoid excessive incision during surgery, which may cause urinary incontinence",
+     "Be alert for postoperative bleeding and recurrence of urethral stricture",
+     "Use strict aseptic technique to prevent urinary tract infection"
+    ],
+    "personalization": [
+     "In elderly patients, cardiopulmonary function should be assessed to ensure tolerance of anesthesia",
+     "In patients with diabetes, perioperative glycemic control should be strengthened",
+     "For those with multiple prior surgeries, staged treatment is recommended or open surgery should be considered"
+    ]
+   },
+   "disease": "bladder neck contracture",
+   "department": "Urology"
+  },
+  {
+   "presentation": "Patients often present with refractory bladder irritation symptoms such as urinary frequency, urgency, and dysuria, and conventional antibiotic treatment is ineffective. Urine is often acidic, and gross or microscopic hematuria may be seen. Some patients have systemic tuberculosis toxicity symptoms such as low-grade fever, night sweats, and fatigue. The course is protracted, and terminal hematuria and pyuria readily occur; in severe cases, it can lead to bladder contracture, with difficulty voiding or urinary incontinence.",
+   "interview_guide": {
+    "first_questions": [
+     "How long have your urinary frequency and urgency symptoms lasted? Have you used antibiotics? How effective were they?",
+     "Do you have a history of pulmonary tuberculosis or long-term contact with patients with tuberculosis? Have you recently had low-grade fever or night sweats?"
+    ],
+    "followup_questions": [
+     "If there is blood in your urine, is it throughout urination or only at the end of urination (terminal hematuria)?",
+     "Do you have back pain, worsening difficulty voiding, or even inability to control urination?"
+    ],
+    "stop_conditions": [
+     "A history of pulmonary tuberculosis has been clearly established, typical bladder irritation symptoms are present, and antibiotic treatment has been ineffective.",
+     "The patient has provided details of prior antituberculosis treatment history and current drug responses.",
+     "It has been confirmed that there are no other predisposing factors for urinary tract infection and the symptoms are consistent with tuberculosis."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Morning urine Mycobacterium tuberculosis culture and drug susceptibility testing",
+     "Urine sediment examination for acid-fast bacilli",
+     "Intravenous urography (IVU) or CT urography (CTU)"
+    ],
+    "if_suspected": [
+     "Chest X-ray or CT to rule out active pulmonary tuberculosis",
+     "Cystoscopy (to observe mucosal hyperemia, ulcers, nodules, and scar contracture)",
+     "PPD skin test or interferon-gamma release assay"
+    ],
+    "avoid": [
+     "Blind long-term use of broad-spectrum antibiotics",
+     "Invasive bladder biopsy during acute inflammation",
+     "Unnecessary radionuclide renal dynamic imaging (unless assessing split renal function)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is a standard antituberculosis chemotherapy regimen, usually combined therapy with isoniazid, rifampicin, pyrazinamide, and ethambutol for at least 6 months. Medication should be started early, at adequate doses, and taken regularly. For patients with severe bladder contracture, after antituberculosis treatment has stabilized, augmentation cystoplasty or urinary diversion may be considered. At the same time, patients are encouraged to drink more water to keep urine diluted and reduce bladder irritation."
+    ],
+    "safety_warnings": [
+     "Be alert for peripheral neuropathy caused by isoniazid; vitamin B6 supplementation is recommended",
+     "Monitor liver function regularly to prevent drug-induced liver injury caused by rifampicin and pyrazinamide",
+     "Be aware of optic neuritis that may be caused by ethambutol; regular visual acuity and color vision examinations are required"
+    ],
+    "personalization": [
+     "In elderly patients, drug doses should be adjusted according to renal function to prevent accumulation and toxicity",
+     "Pregnant women should use aminoglycosides such as streptomycin with caution and require alternative regimens that are safe for the fetus",
+     "In patients with diabetes, blood glucose should be strictly controlled to prevent effects on antituberculosis efficacy and wound healing"
+    ]
+   },
+   "disease": "bladder tuberculosis",
+   "department": "Urology"
+  },
+  {
+   "presentation": "Patients often complain of recurrent dull pain or discomfort in the perineum, lower abdomen, or lumbosacral region that lasts more than 3 months. It is accompanied by voiding abnormalities such as urinary frequency, urgency, a sense of incomplete emptying, or urethral burning. Some patients develop sexual dysfunction (such as premature ejaculation and erectile difficulty) and anxiety symptoms. Symptoms are fluctuating and often worsen after prolonged sitting, alcohol consumption, or fatigue.",
+   "interview_guide": {
+    "first_questions": [
+     "Where exactly is your pain located? How long has it lasted?",
+     "Do you have urinary frequency, urgency, or a feeling of poor urine flow?",
+     "Have you recently had changes in sexual life or high psychological stress?"
+    ],
+    "followup_questions": [
+     "Does the pain worsen noticeably after ejaculation?",
+     "Do you have symptoms of acute infection such as fever or chills?",
+     "Do you have a history of urinary tract infection or prostate massage treatment?"
+    ],
+    "stop_conditions": [
+     "It has been clearly established that symptoms have lasted more than 3 months and acute infection has been excluded",
+     "It has been confirmed that there are no warning symptoms such as urinary retention, hematuria, or severe back pain",
+     "The patient has clearly described the nature of the pain and factors that trigger or relieve it"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Digital rectal examination (DRE)",
+     "Routine examination of expressed prostatic secretions (EPS)",
+     "Urinalysis and urine culture"
+    ],
+    "if_suspected": [
+     "Transrectal ultrasound (TRUS)",
+     "Four-glass test (Meares-Stamey test)",
+     "Uroflowmetry"
+    ],
+    "avoid": [
+     "Prostate massage during the acute phase",
+     "CT or MRI without contrast in the absence of indications",
+     "Nonspecific tumor marker screening"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment consists mainly of alpha-blockers (e.g., tamsulosin 0.2 mg/day) for at least 4-6 weeks, which can improve voiding symptoms. When bacterial infection is present, add a quinolone antibiotic (e.g., levofloxacin 500 mg/day) for 4-6 weeks. Adjunctive nonpharmacologic interventions include warm sitz baths, avoidance of prolonged sitting, abstinence from spicy food and alcohol, and regular sexual activity. If pain is significant, a nonsteroidal anti-inflammatory drug may be used short term."
+    ],
+    "safety_warnings": [
+     "Quinolones may cause tendinitis or QT interval prolongation; adverse reactions should be monitored",
+     "Alpha-blockers may cause orthostatic hypotension; bedtime dosing is recommended",
+     "Long-term antibiotic use requires vigilance for the emergence of resistant bacteria and gut microbiota dysbiosis"
+    ],
+    "personalization": [
+     "Use alpha-blockers with caution in elderly patients to prevent fall risk",
+     "For patients with fertility desires, avoid long-term use of drugs that affect semen quality",
+     "For patients with marked anxiety, concomitant antianxiety treatment or cognitive behavioral intervention is needed"
+    ]
+   },
+   "disease": "Chronic prostatitis",
+   "department": "Urology"
+  },
+  {
+   "presentation": "Patients often complain of a bulging mass protruding from the vaginal introitus, which is more obvious after prolonged standing or increased abdominal pressure and can be reduced when lying flat. Typical symptoms include difficulty voiding, a sense of incomplete emptying, and the need to manually press the anterior vaginal wall to empty the bladder; some patients have stress urinary incontinence (urine leakage with coughing) or recurrent urinary tract infections. Symptoms gradually worsen as the condition progresses and severely affect quality of life.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you feel something protruding from your vaginal opening, and does it become larger after standing for a long time?",
+     "Do you need to press on the vaginal area with your hand to completely empty your bladder when urinating?",
+     "Do you leak urine when you cough or sneeze?"
+    ],
+    "followup_questions": [
+     "Does the protruding mass disappear on its own after lying down to rest?",
+     "Have you recently had infection symptoms such as urinary frequency, urgency, or painful urination?",
+     "Have you had a history of difficult delivery or multiple vaginal deliveries?"
+    ],
+    "stop_conditions": [
+     "Typical protrusion sensation and need for assisted voiding have been clearly described, and symptoms are positional.",
+     "It has been confirmed that there are no signs of acute urinary retention or severe urinary tract infection.",
+     "Key obstetric history and menopausal status have been obtained, sufficient for initial assessment."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Specialist gynecologic/urologic examination (observe the degree of prolapse during the Valsalva maneuver)",
+     "Postvoid residual urine volume measurement (PVR)",
+     "Urinalysis"
+    ],
+    "if_suspected": [
+     "Urodynamic study (to assess concomitant obstruction or detrusor function)",
+     "Pelvic ultrasound (to rule out other pelvic space-occupying lesions)",
+     "Cystoscopy (if concomitant stones or tumors are suspected)"
+    ],
+    "avoid": [
+     "Blind CT or MRI (unless preoperative planning is needed for complex cases)",
+     "Unnecessary radionuclide scanning",
+     "Invasive catheterization before infection has been excluded"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is conservative therapy: instruct pelvic floor muscle training (Kegel exercises), 3 sets per day, 10-15 repetitions per set.",
+     "Use a pessary to support the anterior vaginal wall; it must be removed periodically for cleaning and follow-up. For mild-to-moderate patients, topical estrogen cream can improve mucosal quality. If difficulty voiding is present, teach intermittent catheterization. For those in whom conservative treatment fails or who have severe prolapse, surgical repair should be considered."
+    ],
+    "safety_warnings": [
+     "When using a pessary, be alert for the risk of vaginal ulceration, bleeding, or incarceration; leaving it in place long term without removal is strictly prohibited.",
+     "Before topical estrogen use, a history of genital tract malignancy must be excluded.",
+     "Avoid excessive straining and breath-holding that increase abdominal pressure to prevent worsening of the condition."
+    ],
+    "personalization": [
+     "For elderly postmenopausal women, combined topical estrogen therapy is preferred to enhance tissue elasticity.",
+     "For those with fertility desires, surgery should be deferred, and only a pessary or rehabilitation training should be used.",
+     "For patients with chronic cough or constipation, the underlying disease should be treated concurrently to reduce abdominal pressure."
+    ]
+   },
+   "disease": "cystocele",
+   "department": "Urology"
+  },
+  {
+   "presentation": "Patients mainly present with abnormal urination, with urine flowing abnormally from the dorsal side of the penis (in males) or the clitoris/vestibular area of the vagina (in females), and inability to control it. In males, a short penis and dorsal chordee may be seen, with the urethral meatus located at the base of the penis or at the pubic symphysis; in females, a split clitoris and anterior vaginal wall defect may be seen. It is often accompanied by urinary incontinence and marked external genital malformation, and some cases are associated with bladder exstrophy.",
+   "interview_guide": {
+    "first_questions": [
+     "Where does your child’s urine come out when they urinate? Can they control it voluntarily?",
+     "Have you noticed that your child’s external genitalia look different from normal? What exactly have you observed?"
+    ],
+    "followup_questions": [
+     "Has there been a history of recurrent urinary tract infections or fever?",
+     "Has your child previously undergone any related surgery or treatment? How effective was it?"
+    ],
+    "stop_conditions": [
+     "Typical anatomical malformation location and features of uncontrolled urination have been clearly described",
+     "No acute infection symptoms have been confirmed, and previous treatment history is understood",
+     "Parents have a basic understanding of the nature of the disease and have expressed willingness to seek medical care"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Ultrasound of the urinary system",
+     "Intravenous pyelography (IVP) or CT urography (CTU)",
+     "Physical examination (inspection and palpation of the external genitalia)"
+    ],
+    "if_suspected": [
+     "Cystoscopy",
+     "Voiding cystourethrography (VCUG)",
+     "Renal function and electrolyte testing"
+    ],
+    "avoid": [
+     "Routine urine culture (not required as first-line screening outside the acute infection period)",
+     "Unnecessary radionuclide scanning (unless assessing differential renal function)",
+     "Invasive biopsy (strictly prohibited when there is no malignant indication)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Surgical treatment is first-line, usually one-stage repair at 6–18 months of age. It includes urethral reconstruction, bladder neck closure, and penile correction. Prophylactic antibiotics are needed before surgery to control infection, and an indwelling urinary catheter is kept for 2–3 weeks after surgery to support the anastomosis. For complex cases or older patients, staged surgery may be required. At the same time, pelvic floor muscle training is used to help restore urinary continence."
+    ],
+    "safety_warnings": [
+     "Strict aseptic technique to prevent severe postoperative urinary tract infection",
+     "Avoid excessive traction that may cause anastomotic dehiscence or stricture",
+     "Watch for postoperative urethrocutaneous fistula formation and bladder neck dysfunction"
+    ],
+    "personalization": [
+     "For infants and young children, prioritize meticulous microsurgery under general anesthesia to reduce trauma",
+     "For those with bladder exstrophy, abdominal wall and pelvic structures need to be managed concurrently",
+     "For adult patients with difficulty controlling urine, assess whether an artificial urinary sphincter should be implanted"
+    ]
+   },
+   "disease": "Epispadias",
+   "department": "Urology"
+  },
+  {
+   "presentation": "Patients often complain of an abnormal urine stream during urination (e.g., spraying downward, bifurcated stream, or needing to squat to urinate), and some have ventral penile curvature. On inspection, the external urethral meatus is abnormally located (below the glans, on the penile shaft, or in the scrotum), and the prepuce is piled up dorsally in a 'cap' shape and cannot fully cover the glans. Infants and young children often present because parents notice an abnormal urination posture or abnormal penile appearance.",
+   "interview_guide": {
+    "first_questions": [
+     "Is the direction of your child’s urine stream abnormal (e.g., spraying downward)?",
+     "Is the penis curved or is the urethral opening not in the normal position?"
+    ],
+    "followup_questions": [
+     "Is there a history of recurrent urinary tract infection or difficulty urinating?",
+     "Has your child previously undergone any related surgery or treatment?"
+    ],
+    "stop_conditions": [
+     "The position of the urethral meatus and degree of penile curvature have been clearly defined, and no complex complications have been described.",
+     "Parents have provided complete information on previous surgical history and family genetic history.",
+     "The key anatomical features required for physical examination have been clearly presented through the history."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Urogenital physical examination (focusing on urethral meatus position, penile curvature, and testicular development)",
+     "Renal and bladder ultrasound (to screen for associated malformations)",
+     "Chromosomal karyotype analysis (if a disorder of sex development is suspected)"
+    ],
+    "if_suspected": [
+     "Intravenous pyelography (IVP) or CT urography (to screen for upper urinary tract malformations)",
+     "Urethrography (to assess urethral stricture or fistula)",
+     "Hormone level testing (testosterone, LH, FSH, etc., to differentiate gonadal function)"
+    ],
+    "avoid": [
+     "Routine prostatic fluid examination (not applicable in children and without clinical significance)",
+     "Unnecessary invasive urethral catheterization (may worsen injury)",
+     "Non-targeted systemic tumor screening (unless there is a clear indication)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Surgical treatment is first-line, with the optimal timing at 6–18 months of age. Depending on the type, urethroplasty is selected (e.g., Duckett procedure, Onlay island flap procedure, etc.), along with correction of penile curvature and urethral reconstruction. After surgery, an indwelling urinary catheter is required for 2–3 weeks to support the new urethra and prevent urethrocutaneous fistula. Non-pharmacological interventions include regular postoperative follow-up to monitor urination and wound healing."
+    ],
+    "safety_warnings": [
+     "Surgery is strictly prohibited during acute urinary tract infection.",
+     "Avoid anesthetic drugs that affect neonatal liver and kidney function.",
+     "Watch for common postoperative complications such as urethrocutaneous fistula and urethral stricture, and closely observe drainage."
+    ],
+    "personalization": [
+     "Severe cases (e.g., proximal type) may require staged surgery, and psychological expectations need to be adjusted.",
+     "For those with concomitant cryptorchidism, orchiopexy should be performed concurrently or in stages.",
+     "For children with disorders of sex development, multidisciplinary collaboration is needed to formulate gender confirmation and hormone treatment plans."
+    ]
+   },
+   "disease": "Hypospadias",
+   "department": "Urology"
+  },
+  {
+   "presentation": "Patients often complain of urethral itching and burning, with a small amount of thin discharge, and a pasty material visible at the urethral meatus in the morning. Some patients have urinary frequency and urgency, but no obvious systemic fever or severe pain. Symptoms usually appear 1–3 weeks after infection and tend to recur.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have urethral discomfort or increased discharge?",
+     "How long have the symptoms been present? Are they accompanied by difficulty urinating?"
+    ],
+    "followup_questions": [
+     "Have you had a history of risky sexual activity recently?",
+     "Have you used any medication on your own or received treatment?"
+    ],
+    "stop_conditions": [
+     "The duration and triggers of symptoms have been clearly defined",
+     "No other serious complications (such as epididymitis) have been confirmed",
+     "Initial history taking has been completed"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Urethral discharge smear examination",
+     "Nucleic acid amplification testing (NAAT) for Chlamydia/Mycoplasma",
+     "Routine urinalysis"
+    ],
+    "if_suspected": [
+     "Prostatic fluid examination (if prostatitis is suspected)",
+     "Semen analysis (if fertility is suspected to be affected)"
+    ],
+    "avoid": [
+     "Routine bacterial culture (ineffective for non-gonococcal pathogens)",
+     "Unnecessary imaging studies"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is azithromycin 1 g as a single oral dose or doxycycline 100 mg twice daily for 7 days. Sexual partners should also be treated to avoid cross-infection. Sexual activity is prohibited during treatment, and local hygiene should be maintained by keeping the area clean and dry."
+    ],
+    "safety_warnings": [
+     "Contraindicated in patients allergic to macrolides or tetracyclines",
+     "Avoid concomitant use of doxycycline with antacids, which may affect absorption",
+     "Monitor for abnormal liver function and gastrointestinal reactions"
+    ],
+    "personalization": [
+     "For pregnant women, azithromycin is preferred, and doxycycline should be avoided",
+     "For patients with hepatic or renal impairment, adjust the dose and monitor closely",
+     "For pediatric patients, calculate the drug dose according to body weight"
+    ]
+   },
+   "disease": "nongonococcal urethritis",
+   "department": "Urology"
+  },
+  {
+   "presentation": "Patients complain of persistent or recurrent inability to achieve or maintain an erection of sufficient rigidity for satisfactory sexual intercourse, with absent or markedly reduced morning erections. Symptoms usually progress gradually and are often accompanied by a history of underlying diseases (such as diabetes and hypertension); they are unrelated to psychological factors, and no erectile response occurs at night or during masturbation.",
+   "interview_guide": {
+    "first_questions": [
+     "How long has your erectile problem lasted? Did it occur suddenly or worsen gradually?",
+     "Do you still have morning erections or spontaneous erections during nighttime sleep?",
+     "Do you have a history of chronic diseases such as diabetes, hypertension, or cardiovascular disease?"
+    ],
+    "followup_questions": [
+     "Have you recently taken antihypertensive drugs, antidepressants, or hormone drugs?",
+     "Have you had penile trauma, surgery, or pelvic radiotherapy?",
+     "Is your sexual desire normal? Is there a situation where you are completely unable to achieve an erection?"
+    ],
+    "stop_conditions": [
+     "A clear distinction has been made between psychogenic and organic causes (e.g., absence of morning erections)",
+     "The main underlying diseases and medication history have been obtained",
+     "The patient’s symptoms have lasted more than 3 months and are persistent"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Fasting blood glucose and glycated hemoglobin testing",
+     "Serum total testosterone and free testosterone measurement",
+     "Corpus cavernosum Doppler ultrasound"
+    ],
+    "if_suspected": [
+     "Complete lipid panel analysis",
+     "Pituitary prolactin level testing",
+     "Nocturnal penile tumescence (NPT) monitoring"
+    ],
+    "avoid": [
+     "Routine prostate-specific antigen (PSA) screening (unless there are risk indications for prostate cancer)",
+     "Whole-body angiography without indication",
+     "Repeated unnecessary nerve conduction velocity testing"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is oral phosphodiesterase-5 inhibitors (PDE5i), such as sildenafil 50 mg as needed or tadalafil 10 mg as needed/5 mg once daily, for at least 4 weeks. Patients should be instructed to take the medication with sexual stimulation. If medication is ineffective, vacuum negative pressure devices or low-intensity shock wave therapy may be considered. At the same time, blood glucose, blood pressure, and lipids must be strictly controlled, and lifestyle should be improved."
+    ],
+    "safety_warnings": [
+     "Concomitant use with nitrates (e.g., nitroglycerin) is strictly prohibited to prevent severe hypotension",
+     "Patients with severe hepatic impairment require dose reduction or should not use PDE5i",
+     "Watch for rare but serious adverse reactions such as visual abnormalities or hearing loss"
+    ],
+    "personalization": [
+     "For diabetic patients, long-acting preparations are preferred, and glucose control should be strict",
+     "Elderly patients should start at half the dose to avoid orthostatic hypotension",
+     "For those with high cardiovascular risk, cardiac tolerance should be assessed before treatment"
+    ]
+   },
+   "disease": "Organic erectile dysfunction",
+   "department": "Urology"
+  },
+  {
+   "presentation": "The patient reports a painless induration or plaque palpable on the dorsal or ventral aspect of the penis, often accompanied by penile curvature, pain, or shortening during erection. Some patients develop erectile dysfunction, and the degree of curvature worsens with disease progression, affecting sexual intercourse. Symptoms often have an insidious onset; the acute phase may be tender, while the chronic phase is predominantly deformity.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you noticed a hard lump or an uneven area on your penis?",
+     "Do you feel curvature or pain in your penis during erection?"
+    ],
+    "followup_questions": [
+     "Did this lump and curvature appear recently or have they been present for a long time?",
+     "Has the degree of curvature affected your normal sexual life?"
+    ],
+    "stop_conditions": [
+     "The location and size of the induration and associated erectile curvature have been clearly described",
+     "History of trauma, diabetes, and other underlying diseases has been confirmed",
+     "The duration of symptoms and the specific impact on sexual function have been understood"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Penile physical examination (inspection and palpation)",
+     "Penile color Doppler ultrasound (to assess plaque calcification and blood flow)",
+     "Erectile function assessment questionnaire (IIEF-5)"
+    ],
+    "if_suspected": [
+     "Nocturnal penile tumescence (NPT) monitoring",
+     "Cavernosography (complex cases)",
+     "Blood glucose and lipid testing (to screen for metabolic factors)"
+    ],
+    "avoid": [
+     "Routine prostate-specific antigen (PSA) screening (when not indicated)",
+     "Unnecessary whole-body CT scanning",
+     "Blind puncture biopsy"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes oral antioxidants such as vitamin E, tamoxifen, or coenzyme Q10, combined with local verapamil injection. For patients in the stable phase with curvature <30 degrees, observation and waiting are recommended",
+     "If curvature is >30 degrees and affects sexual intercourse, a vacuum negative-pressure device or surgical correction may be considered. Nonpharmacologic interventions should instruct patients to avoid vigorous sexual activity to prevent worsening injury. The course usually requires 3-6 months to assess efficacy."
+    ],
+    "safety_warnings": [
+     "Verapamil injection may cause local hematoma or infection, and strict aseptic technique is required",
+     "Anticoagulant drugs and local injection carry a bleeding risk, and medication should be adjusted",
+     "Long-term tamoxifen use requires vigilance for thrombosis and abnormal liver function"
+    ],
+    "personalization": [
+     "Patients with diabetes need strict glycemic control to promote tissue repair",
+     "Elderly patients should be cautious with invasive surgery, and conservative treatment should be preferred",
+     "Patients with marked psychological anxiety should receive combined psychological counseling intervention"
+    ]
+   },
+   "disease": "Peyronie disease",
+   "department": "Urology"
+  },
+  {
+   "presentation": "The patient reports that ejaculation occurs before personal wish, usually within 1 minute after vaginal penetration (primary) or within 3 minutes (secondary), and cannot be voluntarily delayed. It is often accompanied by a lack of ejaculatory control and anxiety or avoidance of sexual activity due to reduced sexual satisfaction. Symptoms must persist for at least 6 months and occur in most (about 75% or more) sexual activities.",
+   "interview_guide": {
+    "first_questions": [
+     "From when you started having sexual intercourse until now, about how long does it take you to ejaculate? Is it fast every time or only occasionally?",
+     "Does this situation cause distress to you or your partner, or affect your relationship?",
+     "Do you have difficulty achieving an erection or reduced sexual desire?"
+    ],
+    "followup_questions": [
+     "If it started suddenly, have you recently had psychological stress, genitourinary infection, or surgery?",
+     "Have you tried using delay sprays, condoms, or behavioral training methods? How effective were they?",
+     "Do you have a long-term masturbation habit or a specific pattern of sexual stimulation?"
+    ],
+    "stop_conditions": [
+     "Primary and secondary premature ejaculation have been clearly distinguished, and the symptom duration has been confirmed to meet diagnostic criteria.",
+     "Obvious organic causes (such as severe erectile dysfunction, thyroid disease, etc.) have been excluded.",
+     "The patient clearly expresses the current degree of distress, and an initial plan can be made without further exploration of psychosocial factors."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Physical examination (focusing on external genital development, foreskin condition, and prostate palpation)",
+     "International Index of Erectile Function questionnaire (IIEF-5) and Premature Ejaculation Diagnostic Tool (PEDT) assessment",
+     "Routine prostatic fluid examination (to exclude prostatitis)"
+    ],
+    "if_suspected": [
+     "Thyroid function tests (to screen for hyperthyroidism)",
+     "Six-item sex hormone panel (to screen for endocrine abnormalities)",
+     "Penile biothesiometry (for research or difficult cases)"
+    ],
+    "avoid": [
+     "Complex imaging examinations without indication (such as pelvic MRI)",
+     "Unnecessary genetic testing",
+     "PSA screening that relies excessively on subjective description (unless there are high-risk factors for prostate cancer)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is a selective serotonin reuptake inhibitor (SSRI), such as dapoxetine 30mg taken as needed; if ineffective, increase to 60mg",
+     "or oral paroxetine 20mg daily. Combine with behavioral therapy (such as the 'stop-start method' and 'squeeze method') and topical local anesthetics (such as lidocaine/prilocaine cream). The course is usually recommended for at least 4 weeks to assess efficacy, and the total course is adjusted according to response to 3-6 months."
+    ],
+    "safety_warnings": [
+     "SSRIs may cause nausea, dizziness, and fatigue; the first dose is recommended at bedtime to prevent falls.",
+     "Concomitant use with monoamine oxidase inhibitors (MAOIs), other SSRIs, or strong CYP3A4 inhibitors is strictly prohibited to prevent serotonin syndrome.",
+     "Local anesthetics may cause vaginal numbness in the partner; it is recommended to use a condom for isolation or wash before intercourse."
+    ],
+    "personalization": [
+     "For patients with comorbid erectile dysfunction, combine with a PDE5 inhibitor (such as tadalafil).",
+     "Elderly patients need SSRI dose adjustment according to hepatic and renal function, with vigilance for orthostatic hypotension.",
+     "Men planning conception should use long-acting SSRIs with caution, and prefer as-needed dapoxetine or local treatment."
+    ]
+   },
+   "disease": "Premature ejaculation",
+   "department": "Urology"
+  },
+  {
+   "presentation": "Most patients have no obvious symptoms and are often discovered incidentally during physical examination. Symptomatic patients often present with dull pain in the lower abdomen, perineum, or lumbosacral region, difficulty urinating, urinary frequency, urgency, thin or forked urinary stream, and some have hematospermia or painful ejaculation. If complicated by prostatitis, urethral burning and purulent discharge may occur, and symptoms often worsen after prolonged sitting or alcohol consumption.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have urinary frequency, urgency, difficulty urinating, or a thin urinary stream?",
+     "Have you recently had perineal pain, painful ejaculation, or blood in the semen?"
+    ],
+    "followup_questions": [
+     "Does the pain noticeably worsen after prolonged sitting, cycling, or alcohol consumption?",
+     "Have you had recurrent prostatitis or a history of urinary tract infection?"
+    ],
+    "stop_conditions": [
+     "Symptoms have been clearly linked to prostate-region pain and abnormal urination, and there are no signs of acute infection.",
+     "The patient's complaints are clear, acute emergencies such as acute urinary retention have been excluded, and no further questioning for emergency indications is needed.",
+     "History of prior urinary system diseases and medication history has been completed, and the information is sufficient to guide initial examination."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Transrectal ultrasound (TRUS)",
+     "Routine urinalysis and prostatic fluid examination",
+     "Urinary tract plain radiograph (KUB)"
+    ],
+    "if_suspected": [
+     "Prostate-specific antigen (PSA) testing",
+     "Uroflowmetry",
+     "Pelvic CT scan"
+    ],
+    "avoid": [
+     "Blind prostate massage in asymptomatic patients",
+     "Unnecessary radionuclide scanning",
+     "Cystoscopy without indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Asymptomatic patients usually do not require special treatment and can be followed with regular observation. Symptomatic patients are mainly managed with symptomatic treatment, including oral alpha-blockers (such as tamsulosin 0.2mg/day) to improve urination, combined with antibiotics (such as levofloxacin 0.5g/day for 2-4 weeks) to control concurrent infection, supplemented by warm sitz baths and physical therapy to relieve local congestion. Avoid spicy food and prolonged sitting."
+    ],
+    "safety_warnings": [
+     "Alpha-blockers require vigilance for orthostatic hypotension, especially at the first dose in elderly patients.",
+     "Long-term use of quinolone antibiotics requires monitoring for tendinitis risk and photosensitivity reactions.",
+     "Prostate massage is strictly prohibited during acute inflammation to prevent infection spread."
+    ],
+    "personalization": [
+     "Elderly patients should start with a low dose and have blood pressure changes closely monitored.",
+     "Patients with renal impairment need antibiotic dose adjustment according to creatinine clearance.",
+     "For patients with comorbid benign prostatic hyperplasia, combined 5α-reductase inhibitor therapy may be considered."
+    ]
+   },
+   "disease": "Prostatic calculi",
+   "department": "Urology"
+  },
+  {
+   "presentation": "Patients often report difficulty urinating, urinary frequency, urgency, or nocturia, and some have pain or discomfort in the perineum, lower abdomen, or lumbosacral region. In the acute phase, fever, chills, and urinary retention may occur; in the chronic phase, symptoms recur and affect quality of life. If complicated by infection, urethral discharge or hematuria may be seen. Judgment should be based on age and symptom duration.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had urinary frequency, urgency, or difficulty urinating?",
+     "Do you have pain or a feeling of heaviness in the perineum or lower abdomen?",
+     "How long have the symptoms lasted, and has the number of nighttime awakenings to urinate increased?"
+    ],
+    "followup_questions": [
+     "If accompanied by fever and chills, ask further: What was the highest temperature, and is there painful urination?",
+     "If the urinary stream is interrupted, ask further: Have you ever had urinary retention or needed manual assistance to urinate?",
+     "If accompanied by hematuria, ask further: How has the urine color changed, and are there blood clots?"
+    ],
+    "stop_conditions": [
+     "Acute and chronic symptom characteristics have been clearly distinguished",
+     "Key associated symptoms (such as fever and pain location) have been obtained",
+     "Past treatment history and medication response have been confirmed"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Digital rectal examination (DRE)",
+     "Prostate-specific antigen (PSA) testing",
+     "Urinary tract ultrasound"
+    ],
+    "if_suspected": [
+     "Urinalysis and urine culture",
+     "Transrectal ultrasound of the prostate (TRUS)",
+     "Uroflowmetry"
+    ],
+    "avoid": [
+     "Whole-body CT scanning without indication",
+     "Blind prostate needle biopsy in the non-acute phase",
+     "Routine use of radionuclide bone scanning"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Acute bacterial prostatitis: first-line treatment is quinolone antibiotics (such as levofloxacin 500mg once daily), for 2-4 weeks",
+     "Chronic prostatitis/chronic pelvic pain syndrome: use an alpha-blocker (such as tamsulosin 0.2mg once daily) combined with nonsteroidal anti-inflammatory drugs, along with warm sitz baths and lifestyle adjustment. Acute urinary retention requires catheter drainage."
+    ],
+    "safety_warnings": [
+     "Quinolones are contraindicated in patients with epilepsy and in pregnant women; be alert to the risk of tendon rupture",
+     "Alpha-blockers may cause orthostatic hypotension; the first dose is recommended at bedtime",
+     "Long-term NSAID use requires prevention of gastrointestinal bleeding and renal impairment"
+    ],
+    "personalization": [
+     "Elderly patients need antibiotic dose adjustment according to renal function",
+     "Patients with cardiovascular disease should use alpha-blockers cautiously and have blood pressure monitored",
+     "Patients with comorbid benign prostatic hyperplasia need evaluation of surgical indications"
+    ]
+   },
+   "disease": "Prostate disease",
+   "department": "Urology"
+  },
+  {
+   "presentation": "Most patients have no obvious symptoms and are often discovered incidentally during physical examination. If the cyst is large or complicated by infection or hemorrhage, dull or distending flank pain may occur; some patients have hematuria, hypertension, or an abdominal mass. If secondary infection occurs, fever, chills, and urinary irritation symptoms may appear. The typical presentation is unilateral or bilateral dull flank pain that worsens with activity and relieves with rest.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had flank pain or abdominal discomfort?",
+     "Did your physical examination report indicate any kidney abnormality (such as a cyst)?"
+    ],
+    "followup_questions": [
+     "Is the pain continuous or intermittent? Is it related to changes in position?",
+     "Have you recently had gross hematuria, fever, or symptoms of urinary frequency or urgency?"
+    ],
+    "stop_conditions": [
+     "Imaging diagnosis is already clear and the patient is asymptomatic; no further detailed history is needed.",
+     "Symptoms are typical and there are no signs of infection or bleeding; information collection is complete.",
+     "The patient refuses further examination or treatment; only the current status needs to be recorded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Urinary tract ultrasound",
+     "Abdominal CT without and with contrast"
+    ],
+    "if_suspected": [
+     "Renal function tests (creatinine, blood urea nitrogen)",
+     "Urinalysis and urine culture"
+    ],
+    "avoid": [
+     "Unnecessary radionuclide scanning",
+     "Intravenous pyelography without indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Asymptomatic small cysts (<4cm) usually require no treatment; regular follow-up observation is recommended. If a large cyst causes compressive symptoms or complications, laparoscopic deroofing is preferred. For simple cysts, percutaneous aspiration with sclerotherapy may be considered, but the recurrence rate is relatively high. Non-pharmacologic interventions include blood pressure control, avoiding severe trauma to the flank, and drinking adequate water."
+    ],
+    "safety_warnings": [
+     "Blind puncture of suspected malignant cystic lesions is strictly prohibited to prevent tumor spread.",
+     "When using sclerosing agents, prevent extravasation that could cause surrounding tissue necrosis.",
+     "Postoperatively, be alert to the risks of bleeding, infection, and injury to adjacent organs."
+    ],
+    "personalization": [
+     "Patients with polycystic kidney disease require focused monitoring of renal function and avoidance of nephrotoxic drugs.",
+     "For elderly patients or those with many underlying diseases, minimally invasive surgery or conservative treatment is preferred.",
+     "Pregnant women should avoid CT examination as much as possible; ultrasound evaluation is preferred."
+    ]
+   },
+   "disease": "renal cyst",
+   "department": "Urology"
+  },
+  {
+   "presentation": "Patients experience involuntary urine leakage when intra-abdominal pressure increases, such as with coughing, sneezing, laughing, or exercise, usually without urgency. Symptoms are often related to pelvic floor muscle laxity and are more common in postpartum women or postmenopausal women. The typical presentation is a small amount of urine leakage during daily activities, which can affect quality of life when severe.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you leak urine when coughing, sneezing, or exercising?",
+     "How long has this been happening? How often does it occur?"
+    ],
+    "followup_questions": [
+     "Do you have accompanying symptoms of urinary urgency or frequency?",
+     "Have you ever had delivery or pelvic surgery?"
+    ],
+    "stop_conditions": [
+     "The patient clearly describes urine leakage with increased intra-abdominal pressure and has no other complex symptoms",
+     "The duration of symptoms and the degree of impact on life have been understood",
+     "Urinary tract infection or other obvious causes have been excluded"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Urinalysis",
+     "Measurement of postvoid residual urine volume",
+     "Pelvic floor muscle strength assessment"
+    ],
+    "if_suspected": [
+     "Urodynamic testing",
+     "Cystoscopy",
+     "Pelvic ultrasound"
+    ],
+    "avoid": [
+     "Unnecessary CT or MRI scans",
+     "Blood tumor marker testing without indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes pelvic floor muscle training (Kegel exercises), 3 sets per day, 10-15 repetitions per set, for at least 3 months. Biofeedback therapy may be combined to enhance the effect. For mild cases, a vaginal pessary or topical estrogen cream may be used to improve symptoms. Avoid excessive fluid intake and caffeine intake."
+    ],
+    "safety_warnings": [
+     "Contraindicated in patients with uncontrolled acute urinary tract infection",
+     "Note that estrogen preparations may increase the risk of thrombosis",
+     "During long-term pelvic floor muscle training, avoid incorrect movements that lead to muscle fatigue"
+    ],
+    "personalization": [
+     "Elderly patients need cognitive function assessment to cooperate with training",
+     "Obese patients should prioritize weight loss to reduce pelvic floor burden",
+     "Postpartum women need to adjust training intensity under physician guidance"
+    ]
+   },
+   "disease": "Stress urinary incontinence",
+   "department": "Urology"
+  },
+  {
+   "presentation": "Patients often report a painless, palpable mass in the midline of the lower abdomen or around the umbilicus, with medium consistency and relatively clear boundaries. If complicated by infection, it presents with local redness and swelling, marked tenderness, and fever and chills; some patients may have purulent or bloody discharge from the umbilicus. Symptoms often worsen after a cold or fatigue, and the course is chronic or recurrent.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you felt a hard mass below your umbilicus? Is it painful when pressed?",
+     "Have you recently had fever, chills, or pus draining from the umbilicus?"
+    ],
+    "followup_questions": [
+     "If there is discharge from the umbilicus, what are the color and odor of the discharge?",
+     "Did this mass appear suddenly recently, or has it been present for a long time?",
+     "Have you had a similar history of lower abdominal infection or surgery before?"
+    ],
+    "stop_conditions": [
+     "The location and characteristics of the mass and accompanying infection symptoms (such as fever and pus drainage) have been clearly described.",
+     "The patient has provided relevant past history and allergy history sufficient for initial assessment.",
+     "Symptoms are typical and there are no signs of complex complications; no further questioning about nonspecific symptoms is needed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Abdominal ultrasound (preferred, to confirm the cystic structure and its relationship to the bladder)",
+     "Complete blood count and C-reactive protein (to assess the severity of infection)",
+     "Urinalysis (to rule out urinary tract infection)"
+    ],
+    "if_suspected": [
+     "Pelvic CT without and with contrast (to define the extent of the cyst, wall thickness, and invasion of surrounding tissues)",
+     "Cystography or voiding cystourethrography (to assess whether there is communication with the bladder)"
+    ],
+    "avoid": [
+     "Blind aspiration (which can easily lead to infection spread or fistula formation)",
+     "Unnecessary radionuclide scanning (of limited diagnostic value)",
+     "Invasive cystoscopy before infection has been ruled out"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Asymptomatic patients may undergo observation and follow-up",
+     "For those with infection, antibiotic therapy is preferred (such as a cephalosporin combined with metronidazole), for a course of 7-14 days; after inflammation subsides, laparoscopic urachal cyst excision should be performed. Surgery requires complete excision of the cyst and the urachal remnant from the umbilicus to the bladder dome to prevent recurrence. Postoperatively, keep the incision clean to prevent wound infection."
+    ],
+    "safety_warnings": [
+     "Radical surgery directly during acute inflammation is strictly prohibited to avoid infection spread.",
+     "When using antibiotics, be alert to allergic reactions and hepatorenal toxicity, and avoid overdose.",
+     "Postoperatively, closely monitor for urine leak or signs of peritonitis and promptly manage anastomotic problems."
+    ],
+    "personalization": [
+     "For pediatric patients, consider anesthesia risk and effects on growth and development, and use minimally invasive surgery whenever possible.",
+     "Elderly patients or those with underlying diseases require comprehensive preoperative cardiopulmonary evaluation and adjustment of anticoagulant drugs.",
+     "If a pregnant woman is diagnosed, conservative treatment until delivery followed by elective surgery is usually recommended, unless severe infection occurs."
+    ]
+   },
+   "disease": "urachal cyst",
+   "department": "Urology"
+  },
+  {
+   "presentation": "Patients often have sudden severe flank and abdominal colic that worsens intermittently, with pain radiating to the ipsilateral lower abdomen, groin, or perineum. It is often accompanied by nausea, vomiting, and gross or microscopic hematuria. Some patients develop bladder irritation symptoms such as urinary frequency and urgency. If complicated by infection, fever and chills may occur. During pain episodes, patients are often restless and unable to find a comfortable position.",
+   "interview_guide": {
+    "first_questions": [
+     "When exactly did the pain start? Is it continuous or intermittent colicky pain?",
+     "Does the pain radiate to the groin, inner thigh, or genital area?",
+     "Have you recently had a change in urine color (such as a meat-wash-like color) or difficulty urinating?"
+    ],
+    "followup_questions": [
+     "If you have had fever, please describe the highest temperature.",
+     "Have you had similar episodes or a history of kidney stones?",
+     "Are you currently taking anticoagulant drugs, or do you have a history of drug allergy?"
+    ],
+    "stop_conditions": [
+     "The pain has been clearly identified as typical renal colic with hematuria; no further questioning about triggers is needed.",
+     "The patient's vital signs are stable, with no signs of high fever or shock; infection risk is controllable.",
+     "Key past history (stone history, surgical history) and current medication information have been obtained."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Urinary tract CT without contrast (noncontrast)",
+     "Urinalysis",
+     "Renal function tests (creatinine, blood urea nitrogen)"
+    ],
+    "if_suspected": [
+     "Urinary tract ultrasound (to assess the degree of hydronephrosis or for screening in pregnant women)",
+     "Intravenous urography (IVU, to assess split renal function and anatomy)",
+     "Complete blood count (to assess infection severity)"
+    ],
+    "avoid": [
+     "Contrast-enhanced urinary tract CT (unnecessary; increases risks from radiation and contrast agent)",
+     "Abdominal plain radiograph (KUB, because of interference from bowel gas and low sensitivity for radiolucent stones)",
+     "Prostate-specific antigen (PSA) testing (unless prostatic disease is suspected as a confounder)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is conservative stone expulsion therapy: an alpha-blocker (such as tamsulosin 0.2mg/day) is given to relax ureteral smooth muscle, combined with a nonsteroidal anti-inflammatory drug (such as diclofenac sodium suppository) for analgesia and antispasmodic effect. Encourage a daily fluid intake of 2500-3000ml to promote stone passage. If the stone diameter is less than 6mm and there is no obstruction or infection, 80% can pass spontaneously within 4 weeks. If ineffective or pain is intolerable, extracorporeal shock wave lithotripsy or ureteroscopic stone removal is required."
+    ],
+    "safety_warnings": [
+     "Use NSAIDs with caution in patients with severe renal insufficiency to prevent worsening of acute kidney injury.",
+     "Alpha-blockers may cause orthostatic hypotension; elderly patients should take precautions against falls when starting the medication.",
+     "Be alert to occult infection; if high fever and chills occur, immediately escalate antibiotics and drain."
+    ],
+    "personalization": [
+     "For pregnant women, ultrasound monitoring is preferred, CT and X-ray should be avoided, and drug selection must strictly follow physician orders.",
+     "Patients with a solitary kidney require more aggressive intervention to prevent complete obstruction leading to loss of renal function.",
+     "In children, doses must be calculated precisely by body weight, and minimally invasive surgery is preferred to reduce effects on growth."
+    ]
+   },
+   "disease": "ureteral calculus",
+   "department": "Urology"
+  },
+  {
+   "presentation": "Patients often present with sudden interruption of urination, accompanied by severe dysuria and radiating perineal pain. The typical presentation is abrupt cessation of voiding, which may resume after a change in position, or dribbling urination. Some patients have gross hematuria, and severe cases can cause acute urinary retention. Pain is mostly located at the glans penis or perineum and may be accompanied by reflex symptoms such as nausea and vomiting.",
+   "interview_guide": {
+    "first_questions": [
+     "Does your urine stream suddenly stop during urination?",
+     "Where exactly is the pain located (e.g., glans penis, perineum)?",
+     "Have you noticed visible blood in your urine?"
+    ],
+    "followup_questions": [
+     "Can you continue urinating after changing position (e.g., squatting, standing)?",
+     "Have you had a history of renal colic or recent strenuous exercise before the pain started?",
+     "Do you have any signs of infection, such as fever or chills?"
+    ],
+    "stop_conditions": [
+     "Typical features of interrupted urination and severe pain have been clearly described",
+     "Confirmed absence of acute urinary retention requiring emergency catheterization",
+     "Obvious systemic signs of infection or toxicity have been ruled out"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Urinary tract ultrasound",
+     "Plain abdominal radiograph (KUB)",
+     "Urinalysis"
+    ],
+    "if_suspected": [
+     "CT urography (CTU)",
+     "Retrograde urethrography",
+     "Renal function tests"
+    ],
+    "avoid": [
+     "Blind catheter insertion (may cause false passage formation)",
+     "Unnecessary intravenous pyelography (IVP)",
+     "Misuse of contrast media without assessing renal function"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is conservative: high fluid intake (more than 2500ml/day) plus an α-blocker (e.g., tamsulosin 0.2mg qn) to relax urethral smooth muscle and promote stone passage. If the stone is impacted and cannot be passed, endoscopic urethral stone removal or transurethral incision for stone removal should be performed under sterile conditions. Patients with concomitant infection require combined antibiotic therapy. The duration depends on stone size and passage, with follow-up usually at 1-2 weeks."
+    ],
+    "safety_warnings": [
+     "Never use forceful catheterization; prevent urethral false passage or rupture",
+     "Be aware of the risk of orthostatic hypotension when using α-blockers",
+     "Watch for acute urinary retention and secondary infection caused by impacted stones"
+    ],
+    "personalization": [
+     "In older men, assess the impact of benign prostatic hyperplasia on voiding",
+     "In pediatric patients, adjust drug doses precisely according to body weight",
+     "In patients with renal insufficiency, use iodinated contrast media with caution and adjust diuretic strategy"
+    ]
+   },
+   "disease": "Urethral calculus",
+   "department": "Urology"
+  },
+  {
+   "presentation": "Patients complain of bladder irritation symptoms such as urinary frequency, urgency, and dysuria that recur and persist. The typical feature is marked symptoms without clear evidence of bacterial infection (negative urine culture), often accompanied by lower abdominal or perineal discomfort. Symptoms are often aggravated by fatigue, psychological stress, or sexual intercourse, and physical examination and routine laboratory tests usually show no abnormalities.",
+   "interview_guide": {
+    "first_questions": [
+     "How long have your urinary frequency and urgency lasted? About how many times do you urinate each day?",
+     "Do you have significant dysuria or a burning sensation? Where exactly is the pain located?"
+    ],
+    "followup_questions": [
+     "Are your symptoms noticeably worse after fatigue, emotional stress, or sexual intercourse?",
+     "Have you had a urine culture before? Was the result negative?"
+    ],
+    "stop_conditions": [
+     "Symptoms have been confirmed to be consistent with bladder irritation, and repeated urine cultures are all negative.",
+     "Other organic diseases such as stones, tumors, and sexually transmitted infections have been ruled out.",
+     "The impact of the patient's psychological state and life stress on symptoms has been understood."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Clean-catch midstream urinalysis",
+     "Clean-catch midstream urine bacterial culture + susceptibility testing",
+     "Urinary tract ultrasound"
+    ],
+    "if_suspected": [
+     "Urodynamic testing",
+     "Cystoscopy",
+     "Mycoplasma/Chlamydia nucleic acid testing"
+    ],
+    "avoid": [
+     "Long-term broad-spectrum antibiotic use without indication",
+     "Unnecessary invasive biopsy",
+     "Repeated low-value imaging studies"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Symptomatic treatment and psychological counseling are the mainstay. A muscarinic receptor antagonist (e.g., solifenacin 5mg qd) may be used short-term to relieve urinary frequency and urgency",
+     "If anxiety or depression is present, combine with anxiolytic medication. Recommend increased fluid intake, avoidance of irritating foods, and pelvic floor muscle training. The course is usually 2-4 weeks and adjusted according to symptom improvement."
+    ],
+    "safety_warnings": [
+     "Muscarinic receptor antagonists are contraindicated in patients with glaucoma and urinary retention; watch for side effects such as dry mouth and constipation.",
+     "Avoid misuse of antibiotics to prevent dysbiosis and the emergence of resistant bacteria.",
+     "Long-term use of sedative drugs requires precautions against dependence and fall risk."
+    ],
+    "personalization": [
+     "In older women, consider cognitive effects and start with a low dose.",
+     "Most antispasmodic drugs are contraindicated during pregnancy; behavioral therapy is preferred.",
+     "Patients with severe anxiety require psychiatric evaluation and adjustment of the anxiolytic regimen."
+    ]
+   },
+   "disease": "Urethral syndrome",
+   "department": "Urology"
+  },
+  {
+   "presentation": "Patients often report a small bright red mass at the urethral meatus after urination or when wiping, accompanied by obvious pain, burning, or contact bleeding. In some patients, prolapse of the mass can cause difficulty voiding or urinary frequency and urgency. The typical presentation is in postmenopausal women, with single or multiple dark red or purplish red polypoid protrusions at the urethral meatus; the surface may be smooth or eroded and bleeds easily on touch.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you noticed a protruding red lump at the urethral opening?",
+     "Do you have pain or blood dripping at the end of urination?"
+    ],
+    "followup_questions": [
+     "Does this mass bleed more easily after wiping or sexual intercourse?",
+     "Have you recently had urinary frequency, urgency, or difficulty voiding?"
+    ],
+    "stop_conditions": [
+     "The location and color of the mass and accompanying bleeding and pain symptoms have been clearly described",
+     "The patient's age and menopausal status have been confirmed",
+     "A clear history of acute urinary tract infection has been ruled out"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Specialist gynecologic/urologic inspection (observe mass size, shape, and color)",
+     "Digital examination (assess mass texture and mobility)"
+    ],
+    "if_suspected": [
+     "Urethroscopy (to rule out other intraurethral lesions)",
+     "Pathologic biopsy (to confirm diagnosis of atypical lesions or lesions suspected of malignant transformation)"
+    ],
+    "avoid": [
+     "Whole-body CT scanning without indication",
+     "Unnecessary cystography"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For asymptomatic or mildly symptomatic patients, conservative treatment is preferred, including topical estrogen cream (e.g., estriol cream) applied twice daily for 4-8 weeks, along with warm sitz baths and maintenance of local hygiene. If symptoms are marked, bleeding recurs, or voiding is affected, surgical excision is recommended, and the specimen should be sent for pathologic examination to rule out malignant transformation."
+    ],
+    "safety_warnings": [
+     "Before using estrogen preparations, rule out a history of hormone-dependent tumors such as breast cancer and endometrial cancer",
+     "Avoid squeezing or rubbing the mass to prevent secondary infection and bleeding",
+     "After surgery, watch for the risk of urethral stricture and poor wound healing"
+    ],
+    "personalization": [
+     "In postmenopausal women, topical estrogen therapy is preferred to improve atrophy",
+     "Use estrogen with caution during pregnancy; conservative care is the mainstay",
+     "For older frail patients, consider minimally invasive excision under local anesthesia in the outpatient setting rather than surgery under general anesthesia"
+    ]
+   },
+   "disease": "Urethral caruncle",
+   "department": "Urology"
+  },
+  {
+   "presentation": "Patients often complain of postvoid dribbling, urinary frequency and urgency, and recurrent urinary tract infections. The typical presentation is difficulty voiding or the need to press on the anterior vaginal wall to assist voiding; some patients can palpate a cystic mass in the perineum with tenderness. Symptoms are often worse after intercourse, and there may occasionally be a history of purulent urethral discharge or passage of stones.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have continuous dribbling of urine after urination?",
+     "Do you feel that you need to press on the anterior vaginal wall with your hand to empty your bladder?",
+     "Have you recently had recurrent urinary frequency, urgency, or dysuria?"
+    ],
+    "followup_questions": [
+     "Do you feel pain or notice a mass when pressing on the anterior vaginal wall?",
+     "Have you ever had purulent discharge from the urethral opening or passed a small stone?",
+     "Are your symptoms noticeably worse after sexual intercourse?"
+    ],
+    "stop_conditions": [
+     "The patient has clearly described typical postvoid dribbling and a history of pressing to void",
+     "Recurrent urinary tract infection associated with abnormal voiding has been confirmed",
+     "Other common lower urinary tract symptoms such as simple benign prostatic hyperplasia or overactive bladder have been ruled out"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Voiding cystourethrography (VCUG)",
+     "Pelvic ultrasound",
+     "Cystoscopy"
+    ],
+    "if_suspected": [
+     "Pelvic MRI (to assess diverticulum size and its relationship to surrounding tissues)",
+     "Urodynamic testing (to assess concomitant obstruction)",
+     "Urine culture and susceptibility testing"
+    ],
+    "avoid": [
+     "Routine noncontrast CT (insufficient soft-tissue resolution; not first-line)",
+     "Blind urethral bougie dilation (may worsen injury)",
+     "Whole-body PET-CT without indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Asymptomatic patients are followed up regularly",
+     "For symptomatic patients, surgery is preferred, including transvaginal or transurethral diverticulectomy. Urinary tract infection should be controlled before surgery, and a urinary catheter should be left in place for 2 weeks postoperatively to promote healing. For older patients or those at high surgical risk, transurethral resection and drainage may be considered as palliative treatment."
+    ],
+    "safety_warnings": [
+     "Acute urinary tract infection must be thoroughly controlled before surgery to avoid intraoperative bacteremia spread",
+     "Take care to protect adjacent vaginal and urethral mucosa to prevent urinary fistula formation",
+     "After surgery, watch for bleeding and anastomotic dehiscence, and closely monitor catheter patency"
+    ],
+    "personalization": [
+     "In older women with severe cardiopulmonary disease, minimally invasive transurethral resection may be preferred",
+     "In pregnant patients, unless severe obstruction or abscess occurs, treatment is generally recommended to be delayed until after delivery",
+     "For recurrent diverticula, extend the resection range and reinforce suturing, using a biologic mesh if necessary"
+    ]
+   },
+   "disease": "Urethral diverticulum",
+   "department": "Urology"
+  },
+  {
+   "presentation": "Patients often report scrotal heaviness or dull pain that worsens after prolonged standing or exertion and is relieved by lying down to rest. Some patients may have a worm-like tortuous and dilated venous plexus on the scrotal surface. If fertility is affected, there may be a history of infertility. On physical examination, a soft mass may be palpable beneath the scrotal skin and is more prominent during the Valsalva maneuver (breath holding to increase intra-abdominal pressure).",
+   "interview_guide": {
+    "first_questions": [
+     "Do you feel heaviness or pain in your scrotum? Under what circumstances does it worsen or improve?",
+     "Have you noticed any abnormally prominent veins or lumps on the surface of your scrotum?",
+     "Are you planning to conceive, or have you had any previous testing for infertility?"
+    ],
+    "followup_questions": [
+     "Does the pain radiate to your groin or lower abdomen?",
+     "Do your symptoms completely resolve after you lie down and rest?",
+     "Have you recently engaged in strenuous exercise or had a job that requires prolonged standing?"
+    ],
+    "stop_conditions": [
+     "The relationship between symptoms and postural changes has been clarified (e.g., worsening with prolonged standing, relief when lying down).",
+     "Whether there is a history of infertility and the specific duration of attempts to conceive has been confirmed.",
+     "The duration of symptoms and their impact on daily life have been understood."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Scrotal color Doppler ultrasound (gold standard for diagnosis)",
+     "Physical examination (inspection and palpation, including Valsalva maneuver)"
+    ],
+    "if_suspected": [
+     "Semen analysis (to assess impact on fertility)",
+     "Six-item sex hormone panel (to rule out endocrine factors)",
+     "Urinary tract CT or MRI (to rule out secondary causes, such as compression by a renal tumor)"
+    ],
+    "avoid": [
+     "Non-indicated plain radiography",
+     "Unnecessary radionuclide scanning",
+     "Blind diagnostic puncture"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For asymptomatic or mildly symptomatic patients, conservative treatment is preferred, including wearing a scrotal support, avoiding prolonged standing and sitting, local cold compresses, and oral horse chestnut seed extract and other medications that improve venous return. For patients with fertility needs and abnormal semen quality, or those whose pain severely affects daily life, microsurgical varicocelectomy is recommended. After surgery, regular follow-up with semen analysis and ultrasound is required; the course is usually observed for 3-6 months to assess efficacy."
+    ],
+    "safety_warnings": [
+     "During surgery, be alert to the risk of testicular artery injury leading to testicular atrophy",
+     "After surgery, take care to prevent incisional infection and hematoma formation",
+     "Avoid tight clothing that may aggravate venous congestion"
+    ],
+    "personalization": [
+     "In adolescent patients, closely monitor testicular development and choose surgical timing cautiously",
+     "For men with fertility needs, microsurgery is preferentially recommended to reduce the recurrence rate",
+     "For patients with bilateral disease, the surgical strategy should be adjusted according to contralateral testicular function"
+    ]
+   },
+   "disease": "Varicocele",
+   "department": "Urology"
+  }
+ ]
+}

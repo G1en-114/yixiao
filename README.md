@@ -1,77 +1,77 @@
-# 医晓 Hospital Agent · 多智能体临床决策平台
+# YiXiao Hospital Agent · Multi-Agent Clinical Decision Platform
 
-AI+超级智能体赛道 · 高校组（第八届 AI 智能体开发应用赛）参赛作品的可运行实现。
-八个独立临床智能体（分诊 / 问诊 / 鉴别 / 检查 / 双专科会诊 / 主治 / 安全 / 审计）由
-Orchestrator 统一编排，围绕中心病例状态（CaseState）协作：**输入一条主诉，
-端到端交付一份结构化、可追溯、可复盘的诊疗报告。**
+A runnable implementation of the submission for the AI + Super Agent track · University group (8th AI Agent Development Application Competition).
+Eight independent clinical agents (triage / consultation / differential diagnosis / examination / dual-specialty consultation / attending / safety / audit) are orchestrated by
+Orchestrator, collaborating around the central case state (CaseState): **input a chief complaint,
+end-to-end deliver a structured, traceable, reviewable diagnosis and treatment report.**
 
-> 本工程为按佐证材料口径重建的可运行版本：零第三方依赖（纯 Python 标准库），
-> 知识资产沿用参赛材料包（19 科室 / 584 条疾病 Skill / 837 项检查目录 / 安全规则库）。
+> This project is a runnable version rebuilt according to the supporting materials: zero third-party dependencies (pure Python standard library),
+> knowledge assets continue to use the competition material package (19 departments / 584 disease skills / 837 examination catalog / safety rule base).
 
-## 快速开始
+## Quick Start
 
 ```bash
-# 1. 配置模型（qwen3.5-flash，阿里云 DashScope OpenAI 兼容接口，可替换任意兼容基座）
+# 1. Configure the model (qwen3.5-flash, Alibaba Cloud DashScope OpenAI-compatible endpoint; any compatible base model can be substituted)
 #    Windows:  set DASHSCOPE_API_KEY=sk-xxxx     Linux/Mac: export DASHSCOPE_API_KEY=sk-xxxx
 
-# 2. 起服务（零依赖，无需 pip install）
-python web_server.py            # 或 Windows 直接双击 启动演示.bat
+# 2. Start the service (zero dependencies, no pip install needed)
+python web_server.py            # or double-click StartDemo.bat on Windows
 
-# 3. 打开临床指挥台
-#    http://127.0.0.1:7860/demo     演示账号 demo / yixiao2026
+# 3. Open the clinical command center
+#    http://127.0.0.1:7860/demo     demo account demo / yixiao2026
 ```
 
-演示路线：登录（动态背景）→ 自由输入主诉（如"胸口疼并伴有呼吸困难，持续半小时"）
-→ 三轮信息差追问 → 录入检查结果（系统不伪造数据）→ 双专科并行会诊 →
-**Safety Gate 驳回（硝酸酯 × PDE-5 前置条件）→ 主治修订 → 二轮通过** → 审计回放时间线 → 诊疗报告。
+Demo route: login (dynamic background) → freely enter a chief complaint (e.g. "Chest pain with shortness of breath for 30 minutes")
+→ three rounds of information-gap follow-up → enter examination results (the system does not fabricate data) → parallel dual-specialty consultation →
+**Safety Gate rejection (nitrate × PDE-5 precondition) → attending revision → second-pass approval** → audit replay timeline → diagnosis and treatment report.
 
-## 比赛入口（保持不变）
+## Competition Entry (unchanged)
 
 ```bash
 curl http://127.0.0.1:7860/health            # {"status": "ok"}
 curl -X POST http://127.0.0.1:7860/test -H "Content-Type: application/json" \
-     -d '{"chief_complaint":"胸口疼并伴有呼吸困难，持续半小时","age":56,"sex":"男"}'
+     -d '{"chief_complaint":"Chest pain with shortness of breath for 30 minutes","age":56,"sex":"Male"}'
 
-python my_doctor_agent.py train              # 知识库装配校验（584/837/19）
-python my_doctor_agent.py test --complaint "胸口疼并伴有呼吸困难，持续半小时" --age 56
-python basic_agent.py      test              # 原比赛基础入口，接口不变
+python my_doctor_agent.py train              # Knowledge base assembly validation (584/837/19)
+python my_doctor_agent.py test --complaint "Chest pain with shortness of breath for 30 minutes" --age 56
+python basic_agent.py      test              # Original competition base entry, interface unchanged
 ```
 
-`MyDoctorAgent / BasicAgent` 暴露单一 SDK 入口，内部由 Orchestrator 调度八个角色实例——
-与佐证材料描述的结构一致（`docs_architecture.md` 含完整架构图）。
+`MyDoctorAgent / BasicAgent` exposes a single SDK entry, internally scheduled by Orchestrator across eight role instances—
+consistent with the structure described in the supporting materials (`docs_architecture.md` contains the complete architecture diagram).
 
-## 目录结构
+## Directory Structure
 
 ```
-agent/core/      CaseState（写权限隔离）、AgentMessage/AgentResult/HandoffEvent、
-                 Store（SQLite WAL，每线程独立连接）、EventBus（JSONL 事件 + SSE 广播）、Orchestrator
-agent/roles/     八个角色 Agent；SpecialistAgent 按科室动态加载；prompts/ 八套角色提示词
-agent/runtime/   LLM 客户端（OpenAI 兼容，urllib 实现）、知识检索器（RAG Top-K 注入）、
-                 确定性安全规则引擎、临床管线（可暂停/可恢复状态机）、FakeLLM 剧本（仅测试）
-web/static/      临床指挥台（深色指挥中心风格，原生 JS + SSE，无框架）
-data/skills/     19 科室 Skill JSON + all_diseases.txt（584）+ examinations.json（837）
-tests/           30 项自动化测试（FakeLLM，不真实调用大模型）
+agent/core/      CaseState (write-permission isolation), AgentMessage/AgentResult/HandoffEvent,
+                 Store (SQLite WAL, per-thread independent connections), EventBus (JSONL events + SSE broadcast), Orchestrator
+agent/roles/     eight role agents; SpecialistAgent dynamically loaded by department; prompts/ eight role prompt sets
+agent/runtime/   LLM client (OpenAI-compatible, urllib implementation), knowledge retriever (RAG Top-K injection),
+                 deterministic safety rule engine, clinical pipeline (pausable/resumable state machine), FakeLLM script (testing only)
+web/static/      clinical command center (dark command-center style, native JS + SSE, no framework)
+data/skills/     19 department Skill JSON + all_diseases.txt (584) + examinations.json (837)
+tests/           30 automated tests (FakeLLM, no real large model calls)
 ```
 
-## 工程机制（对应佐证材料口径）
+## Engineering Mechanisms (corresponding to the supporting material descriptions)
 
-- **写权限隔离**：各智能体只返回结构化补丁，Orchestrator 按角色权限合并中心状态；
-- **追加式交接**：AgentMessage / AgentResult / HandoffEvent，每次交接记录来源、目标、
-  任务、风险、Skill 证据与校验结果，全量写入 SQLite + JSONL，SSE 逐步回放；
-- **双重安全校验**：确定性规则引擎（过敏冲突、硝酸酯×PDE-5 前置条件、avoid/目录外/重复检查、
-  红旗征象必须建议急诊）+ SafetyAgent 大模型审查；驳回即阻断，主治最多修订 2 次，
-  两轮未过则保守回退并如实标注；
-- **诚实边界**：检查结果由用户录入；FakeLLM 只用于自动化测试（`--fake` / `HOSPITAL_FAKE_LLM=1`），
-  正式演示不自动回退假结果；模型未配置或请求失败时界面如实显示错误。
+- **Write-permission isolation**: each agent returns only structured patches; Orchestrator merges the central state according to role permissions;
+- **Append-only handoff**: AgentMessage / AgentResult / HandoffEvent; each handoff records source, target,
+  task, risk, Skill evidence and validation results, fully written to SQLite + JSONL, with SSE step-by-step replay;
+- **Dual safety validation**: deterministic rule engine (allergy conflicts, nitrate × PDE-5 precondition, avoid/off-catalog/duplicate examinations,
+  red-flag signs must recommend emergency) + SafetyAgent large-model review; rejection blocks immediately, the attending may revise at most 2 times,
+  after two failed rounds a conservative fallback is applied and truthfully annotated;
+- **Honesty boundary**: examination results are entered by the user; FakeLLM is only used for automated testing (`--fake` / `HOSPITAL_FAKE_LLM=1`),
+  formal demos do not automatically fall back to fake results; when the model is not configured or a request fails, the UI truthfully displays the error.
 
-## 测试与部署
+## Testing and Deployment
 
 ```bash
-python -m pytest tests -q      # 30 passed；需要 pytest（唯一开发依赖）
+python -m pytest tests -q      # 30 passed; requires pytest (the only development dependency)
 docker build -t yixiao . && docker run -p 7860:7860 -e DASHSCOPE_API_KEY=sk-xxx yixiao
 ```
 
-## 声明
+## Disclaimer
 
-系统输出仅用于教学演示与临床决策辅助研究，不替代真实医疗诊断、处方或急救；
-演示病例均为脱敏沙盒数据，不采集、不存储任何真实患者信息。
+System output is used only for teaching demonstrations and clinical decision-support research, and does not replace real medical diagnosis, prescription, or emergency care;
+demonstration cases are de-identified sandbox data, and no real patient information is collected or stored.

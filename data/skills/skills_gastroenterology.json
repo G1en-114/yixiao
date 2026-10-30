@@ -1,0 +1,1492 @@
+{
+ "department": "Gastroenterology",
+ "skills": [
+  {
+   "presentation": "Epigastric discomfort, dull pain, fullness, early satiety, decreased appetite, belching, acid regurgitation, and nausea; often markedly aggravated after meals; some cases of chronic atrophic gastritis may be accompanied by systemic symptoms such as anemia, weight loss, glossitis, and diarrhea.",
+   "interview_guide": {
+    "first_questions": [
+     "How long have you had dull epigastric pain and bloating? Is it more noticeable before or after meals?",
+     "Do you feel full and bloated after eating only a little (early satiety), or do you have belching and acid regurgitation?",
+     "What has the color of your stool been recently? Have you had tarry black stools?"
+    ],
+    "followup_questions": [
+     "Are your diet and daily routine generally regular? Do you have long-term habits of smoking, drinking strong liquor, strong tea, coffee, or eating heavily seasoned/highly flavored foods?",
+     "Have you often taken pain relievers such as aspirin or ibuprofen, or steroid medications, in the past?",
+     "Have you ever had an upper endoscopy or a Helicobacter pylori (Hp) breath test? Is there any family history of gastric cancer?"
+    ],
+    "stop_conditions": [
+     "The relationship between the characteristics of epigastric discomfort and the rhythm of meals has been clearly established",
+     "Alarm symptoms of the digestive tract, such as gastrointestinal bleeding, weight loss, and dysphagia, have been ruled out",
+     "The precipitating factors (Hp, NSAID medications, and dietary factors) have been clearly elicited"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "13C or 14C urea breath test (preferred test for Helicobacter pylori [Hp] infection)",
+     "Upper endoscopy with mucosal biopsy and pathologic examination (gold standard for diagnosing superficial/atrophic gastritis and intestinal metaplasia)",
+     "Stool routine + fecal occult blood test (FOBT)"
+    ],
+    "if_suspected": [
+     "Serum pepsinogen I/II and gastrin-17 (G-17) (serologic screening for gastric mucosal atrophy)",
+     "Complete blood count, vitamin B12, and ferritin (if autoimmune atrophic gastritis with pernicious anemia is suspected)",
+     "Abdominal ultrasound (to rule out cholelithiasis and pancreatic disease)"
+    ],
+    "avoid": [
+     "Emergency contrast-enhanced CT of the whole abdomen when there is no suspicion of an acute abdomen or perforation",
+     "Misuse of whole-body PET-CT for uncomplicated chronic gastritis without anemia or weight loss"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For Hp-positive patients, 14-day bismuth-containing quadruple therapy for Helicobacter pylori eradication (PPI + bismuth + 2 antibiotics)",
+     "Symptomatic treatment: add prokinetic agents (domperidone/mosapride) for bloating and early satiety; add a PPI (omeprazole/rabeprazole) or H2RA for acid reflux and dull pain; add gastric mucosal protective agents (hydrotalcite/rebamipide) for mucosal erosion."
+    ],
+    "safety_warnings": [
+     "Long-term misuse of PPIs (proton pump inhibitors) requires attention to the risks of osteoporosis, hypomagnesemia, vitamin B12 deficiency, and gut microbiota imbalance",
+     "The prokinetic drug domperidone may cause QT interval prolongation and should be used with caution in patients with arrhythmia and in older adults",
+     "Moderate-to-severe atrophic gastritis with moderate-to-severe intestinal metaplasia or dysplasia is a precancerous lesion of gastric cancer, and regular endoscopic follow-up is mandatory"
+    ],
+    "personalization": [
+     "Chronic atrophic gastritis with intestinal metaplasia: after Hp eradication, add antioxidants (vitamin C, E, and selenium) and traditional Chinese medicine conditioning, with regular detailed endoscopic examination",
+     "NSAID-related gastric mucosal injury: discontinue or change NSAIDs, and PPI or misoprostol must be used concurrently throughout for protection",
+     "For patients with obvious anxiety, depression, or somatic symptom disorder: a low-dose anxiolytic/antidepressant (e.g., flupentixol/melitracen) may be added"
+    ]
+   },
+   "disease": "Chronic gastritis",
+   "department": "Gastroenterology"
+  },
+  {
+   "presentation": "Chronic, periodic, rhythmic epigastric burning pain, dull pain, or vague pain, typically showing a 'eating-pain-relief' pattern (pain occurs about 0.5-1 hour after meals and resolves before the next meal), often accompanied by acid regurgitation, heartburn, belching, and nausea; severe cases may be complicated by gastrointestinal bleeding, perforation, pyloric obstruction, or malignant transformation.",
+   "interview_guide": {
+    "first_questions": [
+     "What is the relationship between your epigastric pain and eating? Does the pain usually start half an hour to 1 hour after a meal?",
+     "Is the stomach pain a vague pain, a burning pain, or severe knife-like pain? How many weeks does each episode last?",
+     "Is your stool color normal? Have you passed shiny black stools like tar?"
+    ],
+    "followup_questions": [
+     "Have you recently had sudden severe knife-like pain over the whole abdomen, with the abdomen hard as a board? (urgent evaluation for acute ulcer perforation)",
+     "Have you taken antipyretic-analgesic drugs such as aspirin, ibuprofen, or diclofenac sodium long term in the past?",
+     "Have you had nausea or violent vomiting of retained food from the previous day? (evaluation for pyloric obstruction)"
+    ],
+    "stop_conditions": [
+     "The rhythmicity, periodicity, and course of postprandial pain have been clearly established",
+     "The three critical complications of major bleeding, acute perforation, and pyloric obstruction have been comprehensively ruled out",
+     "The history of Helicobacter pylori infection and ulcer-causing medication use has been clearly obtained"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Electronic upper endoscopy + multiple-site biopsy from the ulcer edge for pathologic examination (gold standard for confirming ulcer stage A/H/S and firmly excluding gastric cancer)",
+     "13C/14C urea breath test (Helicobacter pylori infection testing)",
+     "Stool routine + occult blood test (FOBT)",
+     "Complete blood count (to assess hemorrhagic anemia)"
+    ],
+    "if_suspected": [
+     "Upright abdominal plain film (to look for subdiaphragmatic free air when severe generalized abdominal pain suggests acute perforation)",
+     "Gastrointestinal barium meal examination (when endoscopy is contraindicated or to assess gastric peristalsis in pyloric obstruction)"
+    ],
+    "avoid": [
+     "Barium meal examination or routine air-insufflation during endoscopy when acute ulcer perforation is highly suspected (strictly prohibited to prevent worsening of pneumoperitoneum and peritonitis)",
+     "Direct empiric long-term medication without endoscopic biopsy, which may mask gastric cancer progression"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Suppress gastric acid secretion (preferred: proton pump inhibitors [PPIs] such as esomeprazole, rabeprazole, and pantoprazole, for 6-8 weeks)",
+     "Eradicate Helicobacter pylori (standard 14-day bismuth-containing quadruple therapy for Hp-positive patients)",
+     "Combine with gastric mucosal protective agents (hydrotalcite, teprenone, and potassium bismuth citrate)",
+     "Discontinue ulcer-inducing medications."
+    ],
+    "safety_warnings": [
+     "After the 6-8 week treatment course for gastric ulcer, repeat endoscopy and pathologic biopsy are mandatory until the ulcer has completely healed, to prevent missing early gastric cancer",
+     "Sudden severe abdominal pain with peritoneal irritation signs suggests acute perforation; immediate fasting, gastrointestinal decompression, and emergency surgery are required",
+     "During active major bleeding, fasting and high-dose intravenous PPI bolus therapy are required, with emergency endoscopic hemostasis (titanium clip/electrocoagulation/injection) if necessary"
+    ],
+    "personalization": [
+     "Patients with cardiovascular disease who must take aspirin long term: after ulcer healing, lifelong prophylactic concurrent PPI use or switching to an antiplatelet drug with less gastric mucosal injury is required",
+     "Older adult patients with gastric ulcer: symptoms are often atypical, ulcers are often located in the upper gastric body or at a high position, and healing is slow; the PPI course should be appropriately prolonged",
+     "Refractory ulcer: evaluate for gastrinoma (Zollinger-Ellison syndrome), Crohn disease, and malignant tumors"
+    ]
+   },
+   "disease": "gastric ulcer",
+   "department": "Gastroenterology"
+  },
+  {
+   "presentation": "Retrosternal burning sensation ('heartburn'), acid regurgitation, food regurgitation, and nausea; retrosternal stabbing or dull pain (aggravated after meals or when lying flat or bending over); some patients may present with extraesophageal symptoms: chronic cough, globus sensation in the throat, hoarseness, asthma-like attacks, or noncardiac chest pain.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have a burning sensation behind the chest (retrosternal area), or sour or bitter fluid rising into your throat?",
+     "Are acid regurgitation and heartburn worse after meals, when lying flat, or when bending over?",
+     "Is the chest pain related to eating or body position when it occurs? Does sublingual nitroglycerin relieve it? (to differentiate angina)"
+    ],
+    "followup_questions": [
+     "Do you have food sticking during swallowing, pain on swallowing, or difficulty swallowing? (evaluation for esophageal stricture or esophageal cancer)",
+     "Have you had long-term nighttime dry cough, a sensation of phlegm in the throat that is hard to cough up, hoarseness, or asthma-like symptoms?",
+     "Do you often prefer sweets, greasy or spicy foods, drink strong tea or coffee, overeat, or lie down immediately after meals?"
+    ],
+    "stop_conditions": [
+     "Typical core symptoms of heartburn and reflux and position-related triggering features have been confirmed",
+     "Cardiac causes of fatal chest pain such as coronary heart disease/angina, and alarm symptoms of organic esophageal obstruction, have been ruled out",
+     "Dietary and lifestyle trigger factors have been fully obtained"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Upper endoscopy (to assess the severity of esophageal mucosal injury, diagnose esophagitis according to the Los Angeles classification LA-A to LA-D, and exclude esophageal cancer and Barrett esophagus)",
+     "Electrocardiography (to evaluate cardiac ischemic causes of chest pain)"
+    ],
+    "if_suspected": [
+     "24-hour esophageal pH-impedance monitoring (gold standard for confirming gastroesophageal reflux and non-acid reflux)",
+     "High-resolution esophageal manometry (HRM) (to assess lower esophageal sphincter [LES] pressure and esophageal motility)",
+     "PPI test (diagnostic treatment trial: standard-dose oral PPI for 1-2 weeks to observe symptom improvement)"
+    ],
+    "avoid": [
+     "Blindly ordering contrast-enhanced CT of the entire chest for mild reflux symptoms alone",
+     "Blindly attributing all acute retrosternal chest pain to reflux without performing electrocardiography"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Acid-suppressive therapy is the core treatment (preferred: standard-dose proton pump inhibitors [PPIs] such as rabeprazole and esomeprazole, or the novel P-CAB acid suppressant vonoprazan, for 4-8 weeks)",
+     "Combine with prokinetic agents (mosapride) and antacids/mucosal protective agents (hydrotalcite chewable tablets, sodium alginate)",
+     "Lifestyle improvement: elevate the head of the bed, quit smoking and alcohol, eat smaller more frequent meals, and avoid eating for 3 hours before bedtime."
+    ],
+    "safety_warnings": [
+     "Severe esophagitis (LA-C and LA-D grades) is prone to complicated esophageal ulcer, gastrointestinal bleeding, and benign cicatricial stricture, and a full course of maintenance consolidation therapy is required",
+     "Barrett esophagus is a precancerous lesion of esophageal adenocarcinoma, and regular endoscopic biopsy to monitor for dysplasia is mandatory",
+     "Long-term high-dose use of acid-suppressive drugs requires monitoring of serum vitamin B12, serum calcium, and bone mineral density"
+    ],
+    "personalization": [
+     "Refractory reflux (not relieved by standard-dose PPI): switch to the P-CAB vonoprazan or double-dose PPI taken in divided doses in the morning and evening",
+     "Patients with severe hiatal hernia or severe reflux that is unresponsive to medical therapy: evaluate for laparoscopic fundoplication (Nissen surgery)",
+     "Patients with severe nocturnal acid breakthrough: add an H2 receptor antagonist (e.g., famotidine) at bedtime"
+    ]
+   },
+   "disease": "Reflux esophagitis",
+   "department": "Gastroenterology"
+  },
+  {
+   "presentation": "The compensated stage may have no obvious specific symptoms, but fatigue, decreased appetite, abdominal bloating, palmar erythema, and spider angiomas may occur; the decompensated stage presents with two major syndromes, hepatic function impairment and portal hypertension: extreme fatigue, jaundice, ascites, splenomegaly, abdominal wall varices, lower extremity edema, gingival and skin bleeding, and a dusky complexion (liver disease facies); severe cases may be complicated by massive bleeding from ruptured esophageal and gastric varices, hepatic encephalopathy, hepatorenal syndrome, and spontaneous bacterial peritonitis.",
+   "interview_guide": {
+    "first_questions": [
+     "How long have you had abdominal enlargement (bloating, ascites) or bilateral lower extremity edema?",
+     "Have your eyes or skin been yellow (jaundice)? Is your urine as dark as strong tea?",
+     "Do you have a history of hepatitis B, hepatitis C, long-term heavy alcohol use, fatty liver, or autoimmune liver disease?"
+    ],
+    "followup_questions": [
+     "Have you had hematemesis, vomiting of coffee-ground material, or black stools? (evaluation for major upper gastrointestinal bleeding)",
+     "Recently, have you had reversed sleep-wake pattern (sleepy during the day and alert at night), incoherent speech, answering questions irrelevantly, or flapping tremor of both hands? (evaluation for hepatic encephalopathy)",
+     "Has the ascites suddenly increased recently with abdominal pain and fever? (evaluation for spontaneous bacterial peritonitis [SBP])"
+    ],
+    "stop_conditions": [
+     "The clinical stage of cirrhosis has been clearly established (compensated Child-Pugh A vs decompensated Child-Pugh B/C)",
+     "Critical complications such as gastrointestinal bleeding, hepatic encephalopathy, and intra-abdominal infection have been ruled out",
+     "The underlying etiology of liver disease (viral, alcohol, drug, immune) and the history of antiviral treatment/alcohol abstinence have been completely obtained"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Comprehensive liver function panel (ALT/AST, decreased albumin [ALB], elevated total bilirubin [TBIL] and direct bilirubin, and inverted A/G ratio)",
+     "Four coagulation tests (prolonged prothrombin time [PT], elevated INR)",
+     "Abdominal ultrasound/contrast-enhanced upper abdominal CT (irregular liver surface, sawtooth-like changes, disproportionate liver lobe size, splenomegaly, portal vein widening >13mm, ascites)",
+     "Complete blood count (pancytopenia, decreased white blood cells, red blood cells, and platelets, hypersplenism)",
+     "Alpha-fetoprotein (AFP) (early screening for liver cancer)"
+    ],
+    "if_suspected": [
+     "Electronic upper endoscopy (to screen and assess the degree of esophageal and gastric varices and red color signs indicating bleeding risk)",
+     "Ascitic fluid routine, biochemistry, and bacterial culture (to confirm SBP when there is a large amount of ascites or fever and abdominal pain)",
+     "Five hepatitis B markers + HBV-DNA quantification / hepatitis C antibody + HCV-RNA quantification (etiological screening)",
+     "Liver stiffness shear wave imaging with FibroScan (to assess liver stiffness measurement [LSM])"
+    ],
+    "avoid": [
+     "Misuse of spinal MRI without focal neurologic deficit signs",
+     "Blindly performing large-volume, uncontrolled ascites drainage without human albumin supplementation in patients with severe hypoalbuminemia and ascites"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Etiologic treatment (for hepatitis B, preferred antiviral therapy with entecavir/tenofovir",
+     "for hepatitis C, preferred direct-acting antivirals DAAs",
+     "alcohol abstinence)",
+     "Ascites treatment (restrict sodium intake <2g/d, diuresis with spironolactone combined with furosemide, with intravenous human albumin supplementation)",
+     "Prevention of portal hypertension and varices (non-selective beta-blockers propranolol/carvedilol to reduce portal pressure, or endoscopic variceal ligation [EVL])",
+     "Hepatoprotective, antifibrotic, and nutritional support."
+    ],
+    "safety_warnings": [
+     "Rupture of esophageal and gastric varices is a fatal massive-bleeding emergency; immediately establish intravenous access for fluid resuscitation and blood transfusion, administer somatostatin/terlipressin by intravenous infusion, and perform emergency endoscopic hemostasis",
+     "In patients with hepatic encephalopathy, high-protein diets are strictly prohibited, sedative-hypnotic drugs (such as diazepam) must not be misused, and potent potassium-depleting diuretics are contraindicated",
+     "In patients with cirrhosis, hepatotoxic drugs and NSAIDs that damage the gastric mucosa (ibuprofen/aspirin) are strictly prohibited"
+    ],
+    "personalization": [
+     "Prodromal phase/episode of hepatic encephalopathy: restrict protein intake, oral lactulose to acidify the gut and promote ammonia excretion, oral rifaximin to suppress ammonia-producing gut bacteria, and intravenous ornithine aspartate",
+     "Refractory ascites: perform regular therapeutic paracentesis combined with albumin volume expansion (replace 8g albumin for every 1000ml of ascites removed), or transjugular intrahepatic portosystemic shunt (TIPS)",
+     "Patients with end-stage liver disease: evaluate indications for liver transplantation"
+    ]
+   },
+   "disease": "Cirrhosis",
+   "department": "Gastroenterology"
+  },
+  {
+   "presentation": "Patients often present with progressive dysphagia, initially for solid foods and later also affecting liquids. It is accompanied by regurgitation of undigested food, retrosternal pain or discomfort, and some patients have weight loss and malnutrition. Symptoms are often worse during eating, and at night regurgitation may cause choking or aspiration pneumonia.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have difficulty swallowing? Is it harder to swallow solid foods or liquids?",
+     "Do you have pain or a burning sensation behind your breastbone?",
+     "Have you lost weight recently?"
+    ],
+    "followup_questions": [
+     "If the difficulty swallowing persists, is it accompanied by regurgitation of undigested food?",
+     "Do you have nighttime cough or difficulty breathing?",
+     "Are your symptoms related to emotional stress?"
+    ],
+    "stop_conditions": [
+     "The patient clearly describes typical dysphagia and regurgitation symptoms.",
+     "The duration and rate of progression of symptoms have been established.",
+     "Other obvious causes (such as esophageal cancer) have been ruled out."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Barium swallow",
+     "Esophageal manometry",
+     "Upper endoscopy"
+    ],
+    "if_suspected": [
+     "Endoscopic ultrasound of the upper gastrointestinal tract",
+     "24-hour esophageal pH monitoring"
+    ],
+    "avoid": [
+     "Routine abdominal CT (unless a complication is suspected)",
+     "Unnecessary tumor marker testing"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes medications (such as nitrates or calcium channel blockers) to relieve symptoms, but their effect is limited. Endoscopic balloon dilation or peroral endoscopic myotomy (POEM) is more recommended; the latter has better efficacy and is less invasive. Regular follow-up after the procedure is needed to assess efficacy and complications."
+    ],
+    "safety_warnings": [
+     "Avoid long-term use of nitrates to prevent tolerance.",
+     "Be alert for the risk of pneumothorax or mediastinal infection after POEM.",
+     "Watch for the development of reflux esophagitis and, if necessary, add proton pump inhibitor therapy."
+    ],
+    "personalization": [
+     "In older patients, cardiopulmonary function should be assessed to select an appropriate treatment plan.",
+     "In pediatric patients, minimally invasive surgery should be preferred to reduce long-term effects.",
+     "Patients with severe malnutrition require preoperative nutritional support."
+    ]
+   },
+   "disease": "achalasia",
+   "department": "Gastroenterology"
+  },
+  {
+   "presentation": "Patients often present with sudden severe epigastric pain or a burning sensation, accompanied by nausea, vomiting, and decreased appetite. Symptoms usually appear within hours after eating contaminated food, drinking alcohol, or taking irritating medications. Vomitus is mostly gastric contents; in severe cases it may contain bile. There is usually no high fever or melena. Abdominal pain is paroxysmal and may be temporarily relieved after defecation or vomiting, but gastric discomfort persists.",
+   "interview_guide": {
+    "first_questions": [
+     "Did you eat raw or cold food, contaminated food, or drink a large amount of alcohol today or yesterday?",
+     "What is the exact location and nature of your abdominal pain? Is it accompanied by nausea and vomiting?"
+    ],
+    "followup_questions": [
+     "Is there any coffee-ground material or fresh blood in the vomitus?",
+     "Have you recently taken nonsteroidal anti-inflammatory drugs such as aspirin or ibuprofen?",
+     "Do you have systemic symptoms such as fever, diarrhea, dizziness, or fatigue?"
+    ],
+    "stop_conditions": [
+     "A clear trigger (such as dietary indiscretion) has been identified, symptoms are typical, and there are no alarm features.",
+     "Vital signs are stable, there is no evidence of dehydration, and no urgent further testing is needed.",
+     "The patient's symptoms are mild, and after initial assessment the patient can be managed with outpatient observation and treatment."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete blood count",
+     "Stool routine and fecal occult blood test"
+    ],
+    "if_suspected": [
+     "Abdominal ultrasound (to rule out cholecystitis and pancreatitis)",
+     "Upper endoscopy (only if symptoms persist despite treatment or ulcer bleeding is suspected)"
+    ],
+    "avoid": [
+     "Routine CT scanning (not first-line; high radiation exposure and limited diagnostic value for mucosal lesions)",
+     "Helicobacter pylori breath test (easily affected by acid-suppressing drugs in the acute phase and not required to confirm acute inflammation)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "The primary measures are fasting or a liquid diet and fluid replacement to correct dehydration. For pharmacotherapy, proton pump inhibitors (such as omeprazole 20mg once or twice daily) are first-line to suppress gastric acid, combined with gastric mucosal protectants (such as sucralfate suspension). If nausea and vomiting are pronounced, metoclopramide may be used short-term as an antiemetic. The usual course is 3-5 days; after symptoms improve, gradually resume eating and avoid irritating foods."
+    ],
+    "safety_warnings": [
+     "NSAIDs must not be used when suspected gastrointestinal bleeding has not been clarified.",
+     "Monitor for electrolyte disturbances, especially the risk of hypokalemia caused by frequent vomiting.",
+     "In older adults, be alert for dehydration-induced cardiovascular and cerebrovascular events."
+    ],
+    "personalization": [
+     "Use antiemetics with caution in pregnant women; prioritize physical measures and fluid replacement.",
+     "In patients with renal insufficiency, adjust diuretics and the rate of fluid replacement to avoid worsening renal burden.",
+     "In older patients, use lower doses and closely monitor changes in blood pressure and heart rate."
+    ]
+   },
+   "disease": "Acute simple gastritis",
+   "department": "Gastroenterology"
+  },
+  {
+   "presentation": "Patients often report a long history of heavy alcohol use, with fatigue, decreased appetite, and vague or distending right upper quadrant pain. Some develop jaundice (yellowing of the skin and sclera), abdominal distension, and lower extremity edema. Severe cases may present with fever, nausea and vomiting, confusion, or chronic liver disease signs such as palmar erythema and spider angiomas. Symptom severity is related to the amount and duration of alcohol consumption; early disease may be asymptomatic and detected only on medical examination as elevated transaminases.",
+   "interview_guide": {
+    "first_questions": [
+     "How often do you usually drink alcohol, and about how much do you drink each time? For how long has this continued?",
+     "Have you recently had fatigue, poor appetite, nausea, or discomfort in the right upper abdomen?"
+    ],
+    "followup_questions": [
+     "If you have noticed yellowing of the skin or darker urine, when exactly did it start?",
+     "Have you had significant weight loss recently? Have you had black stools or vomited blood?"
+    ],
+    "stop_conditions": [
+     "Daily ethanol intake has been confirmed to exceed the safe threshold and to have continued for several years",
+     "Typical clinical manifestations (such as jaundice and ascites) combined with a history of alcohol use strongly suggest the diagnosis",
+     "The patient cannot provide an accurate alcohol history but has other clear evidence of liver disease and requires referral for evaluation"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Liver function tests (ALT, AST, GGT, bilirubin)",
+     "Abdominal ultrasound",
+     "Complete blood count and coagulation profile"
+    ],
+    "if_suspected": [
+     "Transient liver elastography (FibroScan)",
+     "Viral hepatitis marker screening",
+     "Upper endoscopy (to evaluate for esophageal and gastric varices)"
+    ],
+    "avoid": [
+     "Liver biopsy without an indication (noninvasive assessment is preferred)",
+     "Routine use of hepatoprotective drugs without alcohol abstinence",
+     "Unnecessary whole-body CT scanning (increases radiation exposure and is insensitive for early lesions)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "The primary measure is strict alcohol abstinence, which is key to reversing the condition. Patients with mild disease may receive B-vitamin complex and folic acid supplementation. Patients with moderate to severe disease require nutritional support with a high-protein, high-calorie diet and, if necessary, enteral nutrition. In severe alcoholic hepatitis, short-term corticosteroids (such as prednisolone 40mg/d) may be used for a course of 2-4 weeks, with close monitoring for infection risk. Psychological intervention should also be provided to prevent relapse drinking."
+    ],
+    "safety_warnings": [
+     "Active infection and gastrointestinal bleeding must be ruled out before using corticosteroids",
+     "Avoid concomitant use of drugs harmful to the liver (such as acetaminophen)",
+     "Be alert for stress ulceration or loss of glycemic control induced during corticosteroid therapy"
+    ],
+    "personalization": [
+     "Older patients require reduced-dose corticosteroids and strengthened fall prevention",
+     "Patients with malnutrition should eat small, frequent meals to avoid increasing metabolic burden",
+     "Pregnant women or women planning pregnancy must not use alcohol dependence treatment drugs (such as disulfiram)"
+    ]
+   },
+   "disease": "alcoholic liver disease",
+   "department": "Gastroenterology"
+  },
+  {
+   "presentation": "Patients often report fatigue, decreased appetite, and vague right upper quadrant pain, and some have pruritus or jaundice. Symptoms progress chronically and are easily misdiagnosed as viral hepatitis or drug-induced liver injury. Typical manifestations include extrahepatic autoimmune symptoms such as menstrual irregularities (in women) and arthralgia; physical examination may reveal hepatosplenomegaly, spider angiomas, or palmar erythema, and laboratory tests show markedly elevated transaminases and increased globulin.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently felt unusually fatigued or had discomfort in the right upper abdomen?",
+     "Have you had yellowing of the skin, darker urine, or generalized itching?",
+     "Do you have a history of other autoimmune diseases (such as thyroiditis or Sjögren's syndrome)?"
+    ],
+    "followup_questions": [
+     "If you have joint pain or rash, please describe the specific location and duration.",
+     "Have you recently taken Chinese herbal medicines, dietary supplements, or special medications?",
+     "For female patients, have you had marked changes in your menstrual cycle or amenorrhea?"
+    ],
+    "stop_conditions": [
+     "Viral hepatitis and alcoholic liver disease have been clearly excluded, and hyperglobulinemia is present.",
+     "The patient has provided complete autoimmune antibody test results (such as ANA and SMA).",
+     "Clinical features strongly suggest AIH and there are no contraindications, so evaluation for initiating immunosuppressive therapy should begin immediately."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum immunoglobulin IgG quantification",
+     "Autoantibody panel testing (ANA, SMA, LKM-1, SLA/LP)",
+     "Transient liver elastography or liver biopsy"
+    ],
+    "if_suspected": [
+     "Antimitochondrial antibody (AMA) to exclude primary biliary cholangitis",
+     "Abdominal ultrasound or MRCP to evaluate for biliary obstruction",
+     "Thyroid function and thyroid antibody screening"
+    ],
+    "avoid": [
+     "Routine repeat testing of hepatitis B/C virus markers (no need for repeated testing after initial negative screening)",
+     "Unnecessary hepatic angiography",
+     "Empirical antibiotic therapy (when there is no evidence of infection)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is a glucocorticoid combined with azathioprine. The initial prednisone dose is 0.5-1mg/kg/d, tapered gradually after disease control.",
+     "Azathioprine 1-2mg/kg/d is used as maintenance therapy. The course is usually at least 2 years, until biochemical parameters are completely normal and stable. A low-salt diet, calcium and vitamin D supplementation to prevent osteoporosis, and avoidance of alcohol and hepatotoxic drugs are also recommended."
+    ],
+    "safety_warnings": [
+     "Long-term corticosteroid use requires vigilance for the risk of infection, hypertension, hyperglycemia, and gastrointestinal bleeding",
+     "Azathioprine may cause bone marrow suppression; TPMT enzyme activity should be tested before use",
+     "Abrupt discontinuation is strictly prohibited to avoid inducing severe rebound hepatitis"
+    ],
+    "personalization": [
+     "Older patients should receive a lower initial corticosteroid dose and, where possible, concomitant azathioprine to reduce adverse effects",
+     "In pregnant patients, budesonide may be considered as an alternative to prednisone, but fetal status must be closely monitored",
+     "Patients with liver failure require urgent evaluation for liver transplantation indications, and oral immunosuppressants should be temporarily withheld"
+    ]
+   },
+   "disease": "autoimmune hepatitis",
+   "department": "Gastroenterology"
+  },
+  {
+   "presentation": "Patients often present with chronic diarrhea, abdominal bloating, weight loss, and symptoms of malnutrition. Some patients may have iron deficiency anemia, osteoporosis, or recurrent oral ulcers. Symptoms often worsen after ingestion of gluten-containing foods, and the disease course is long, making it easily misdiagnosed as irritable bowel syndrome or other digestive system diseases.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had long-term diarrhea or abdominal bloating?",
+     "Have you recently had unexplained weight loss or anemia?",
+     "Has anyone in your family been diagnosed with celiac disease or an autoimmune disease?"
+    ],
+    "followup_questions": [
+     "Do your symptoms worsen after eating gluten-containing foods such as bread or noodles?",
+     "Do you have itchy skin or a rash (such as dermatitis herpetiformis)?",
+     "Have you had joint pain or fatigue?"
+    ],
+    "stop_conditions": [
+     "The patient has clearly described typical symptoms and mentioned an association with gluten intake",
+     "Relevant laboratory tests or imaging results are already available to support the diagnosis",
+     "The patient has no further information to add and the symptoms are consistent with the features of celiac disease"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serologic testing: anti-tissue transglutaminase antibody (tTG-IgA)",
+     "Total IgA level testing to exclude false negatives",
+     "Small bowel biopsy to confirm villous atrophy"
+    ],
+    "if_suspected": [
+     "HLA-DQ2/DQ8 genetic testing for exclusion of the diagnosis",
+     "Vitamin B12 and folate level testing to assess nutritional status",
+     "Bone density scan to assess risk of osteoporosis"
+    ],
+    "avoid": [
+     "Abdominal CT or MRI without indication",
+     "Nonspecific stool routine tests",
+     "Microbial culture before empirical antibiotic treatment"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is a strict lifelong gluten-free diet, avoiding wheat, barley, and rye products. Patients should receive dietitian guidance to ensure a balanced diet. For patients with severe malnutrition, short-term supplementation with iron, calcium, and vitamin D may be used. Regular follow-up should monitor antibody levels and nutritional status."
+    ],
+    "safety_warnings": [
+     "Starting a gluten-free diet before diagnosis is strictly prohibited to avoid affecting test results",
+     "Note that medication excipients may contain gluten components",
+     "Be alert to the risk of lymphoma caused by long-term uncontrolled disease"
+    ],
+    "personalization": [
+     "Pediatric patients require particular attention to growth and development indicators",
+     "Pregnant women require enhanced folic acid and iron supplementation",
+     "Older patients require assessment of the degree of osteoporosis and adjustment of calcium and vitamin D doses"
+    ]
+   },
+   "disease": "Celiac disease",
+   "department": "Gastroenterology"
+  },
+  {
+   "presentation": "Patients often complain of dull upper abdominal pain, fullness, or burning sensation, which often worsens after meals, accompanied by belching, acid regurgitation, and poor appetite. Symptoms are recurrent, sometimes mild and sometimes severe; some patients may have no obvious discomfort and are found only during physical examination. If Helicobacter pylori infection is present, halitosis and dyspepsia symptoms may be more prominent.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had upper abdominal pain, fullness, or acid regurgitation?",
+     "Is there a clear relationship between these symptoms and eating (such as worsening after meals)?"
+    ],
+    "followup_questions": [
+     "Do you take nonsteroidal anti-inflammatory drugs long-term, or do you have a habit of alcohol drinking or smoking?",
+     "Have you recently had alarm symptoms such as black stools, weight loss, or difficulty swallowing?"
+    ],
+    "stop_conditions": [
+     "The symptom characteristics are already clear and there are no alarm symptoms, with an initial judgment of functional or mild inflammation.",
+     "The Helicobacter pylori testing plan and medication history inquiry have been completed.",
+     "The patient's symptoms are mild and have little impact on daily life, requiring only lifestyle guidance."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Gastroscopy",
+     "Helicobacter pylori testing (C13/C14 urea breath test)"
+    ],
+    "if_suspected": [
+     "Complete blood count (to screen for anemia or infection)",
+     "Fecal occult blood test (to screen for gastrointestinal bleeding)"
+    ],
+    "avoid": [
+     "Routine abdominal CT (high radiation when not indicated and low diagnostic value for mucosal lesions)",
+     "Blind tumor marker screening (high false-positive rate when there are no high-risk factors)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Eradicate Helicobacter pylori (quadruple therapy: PPI + bismuth + two antibiotics, course 10-14 days). If there is no H. pylori infection, first-line use of a proton pump inhibitor (such as omeprazole 20 mg/day) or H2 receptor antagonist to relieve symptoms, combined with a gastric mucosal protective agent (such as hydrotalcite). Advise dietary adjustment, avoiding spicy, greasy, and irritating foods, and quitting smoking and limiting alcohol."
+    ],
+    "safety_warnings": [
+     "Patients allergic to penicillin must not use amoxicillin and need replacement with another antibiotic.",
+     "Long-term PPI use requires vigilance for osteoporosis risk and intestinal flora imbalance.",
+     "Bismuth agents must not be used in excess, to avoid neurotoxicity or misjudgment of black stools."
+    ],
+    "personalization": [
+     "Older adults should use NSAIDs with caution, preferentially choosing selective COX-2 inhibitors or adding gastric protective drugs.",
+     "Tetracyclines and quinolone antibiotics are contraindicated in pregnant and breastfeeding women.",
+     "Patients with hepatic and renal insufficiency require adjustment of antibiotic doses according to creatinine clearance."
+    ]
+   },
+   "disease": "Chronic superficial gastritis",
+   "department": "Gastroenterology"
+  },
+  {
+   "presentation": "Most patients have no obvious symptoms in the early stage and are often found incidentally during screening colonoscopy. Typical manifestations include painless hematochezia (bright red or dark red, adhering to the surface of the stool) and changes in bowel habits (such as alternating diarrhea and constipation or a feeling of incomplete evacuation). Some larger polyps can cause abdominal pain and bloating; if pedicle torsion or obstruction occurs, severe abdominal pain and cessation of flatus and defecation may occur. Long-term chronic blood loss can lead to anemia-related symptoms such as fatigue and dizziness.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had blood in the stool or black stools? Is the color bright red or dark red?",
+     "Have your bowel habits changed significantly recently, such as increased frequency, narrower stools, or difficulty defecating?",
+     "Has anyone in your family had colorectal cancer or a history of colorectal polyps?"
+    ],
+    "followup_questions": [
+     "If you have abdominal pain, what is the specific location and nature of the pain? Is it related to eating?",
+     "Have you had unexplained weight loss, persistent fatigue, or pallor suggesting anemia?",
+     "Have you had a colonoscopy before? What were the results, and how long ago was it?"
+    ],
+    "stop_conditions": [
+     "The patient has clearly described typical hematochezia symptoms and has no other warning signs; colonoscopy should be arranged for confirmation.",
+     "The patient has a clear family history and meets the age criteria for screening; colonoscopy should be recommended regardless of symptom severity.",
+     "The patient has provided a complete prior colonoscopy report and pathology results; a follow-up plan can be made without repeat history-taking."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Colonoscopy (including biopsy or polypectomy)",
+     "Complete blood count (to assess the degree of anemia)",
+     "Fecal occult blood test"
+    ],
+    "if_suspected": [
+     "Contrast-enhanced abdominal CT scan (to assess polyp size, location, and presence of invasion)",
+     "Tumor marker testing (such as CEA, CA19-9)",
+     "Genetic testing (for multiple polyps or suspected hereditary syndromes)"
+    ],
+    "avoid": [
+     "Barium enema (has been replaced by colonoscopy and has lower sensitivity)",
+     "Routine abdominal plain X-ray (very low diagnostic value for polyps)",
+     "Blind use of hemostatic drugs without investigation of the cause"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is endoscopic resection (EMR/ESD); depending on polyp size and morphology, choose snare resection, cold forceps polypectomy, or endoscopic submucosal dissection. Tiny polyps less than 5 mm in diameter can be directly removed with forceps",
+     "For polyps larger than 10 mm or sessile polyps, piecemeal resection or ESD is recommended. After surgery, specimens must be sent for pathological examination to clarify the nature. Non-drug treatment includes adjusting dietary structure (high fiber, low fat), quitting smoking and limiting alcohol, and regular follow-up colonoscopy (usually once every 1-3 years, depending on pathological results)."
+    ],
+    "safety_warnings": [
+     "Avoid strenuous exercise within 24 hours after the procedure to prevent delayed bleeding",
+     "Patients using anticoagulants need to stop the drug or receive bridging therapy before the procedure according to medical advice",
+     "Be alert to the risk of perforation; if severe abdominal pain or fever occurs after the procedure, seek medical attention immediately"
+    ],
+    "personalization": [
+     "Older patients require assessment of cardiopulmonary function, and the anesthesia method should be individualized",
+     "Patients taking antiplatelet or anticoagulant drugs require multidisciplinary consultation to develop a perioperative plan",
+     "Patients with hereditary polyposis syndromes require a wider resection range and strengthened screening of family members"
+    ]
+   },
+   "disease": "Colon polyp",
+   "department": "Gastroenterology"
+  },
+  {
+   "presentation": "Patients often complain of a reduced bowel movement frequency (fewer than three times per week), hard dry stools, and straining or a feeling of incomplete evacuation. Some patients have abdominal bloating, abdominal pain, or a sensation of anorectal obstruction. Symptoms lasting more than 3 months can be diagnosed as chronic constipation, and the diagnosis requires comprehensive assessment of diet, exercise, and medication history.",
+   "interview_guide": {
+    "first_questions": [
+     "How often have you had bowel movements recently? Is each bowel movement difficult?",
+     "What is the consistency of your stool? Is it hard, dry, or pellet-like?",
+     "Do you have abdominal bloating, abdominal pain, or other accompanying symptoms?"
+    ],
+    "followup_questions": [
+     "How long have the symptoms been present? Are they related to diet or stress?",
+     "Do you take medications that may cause constipation (such as opioids or anticholinergic drugs)?",
+     "Have you had blood in the stool, weight loss, or a family history of colon cancer?"
+    ],
+    "stop_conditions": [
+     "The duration, frequency, and accompanying manifestations of the symptoms have been clarified.",
+     "Alarm symptoms (such as hematochezia and weight loss) have been excluded.",
+     "The patient's diet, exercise, and medication status have been understood."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Abdominal physical examination (to assess bloating and tenderness)",
+     "Digital rectal examination (to exclude rectal lesions or obstruction)",
+     "Complete blood count and electrolyte testing (to screen for anemia or metabolic abnormalities)"
+    ],
+    "if_suspected": [
+     "Colonoscopy (when organic disease is suspected)",
+     "Abdominal plain X-ray (to assess the degree of fecal retention)",
+     "Thyroid function testing (to screen for constipation caused by hypothyroidism)"
+    ],
+    "avoid": [
+     "Not assessing the cause before routine laxative use",
+     "CT scanning without indication",
+     "Over-reliance on imaging examinations without clinical basis"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes increasing dietary fiber intake (25-30 g per day), drinking more water (1.5-2 L per day), and regular exercise. For pharmacotherapy, osmotic laxatives are preferred (such as polyethylene glycol, starting dose 17 g/day, adjusted according to efficacy). If ineffective, a stimulant laxative may be used short-term (such as bisacodyl, 5-10 mg at night). Non-drug interventions include establishing a regular bowel habit."
+    ],
+    "safety_warnings": [
+     "Long-term use of stimulant laxatives may lead to dependence.",
+     "Polyethylene glycol is contraindicated in patients with severe renal insufficiency.",
+     "Monitor for the risk of electrolyte imbalance, especially in older adults."
+    ],
+    "personalization": [
+     "Older patients should start with a low dose to avoid dehydration.",
+     "Pregnant women should preferentially choose osmotic laxatives with a high safety profile.",
+     "Children require dose adjustment according to body weight and strengthened behavioral guidance."
+    ]
+   },
+   "disease": "Constipation",
+   "department": "Gastroenterology"
+  },
+  {
+   "presentation": "Patients often report periodic, rhythmic epigastric pain, typically hunger pain or nocturnal pain, relieved after eating. The pain is mostly located below the xiphoid process and slightly to the right, and is burning or dull. Some patients have dyspeptic symptoms such as acid regurgitation, belching, and abdominal bloating. If melena or hematemesis occurs, it suggests concurrent gastrointestinal bleeding; sudden severe abdominal pain with abdominal muscle guarding warrants vigilance for perforation.",
+   "interview_guide": {
+    "first_questions": [
+     "When is your stomach pain usually most noticeable? How is it related to eating?",
+     "Have you recently had black stools, vomiting blood, dizziness, or fatigue?",
+     "Do you take nonsteroidal anti-inflammatory drugs such as aspirin or ibuprofen long-term?"
+    ],
+    "followup_questions": [
+     "If the pain worsens at night, have you ever been woken by it?",
+     "Have you had unexplained weight loss recently?",
+     "Have you ever had Helicobacter pylori infection or a history of ulcers?"
+    ],
+    "stop_conditions": [
+     "The rhythmic pattern of the pain (hunger pain/nocturnal pain) has been clarified, and there are no alarm symptoms.",
+     "It has been confirmed that there are no recent signs of active bleeding or perforation, and vital signs are stable.",
+     "A complete medication history and prior relevant examination reports have been obtained."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Gastroscopy (gold standard for diagnosis; allows observation of ulcer morphology and biopsy)",
+     "Helicobacter pylori testing (C13/C14 urea breath test or rapid urease test)"
+    ],
+    "if_suspected": [
+     "Complete blood count (to assess the degree of anemia and screen for chronic blood loss)",
+     "Fecal occult blood test (to screen for occult gastrointestinal bleeding)",
+     "Abdominal CT (when perforation or penetrating ulcer is suspected)"
+    ],
+    "avoid": [
+     "Barium meal contrast study (contraindicated in the acute phase or when there is a risk of perforation; its diagnostic value is lower than that of gastroscopy)",
+     "Routine plain abdominal X-ray (limited diagnostic value for the ulcer itself; used only to exclude perforation)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is a proton pump inhibitor (PPI), such as omeprazole 20mg twice daily for 4-6 weeks to promote healing. If Helicobacter pylori is positive, use quadruple therapy (PPI + bismuth + two antibiotics) for eradication for 10-14 days. At the same time, advise smoking cessation and alcohol abstinence, avoidance of irritating foods, and add a mucosal protective agent if necessary."
+    ],
+    "safety_warnings": [
+     "Long-term PPI use may increase the risk of fracture and hypomagnesemia; regular monitoring is required.",
+     "Clarithromycin has serious interactions with warfarin and statins; dose adjustment is required when used together.",
+     "Tetracycline antibiotics are contraindicated in pregnant women and children under 8 years of age to avoid tooth discoloration."
+    ],
+    "personalization": [
+     "In older adults or patients with hepatic or renal impairment, antibiotic and PPI doses should be adjusted according to creatinine clearance.",
+     "Bismuth and tetracycline should be used with caution in pregnant women; H2 receptor antagonists or specific PPIs with a better safety profile are preferred.",
+     "In patients with a history of penicillin allergy, amoxicillin should be replaced with another susceptible antibiotic in the eradication regimen."
+    ]
+   },
+   "disease": "Duodenal ulcer",
+   "department": "Gastroenterology"
+  },
+  {
+   "presentation": "Patients often report dull epigastric pain or a burning sensation, mostly located below the xiphoid process and slightly to the right, with a distinct rhythmic pattern: pain worsens on an empty stomach and is relieved after eating (similar to the presentation of duodenal ulcer). Some patients have acid regurgitation, belching, and nausea; a few may develop melena. Symptoms are often triggered or aggravated by fatigue, mental stress, or irregular eating, and the course is chronic with recurrent episodes.",
+   "interview_guide": {
+    "first_questions": [
+     "How is your epigastric pain related to eating? Is it hunger pain or postprandial pain?",
+     "Have you recently had black stools, vomiting blood, dizziness, or fatigue?",
+     "Do you take pain relievers (such as aspirin or ibuprofen) long-term, or do you have a history of Helicobacter pylori infection?"
+    ],
+    "followup_questions": [
+     "If the pain is prominent at night, have you ever been woken by it?",
+     "Have you had unexplained weight loss recently?",
+     "Do you drink alcohol or eat spicy or irritating foods?"
+    ],
+    "stop_conditions": [
+     "The rhythmic relationship between pain and eating and typical triggers have been clarified.",
+     "It has been confirmed that there are no signs of active bleeding (such as melena or anemia) and vital signs are stable.",
+     "Previous medication history and Helicobacter pylori-related risk factors have been obtained."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Gastroscopy (including biopsy to exclude ulcer and test for Helicobacter pylori)",
+     "Helicobacter pylori testing (C13/C14 urea breath test or rapid urease test)",
+     "Complete blood count (to assess for anemia or infection)"
+    ],
+    "if_suspected": [
+     "Fecal occult blood test (to screen for occult bleeding)",
+     "Abdominal CT scan (if complications such as perforation or pancreatic involvement are suspected)",
+     "Coagulation function tests (preprocedural assessment before planned endoscopic treatment)"
+    ],
+    "avoid": [
+     "Routine barium meal contrast study (prone to misdiagnosis in the acute phase and cannot obtain biopsy)",
+     "Unnecessary systemic antibiotic screening (when there is no evidence of infection)",
+     "Repeated noninvasive imaging studies (diagnosis mainly relies on endoscopy)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is a proton pump inhibitor (PPI), such as omeprazole 20mg twice daily for 4-8 weeks",
+     "If Helicobacter pylori is positive, use quadruple therapy (PPI + bismuth + two antibiotics) for eradication for 14 days. Lifestyle intervention is also recommended, including smoking cessation and alcohol abstinence, avoidance of spicy and irritating foods, regular meals, and reduction of mental stress. For patients with NSAID-induced symptoms, NSAIDs should be stopped immediately and switched to a selective COX-2 inhibitor."
+    ],
+    "safety_warnings": [
+     "Long-term PPI use requires vigilance for hypomagnesemia and fracture risk, with regular electrolyte monitoring.",
+     "During antibiotic use, watch for allergic reactions and superinfection; patients must not stop the drug on their own, as this can lead to resistance.",
+     "When anticoagulants are used with PPIs, bleeding risk should be monitored, especially in warfarin users."
+    ],
+    "personalization": [
+     "High-dose antibiotics should be used with caution in older adults, and doses should be adjusted according to hepatic and renal function.",
+     "Tetracyclines and quinolone antibiotics are contraindicated in pregnant and breastfeeding women; penicillins or cephalosporins are preferred.",
+     "In pediatric patients, PPI and antibiotic doses should be calculated by body weight, and bismuth should be avoided."
+    ]
+   },
+   "disease": "Duodenitis",
+   "department": "Gastroenterology"
+  },
+  {
+   "presentation": "Patients often have sudden onset of fever accompanied by nausea, vomiting, and abdominal pain; some develop watery diarrhea. In patients with hand, foot, and mouth disease, maculopapular rash or vesicles may appear on the hands, feet, and buttocks, and oral mucosal ulcers cause pain on eating. Symptoms are mostly self-limited within 3-5 days; severe cases may have neurological involvement such as lethargy and startle response.",
+   "interview_guide": {
+    "first_questions": [
+     "Before the onset of illness, did you have a history of unclean food or contact with patients with similar symptoms?",
+     "Do you currently have a rash (especially on the hands and feet) or oral ulcers?",
+     "What is the highest temperature, and how frequent are the diarrhea and vomiting?"
+    ],
+    "followup_questions": [
+     "If you develop a severe headache or limb weakness, I need to ask about your level of consciousness and whether you have had any seizures.",
+     "If your high fever persists, I need to ask about changes in your mental status and whether your urine output has decreased.",
+     "If the rash is very itchy, I need to ask whether you have scratched it open and whether it has become infected."
+    ],
+    "stop_conditions": [
+     "The typical rash distribution has been clarified and there are no neurological symptoms",
+     "Vital signs are stable, and symptoms have clearly improved after correction of dehydration",
+     "Necessary tests have been completed to exclude severe conditions such as bacillary dysentery"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete blood count",
+     "Stool routine + occult blood test",
+     "Electrolyte testing"
+    ],
+    "if_suspected": [
+     "Stool viral nucleic acid testing (EV71/CA16, etc.)",
+     "Cerebrospinal fluid examination (when central nervous system involvement is suspected)",
+     "Myocardial enzyme panel (when myocarditis is suspected)"
+    ],
+    "avoid": [
+     "Empirical use of broad-spectrum antibiotics",
+     "Contrast-enhanced abdominal CT without indication",
+     "Unnecessary invasive endoscopy"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Symptomatic and supportive treatment is the mainstay. For high fever, use physical cooling or acetaminophen for antipyresis",
+     "For dehydration caused by diarrhea and vomiting, give oral rehydration salts or intravenous fluids promptly to maintain water and electrolyte balance. Antispasmodics may be used as appropriate for abdominal pain. Maintain oral cleanliness and avoid irritating foods. Most patients do not need antiviral drugs, and the illness resolves spontaneously in about 1 week."
+    ],
+    "safety_warnings": [
+     "Aspirin must not be used indiscriminately in children to prevent Reye syndrome",
+     "Be alert for acute kidney injury caused by dehydration and avoid excessive diuresis",
+     "Pay attention to drug interactions and avoid overlapping use of multiple antipyretics"
+    ],
+    "personalization": [
+     "In infants and young children, fluid replacement volume and antipyretic doses should be calculated precisely by body weight",
+     "In older adults, cardiac and renal function should be monitored closely to prevent electrolyte disturbances from triggering arrhythmias",
+     "In immunodeficient patients, the observation period should be extended, with vigilance for secondary bacterial infection"
+    ]
+   },
+   "disease": "Enterovirus infection",
+   "department": "Gastroenterology"
+  },
+  {
+   "presentation": "Patients often report burning retrosternal pain or dysphagia, with symptoms worsening when eating solid foods, and may have acid regurgitation and heartburn. Some patients develop noncardiac chest pain, which is easily misdiagnosed as angina pectoris. If an ulcer erodes a blood vessel, hematemesis or melena may occur. Symptoms are mostly aggravated after meals or when lying flat, and being awakened by pain at night suggests more severe disease.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have pain on swallowing or a feeling that food is stuck?",
+     "Is the burning sensation behind the sternum related to eating?"
+    ],
+    "followup_questions": [
+     "If you have melena or hematemesis, please describe the amount and color of the bleeding.",
+     "Have you recently taken nonsteroidal anti-inflammatory drugs such as aspirin or ibuprofen?"
+    ],
+    "stop_conditions": [
+     "The relationship of symptoms to eating and posture has been clarified, and there are no signs of active major bleeding.",
+     "Recent medication history and previous history of gastroesophageal reflux disease have been confirmed.",
+     "The patient's vital signs are stable, and no emergency hemostatic treatment is required."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Electronic gastroscopy (including biopsy)",
+     "Helicobacter pylori testing (C13/C14 urea breath test)"
+    ],
+    "if_suspected": [
+     "Upper gastrointestinal barium meal contrast study (to assess stricture or fistula)",
+     "Chest CT (to exclude mediastinal disease or perforation)"
+    ],
+    "avoid": [
+     "Blind esophageal dilation (before the cause is clarified)",
+     "Routine anticoagulant testing (unless there is a clear indication)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is a proton pump inhibitor (such as omeprazole 20mg bid) for 4-8 weeks to suppress gastric acid and promote healing. Combine with a mucosal protective agent (such as sucralfate suspension). If Helicobacter pylori infection is present, quadruple therapy is required for eradication. Advise the patient to elevate the head of the bed and avoid spicy and very hot foods and smoking and alcohol."
+    ],
+    "safety_warnings": [
+     "Long-term PPI use requires monitoring of vitamin B12 and magnesium levels.",
+     "Avoid concomitant use with antiplatelet drugs such as clopidogrel, which can reduce efficacy.",
+     "Be alert for the risk of esophageal perforation; forced intubation is strictly prohibited when perforation is suspected."
+    ],
+    "personalization": [
+     "In older patients, PPI doses should be adjusted according to hepatic and renal function.",
+     "Tetracycline antibiotics should be used with caution in pregnant women; amoxicillin may be used as an alternative.",
+     "In patients with renal impairment, bismuth doses should be adjusted to prevent accumulation and toxicity."
+    ]
+   },
+   "disease": "esophageal ulcer",
+   "department": "Gastroenterology"
+  },
+  {
+   "presentation": "Patients often have no obvious specific symptoms and are usually found when they present with manifestations of decompensated cirrhosis (such as ascites and jaundice). The typical warning sign is sudden massive upper gastrointestinal bleeding, manifesting as hematemesis (bright red or dark red), melena, accompanied by dizziness, palpitations, cold sweats, and even shock. Some patients may have dull pain or fullness in the left upper abdomen. The history often includes underlying diseases such as hepatitis B, hepatitis C, and alcoholic liver disease, and physical examination may reveal spider angiomas, palmar erythema, and splenomegaly.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had vomiting blood, black stools, dizziness, or fatigue?",
+     "Have you ever been diagnosed with cirrhosis or hepatitis B, or had long-term heavy alcohol use?",
+     "Before this bleeding, did you eat coarse food, have severe coughing, or strain during bowel movements?"
+    ],
+    "followup_questions": [
+     "If you have vomited blood, please describe the amount, color, and whether there were blood clots?",
+     "Have you had confusion, difficulty breathing, or a drop in blood pressure?",
+     "Have you recently taken aspirin, ibuprofen, or other NSAIDs or anticoagulants?"
+    ],
+    "stop_conditions": [
+     "A bleeding history is already clear and vital signs are stable, with no signs of active bleeding.",
+     "A background of cirrhosis has been confirmed and endoscopy is planned, with no need for further questioning about unrelated symptoms.",
+     "The patient cannot cooperate with the interview but already meets indications for emergency resuscitation and needs immediate transfer to emergency management."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Emergency gastroscopy (diagnosis and bleeding risk assessment)",
+     "Complete blood count (assessment of hemoglobin and platelet count)",
+     "Full coagulation panel (assessment of coagulation status)",
+     "Liver function tests and contrast-enhanced abdominal CT/MRI (assessment of liver morphology and collateral circulation)"
+    ],
+    "if_suspected": [
+     "Portal pressure measurement (hemodynamic assessment)",
+     "Contrast-enhanced ultrasound of esophageal and gastric fundal vessels (adjunctive diagnosis)",
+     "Renal function and electrolytes (assessment of hepatorenal syndrome risk)"
+    ],
+    "avoid": [
+     "Blind barium meal examination (may induce rebleeding and interfere with the subsequent endoscopic field of view)",
+     "Abdominal plain film without indication (very low diagnostic value)",
+     "Percutaneous liver biopsy without assessment (increases bleeding risk)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "During acute bleeding, somatostatin or its analogue (e.g., octreotide) by continuous intravenous infusion is preferred to reduce portal pressure. Combine with a proton pump inhibitor to suppress gastric acid. For high-risk ruptured gastric fundal varices, endoscopic cyanoacrylate injection is recommended as the preferred hemostatic method. To prevent rebleeding, a nonselective beta-blocker (e.g., carvedilol) can be used in combination with endoscopic therapy. At the same time, actively correct shock, transfuse blood to maintain hemoglobin levels, and provide antiviral or alcohol-abstinence treatment according to the etiology."
+    ],
+    "safety_warnings": [
+     "Do not force elective surgery or invasive procedures while acute massive bleeding is not stabilized.",
+     "Monitor heart rate when using nonselective beta-blockers to avoid bradycardia-induced hypoperfusion.",
+     "After tissue adhesive injection, be alert to the risk of ectopic embolism and closely observe for fever, abdominal pain, or chest pain postoperatively."
+    ],
+    "personalization": [
+     "Use beta-blockers with caution in patients with severe heart failure; low-dose propranolol or endoscopic therapy alone may be selected.",
+     "Adjust diuretic and antibiotic doses in patients with renal insufficiency to avoid aggravating hepatorenal injury.",
+     "For elderly patients or those with coagulation disorders, endoscopic procedures should be performed by experienced physicians, with combined interventional therapy when necessary."
+    ]
+   },
+   "disease": "gastric fundal varices",
+   "department": "Gastroenterology"
+  },
+  {
+   "presentation": "Patients often report intermittent mild jaundice, especially worsening after fatigue, fasting, infection, or stress. The sclerae and skin are pale yellow, without cholestatic manifestations such as tea-colored urine or clay-colored stools. There is usually no abdominal pain, fever, or pruritus; liver function tests show only elevated indirect bilirubin, with other parameters normal. Symptoms recur but the general condition is good, and it is easily mistaken for hepatitis.",
+   "interview_guide": {
+    "first_questions": [
+     "How long have you noticed yellowing of your eyes or skin? Is it more obvious when you are tired or hungry?",
+     "Have you recently had a cold, fever, or strenuous exercise?",
+     "Has your urine become darker or your stool lighter in color?"
+    ],
+    "followup_questions": [
+     "Do you have right upper quadrant pain or fever? If so, where exactly is it and how long has it lasted?",
+     "Have you recently taken any new medications or consumed alcohol? If so, what are the names and doses?",
+     "Is there any family history of similar jaundice to screen for genetic factors?"
+    ],
+    "stop_conditions": [
+     "It is confirmed that there is only mild jaundice without gastrointestinal bleeding, severe abdominal pain, or high fever.",
+     "Hemolytic anemia has been clearly excluded (e.g., normal reticulocyte count), as has evidence of hepatocellular injury.",
+     "The patient has no severe fatigue, altered consciousness, or manifestations of coagulation dysfunction."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum total bilirubin and direct/indirect bilirubin fractionation",
+     "Comprehensive liver function panel (ALT, AST, ALP, GGT)",
+     "Complete blood count and reticulocyte count"
+    ],
+    "if_suspected": [
+     "CPT1A gene testing (to confirm UGT1A1 enzyme activity deficiency)",
+     "Abdominal ultrasound (to exclude biliary obstruction or liver structural abnormalities)",
+     "Hemolysis-related screening (e.g., Coombs test, hemoglobin electrophoresis)"
+    ],
+    "avoid": [
+     "Unnecessary liver biopsy",
+     "Long-term repeated bilirubin monitoring (unless symptoms change)",
+     "Empirical use of hepatoprotective and enzyme-lowering drugs"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "This disease is a benign hereditary disorder and requires no specific drug treatment. Management mainly consists of health education, informing patients to avoid prolonged fasting, excessive fatigue, dehydration, and mental stress, which are common triggers of jaundice. A regular diet and adequate fluid intake are recommended. If the patient is anxious about appearance, explain that it is harmless to relieve psychological burden."
+    ],
+    "safety_warnings": [
+     "Do not misdiagnose this disease as hepatitis and misuse hepatoprotective or antiviral drugs.",
+     "Note that certain drugs (e.g., irinotecan, atazanavir) may worsen hyperbilirubinemia and should be evaluated before use.",
+     "Avoid self-administration of Chinese herbal medicines or dietary supplements to prevent increasing hepatic metabolic burden."
+    ],
+    "personalization": [
+     "Pregnant women: hormonal changes during pregnancy may cause a mild increase in bilirubin; this is a physiological phenomenon and requires no intervention.",
+     "Children: ensure balanced nutrition during growth and development, and avoid dieting for weight loss that may unmask symptoms.",
+     "Older adults: when comorbid with other chronic diseases, be alert to bilirubin fluctuations caused by drug interactions."
+    ]
+   },
+   "disease": "Gilbert syndrome",
+   "department": "Gastroenterology"
+  },
+  {
+   "presentation": "Patients often report dull epigastric pain, fullness, or burning, often worsening after meals. Some patients have belching, acid regurgitation, nausea, or decreased appetite. Symptoms may be chronic and recurrent and are associated with irregular eating. About half of infected individuals are asymptomatic and are found only during physical examination. If melena or hematemesis occurs, it suggests possible complicated gastrointestinal ulcer bleeding.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had persistent epigastric pain, abdominal bloating, or acid regurgitation/heartburn?",
+     "Is your stomach discomfort clearly related to meal timing?"
+    ],
+    "followup_questions": [
+     "Have you recently had melena, hematemesis, or unexplained anemia and fatigue?",
+     "Is there a family history of gastric cancer or peptic ulcer disease?"
+    ],
+    "stop_conditions": [
+     "There is a clear prior diagnosis of Helicobacter pylori infection and no new alarm symptoms.",
+     "Symptoms are typical and key tests such as the breath test have been arranged.",
+     "The patient refuses further examination or has a strong desire for treatment."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "13C or 14C urea breath test (diagnostic gold standard)",
+     "Gastroscopy with rapid urease test and pathological biopsy"
+    ],
+    "if_suspected": [
+     "Complete blood count (to screen for anemia)",
+     "Fecal occult blood test (to screen for gastrointestinal bleeding)",
+     "Abdominal ultrasound (to exclude hepatobiliary and pancreatic diseases)"
+    ],
+    "avoid": [
+     "Serological antibody testing (cannot distinguish current infection from past infection)",
+     "Routine X-ray barium meal examination (low diagnostic value for H. pylori)",
+     "CT scanning without indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Bismuth-containing quadruple therapy is recommended for a course of 10-14 days. The regimen includes: a proton pump inhibitor (e.g., omeprazole 20 mg bid) + a bismuth agent (e.g., bismuth potassium citrate 220 mg bid) + two antibiotics (e.g., amoxicillin 1 g bid + clarithromycin 500 mg bid, or replaced with metronidazole/tetracycline according to resistance status). During treatment, take medications strictly as prescribed and avoid missed doses; 4 weeks after stopping treatment, repeat the breath test to confirm eradication."
+    ],
+    "safety_warnings": [],
+    "personalization": [
+     "Pediatric patients require dose adjustment according to body weight, and tetracyclines should be avoided.",
+     "In older adults, assess liver and kidney function and adjust drug types and doses as appropriate.",
+     "Use with caution in pregnant and breastfeeding women; when necessary, weigh the benefits and risks and choose a safe regimen."
+    ]
+   },
+   "disease": "Helicobacter pylori infection",
+   "department": "Gastroenterology"
+  },
+  {
+   "presentation": "Patients often report fatigue, decreased appetite, and dull pain or fullness/discomfort in the right upper quadrant. Early symptoms are insidious and easily overlooked; in the advanced stage, signs such as spider angiomas, palmar erythema, and a dark/dull complexion may appear. Some patients have abdominal bloating, lower extremity edema, or a tendency to gingival bleeding. If decompensated cirrhosis is present, jaundice, ascites, or gastrointestinal bleeding may be seen. During history-taking, focus on capturing chronic liver disease history (e.g., hepatitis B, alcohol abuse) and the above nonspecific systemic symptoms.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have a history of hepatitis B, hepatitis C, long-term alcohol use, or fatty liver disease?",
+     "Have you recently felt marked fatigue, poor appetite, or right upper quadrant discomfort?"
+    ],
+    "followup_questions": [
+     "Have you had yellowing of the skin, darkening of the urine, or gingival bleeding?",
+     "Have you had unexplained weight loss recently or abdominal distension?"
+    ],
+    "stop_conditions": [
+     "The cause of chronic liver disease is clear and symptoms are typical; no further questioning about triggers is needed.",
+     "The patient has provided recent liver function and imaging results, and the information is complete.",
+     "Symptoms are mild and there are no high-risk factors; initial risk assessment is low."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Transient liver elastography (FibroScan)",
+     "Serum testing of the four liver fibrosis markers",
+     "Abdominal ultrasound examination"
+    ],
+    "if_suspected": [
+     "Liver biopsy (gold standard)",
+     "Alpha-fetoprotein (AFP) and tumor marker screening",
+     "Gastroscopy (to screen for esophageal and gastric varices)"
+    ],
+    "avoid": [
+     "Repeated contrast-enhanced CT scans without indication (radiation and contrast agent risks)",
+     "Routine full autoimmune antibody panel (unless specific autoimmune liver disease is suspected)",
+     "Blind use of hepatoprotective drugs without investigating the cause"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "The primary task is to remove the cause: antiviral therapy (e.g., entecavir, tenofovir) to control hepatitis B/C, strict alcohol abstinence, and control of metabolic syndrome. For antifibrosis, Chinese patent medicines such as Fufang Biejia Ruangan Tablet or Fuzheng Huayu Capsule may be used as appropriate to assist reversal. At the same time, provide nutritional support and avoid fatigue. The course usually needs to last more than 6-12 months, with regular follow-up to assess changes in the degree of fibrosis."
+    ],
+    "safety_warnings": [
+     "Monitor renal function and bone mineral density during antiviral therapy and be alert to drug-resistant mutations.",
+     "Avoid concomitant use of hepatotoxic Chinese herbal medicines or dietary supplements to prevent drug-induced liver injury.",
+     "Use potent antifibrotic drugs with caution during active hepatitis flares to avoid aggravating inflammation."
+    ],
+    "personalization": [
+     "Adjust antiviral drug doses according to creatinine clearance in older patients.",
+     "Interferon and some nucleoside analogues are contraindicated in pregnant women; tenofovir disoproxil is preferred.",
+     "Patients with decompensated cirrhosis need protein restriction and prevention of hepatic encephalopathy."
+    ]
+   },
+   "disease": "Liver fibrosis",
+   "department": "Gastroenterology"
+  },
+  {
+   "presentation": "Patients often develop abdominal cramps and bloating 30 minutes to 2 hours after dairy intake, accompanied by hyperactive bowel sounds. Typical symptoms include large-volume watery diarrhea and acidic stool, often with nausea or vomiting. Symptom severity is positively correlated with lactose intake; symptoms tend to be more severe when milk is consumed on an empty stomach, and they resolve rapidly after stopping dairy intake.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you develop abdominal pain or diarrhea after drinking milk, eating ice cream, or consuming dairy-containing foods?",
+     "How long after eating dairy products do your symptoms usually start?"
+    ],
+    "followup_questions": [
+     "If you completely stop dairy intake, do your symptoms clearly improve or disappear?",
+     "Have you had acute gastroenteritis, or does anyone in your family have similar symptoms?"
+    ],
+    "stop_conditions": [
+     "The patient clearly describes typical dairy-induced symptoms that resolve after stopping the trigger.",
+     "Secondary causes of lactase deficiency (such as recent severe enteritis) have been ruled out.",
+     "Symptom features are sufficient to distinguish other organic diseases (such as inflammatory bowel disease)."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Lactose hydrogen breath test",
+     "Serum lactose tolerance test"
+    ],
+    "if_suspected": [
+     "Small intestinal mucosal biopsy (to differentiate congenital or secondary lactase deficiency)",
+     "Stool pH and reducing substances testing"
+    ],
+    "avoid": [
+     "Routine colonoscopy (unless comorbid other intestinal disease is suspected)",
+     "Abdominal CT scan (not necessary for diagnosing lactose intolerance)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is dietary management, with strict restriction or avoidance of lactose-containing foods; switching to lactose-free milk or yogurt is recommended. Oral lactase preparations can be taken with meals to aid digestion. For those with insufficient calcium intake, calcium and vitamin D supplementation is recommended. Nonpharmacologic interventions include keeping a food diary to identify trigger foods."
+    ],
+    "safety_warnings": [
+     "Long-term lactose-free diet requires monitoring of calcium and vitamin D levels to prevent osteoporosis.",
+     "Some probiotic preparations may contain trace amounts of lactose; confirm ingredients before use.",
+     "Avoid indiscriminate use of antidiarrheal drugs to mask symptoms; treatment should target the cause."
+    ],
+    "personalization": [
+     "Infants and young children require physician guidance in choosing extensively hydrolyzed or lactose-free formula.",
+     "Older adults have a natural decline in lactase activity; small, frequent attempts at the tolerated amount are recommended.",
+     "Secondary lactose intolerance (such as after enteritis) is usually transient; diet can be gradually resumed after intestinal recovery."
+    ]
+   },
+   "disease": "Lactose intolerance",
+   "department": "Gastroenterology"
+  },
+  {
+   "presentation": "Patients often report fatigue, anorexia, nausea, and aversion to fatty foods, and some have dull or distending pain in the right upper quadrant. Signs may include jaundice of the skin and sclera, spider angiomas, and palmar erythema; severe cases may have abdominal distension (ascites), lower-limb edema, or gingival bleeding. If disease progresses to decompensated cirrhosis, manifestations such as melena, hematemesis, or confusion due to hepatic encephalopathy may occur.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had marked fatigue, poor appetite, or nausea and vomiting?",
+     "Are your eyes or skin yellow? Is your urine as dark as strong tea?"
+    ],
+    "followup_questions": [
+     "If you have abdominal pain, where exactly is it, and is it continuous or intermittent?",
+     "Have you recently consumed alcohol, taken any special medications, or been in contact with anyone with hepatitis?",
+     "Have you had gingival bleeding, nosebleeds, or black stools?"
+    ],
+    "stop_conditions": [
+     "The duration of symptoms and key features such as accompanying jaundice and bleeding tendency have been clarified.",
+     "A complete past medical history (such as hepatitis B/C carrier status, long-term alcohol use, and medication history) has been obtained.",
+     "The patient has described typical gastrointestinal symptoms and systemic manifestations sufficient to initiate preliminary testing."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Comprehensive liver function panel (ALT, AST, TBil, DBil, ALB)",
+     "Abdominal ultrasound",
+     "Coagulation function tests (PT, INR)"
+    ],
+    "if_suspected": [
+     "Viral hepatitis marker testing (hepatitis B panel, hepatitis C antibody, etc.)",
+     "Alpha-fetoprotein (AFP) screening for liver cancer",
+     "Transient liver elastography (FibroScan) to assess degree of fibrosis"
+    ],
+    "avoid": [
+     "Liver biopsy without indication (when contraindications have not been excluded at initial visit)",
+     "Unnecessary contrast-enhanced CT/MRI (only when ultrasound finds a space-occupying lesion requiring further characterization)",
+     "Blind use of hepatoprotective enzyme-lowering drugs without investigating the cause"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Etiology-targeted treatment is central: antiviral drugs (such as entecavir) are first-line for viral hepatitis; alcoholic liver disease requires strict alcohol abstinence and vitamin B supplementation. General supportive care includes rest, a high-calorie high-protein diet (protein restriction for those with hepatic encephalopathy), and hepatoprotection with polyene phosphatidylcholine or glycyrrhizin preparations. Duration depends on etiology; the acute phase is usually 2-4 weeks, while chronic disease requires long-term management."
+    ],
+    "safety_warnings": [
+     "Do not self-administer Chinese herbal medicines or dietary supplements of unknown composition, to prevent worsening drug-induced liver injury.",
+     "Be aware of interactions between anticoagulants and drugs such as rifampin, and monitor INR changes.",
+     "Watch for the risk of lactic acidosis; regular lactate monitoring is required, especially with nucleoside analogues."
+    ],
+    "personalization": [
+     "Interferon and some nucleoside analogues are contraindicated in pregnant women; choose a regimen with a high pregnancy safety rating.",
+     "In older patients, adjust drug doses according to renal function to avoid accumulation and toxicity.",
+     "For patients with fatty liver disease complicated by diabetes or obesity, the treatment plan should combine metabolic regulators and lifestyle intervention."
+    ]
+   },
+   "disease": "Liver disease",
+   "department": "Gastroenterology"
+  },
+  {
+   "presentation": "Patients often present with paroxysmal colicky pain around the umbilicus or in the right lower quadrant, of variable severity, possibly accompanied by nausea, vomiting, and low-grade fever. Symptoms often occur after a respiratory infection and are easily confused with acute appendicitis. On examination, periumbilical tenderness may be present, but rebound tenderness and muscle guarding are not obvious, and the tender point is not fixed and changes with position.",
+   "interview_guide": {
+    "first_questions": [
+     "Where exactly is the abdominal pain? Is it continuous pain or paroxysmal colicky pain?",
+     "Did you have a cold, sore throat, or diarrhea before the onset?",
+     "Do you have fever, nausea, or vomiting?"
+    ],
+    "followup_questions": [
+     "If there is right lower quadrant tenderness, ask further: Does the pain on pressing change when your position changes?",
+     "If there is high fever, ask further: What was the highest temperature? Have you used antipyretics?",
+     "If vomiting is frequent, ask further: What is the nature and frequency of the vomitus, and are there signs of dehydration?"
+    ],
+    "stop_conditions": [
+     "A recent upper respiratory infection history has been clarified, and the abdominal pain is migratory periumbilical pain",
+     "Examination shows localized but nonfixed tenderness without peritoneal irritation signs",
+     "Preliminary tests have ruled out acute abdomen such as appendicitis"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Abdominal ultrasound (focusing on mesenteric lymph node size and blood flow)",
+     "Complete blood count (to assess white blood cell count and C-reactive protein)"
+    ],
+    "if_suspected": [
+     "Abdominal CT (to differentiate complicated conditions such as appendicitis and intussusception)",
+     "Stool routine and occult blood test (to exclude intestinal infection)"
+    ],
+    "avoid": [
+     "Unnecessary plain abdominal X-ray (low soft-tissue resolution and increased radiation exposure)",
+     "Empiric use of strong analgesics to mask the condition (unless after diagnosis)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Mainly symptomatic supportive treatment. Give ibuprofen or acetaminophen to relieve pain and reduce fever",
+     "If there is evidence of bacterial infection, give oral amoxicillin-clavulanate or cefuroxime axetil for 5-7 days. Bed rest, a bland diet, avoidance of greasy foods, and adequate fluid intake are recommended. Most affected children have a good prognosis, and symptoms can completely resolve within 1-2 weeks."
+    ],
+    "safety_warnings": [
+     "Avoid misuse of antibiotics; use only when there is a clear indication of bacterial infection",
+     "Note that NSAIDs may cause gastrointestinal discomfort; take after meals",
+     "Watch for deterioration to suppurative lymphadenitis or appendiceal perforation"
+    ],
+    "personalization": [
+     "In pediatric patients, calculate drug doses precisely according to body weight",
+     "Acetaminophen is preferred in pregnant women; avoid quinolone antibiotics",
+     "In immunocompromised patients, extend the observation period and closely monitor infection markers"
+    ]
+   },
+   "disease": "Mesenteric lymphadenitis",
+   "department": "Gastroenterology"
+  },
+  {
+   "presentation": "Patients often report abdominal distension and fatigue, or sudden hematemesis and melena. On examination, abdominal wall varices (caput medusae), splenomegaly, and ascites (shifting dullness positive) may be seen. Some patients have palmar erythema, spider angiomas, and jaundice. Symptoms often have an insidious onset; in the acute phase, gastrointestinal bleeding is the prominent manifestation, and judgment should be integrated with the previous history of liver disease.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have a history of hepatitis B, hepatitis C, or long-term alcohol use?",
+     "Have you recently had hematemesis, melena, or abdominal distension?",
+     "Do you have lower-limb edema or confusion (hepatic encephalopathy)?"
+    ],
+    "followup_questions": [
+     "If hematemesis is noted: How much bleeding was there? Is it accompanied by dizziness or palpitations?",
+     "If ascites is present: Is urine output reduced? How has your weight changed recently?",
+     "If hepatic encephalopathy is suspected: Has your sleep-wake pattern recently reversed? Has there been any personality change?"
+    ],
+    "stop_conditions": [
+     "The cause of cirrhosis has been clarified, and typical complications (such as ruptured esophageal and gastric varices) are present",
+     "Imaging has confirmed abnormal portal venous hemodynamics",
+     "The patient's vital signs are stable, and emergency intervention is not required"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Abdominal ultrasound (including Doppler)",
+     "Gastroscopy",
+     "Comprehensive liver function panel"
+    ],
+    "if_suspected": [
+     "Transient liver elastography (FibroScan)",
+     "CT/MRI portal venography",
+     "Coagulation function and complete blood count"
+    ],
+    "avoid": [
+     "Percutaneous liver biopsy (high bleeding risk)",
+     "Blind use of diuretics without prior electrolyte assessment",
+     "Abdominal paracentesis without indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes nonselective beta-blockers (such as propranolol 20 mg bid) to reduce portal pressure and prevent variceal bleeding",
+     "For those with ascites, restrict sodium intake and combine spironolactone with furosemide. In acute bleeding, keep the patient fasting, provide fluid resuscitation, administer somatostatin or terlipressin, and perform endoscopic band ligation as early as possible. Duration depends on the condition, and long-term follow-up is required."
+    ],
+    "safety_warnings": [
+     "Monitor heart rate and avoid bradycardia leading to hypotension",
+     "Watch for hypokalemia and hepatorenal syndrome caused by diuretics",
+     "Beta-blockers are contraindicated in patients with asthma or severe bronchospasm"
+    ],
+    "personalization": [
+     "In older patients, start at half the dose and titrate slowly",
+     "Use diuretics cautiously in patients with renal impairment and adjust the dose",
+     "Anticoagulants are contraindicated in pregnant women; physical compression is preferred"
+    ]
+   },
+   "disease": "portal hypertension",
+   "department": "Gastroenterology"
+  },
+  {
+   "presentation": "Patients often present with chronic fatigue and pruritus, and some have right upper quadrant dull pain or jaundice. Symptoms progress slowly; there may be no obvious signs in the early stage, while hepatosplenomegaly, steatorrhea, and osteoporosis may occur in advanced stages. Typical complaints are persistent pruritus and unexplained fatigue, and further confirmation with laboratory tests is needed.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have persistent pruritus?",
+     "Do you feel markedly fatigued or tired?"
+    ],
+    "followup_questions": [
+     "Does the pruritus worsen at night?",
+     "Do you have jaundice or dark urine?"
+    ],
+    "stop_conditions": [
+     "Fatigue and pruritus have been clearly characterized and other common causes have been excluded",
+     "The patient has a clear history of abnormal liver function",
+     "Relevant imaging or laboratory results already support the diagnosis"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum antimitochondrial antibody (AMA) testing",
+     "Liver function tests (including ALP and GGT)",
+     "Abdominal ultrasound"
+    ],
+    "if_suspected": [
+     "Liver biopsy",
+     "MRCP",
+     "Serum immunoglobulin IgM level measurement"
+    ],
+    "avoid": [
+     "Routine antibiotic treatment trials",
+     "Contrast-enhanced CT without indication",
+     "Repeated testing of nonspecific liver function indices"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is ursodeoxycholic acid (UDCA) at 13-15 mg/kg/day orally in divided doses; the course is usually lifelong. Supplementation with fat-soluble vitamins (A, D, E, K) is also recommended, along with lifestyle interventions such as avoiding alcohol and weight control."
+    ],
+    "safety_warnings": [
+     "UDCA is contraindicated in patients with complete biliary obstruction",
+     "Consider drug interactions; in particular, separate administration from cholestyramine by 4 hours",
+     "Monitor changes in liver function and watch for serious adverse reactions such as worsening cholestasis"
+    ],
+    "personalization": [
+     "Pregnant women require dose adjustment under medical supervision",
+     "Older patients should be monitored for osteoporosis risk and receive calcium supplementation",
+     "Patients with concomitant autoimmune disease require comprehensive assessment of the treatment plan"
+    ]
+   },
+   "disease": "Primary biliary cholangitis",
+   "department": "Gastroenterology"
+  },
+  {
+   "presentation": "Patients often present with sudden onset of frequent watery diarrhea, described as egg-drop soup-like or yellow loose stools, without pus, blood, or a pronounced foul odor. It is often accompanied by fever and vomiting, and some children have mild signs of dehydration such as dry mouth, reduced urine output, and lethargy. Symptoms usually last 3-8 days; onset is abrupt, and it is more common in infants and young children in autumn and winter, while adult infection is relatively milder but can have similar manifestations.",
+   "interview_guide": {
+    "first_questions": [
+     "How many times per day do you have diarrhea? Is the stool egg-drop soup-like?",
+     "Do you have fever or vomiting? What was the highest temperature?",
+     "Have you recently been in contact with young children with similar symptoms or had group living exposure?"
+    ],
+    "followup_questions": [
+     "If there is reduced urine output or sunken eyes, ask further: 'How many times have you urinated in the last 6 hours? Are there tears when crying?'",
+     "If high fever persists, ask further: 'How effective is the antipyretic? Have there been any seizures?'",
+     "If vomiting is severe, ask further: 'Can you keep water down? Is the color of the vomit normal?'"
+    ],
+    "stop_conditions": [
+     "The typical triad of watery diarrhea, fever, and vomiting has been confirmed, with no pus or blood in the stool",
+     "Dehydration assessment has been completed (mild to moderate) and vital signs are stable",
+     "Indications requiring specific antibiotic treatment, such as bacillary dysentery, have been excluded"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Stool routine testing plus rotavirus antigen testing",
+     "Complete blood count (white blood cell count and differential)",
+     "Electrolyte and renal function tests (to assess dehydration and acid-base imbalance)"
+    ],
+    "if_suspected": [
+     "Stool culture (to differentiate bacterial infection)",
+     "Abdominal ultrasound (to exclude complications such as intussusception)",
+     "Blood gas analysis (to assess the degree of acidosis in severe cases)"
+    ],
+    "avoid": [
+     "Empirical use of broad-spectrum antibiotics (when there is no evidence of bacterial infection)",
+     "Routine abdominal CT (high radiation exposure and low diagnostic value)",
+     "Overreliance on serologic antibody testing (limited diagnostic value in the acute phase)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "The core treatment is oral rehydration salts III to correct dehydration and electrolyte disturbances, given in small amounts and frequently. For fever above 38.5°C, acetaminophen may be given as an antipyretic. In patients with severe vomiting, diosmectite may be used short-term to protect the intestinal mucosa. Antidiarrheal drugs must not be misused. The course is mostly self-limited, and antiviral drugs are generally not required; the focus is on maintaining water and electrolyte balance and nutritional support, and avoiding fasting that may lead to malnutrition."
+    ],
+    "safety_warnings": [
+     "Strong antidiarrheal drugs such as loperamide are contraindicated, to avoid toxin retention that may worsen the condition",
+     "Avoid antibiotic use without indication to prevent intestinal dysbiosis",
+     "Watch for shock and acute kidney injury caused by severe dehydration; timely intravenous fluid replacement is required"
+    ],
+    "personalization": [
+     "In infants and young children, fluid replacement volume should be calculated precisely according to body weight to prevent excess or insufficiency",
+     "Older adults and patients with underlying disease require close monitoring of cardiac and renal function and adjustment of fluid replacement rate",
+     "Breastfed infants should continue breastfeeding; formula-fed infants may temporarily switch to a lactose-free formula"
+    ]
+   },
+   "disease": "rotavirus gastroenteritis",
+   "department": "Gastroenterology"
+  },
+  {
+   "presentation": "Patients often report persistent or recurrent bloody mucopurulent stools, accompanied by marked tenesmus (a feeling of incomplete evacuation). Some patients may have anorectal fullness, abdominal pain (usually dull pain in the left lower abdomen that relieves after defecation), and nocturnal diarrhea. Symptoms are usually confined to the rectum, without systemic toxic symptoms such as high fever, but long-term chronic blood loss may lead to anemia-related manifestations such as fatigue and pallor.",
+   "interview_guide": {
+    "first_questions": [
+     "Have your recent stools contained blood or mucus? How frequent are they?",
+     "Do you have fecal urgency or a feeling of incomplete evacuation after defecation?",
+     "Where is the abdominal pain located, and is it related to defecation?"
+    ],
+    "followup_questions": [
+     "If you have fever or weight loss, please describe the specific temperature and recent weight changes.",
+     "Have you had similar episodes previously, and is there a family history of inflammatory bowel disease?",
+     "Have you recently taken nonsteroidal anti-inflammatory drugs or antibiotics?"
+    ],
+    "stop_conditions": [
+     "Typical bloody mucopurulent stools with tenesmus have been confirmed, and infectious causes have been excluded.",
+     "The patient's symptoms are mild and there are no alarm symptoms (such as high fever or severe abdominal pain); initial assessment is complete.",
+     "Sufficient history and medication history have been obtained to formulate an initial diagnostic and treatment plan."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Colonoscopy (including rectal biopsy for pathology)",
+     "Stool routine testing and fecal occult blood test",
+     "Fecal calprotectin testing"
+    ],
+    "if_suspected": [
+     "Complete blood count (to assess anemia and infection markers)",
+     "C-reactive protein and erythrocyte sedimentation rate (to assess inflammatory activity)",
+     "Enteric pathogen culture and Clostridioides difficile toxin testing (to exclude infectious enteritis)"
+    ],
+    "avoid": [
+     "Barium enema (may induce perforation in the acute phase and has low diagnostic value)",
+     "Empirical broad-spectrum antibiotic therapy (avoid before infection is excluded)",
+     "Noncontrast abdominal CT (not first-line; used only to evaluate complications)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is a topical 5-aminosalicylic acid agent (e.g., mesalamine suppository 1 g per dose, once nightly, for 4-8 weeks). For mild to moderately active disease, oral mesalamine (2.0-3.0 g/day in divided doses) may be added. If topical treatment is ineffective, topical corticosteroids (e.g., budesonide foam) may be considered. Dietary adjustment is also recommended, avoiding spicy and irritating foods, maintaining a regular daily routine, and providing psychological counseling when necessary to reduce the impact of anxiety on the bowel."
+    ],
+    "safety_warnings": [
+     "Sulfonamide-allergic patients should not use sulfasalazine derivatives",
+     "Long-term NSAID use may worsen the condition and should be strictly avoided",
+     "With topical corticosteroid use, be aware of the risk of oral candidiasis; although it is less common with rectal administration, observation is still needed"
+    ],
+    "personalization": [
+     "In pregnant women, topical mesalamine is preferred, and potentially teratogenic drugs such as metronidazole should be avoided",
+     "Older patients require renal function monitoring, with mesalamine dose adjusted according to creatinine clearance",
+     "In pediatric patients, doses should be calculated by body weight, and growth and development should be monitored"
+    ]
+   },
+   "disease": "Ulcerative proctitis",
+   "department": "Gastroenterology"
+  },
+  {
+   "presentation": "Patients often develop sudden severe abdominal pain several hours to one day after eating seafood, usually periumbilical or epigastric cramping, accompanied by frequent watery diarrhea (meat-wash water-like or bloody watery) and nausea and vomiting. It is often accompanied by systemic toxic symptoms such as fever and chills. Symptoms usually peak within 24-48 hours, and without timely fluid replacement, signs of dehydration such as dry mouth, reduced urine output, and poor skin turgor may develop rapidly.",
+   "interview_guide": {
+    "first_questions": [
+     "Did you eat raw marinated seafood, shellfish, or undercooked seafood within 24-48 hours before onset?",
+     "What are your current main symptoms? What are the frequency and character of the diarrhea and vomiting?"
+    ],
+    "followup_questions": [
+     "Do you have fever, chills, or obvious signs of dehydration (such as dizziness or reduced urine output)?",
+     "Has anyone who ate the same meal developed similar symptoms?",
+     "Do you have a history of chronic gastrointestinal disease or immunodeficiency?"
+    ],
+    "stop_conditions": [
+     "A recent history of suspected seafood consumption has been confirmed and symptoms are typical.",
+     "Initial vital signs assessment and determination of dehydration severity have been completed.",
+     "Other noninfectious acute abdominal conditions or serious underlying diseases have been excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Stool routine testing plus occult blood test",
+     "Complete blood count (focus on white blood cell count and neutrophil percentage)",
+     "Electrolyte and renal function tests"
+    ],
+    "if_suspected": [
+     "Stool bacterial culture (specific testing for Vibrio parahaemolyticus)",
+     "Stool smear Gram stain",
+     "C-reactive protein (CRP) measurement"
+    ],
+    "avoid": [
+     "Empirical use of antidiarrheal drugs (such as loperamide) that may mask the condition",
+     "Noncontrast abdominal CT without indication",
+     "Unnecessary serologic antibody testing (limited value in the acute phase)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "The primary treatment is oral or intravenous fluid replacement to correct dehydration and electrolyte disturbances. For mild to moderate dehydration, oral rehydration salts (ORS) are preferred; for severe dehydration, intravenous normal saline or Ringer's solution is required. Antibiotics are only for severe cases, high fever, or immunocompromised patients; doxycycline or fluoroquinolones (such as levofloxacin) are preferred, for a course of 3-5 days. Diosmectite may be used adjunctively to adsorb toxins; strong antidiarrheal agents must not be used early."
+    ],
+    "safety_warnings": [
+     "Contraindicated in patients allergic to tetracyclines or quinolones.",
+     "Be aware of interactions with anticoagulants and aluminum/magnesium-containing antacids.",
+     "Watch for tendinitis and QT interval prolongation that may be caused by quinolones."
+    ],
+    "personalization": [
+     "Use quinolones with caution in children and pregnant women; azithromycin may be used as an alternative.",
+     "In older adults and patients with renal impairment, adjust the fluid replacement rate and antibiotic dose according to creatinine clearance.",
+     "In infants and young children, oral rehydration is preferred to avoid delays caused by difficult intravenous access."
+    ]
+   },
+   "disease": "Vibrio parahaemolyticus food poisoning",
+   "department": "Gastroenterology"
+  }
+ ]
+}

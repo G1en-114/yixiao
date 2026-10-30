@@ -1,0 +1,339 @@
+{
+ "department": "Nephrology",
+ "skills": [
+  {
+   "presentation": "There may be no obvious discomfort in the early stage; as the disease progresses, proteinuria (increased urine foam that persists), hematuria (reddish urine or meat-washing-water appearance), bilateral eyelid edema, bilateral lower-limb edema, nocturia, fatigue and weakness, decreased appetite, nausea, worsened hypertension, pruritus, and sallow complexion (anemic appearance) may occur.",
+   "interview_guide": {
+    "first_questions": [
+     "Is there a lot of foam in your urine? Is the foam fine and dense? Does it persist for a long time without dispersing?",
+     "Do you have eyelid edema when you wake up in the morning? Do you have swelling in your lower legs and ankles in the evening?",
+     "How many times do you get up to urinate at night? Is the night urine volume greater than during the day?"
+    ],
+    "followup_questions": [
+     "Do you have a history of diabetes, chronic hypertension, chronic glomerulonephritis, or gout?",
+     "What are your recent laboratory values for serum creatinine, blood urea nitrogen, and quantitative urine protein?",
+     "Have you taken pain relievers long term, certain Chinese herbal medicines (such as aristolochic acid-containing drugs), or been frequently exposed to heavy metals?"
+    ],
+    "stop_conditions": [
+     "CKD course has been confirmed (kidney damage markers or eGFR<60ml/min persisting for >=3 months)",
+     "CKD staging assessment (CKD stage 1-5) and proteinuria grading (A1-A3) have been completed",
+     "The primary cause (diabetic nephropathy, hypertensive kidney damage, primary glomerular disease, etc.) is clear"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Urinalysis + urine sediment microscopy (proteinuria, red blood cells, casts)",
+     "Urine albumin-to-creatinine ratio (UACR) and 24-hour quantitative urine protein",
+     "Blood chemistry (serum creatinine, blood urea nitrogen, serum uric acid, electrolytes especially serum potassium, estimated glomerular filtration rate eGFR)",
+     "Color urinary tract ultrasound (measurement of bilateral kidney size, cortical thickness, and corticomedullary differentiation)",
+     "Complete blood count (to assess renal anemia)"
+    ],
+    "if_suspected": [
+     "Renal biopsy histopathological examination (the gold standard for clarifying pathological diagnosis to guide immunosuppressive therapy; contraindicated in advanced bilateral renal shrinkage)",
+     "Intact parathyroid hormone (iPTH) + bone metabolism markers (to assess chronic kidney disease-mineral and bone disorder, CKD-MBD)",
+     "Autoantibodies and serum/urine light chain protein electrophoresis (to screen for secondary kidney disease)"
+    ],
+    "avoid": [
+     "Misuse of intravenous iodinated contrast for enhanced CT or intravenous pyelography (IVP) during moderate-to-severe renal impairment (to prevent contrast-induced acute kidney injury)",
+     "Ordering whole-body high-dose isotope bone ECT without indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Integrated comprehensive kidney protection: high-quality low-protein diet (0.6-0.8g/kg/d, with α-keto acids) + strict blood pressure control (target <130/80 mmHg)",
+     "First-line preferred kidney-protective antihypertensive and antiproteinuric drugs: ACEI/ARB (e.g., losartan, valsartan) or SGLT2 inhibitors (dapagliflozin, empagliflozin) or nonsteroidal mineralocorticoid receptor antagonists (finerenone)",
+     "Manage complications: correct renal anemia (EPO/roxadustat) and correct acidosis and hyperphosphatemia."
+    ],
+    "safety_warnings": [
+     "During ACEI/ARB treatment, serum potassium and serum creatinine must be monitored; if serum potassium >5.5mmol/L or serum creatinine increases by more than 30% above baseline after initiation, reduce the dose or stop the drug",
+     "Strictly avoid misuse of nephrotoxic drugs: aminoglycoside antibiotics, nonsteroidal anti-inflammatory drugs (NSAIDs), aristolochic acid-containing Chinese medicines, etc.",
+     "When eGFR falls to <15ml/min/1.73m2 and end-stage kidney disease develops, actively establish vascular access and prepare for renal replacement therapy (hemodialysis/peritoneal dialysis/kidney transplantation)"
+    ],
+    "personalization": [
+     "Patients with diabetic nephropathy: prefer the triple kidney-heart protection regimen of SGLT2i + ACEI/ARB + finerenone",
+     "Patients with severe hyperkalemia: add oral potassium-lowering resins (sodium zirconium cyclosilicate or patiromer) to maintain continuous RAAS inhibitor use",
+     "Patients with obvious edema and volume overload: use loop diuretics torsemide/furosemide"
+    ]
+   },
+   "disease": "Chronic kidney disease",
+   "department": "Nephrology"
+  },
+  {
+   "presentation": "Uremic systemic syndrome: refractory severe edema, oliguria or anuria, nausea, vomiting, complete loss of appetite, oral ammonia odor (urine odor), severe fatigue and weakness, deep and labored breathing with metabolic acidosis, refractory severe hypertension, acute left heart failure (pink frothy sputum), severe renal anemia, grayish dry and itchy skin, pericardial friction rub, and uremic encephalopathy (somnolence, convulsions, coma).",
+   "interview_guide": {
+    "first_questions": [
+     "About how many milliliters of urine do you produce in 24 hours? Is it less than a small bottle of mineral water (<400ml)?",
+     "Do you have severe nausea, inability to eat, nausea when smelling cooking fumes, or a strong urine odor in your mouth?",
+     "Can you lie flat to sleep? Do you have extreme shortness of breath after activity, breathlessness, or chest tightness that prevents you from lying flat?"
+    ],
+    "followup_questions": [
+     "How many years have you had chronic kidney disease, diabetes, or hypertension?",
+     "Is your skin extremely itchy? Do you have twitching or numbness in your hands and feet?",
+     "Have you already undergone arteriovenous fistula creation or peritoneal dialysis catheter placement? Have you started regular dialysis?"
+    ],
+    "stop_conditions": [
+     "End-stage uremic status (eGFR<15ml/min) and residual urine volume have been confirmed",
+     "Hyperkalemia, acute pulmonary edema, severe acidosis, and fatal complications of uremic pericarditis have been ruled out",
+     "The choice of renal replacement dialysis modality and vascular access preparation are clear"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Blood chemistry (serum creatinine usually >707umol/L, eGFR<15ml/min, markedly elevated blood urea nitrogen)",
+     "Serum electrolytes (hyperkalemia K+>5.5-6.5mmol/L is the leading cause of sudden death, hyperphosphatemia, hypocalcemia)",
+     "Arterial blood gas analysis (severe metabolic acidosis pH<7.20, markedly decreased HCO3-)",
+     "Complete blood count (severe normocytic normochromic anemia, Hb often <60-90g/L)",
+     "Electrocardiogram (tall peaked T waves, prolonged P-R interval, widened QRS complex, and other ECG manifestations of severe hyperkalemia)",
+     "Urinary tract ultrasound (markedly shrunken bilateral kidneys with thin cortex)"
+    ],
+    "if_suspected": [
+     "Chest X-ray/echocardiography (to assess volume overload, pulmonary edema, and pericardial effusion)",
+     "Intact parathyroid hormone (iPTH) and bone mineral metabolism"
+    ],
+    "avoid": [
+     "Blind renal biopsy during the uremic stage (absolute contraindication: shrunken kidneys are prone to severe bleeding and biopsy loses pathological guiding value)",
+     "Use of intravenous gadolinium-containing magnetic resonance contrast agents (can cause fatal nephrogenic systemic fibrosis, NSF) and iodinated contrast agents"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Lifelong renal replacement therapy as core life support (hemodialysis HD/HDF, peritoneal dialysis PD, allogeneic kidney transplantation)",
+     "Management of acute fatal complications (hyperkalemia: calcium gluconate to antagonize myocardial toxicity, glucose + insulin to promote intracellular shift, sodium bicarbonate to correct acidosis, oral potassium-lowering resin, emergency hemodialysis",
+     "rapid ultrafiltration and dehydration for acute left heart failure)",
+     "Drug therapy for complications (recombinant human erythropoietin/roxadustat to correct anemia, lanthanum carbonate/sevelamer carbonate to lower phosphorus, calcitriol/cinacalcet to regulate iPTH)."
+    ],
+    "safety_warnings": [
+     "Hyperkalemia (K+>6.5mmol/L) can induce ventricular fibrillation and sudden cardiac arrest within minutes; emergency hemodialysis must be performed immediately",
+     "Strictly limit water and sodium intake; daily weight gain should not exceed 3-5% of dry weight to prevent death from acute pulmonary edema and suffocation",
+     "The limb with the arteriovenous fistula must not be used for infusion, blood drawing, blood pressure measurement, or compression; palpate the vascular thrill and auscultate the vascular bruit daily"
+    ],
+    "personalization": [
+     "Patients with strong willingness for home self-management, poor vascular conditions, or poor cardiac function: prefer continuous ambulatory peritoneal dialysis (CAPD/APD)",
+     "Young and middle-aged patients without severe systemic comorbidities: actively undergo HLA matching and await kidney transplantation",
+     "Elderly frail patients with multiple comorbidities: maintain high-quality hemodialysis and strictly control interdialytic volume gain"
+    ]
+   },
+   "disease": "End-stage kidney disease",
+   "department": "Nephrology"
+  },
+  {
+   "presentation": "Hypertension caused by stenosis of the main renal artery or major branches, unilateral or bilateral. Clinical features: sudden severe hypertension or acutely worsening hypertension in young people (<30 years, mostly Takayasu arteritis or fibromuscular dysplasia, FMD) or older people (>55 years, mostly atherosclerosis); sudden malignant hypertension; resistant hypertension resistant to combination therapy with 3 or more antihypertensive drugs; sudden oliguria and acute sharp rise in serum creatinine after taking ACEI or ARB drugs; continuous high-pitched systolic/diastolic vascular bruit audible on abdominal auscultation over the upper abdomen or lumbar back; recurrent sudden unexplained acute pulmonary edema (Pickering syndrome).",
+   "interview_guide": {
+    "first_questions": [
+     "Did your blood pressure rise suddenly? Does your blood pressure remain high despite taking 3 or more antihypertensive drugs (resistant hypertension)?",
+     "After taking ACEI or ARB antihypertensive drugs, have you had a sharp decrease in urine output or a sudden spike in serum creatinine on laboratory tests?",
+     "At what age did the disease onset occur? Have you had sudden severe breathlessness at midnight, orthopnea, or acute pulmonary edema that prevents lying flat?"
+    ],
+    "followup_questions": [
+     "Do you have a history of systemic arteriosclerosis, coronary heart disease, lower-extremity arteriosclerosis obliterans, or Takayasu arteritis?",
+     "Do you have recurrent headache, dizziness, or acute visual loss (malignant hypertensive retinopathy)?",
+     "Are your routine serum potassium tests low? (overactivation of the renin-angiotensin-aldosterone system causes secondary hyperaldosteronism and hypokalemia)"
+    ],
+    "stop_conditions": [
+     "Features of resistant/malignant hypertension and a history of ACEI/ARB-induced acute worsening of renal function have been confirmed",
+     "Abdominal vascular bruit and systemic clues of atherosclerosis/Takayasu arteritis have been collected",
+     "Indications for anatomical and hemodynamic assessment of renal artery stenosis are clear"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Color Doppler ultrasound of the renal arteries (main renal artery peak systolic velocity PSV>180-200cm/s, renal artery-to-abdominal aorta velocity ratio RAR>3.5)",
+     "Renal function (serum creatinine, blood urea nitrogen, eGFR) and serum electrolytes (serum potassium)",
+     "Measurement of plasma renin activity (PRA) and aldosterone (PAC) in upright and supine positions",
+     "Urinalysis and urine microalbumin"
+    ],
+    "if_suspected": [
+     "Renal artery magnetic resonance angiography (MRA) or renal artery CTA (precise three-dimensional reconstruction showing the location, length, and severity of renal artery stenosis)",
+     "Percutaneous renal angiography (DSA) (gold standard for diagnosing renal artery stenosis; also measures the translesional pressure gradient and guides interventional stenting)",
+     "Captopril renal scintigraphy (to assess unilateral renal impairment and the functional significance of stenosis)"
+    ],
+    "avoid": [
+     "ACEI or ARB antihypertensive drugs are absolutely contraindicated in patients with severe bilateral renal artery stenosis or solitary kidney renal artery stenosis (can induce acute anuric renal failure)",
+     "Blind administration of large doses of iodinated contrast in patients with severe renal insufficiency (eGFR<30)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Vascular reconstruction intervention is the preferred curative treatment: percutaneous transluminal renal angioplasty and stenting (PTRAS)",
+     "Antihypertensive drug therapy: for patients with unilateral renal artery stenosis and normal contralateral renal function, CCB (amlodipine), β-blockers, or centrally acting antihypertensives may be used",
+     "For patients with bilateral disease, the first choice for blood pressure lowering is CCB combined with α/β-blockers",
+     "Strict smoking cessation, statin lipid-lowering therapy, and antiplatelet therapy."
+    ],
+    "safety_warnings": [
+     "ACEI and ARB drugs are strictly prohibited in patients with bilateral renal artery stenosis or severe stenosis in a solitary kidney; otherwise, they rapidly eliminate efferent arteriolar resistance, causing a cliff-like drop in glomerular filtration rate and acute anuric renal failure",
+     "After renal artery stent implantation, long-term aspirin antiplatelet therapy is required to prevent in-stent restenosis",
+     "During the active phase of Takayasu arteritis (elevated ESR/CRP), blind stent placement is contraindicated; inflammation must first be controlled with adequate glucocorticoid immunosuppression"
+    ],
+    "personalization": [
+     "Young patients with fibromuscular dysplasia (FMD): plain balloon angioplasty (PTRA) has excellent results and usually does not require metal stent implantation",
+     "Older patients with atherosclerotic stenosis accompanied by resistant hypertension/recurrent pulmonary edema: renal artery balloon angioplasty + stent implantation is recommended",
+     "Patients with complete renal artery occlusion and a severely atrophic and shrunken affected kidney (kidney length <7-8cm) that is nonfunctional: vascular reconstruction is ineffective, and blood pressure control with drugs is the main approach"
+    ]
+   },
+   "disease": "renovascular hypertension",
+   "department": "Nephrology"
+  },
+  {
+   "presentation": "Patients often present with acute or subacute onset of rapidly progressive glomerulonephritis, accompanied by hematuria, proteinuria, and acute deterioration of renal function. Pulmonary hemorrhage (hemoptysis, dyspnea), skin purpura, arthralgia, and peripheral neuropathy may also occur. Some patients have systemic symptoms such as fever and fatigue, and ANCA testing is often positive.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had unexplained hemoptysis or shortness of breath?",
+     "Have you had gross hematuria, frothy urine, or lower-limb edema?",
+     "Do you have skin purpura, numbness, or joint pain?"
+    ],
+    "followup_questions": [
+     "If hemoptysis is present, ask about the amount of blood coughed up and whether it is accompanied by chest pain",
+     "If renal function is abnormal, ask about changes in urine volume and previous kidney disease history",
+     "If joint pain is present, determine whether it is migratory and ask about morning stiffness."
+    ],
+    "stop_conditions": [
+     "The typical triad (kidney + lung + skin) has been confirmed and ANCA is positive",
+     "Key laboratory tests (creatinine, ANCA, urinalysis) have been completed",
+     "The patient's vital signs are stable and there is no risk of active major bleeding."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Antineutrophil cytoplasmic antibody (ANCA) testing",
+     "Serum creatinine and blood urea nitrogen",
+     "24-hour quantitative urine protein",
+     "Renal biopsy pathology"
+    ],
+    "if_suspected": [
+     "High-resolution chest CT (to screen for alveolar hemorrhage)",
+     "Fundus examination (to screen for retinal vasculitis)",
+     "Nerve conduction velocity study (to assess peripheral neuropathy)"
+    ],
+    "avoid": [
+     "Unnecessary invasive procedures such as liver biopsy (unless overlap syndrome is suspected)",
+     "Attempts to confirm diagnosis relying solely on imaging without pathological support",
+     "Blind high-dose glucocorticoid therapy before infection is controlled"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For induction of remission, glucocorticoids combined with cyclophosphamide or rituximab are preferred. Prednisone is started at 1mg/kg/d and gradually tapered",
+     "Cyclophosphamide by intravenous pulse or oral administration, for 6-12 months. Severe pulmonary hemorrhage requires additional plasma exchange. In the maintenance phase, switch to azathioprine or methotrexate; total treatment duration at least 18-24 months."
+    ],
+    "safety_warnings": [
+     "Be alert to the risk of severe infection; screen for tuberculosis and hepatitis B before treatment",
+     "Cyclophosphamide may cause bone marrow suppression and bladder toxicity; monitor complete blood count and urine",
+     "Long-term glucocorticoid use can easily cause osteoporosis and elevated blood glucose; prophylactic calcium supplementation and monitoring are needed"
+    ],
+    "personalization": [
+     "Older patients require a lower starting dose of glucocorticoids and enhanced infection monitoring",
+     "Use cyclophosphamide cautiously in patients with renal failure; prefer rituximab",
+     "Women of childbearing age must use strict contraception to avoid teratogenic drug effects on the fetus"
+    ]
+   },
+   "disease": "Microscopic polyangiitis",
+   "department": "Nephrology"
+  },
+  {
+   "presentation": "Patients often report persistent dull pain in the lower back or flank, which may be accompanied by hypertension. Some patients experience sudden severe flank pain and gross hematuria due to cyst rupture, hemorrhage, or stones. In advanced stages, symptoms of renal function decline may occur, such as a palpable abdominal mass, urinary frequency, and nocturia. A family history of similar disease warrants high vigilance.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had long-standing unexplained hypertension or recurrent back pain?",
+     "Has any first-degree relative (parent, sibling) been diagnosed with polycystic kidney disease or had kidney disease?"
+    ],
+    "followup_questions": [
+     "If hematuria occurs, is it related to recent trauma or strenuous exercise?",
+     "Have you had a marked increase in nocturia or lower limb edema?"
+    ],
+    "stop_conditions": [
+     "Family history is clear and imaging has confirmed polycystic kidney disease",
+     "Other secondary kidney diseases have been excluded and the CKD stage has been confirmed",
+     "The patient has no acute complications and the condition is stable"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Renal ultrasound",
+     "Serum creatinine and estimated glomerular filtration rate (eGFR)",
+     "24-hour ambulatory blood pressure monitoring"
+    ],
+    "if_suspected": [
+     "Abdominal CT or MRI (to assess cyst size and complications)",
+     "Liver function tests (to screen for hepatic cysts)",
+     "Cranial MRA (to screen for intracranial aneurysms in those with a family history of stroke)"
+    ],
+    "avoid": [
+     "Unnecessary radionuclide renography (unless precise split renal function is needed)",
+     "Routine use of iodinated contrast-enhanced CT (unless necessary and renal function assessment permits)",
+     "Blind renal biopsy (typical imaging is sufficient for diagnosis, and biopsy risk is high)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment focuses on blood pressure control and slowing renal function deterioration. Angiotensin-converting enzyme inhibitors (ACEIs) or angiotensin receptor blockers (ARBs) are preferred, with a target blood pressure below 130/80 mmHg. Sodium restriction and adequate fluid intake are recommended. For patients with rapidly progressive disease, tolvaptan may be considered, with strict monitoring of liver function and water metabolism. Non-pharmacologic interventions include avoiding flank trauma and moderate exercise."
+    ],
+    "safety_warnings": [
+     "During tolvaptan use, liver function must be closely monitored, and severe liver injury should be watched for",
+     "ACEIs/ARBs are contraindicated in bilateral renal artery stenosis or pregnancy",
+     "Be aware of drug interactions; avoid concomitant use with nonsteroidal anti-inflammatory drugs, which can worsen kidney injury"
+    ],
+    "personalization": [
+     "In older patients, start with a low dose and titrate slowly to prevent hypotension",
+     "ACEIs/ARBs and tolvaptan are contraindicated in pregnancy; switch to safe antihypertensives such as labetalol",
+     "Use tolvaptan cautiously in patients with severe hepatic cysts; symptomatic treatment alone should be preferred"
+    ]
+   },
+   "disease": "Polycystic kidney disease",
+   "department": "Nephrology"
+  },
+  {
+   "presentation": "Patients often report unexplained generalized bone pain, most prominent in the lower back, pelvis, and lower limbs, and worsening at night. Some patients develop muscle weakness, difficulty walking, or a history of fragility fractures. Advanced stages may be accompanied by skeletal deformities such as height loss and scoliosis. Symptoms are often insidious and are frequently detected during chronic kidney disease follow-up because of biochemical abnormalities or imaging changes.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had persistent bone pain or joint aching?",
+     "Have you recently had a fracture from minor trauma?",
+     "Have you experienced numbness in the limbs or muscle weakness?"
+    ],
+    "followup_questions": [
+     "If bone pain is prominent, please describe the specific location and character of the pain (e.g., sharp or aching)",
+     "If you have noticed height loss or a stooped posture, have you had any recent falls or trauma?",
+     "Have you ever had parathyroid surgery or long-term dialysis treatment?"
+    ],
+    "stop_conditions": [
+     "The CKD stage has been clearly determined and recent calcium-phosphorus metabolism parameters are available",
+     "Collection of typical bone pain symptoms has been completed and there are no new warning symptoms",
+     "The patient has provided recent imaging reports (e.g., X-ray or bone density)"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum calcium, phosphorus, and alkaline phosphatase testing",
+     "Intact parathyroid hormone (iPTH) measurement",
+     "25-hydroxyvitamin D level testing"
+    ],
+    "if_suspected": [
+     "Dual-energy X-ray absorptiometry (DXA) bone mineral density measurement",
+     "Wrist X-ray (to assess subperiosteal bone resorption)",
+     "Bone biopsy (gold standard, for difficult cases)"
+    ],
+    "avoid": [
+     "Routine CT scanning (high radiation and insensitive for early bone lesions)",
+     "Unnecessary whole-body bone scan (unless metastatic tumor is suspected)",
+     "Repeated high-dose vitamin D challenge tests"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes controlling serum phosphorus (low-phosphorus diet combined with phosphate binders), supplementing active vitamin D (e.g., calcitriol), and correcting hypocalcemia. For secondary hyperparathyroidism, adjust the active vitamin D dose according to iPTH levels or add a calcimimetic (e.g., cinacalcet). Moderate exercise is also recommended to maintain bone mass, and prolonged bed rest should be avoided."
+    ],
+    "safety_warnings": [
+     "Do not use active vitamin D indiscriminately in severe hypercalcemia to prevent vascular calcification",
+     "Pay attention to spacing between phosphate binders and iron supplements or antibiotics to avoid affecting efficacy",
+     "Watch for hypocalcemia caused by calcimimetics; serum calcium must be closely monitored early in treatment"
+    ],
+    "personalization": [
+     "Older patients require a lower starting dose to prevent an increased risk of falls",
+     "In dialysis patients, calcium-containing or non-calcium phosphate binders should be preferred and individualized according to serum calcium levels",
+     "In pediatric patients, attention should be paid to growth and development, with regular assessment of bone age and growth velocity"
+    ]
+   },
+   "disease": "renal osteodystrophy",
+   "department": "Nephrology"
+  }
+ ]
+}

@@ -1,18 +1,18 @@
 # -*- coding: utf-8 -*-
-"""医晓 Hospital Agent Web 临床指挥台（零第三方依赖，Python 标准库实现）。
+"""YiXiao Hospital Agent web clinical console (zero third-party dependencies, Python standard library).
 
-路由：
-    GET  /health                     原比赛健康检查入口（保持不变）
-    POST /test                       原比赛单病例入口（保持不变，同步执行）
-    GET  /                           登录页（服务端会话）
-    GET  /demo                       Web 临床指挥台
-    POST /login / POST /logout       登录/登出（HttpOnly + SameSite=Lax 会话）
-    GET  /api/me /api/cases          会话与病例列表
-    POST /api/cases                  创建病例（触发分诊+问诊）
-    GET  /api/cases/<id>             病例实时视图
-    POST /api/cases/<id>/answers     提交问诊回答
-    POST /api/cases/<id>/exams       提交检查结果（系统不伪造检查数据）
-    GET  /api/cases/<id>/events      SSE 事件流（Last-Event-ID 断线恢复）
+Routes:
+    GET  /health                     original competition health check (unchanged)
+    POST /test                       original competition single-case entry (unchanged, synchronous)
+    GET  /                           sign-in page (server-side session)
+    GET  /demo                       web clinical console
+    POST /login / POST /logout       sign in / out (HttpOnly + SameSite=Lax session)
+    GET  /api/me /api/cases          session and case list
+    POST /api/cases                  create a case (starts triage + interview)
+    GET  /api/cases/<id>             live case view
+    POST /api/cases/<id>/answers     submit interview answers
+    POST /api/cases/<id>/exams       submit exam results (the system never invents exam data)
+    GET  /api/cases/<id>/events      SSE event stream (Last-Event-ID resume)
 """
 import json
 import os
@@ -36,7 +36,7 @@ STATIC_DIR = os.path.join(ROOT, 'web', 'static')
 DATA_DIR = os.path.join(ROOT, 'data', 'demo')
 SKILLS_DIR = os.path.join(ROOT, 'data', 'skills')
 
-DEMO_ACCOUNT = {'demo': 'yixiao2026'}    # 固定演示账号（不支持注册与找回密码）
+DEMO_ACCOUNT = {'demo': 'yixiao2026'}    # fixed demo account (no sign-up or password reset)
 SESSIONS = {}                            # token -> user
 SESSION_LOCK = threading.Lock()
 
@@ -47,7 +47,7 @@ _cfg = load_config(ROOT)
 
 
 def _llm():
-    # 环境变量 HOSPITAL_FAKE_LLM=1 仅用于开发自测；正式演示必须使用真实模型
+    # HOSPITAL_FAKE_LLM=1 is for development self-tests only; the real demo must use a real model
     if os.environ.get('HOSPITAL_FAKE_LLM') == '1':
         from agent.runtime.fake_script import build_script
         from agent.runtime.llm import FakeLLM
@@ -61,7 +61,7 @@ _pipeline = Pipeline(Orchestrator(_bus, _store), _bus, _store, _kb, _llm())
 class Handler(BaseHTTPRequestHandler):
     server_version = 'HospitalAgent/1.0'
 
-    # ---- 基础工具 ----
+    # ---- helpers ----
     def log_message(self, fmt, *args):
         sys.stderr.write('[http] %s\n' % (fmt % args))
 
@@ -93,7 +93,7 @@ class Handler(BaseHTTPRequestHandler):
         with SESSION_LOCK:
             return SESSIONS.get(token)
 
-    # ---- 路由 ----
+    # ---- routes ----
     def do_GET(self):
         path = urlparse(self.path).path
         if path == '/health':
@@ -109,41 +109,41 @@ class Handler(BaseHTTPRequestHandler):
         if path == '/api/me':
             user = self._session_user()
             if not user:
-                return self._send(401, {'error': '未登录'})
+                return self._send(401, {'error': 'Not signed in'})
             return self._send(200, {'user': user, 'knowledge': _kb.stats(),
                                     'model': _cfg.get('model', '')})
         if path == '/api/cases':
             if not self._session_user():
-                return self._send(401, {'error': '未登录'})
+                return self._send(401, {'error': 'Not signed in'})
             return self._send(200, {'cases': _store.list_cases()})
         if path.startswith('/api/cases/'):
             case_id = path.split('/')[3]
             if not self._session_user():
-                return self._send(401, {'error': '未登录'})
+                return self._send(401, {'error': 'Not signed in'})
             if path.endswith('/events'):
                 return self._sse(case_id)
             view = _pipeline.view(case_id)
             if view is None:
-                return self._send(404, {'error': '病例不存在'})
+                return self._send(404, {'error': 'Case not found'})
             return self._send(200, view)
         return self._send(404, {'error': 'not found'})
 
     def do_POST(self):
         path = urlparse(self.path).path
-        if path == '/test':              # 原比赛单病例入口（复用进程内共享 Store，避免多写者）
+        if path == '/test':              # original single-case entry (reuses the in-process Store to avoid multiple writers)
             body = self._body()
             try:
                 from my_doctor_agent import MyDoctorAgent
                 agent = MyDoctorAgent(fake=os.environ.get('HOSPITAL_FAKE_LLM') == '1',
                                       store=_store, bus=_bus)
                 return self._send(200, agent.test(body))
-            except Exception as exc:     # 诚实边界：如实返回错误，不伪造成功
+            except Exception as exc:     # honest boundary: return the error as-is, never fake success
                 return self._send(500, {'error': str(exc)})
         if path == '/login':
             body = self._body()
             user, pwd = body.get('username'), body.get('password')
             if DEMO_ACCOUNT.get(user) != pwd:
-                return self._send(401, {'error': '演示账号或密码不正确'})
+                return self._send(401, {'error': 'Incorrect demo username or password'})
             token = secrets.token_urlsafe(24)
             with SESSION_LOCK:
                 SESSIONS[token] = user
@@ -166,17 +166,17 @@ class Handler(BaseHTTPRequestHandler):
             return self._send(200, {'ok': True})
         if path == '/api/cases':
             if not self._session_user():
-                return self._send(401, {'error': '未登录'})
+                return self._send(401, {'error': 'Not signed in'})
             intake = self._body()
             if not intake.get('chief_complaint'):
-                return self._send(422, {'error': '主诉不能为空'})
+                return self._send(422, {'error': 'Chief complaint is required'})
             intake.setdefault('symptoms', [])
             case_id = _pipeline.create_case(intake)
             return self._send(200, {'case_id': case_id})
         parts = path.split('/')
         if len(parts) == 5 and parts[1] == 'api' and parts[2] == 'cases':
             if not self._session_user():
-                return self._send(401, {'error': '未登录'})
+                return self._send(401, {'error': 'Not signed in'})
             case_id, action = parts[3], parts[4]
             body = self._body()
             if action == 'answers':
@@ -219,7 +219,7 @@ class Handler(BaseHTTPRequestHandler):
         self.wfile.write(f'id: {ev["seq"]}\nevent: agent\ndata: {data}\n\n'.encode('utf-8'))
         self.wfile.flush()
 
-    # ---- 静态资源 ----
+    # ---- static files ----
     def _page(self, name):
         path = os.path.join(STATIC_DIR, name)
         if not os.path.exists(path):
@@ -259,10 +259,10 @@ def make_server(port=7860):
 def main():
     port = int(sys.argv[1]) if len(sys.argv) > 1 else 7860
     httpd = make_server(port)
-    print(f'医晓 Hospital Agent · 多智能体临床决策平台')
-    print(f'知识库：{_kb.stats()}')
-    print(f'Web 临床指挥台：http://127.0.0.1:{port}/demo （演示账号 demo / yixiao2026）')
-    print(f'比赛入口保持不变：GET /health · POST /test')
+    print('YiXiao Hospital Agent · Multi-agent clinical decision platform')
+    print(f'Knowledge base: {_kb.stats()}')
+    print(f'Clinical console: http://127.0.0.1:{port}/demo  (demo account demo / yixiao2026)')
+    print('Competition entries unchanged: GET /health · POST /test')
     httpd.serve_forever()
 
 

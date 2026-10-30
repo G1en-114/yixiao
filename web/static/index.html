@@ -1,120 +1,124 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>医晓 Hospital Agent · 多智能体临床决策平台</title>
+<title>YiXiao Hospital Agent · Multi-agent clinical reasoning</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%234FD1C5'/%3E%3Cpath d='M5 17h6l2-6 4 12 3-9 2 3h5' fill='none' stroke='%230A0D12' stroke-width='2.4' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
 <link rel="stylesheet" href="/static/style.css">
 </head>
 <body>
 
-<!-- 登录页：动态视频感背景 + 服务端会话登录 -->
-<div id="login-view" class="login-view hidden">
-  <div class="bg-grid"></div>
-  <div class="orb orb-1"></div><div class="orb orb-2"></div><div class="orb orb-3"></div>
-  <div class="login-card">
-    <div class="login-kicker">AI+超级智能体赛道 · 高校组 · 参赛作品</div>
-    <div class="login-title">医晓 <span>HOSPITAL AGENT</span></div>
-    <div class="login-sub">多智能体临床决策平台 —— 八个智能体接力完成一次完整的临床推理</div>
-    <div class="login-chips">
-      <span class="chip c">8 Agents</span><span class="chip g">19 科室</span>
-      <span class="chip c">584 疾病 Skill</span><span class="chip g">837 检查目录</span>
+<!-- ============ Sign-in ============ -->
+<div id="login-view" class="login hidden">
+  <section class="login-hero">
+    <div class="brand-row">
+      <span class="mark"><svg viewBox="0 0 32 32"><path d="M5 17h6l2-6 4 12 3-9 2 3h5"/></svg></span>
+      <span class="wordmark">YiXiao <em>Hospital Agent</em></span>
     </div>
-    <form id="login-form">
-      <input id="login-user" placeholder="演示账号" autocomplete="username">
-      <input id="login-pass" type="password" placeholder="密码" autocomplete="current-password">
-      <button type="submit">登录临床指挥台</button>
-      <div id="login-error" class="login-error"></div>
+    <h1>One complaint in.<br><span>A replayable clinical report out.</span></h1>
+    <p class="lede">Eight AI agents work a case the way a clinical team does: triage, history, differential, exams,
+      two specialists in parallel, an attending plan, a safety review with veto power, and a full audit trail.</p>
+    <div class="relay-ring" aria-hidden="true">
+      <svg viewBox="0 0 420 420" id="ring"></svg>
+    </div>
+    <dl class="hero-stats">
+      <div><dt>8</dt><dd>Agents</dd></div>
+      <div><dt>19</dt><dd>Departments</dd></div>
+      <div><dt>584</dt><dd>Disease Skills</dd></div>
+      <div><dt>837</dt><dd>Exam catalog</dd></div>
+    </dl>
+  </section>
+  <section class="login-side">
+    <form id="login-form" class="login-card">
+      <div class="eyebrow">Clinical console</div>
+      <h2>Sign in</h2>
+      <label for="login-user">Username</label>
+      <input id="login-user" autocomplete="username" placeholder="demo">
+      <label for="login-pass">Password</label>
+      <input id="login-pass" type="password" autocomplete="current-password" placeholder="••••••••••">
+      <button type="submit" class="btn primary wide">Open the console <span aria-hidden="true">→</span></button>
+      <div id="login-error" class="form-error"></div>
+      <div class="hint">Demo account <code>demo</code> / <code>yixiao2026</code> · server-side session</div>
     </form>
-    <div class="login-hint">演示账号：demo / yixiao2026 · 服务端会话登录</div>
-    <div class="login-footer">输出仅用于教学演示与临床决策辅助研究，不替代真实医疗诊断、处方或急救</div>
-  </div>
+    <p class="fineprint">For medical education and clinical-reasoning research only. Not a substitute for real diagnosis,
+      prescriptions or emergency care. Demo cases are de-identified sandbox data.</p>
+  </section>
 </div>
 
-<!-- 工作台：左病例 / 中编排 / 右安全闸门 / 底审计 -->
-<div id="app-view" class="app-view hidden">
+<!-- ============ Console ============ -->
+<div id="app-view" class="app hidden">
   <header class="topbar">
-    <div class="brand">医晓 <span>HOSPITAL AGENT</span><em>多智能体临床决策平台</em></div>
-    <div class="topstats">
-      <div class="ts"><b id="st-events">0</b><span>事件</span></div>
-      <div class="ts"><b id="st-calls">0</b><span>模型调用</span></div>
-      <div class="ts"><b id="st-tokens">0</b><span>tokens</span></div>
-      <div class="ts model"><b id="st-model">—</b><span>基座模型</span></div>
+    <div class="brand-row small">
+      <span class="mark"><svg viewBox="0 0 32 32"><path d="M5 17h6l2-6 4 12 3-9 2 3h5"/></svg></span>
+      <span class="wordmark">YiXiao <em>Hospital Agent</em></span>
     </div>
-    <div class="top-right"><span id="kb-stats"></span><button id="btn-logout" class="ghost">退出</button></div>
+    <div class="counters">
+      <div class="counter"><b id="st-events">0</b><span>events</span></div>
+      <div class="counter"><b id="st-calls">0</b><span>model calls</span></div>
+      <div class="counter"><b id="st-tokens">0</b><span>tokens</span></div>
+      <div class="counter model"><b id="st-model">—</b><span>base model</span></div>
+    </div>
+    <div class="top-right">
+      <span id="kb-stats" class="kb"></span>
+      <button id="btn-logout" class="btn ghost sm">Sign out</button>
+    </div>
   </header>
 
-  <main class="grid">
-    <!-- 左：病例创建 + 历史病例 -->
-    <aside class="col left">
-      <section class="panel">
-        <h3>病例创建 <i>自由输入主诉，不选模板</i></h3>
-        <label>主诉 *</label>
-        <textarea id="in-complaint" rows="2" placeholder="如：胸口疼并伴有呼吸困难，持续半小时"></textarea>
+  <div class="workspace">
+    <!-- left: new case + history -->
+    <aside class="sidebar">
+      <section class="card">
+        <div class="card-head"><h3>New case</h3><span class="tag">free text</span></div>
+        <label for="in-complaint">Chief complaint</label>
+        <textarea id="in-complaint" rows="3" placeholder="e.g. Chest pain with shortness of breath for 30 minutes"></textarea>
         <div class="row2">
-          <div><label>年龄</label><input id="in-age" type="number" value="56"></div>
-          <div><label>性别</label>
-            <select id="in-sex"><option>男</option><option>女</option></select></div>
+          <div><label for="in-age">Age</label><input id="in-age" type="number" value="56"></div>
+          <div><label for="in-sex">Sex</label>
+            <select id="in-sex"><option>Male</option><option>Female</option></select></div>
         </div>
-        <label>持续时间</label>
-        <input id="in-duration" value="半小时">
-        <label>症状（逗号分隔）</label>
-        <input id="in-symptoms" value="胸痛, 呼吸困难">
-        <label>既往史</label><input id="in-history" value="高血压">
-        <label>过敏史</label><input id="in-allergies" placeholder="如：青霉素">
-        <label>当前用药</label><input id="in-meds" placeholder="如：硝酸甘油（选填）">
-        <button id="btn-create" class="primary">创建病例 · 启动八 Agent 协作</button>
+        <label for="in-duration">Duration</label>
+        <input id="in-duration" value="30 minutes">
+        <label for="in-symptoms">Symptoms <i>comma separated</i></label>
+        <input id="in-symptoms" value="chest pain, shortness of breath">
+        <label for="in-history">Past history</label><input id="in-history" value="hypertension">
+        <div class="row2">
+          <div><label for="in-allergies">Allergies</label><input id="in-allergies" placeholder="none"></div>
+          <div><label for="in-meds">Medications</label><input id="in-meds" placeholder="optional"></div>
+        </div>
+        <button id="btn-create" class="btn primary wide">Start the 8-agent relay</button>
       </section>
-      <section class="panel">
-        <h3>历史病例</h3>
-        <ul id="case-list" class="case-list"><li class="empty">暂无病例</li></ul>
+      <section class="card grow">
+        <div class="card-head"><h3>Cases</h3></div>
+        <ul id="case-list" class="case-list"><li class="empty">No cases yet</li></ul>
       </section>
     </aside>
 
-    <!-- 中：编排器 + 对话 + 检查 + 报告 -->
-    <section class="col center">
-      <section class="panel">
-        <h3>编排器 <i id="stage-label">八智能体接力 · 双专科并行</i></h3>
-        <div class="rail" id="stage-rail">
-          <div class="node" data-s="triage"><b>①</b>分诊</div>
-          <div class="node" data-s="interview"><b>②</b>问诊</div>
-          <div class="node" data-s="differential"><b>③</b>鉴别</div>
-          <div class="node" data-s="examination"><b>④</b>检查</div>
-          <div class="node pair" data-s="specialist"><b>⑤</b>专科 A/B<div class="lane"><span>Specialist A</span><span>Specialist B</span></div></div>
-          <div class="node" data-s="attending"><b>⑥</b>主治</div>
-          <div class="node" data-s="safety"><b>⑦</b>安全</div>
-          <div class="node" data-s="audit"><b>⑧</b>审计</div>
+    <!-- center: relay + case canvas -->
+    <main class="stage">
+      <div class="relay" id="stage-rail"></div>
+      <div class="relay-status"><span class="pulse"></span><span id="stage-label">Create a case to start the relay</span></div>
+      <div class="canvas" id="canvas">
+        <div class="placeholder">
+          <h2>No case open</h2>
+          <p>Enter a chief complaint on the left. Each agent's work appears here as it happens, and every step lands in the audit trail.</p>
         </div>
-      </section>
-      <section class="panel" id="panel-cases">
-        <h3>病例状态 <i id="case-headline">未选择病例</i></h3>
-        <div id="intake-brief" class="intake-brief"></div>
-        <div id="qa-area" class="qa-area"></div>
-        <div id="exam-area" class="exam-area"></div>
-        <div id="report-area" class="report-area"></div>
-        <div id="error-area" class="error-area hidden"></div>
-      </section>
-    </section>
+      </div>
+    </main>
 
-    <!-- 右：Safety Gate + 结论 -->
-    <aside class="col right">
-      <section class="panel safety-panel">
-        <h3>Safety Gate <i>拥有驳回权</i></h3>
-        <div id="safety-badge" class="badge idle">STANDBY</div>
-        <div id="safety-list" class="safety-list"><div class="empty">等待审查</div></div>
+    <!-- right: safety gate + audit -->
+    <aside class="rightbar">
+      <section class="card gate" id="gate">
+        <div class="card-head"><h3>Safety Gate</h3><span class="tag red">veto power</span></div>
+        <div id="safety-badge" class="gate-badge idle"><span class="dot"></span><b>Standby</b><i>waiting for a plan</i></div>
+        <div id="safety-list" class="gate-list"></div>
       </section>
-      <section class="panel">
-        <h3>当前结论</h3>
-        <div id="conclusion" class="conclusion"><div class="empty">—</div></div>
+      <section class="card audit grow">
+        <div class="card-head"><h3>Audit trail</h3><span class="tag" id="audit-count">0 events</span></div>
+        <div id="timeline" class="timeline"><div class="empty">Every handoff and model call is logged here and can be replayed.</div></div>
       </section>
     </aside>
-  </main>
-
-  <!-- 底：审计事件时间线 -->
-  <footer class="audit">
-    <div class="audit-head">审计时间线 <span id="audit-count">0 条事件 · 每一次交接与工具调用都可回放</span></div>
-    <div id="timeline" class="timeline"><div class="empty">事件将在此逐条回放</div></div>
-  </footer>
+  </div>
 </div>
 
 <script src="/static/app.js"></script>

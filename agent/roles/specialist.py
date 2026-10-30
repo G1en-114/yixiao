@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""⑤ SpecialistAgent 专科会诊：按科室动态加载，两个专科视角并行独立分析。"""
+"""(5) SpecialistAgent: loaded per department; two specialist views run independently in parallel."""
 from agent.roles.base import RoleAgent
 
 
@@ -9,19 +9,19 @@ class SpecialistAgent(RoleAgent):
     required_keys = ('department', 'primary_opinion', 'likely_diseases', 'key_evidence',
                      'uncertainties', 'recommendations')
 
-    def run(self, case_id, state, department='心内科', lane='A'):
+    def run(self, case_id, state, department='Cardiology', lane='A'):
         self._case_id = case_id
         d = state.data
         skills = self.kb.retrieve(_case_text(d), [department], top_k=5)
-        dept_skills = [s for s in self.kb.departments.get(department, [])][:3]
+        dept_skills = [s for s in skills if s['department'] == department][:3]
         knowledge = self.kb.format_skills((dept_skills + [s for s in skills if s not in dept_skills])[:5])
         user = (_case_text(d) +
-                f"\n\n你代表的科室：{department}（会诊通道 {lane}）。"
-                f"只从 {department} 的专科角度输出，与其他会诊通道相互独立。")
+                f"\n\nYou represent: {department} (consult lane {lane}). "
+                f"Answer only from the {department} point of view, independently of the other consult lane.")
         data = self.ask_json(case_id, knowledge, user)
         data['department'] = department
         data['lane'] = lane
-        self.handoff(case_id, 'attending', f'{department}（通道{lane}）专科意见已出具', _result(lane, data),
+        self.handoff(case_id, 'attending', f'{department} (lane {lane}) opinion issued', _result(lane, data),
                      data.get('likely_diseases', []))
         return _result(lane, data)
 

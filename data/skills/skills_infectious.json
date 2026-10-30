@@ -1,0 +1,2418 @@
+{
+ "department": "Infectious Diseases",
+ "skills": [
+  {
+   "presentation": "Persistent cough and sputum production for more than 2 weeks, or accompanied by blood-streaked sputum/hemoptysis, afternoon low-grade fever (37.4-38.0℃), night sweats, fatigue, decreased appetite, weight loss, chest pain, and dyspnea.",
+   "interview_guide": {
+    "first_questions": [
+     "How long have you had the cough and sputum? Has it lasted more than 2 weeks?",
+     "Have you noticed blood streaks in your sputum, or have you coughed up fresh blood?",
+     "Do you have a fever (low-grade) every afternoon or evening? Do you wake up at night with your clothes and bedding soaked with sweat (night sweats)?"
+    ],
+    "followup_questions": [
+     "Have you had significant weight loss recently?",
+     "Have you had contact at home or work with someone with pulmonary tuberculosis or a similar long-term cough?",
+     "Have you ever had diabetes, HIV infection, or long-term use of glucocorticoids or immunosuppressants?"
+    ],
+    "stop_conditions": [
+     "Cough duration, hemoptysis volume, and afternoon low-grade fever, night sweats, and constitutional wasting symptoms have been clarified",
+     "History of tuberculosis contact and risk factors for immunocompromise have been obtained",
+     "Prior anti-tuberculosis history and adherence to standardized treatment have been clearly assessed"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "High-resolution chest CT/DR chest radiograph (to assess exudative, proliferative, caseous necrotic, cavitary, and disseminated lesions in the apical posterior segment of the upper lobe or the superior segment of the lower lobe)",
+     "Sputum acid-fast bacillus smear microscopy (submit 3 consecutive specimens)",
+     "Molecular testing of sputum for Mycobacterium tuberculosis (GeneXpert MTB/RIF, rapid detection of M. tuberculosis and rifampicin resistance)",
+     "Tuberculosis-specific cell-mediated immune response test (T-SPOT.TB or interferon-gamma release assay, IGRA)",
+     "Liver and kidney function tests and complete blood count (baseline assessment before anti-tuberculosis medication)"
+    ],
+    "if_suspected": [
+     "Liquid culture of sputum for M. tuberculosis using MGIT, plus species identification and drug susceptibility testing (DST)",
+     "Electronic bronchoscopy (GeneXpert testing of bronchoalveolar lavage fluid [BALF] for patients unable to produce sputum or with diagnostic difficulty)"
+    ],
+    "avoid": [
+     "Whole-body bone isotope ECT scanning when multiple bone metastases are not clearly suspected",
+     "Empirical use of quinolone antibiotics before the diagnosis is clear (it can mask tuberculosis toxicity and induce resistance)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For newly diagnosed active pulmonary tuberculosis, follow the ten-character principle: 'early, combined, appropriate dosage, regular, and full-course'",
+     "Standard short-course chemotherapy regimen 2HRZE/4HR (intensive phase for the first 2 months with isoniazid [H] + rifampicin [R] + pyrazinamide [Z] + ethambutol [E], followed by continuation phase for 4 months with isoniazid [H] + rifampicin [R]; total course 6 months)",
+     "Directly observed treatment, short-course (DOTS) throughout."
+    ],
+    "safety_warnings": [
+     "Anti-tuberculosis drugs have significant hepatotoxicity (H, R, and Z can all cause liver injury); liver function must be monitored every 2-4 weeks during treatment; if ALT >3 times the upper limit of normal with jaundice, timely adjustment or discontinuation is required",
+     "Isoniazid can cause peripheral neuritis (oral vitamin B6 is needed for prevention); rifampicin can cause orange-red urine and strong enzyme-inducing drug interactions",
+     "Ethambutol can cause retrobulbar optic neuritis; closely monitor visual acuity and visual fields during treatment"
+    ],
+    "personalization": [
+     "Multidrug-resistant pulmonary tuberculosis (MDR-TB): develop a long-term second-line regimen based on drug susceptibility results, including at least bedaquiline, linezolid, and other agents",
+     "Patients with comorbid diabetes: strictly control blood glucose with insulin; the course may be appropriately extended to 9-12 months",
+     "Massive hemoptysis emergency: absolute bed rest in the lateral decubitus position on the affected side, maintain airway patency, use pituitrin to stop bleeding, and prevent suffocation"
+    ]
+   },
+   "disease": "pulmonary tuberculosis",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Chronic infected individuals often have no obvious clinical symptoms; during the active phase, they may present with fatigue, easy fatigability, decreased appetite, aversion to greasy food, nausea, dull pain or discomfort in the right upper quadrant hepatic region, and abdominal distension; during acute or severe exacerbations, jaundice (yellowing of the skin and sclera, dark yellow urine), palmar erythema, spider angiomas, and hepatosplenomegaly may occur.",
+   "interview_guide": {
+    "first_questions": [
+     "How many years have you been diagnosed with hepatitis B (positive for HBsAg, HBeAg, and anti-HBc, or positive for HBsAg, anti-HBe, and anti-HBc)? Do you usually have regular follow-up at the hospital?",
+     "Recently, have you had marked generalized fatigue, no appetite, aversion to greasy food, nausea, or dull right upper abdominal pain?",
+     "Have your eyes (whites of the eyes) and skin turned yellow? Is your urine as dark as strong tea?"
+    ],
+    "followup_questions": [
+     "Are you currently taking antiviral medication regularly by mouth (such as entecavir or tenofovir)? Have you missed doses or stopped the medication on your own?",
+     "Do any family members (mother, siblings) have a history of hepatitis B, cirrhosis, or liver cancer?",
+     "Do you have a history of heavy alcohol use or concomitant use of liver-damaging drugs?"
+    ],
+    "stop_conditions": [
+     "The stage of hepatitis B virus infection has been clarified (chronic carrier/active hepatitis/compensated or decompensated cirrhosis)",
+     "Prodromal signs of acute liver failure have been ruled out (extreme fatigue, worsening gastrointestinal symptoms, coagulopathy with PTA<40%)",
+     "History of antiviral drug use and drug resistance status have been clearly determined"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Hepatitis B virus serologic markers (quantitative five-item hepatitis B panel: HBsAg, HBsAb, HBeAg, HBeAb, HBcAb)",
+     "High-sensitivity quantitative HBV-DNA (lower limit of detection 10-20 IU/ml)",
+     "Comprehensive liver function panel (ALT, AST, total bilirubin, albumin, A/G ratio)",
+     "Abdominal color ultrasound (assess hepatic parenchymal echogenicity, surface smoothness, portal vein diameter, spleen thickness, and ascites)",
+     "Serum alpha-fetoprotein (AFP) (screening for high risk of liver cancer)"
+    ],
+    "if_suspected": [
+     "Transient hepatic elastography (FibroScan, to assess liver fibrosis stage F0-F4)",
+     "Contrast-enhanced MRI/CT of the upper abdomen (to determine benign or malignant nature when AFP is elevated or ultrasound reveals a liver nodule)",
+     "Liver biopsy for histopathologic examination (to assess inflammatory activity grade G and fibrosis stage S)"
+    ],
+    "avoid": [
+     "Blind frequent ordering of whole-body positron emission tomography-computed tomography (PET-CT) in routine follow-up patients",
+     "Blind ERCP examination without indications of biliary obstruction"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Potent, low-resistance nucleos(t)ide analogue antiviral therapy: first-line long-term standardized oral therapy with entecavir (ETV), tenofovir disoproxil fumarate (TDF), or tenofovir alafenamide fumarate (TAF)",
+     "Initiate immediately once indications are met (HBV DNA positive with persistently abnormal ALT, or with liver fibrosis/cirrhosis, or age >30 years with a family history)",
+     "Adjunctive hepatoprotective and anti-inflammatory therapy (bicyclol, glycyrrhizin preparations)."
+    ],
+    "safety_warnings": [
+     "Oral antiviral drugs must absolutely not be stopped arbitrarily on one's own! Unauthorized discontinuation can easily trigger viral rebound and fatal fulminant severe hepatitis",
+     "Regular monitoring of renal function and serum phosphorus is required with tenofovir disoproxil fumarate (TDF) to prevent renal tubular injury and osteoporosis",
+     "Even if the virus becomes undetectable, chronic HBV-infected individuals remain at high risk for hepatocellular carcinoma and must undergo lifelong follow-up with ultrasound and AFP every 6 months"
+    ],
+    "personalization": [
+     "Women of childbearing age preparing for pregnancy and mother-to-child transmission prevention during pregnancy: choose tenofovir (TDF), which has good fetal safety",
+     "Patients with kidney disease or osteoporosis: preferentially use tenofovir alafenamide (TAF) or entecavir (ETV)",
+     "Patients with decompensated hepatitis B cirrhosis: antiviral therapy should be initiated immediately regardless of HBV DNA level"
+    ]
+   },
+   "disease": "Hepatitis B (HBV infection)",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Prodromal symptoms such as fever, headache, fatigue, and poor appetite, followed rapidly by a rash characterized by a 'centripetal distribution' (most abundant on the trunk and head, sparse on the distal extremities). The rash evolves in sequence from macules to papules to vesicles (typical 'teardrop' thin-walled clear blisters surrounded by erythema) to crusts, and lesions at different stages can be seen simultaneously in the same area ('four generations under one roof'), accompanied by marked pruritus.",
+   "interview_guide": {
+    "first_questions": [
+     "How many days have you had fever and rash on your body? Where on the body did the rash first appear?",
+     "Is the rash mainly concentrated on the scalp, chest, and back, with relatively few lesions on the hands and feet?",
+     "Are there small, sparkling blisters in the rash that look like dewdrops? Is it itchy?"
+    ],
+    "followup_questions": [
+     "In the 2-3 weeks before the rash appeared, was there anyone with chickenpox or herpes zoster at kindergarten, school, or around you?",
+     "Do you have erythematous macules, small papules, blisters, and crusts present at the same time on your body?",
+     "Do you have severe headache, drowsiness, vomiting, convulsions, or severe cough and shortness of breath? (to rule out varicella encephalitis and varicella pneumonia)"
+    ],
+    "stop_conditions": [
+     "The typical presentation of centripetal distribution, teardrop-like vesicles, and coexisting lesions at multiple stages has been confirmed",
+     "A clear epidemiological contact history has been obtained",
+     "Signs of varicella pneumonia, encephalitis, and secondary severe soft tissue bacterial infection have been strictly ruled out"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Infectious disease physical examination (whole-body rash morphology and distribution, and oral/scalp mucosal examination)",
+     "Complete blood count (total white blood cell count normal or low, with a relatively increased lymphocyte proportion)"
+    ],
+    "if_suspected": [
+     "Varicella-zoster virus (VZV)-specific IgM antibody or PCR nucleic acid testing of vesicle fluid",
+     "Chest X-ray (for suspected varicella pneumonia with cough and dyspnea)",
+     "Head CT and lumbar puncture for cerebrospinal fluid (for suspected varicella encephalitis with neuropsychiatric symptoms)"
+    ],
+    "avoid": [
+     "Blind use of high-dose systemic broad-spectrum antibiotics for uncomplicated mild chickenpox",
+     "Incorrect use of systemic glucocorticoids because of misdiagnosis as an allergic rash (it can lead to disseminated varicella virus throughout the body and death)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Respiratory isolation (isolate until all rash lesions have completely crusted and fallen off)",
+     "Antiviral therapy: oral acyclovir (use within 24-48 hours of rash onset can significantly reduce severity), valacyclovir",
+     "Symptomatic antipruritic treatment: topical calamine lotion, oral antihistamines",
+     "For ruptured vesicles with secondary bacterial infection, topical mupirocin ointment",
+     "Strengthen skin care and trim fingernails to prevent scratching and infection."
+    ],
+    "safety_warnings": [
+     "Systemic glucocorticoids are absolutely contraindicated during the acute phase of chickenpox (they can cause systemic viral dissemination, leading to severe hemorrhagic varicella or fatal multiple organ failure)",
+     "Aspirin is strictly prohibited for fever in children with chickenpox (it can easily induce fatal Reye syndrome); acetaminophen or ibuprofen is preferred for fever reduction",
+     "Chickenpox in adults of childbearing age and pregnant women is usually more severe than in children; early antiviral therapy and close monitoring for complications are needed"
+    ],
+    "personalization": [
+     "Immunocompromised or severe patients: give intravenous acyclovir as early as possible, with human varicella immunoglobulin if necessary",
+     "Pregnant women with chickenpox near delivery (from 5 days before delivery to within 2 days after delivery): neonates are highly susceptible to severe chickenpox; specific immunoglobulin should be injected immediately after birth and prophylactic antiviral therapy given",
+     "Close contacts: vaccination with live attenuated varicella vaccine within 72 hours after exposure can provide emergency post-exposure blocking protection"
+    ]
+   },
+   "disease": "Chickenpox",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often present with prolonged fever of unknown origin, night sweats, and significant weight loss (more than 10% loss within 6 months). They are prone to recurrent oral candidiasis (thrush), herpes zoster, or herpes simplex. Persistent diarrhea, chronic cough with dyspnea, or purplish-red plaques resembling Kaposi sarcoma may appear on the skin. Some patients have generalized lymphadenopathy and symptoms of opportunistic infection.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you ever had high-risk sexual behavior, intravenous drug use, or blood transfusion?",
+     "Have you recently had persistent fever, night sweats, or unexplained weight loss?",
+     "Have you had recurrent, difficult-to-heal oral ulcers, pneumonia, or skin rash?"
+    ],
+    "followup_questions": [
+     "If respiratory symptoms are present, ask further about tuberculosis contact history or hemoptysis.",
+     "If gastrointestinal symptoms are present, ask further about diarrhea frequency, character, and whether it is accompanied by abdominal pain.",
+     "If skin lesions are found, ask further about the color and morphological changes of the lesions and whether there is pain or itching."
+    ],
+    "stop_conditions": [
+     "A clear history of high-risk exposure and typical symptoms of opportunistic infection have been established.",
+     "HIV antibody screening is positive and the epidemiological history has been collected.",
+     "Other common diseases have been excluded and the clinical presentation is highly suspected to be AIDS stage."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "HIV-1/2 antibody testing (enzyme-linked immunosorbent assay)",
+     "HIV nucleic acid testing (viral load measurement)",
+     "CD4+ T lymphocyte count",
+     "Complete blood count and liver and kidney function tests"
+    ],
+    "if_suspected": [
+     "Chest CT (to rule out Pneumocystis pneumonia or tuberculosis)",
+     "Cerebrospinal fluid examination (to rule out cryptococcal meningitis or central nervous system lesions)",
+     "Stool culture and parasite examination (to identify the cause of chronic diarrhea)",
+     "Skin biopsy (to confirm Kaposi sarcoma)"
+    ],
+    "avoid": [
+     "Long-term use of broad-spectrum antibiotics without indications",
+     "Unnecessary invasive procedures (such as bone marrow puncture)",
+     "Use of high-dose antifungal drugs without assessing liver and kidney function"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Immediately initiate antiretroviral therapy (ART); a three-drug regimen containing tenofovir (TDF/TAF) + lamivudine (3TC) + dolutegravir (DTG) is recommended. Treatment is lifelong and must not be stopped arbitrarily. At the same time, give prophylactic medication for opportunistic infections (such as trimethoprim-sulfamethoxazole for prevention of Pneumocystis pneumonia). Strengthen nutritional support, correct anemia and electrolyte disturbances, and provide psychological intervention and behavioral guidance."
+    ],
+    "safety_warnings": [
+     "Stopping medication or missing doses without authorization is strictly prohibited to prevent the emergence of viral resistance.",
+     "Pay attention to drug-drug interactions, especially the concomitant use of rifampicin and protease inhibitors.",
+     "Be alert for immune reconstitution inflammatory syndrome (IRIS), and monitor for transient worsening of the disease after treatment."
+    ],
+    "personalization": [
+     "Pregnant women should start ART in early pregnancy to prevent mother-to-child transmission, preferably with integrase inhibitors that have a high safety profile.",
+     "Patients with renal impairment should avoid tenofovir disoproxil fumarate; it can be changed to TAF or the dose adjusted.",
+     "Patients with comorbid tuberculosis should pay attention to metabolic conflicts between anti-tuberculosis drugs and ART drugs, and dosing times should be adjusted."
+    ]
+   },
+   "disease": "acquired immunodeficiency syndrome (AIDS)",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often present with fatigue, anorexia, nausea, and right upper quadrant discomfort or pain, with some having low-grade fever. Typical signs include jaundice (yellowing of the skin and sclera), hepatomegaly, and tenderness. About 30%-50% of patients develop dark urine resembling strong tea and pale stools. Symptoms usually appear 2-12 weeks after exposure; onset is relatively acute, and the condition is easily misdiagnosed as a cold or gastroenteritis.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had a blood transfusion, surgery, tattooing, puncture, or non-medical injection?",
+     "Have you been in contact with anyone known to be infected with hepatitis C virus, or shared personal items such as razors or toothbrushes?",
+     "In the two weeks before symptom onset, did you consume unclean food or alcohol?"
+    ],
+    "followup_questions": [
+     "If jaundice has occurred, please describe changes in urine color and stool characteristics.",
+     "Do you have a history of hepatitis B, HIV/AIDS, or any other chronic liver disease?",
+     "Have you recently taken any medications or supplements that may damage the liver?"
+    ],
+    "stop_conditions": [
+     "A recent high-risk exposure history is clearly established and typical hepatitis symptoms are present.",
+     "Laboratory tests show significantly elevated transaminases and positive anti-HCV.",
+     "Other common viral hepatitis (hepatitis A, B, and E) and drug-induced liver injury have been excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Hepatitis C virus antibody testing (Anti-HCV)",
+     "Quantitative hepatitis C virus nucleic acid testing (HCV-RNA)",
+     "Comprehensive liver function panel (ALT, AST, TBil, DBil, ALP, GGT)"
+    ],
+    "if_suspected": [
+     "Abdominal ultrasound (to assess liver morphology and biliary tract status)",
+     "Screening for hepatitis A, B, and E virus markers",
+     "Autoimmune liver disease antibody panel (to exclude autoimmune hepatitis)"
+    ],
+    "avoid": [
+     "Liver biopsy without indication (pathological confirmation is usually unnecessary in the acute phase)",
+     "Routine alpha-fetoprotein (AFP) tumor marker screening (not first-line in the acute phase)",
+     "Repeated unnecessary contrast-enhanced imaging scans"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Currently, early initiation of direct-acting antiviral (DAA) therapy is recommended for acute hepatitis C, with a usual treatment course of 8-12 weeks. Preferred regimens include sofosbuvir/velpatasvir (SOF/VEL) once daily, or glecaprevir/pibrentasvir (GLE/PIB) 3 times daily with food. During treatment, strict alcohol abstinence is required, hepatotoxic drugs should be avoided, and bed rest is recommended until symptoms resolve. Most patients can achieve a sustained virologic response (SVR) with standard treatment and attain clinical cure."
+    ],
+    "safety_warnings": [
+     "Coadministration of sofosbuvir with amiodarone is strictly prohibited, as it may cause severe bradycardia and even death.",
+     "Protease inhibitor-containing regimens are contraindicated in patients with decompensated cirrhosis.",
+     "Liver function should be monitored during treatment, and vigilance is needed for worsening drug-induced liver injury."
+    ],
+    "personalization": [
+     "In patients with renal impairment, doses of some DAA drugs should be adjusted according to creatinine clearance, or alternative regimens should be selected.",
+     "DAA use should be cautious in pregnant and breastfeeding women; benefits and risks should be weighed and a specialist consulted.",
+     "In patients with HIV coinfection, drug interactions should be assessed and a combined treatment plan developed."
+    ]
+   },
+   "disease": "Acute hepatitis C",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often present with sudden onset of fatigue, anorexia, nausea and vomiting, with dark yellow urine resembling strong tea. Some develop fever and vague right upper quadrant pain. Signs may include jaundice of the skin and sclera, and hepatomegaly with tenderness. It is more common in middle-aged men or pregnant women, and there is a history of consumption of undercooked pork/seafood or travel to endemic areas. Symptoms worsen during the icteric phase, but systemic toxemic symptoms are relatively mild, and the course is usually self-limited.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently eaten undercooked meat (especially pork liver) or drunk unboiled water?",
+     "Have you noticed dark urine, yellowing of the whites of the eyes, or marked fatigue?",
+     "Do you have a history of chronic liver disease or an immunosuppressed state?"
+    ],
+    "followup_questions": [
+     "If you are a woman of childbearing age, when was your last menstrual period, and are you pregnant?",
+     "If your symptoms continue to worsen, have you had confusion or any bleeding tendency?",
+     "In the 1-2 months before symptom onset, did you travel to or live in an endemic area, or have contact with anyone with similar symptoms?"
+    ],
+    "stop_conditions": [
+     "Typical symptoms are clear and the epidemiological history is clear, allowing a preliminary diagnosis.",
+     "Laboratory tests have confirmed positive anti-HEV IgM.",
+     "There are no warning signs of severe disease (such as coagulopathy or hepatic encephalopathy)."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum anti-HEV IgM antibody testing",
+     "Comprehensive liver function panel (ALT, AST, TBil, DBil)",
+     "Coagulation profile (PT, INR)"
+    ],
+    "if_suspected": [
+     "Abdominal ultrasound (to assess liver morphology and biliary tract status)",
+     "Screening for viral hepatitis markers such as hepatitis B, hepatitis C, and HIV",
+     "Complete blood count (to assess changes in white blood cells and platelets)"
+    ],
+    "avoid": [
+     "Liver biopsy (unless the diagnosis is unclear or overlapping infection is suspected)",
+     "Routine non-contrast CT (not first-line; used only to exclude space-occupying lesions)",
+     "Empirical broad-spectrum antibiotic therapy (in the absence of evidence of bacterial infection)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Supportive care and symptomatic treatment are the mainstays. Bed rest and a high-calorie, easily digestible diet should be provided. Hepatoprotective and enzyme-lowering drugs (such as polyene phosphatidylcholine or glycyrrhizin preparations) are used for 2-4 weeks until indicators return to normal. Hepatotoxic drugs should be avoided. Severe cases require close monitoring and, if necessary, artificial liver support."
+    ],
+    "safety_warnings": [
+     "Potential hepatotoxic drugs such as acetaminophen are strictly prohibited",
+     "Be alert for delayed viral clearance when used with immunosuppressants",
+     "Pregnant women with infection require prevention of fulminant hepatitis risk and prompt referral"
+    ],
+    "personalization": [
+     "Older adults and patients with underlying liver disease require a prolonged observation period to prevent liver failure",
+     "Immunocompromised patients (e.g., organ transplant recipients) may require prolonged antiviral observation or consideration of ribavirin (with side effects weighed)",
+     "Ribavirin is contraindicated in pregnant women; intensified monitoring is required and termination of pregnancy should be considered at the appropriate time"
+    ]
+   },
+   "disease": "Acute hepatitis E",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often report redness, swelling, heat, and pain in the regional lymph node area; on palpation, the lymph nodes are enlarged and relatively firm, with tenderness. Some patients may have systemic symptoms such as fever and fatigue. Lesions most often occur in the neck, axilla, or groin, and are common in children and adolescents.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had any skin breakdown or infection?",
+     "Is the pain accompanied by fever or other systemic discomfort?"
+    ],
+    "followup_questions": [
+     "If the pain worsens, does it affect your daily activities?",
+     "Have you recently had contact with anyone with an infectious disease?"
+    ],
+    "stop_conditions": [
+     "Local redness, swelling, heat, pain, and associated symptoms are clearly defined",
+     "The patient has no history of other systemic diseases",
+     "Initial examination suggests typical findings"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete blood count",
+     "Ultrasound examination",
+     "C-reactive protein testing"
+    ],
+    "if_suspected": [
+     "Bacterial culture and antimicrobial susceptibility testing",
+     "Tuberculin skin test",
+     "Imaging studies (e.g., CT)"
+    ],
+    "avoid": [
+     "Unnecessary radiological examinations",
+     "Nonspecific immunological tests"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes antibiotics (such as cephalosporins or penicillins), with the dose adjusted according to body weight, usually for 7-10 days. Local warm compresses are also recommended to relieve symptoms. If an abscess forms, incision and drainage are required."
+    ],
+    "safety_warnings": [
+     "Related drugs are contraindicated in patients allergic to penicillin",
+     "Monitor for abnormal liver and kidney function",
+     "Avoid long-term use of broad-spectrum antibiotics to prevent resistance"
+    ],
+    "personalization": [
+     "Doses for children should be calculated precisely by body weight",
+     "Attention should be paid to drug metabolism capacity in older adults",
+     "Certain antibiotics should be used cautiously in pregnant women, and safe alternatives should be selected"
+    ]
+   },
+   "disease": "Acute lymphadenitis",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often report an insidious onset of vague or dull right lower quadrant pain, accompanied by tenesmus. The typical manifestation is jam-like, foul-smelling, bloody mucopurulent stools, several to more than ten times per day, without marked systemic toxemic symptoms such as high fever and chills. Some patients may have nausea, abdominal bloating, and mild fever. If the liver is involved, pain and tenderness in the liver region may occur.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had a history of unclean food consumption or travel to endemic areas (tropical/subtropical)?",
+     "Are your stools dark red and jam-like with a peculiar foul odor?",
+     "In which abdominal region is the pain mainly located, and is it accompanied by tenesmus?"
+    ],
+    "followup_questions": [
+     "If you have pain in the liver region, does it tend to worsen at night, and is there any radiating pain?",
+     "If the course is prolonged, have you had weight loss or recurrent chronic diarrhea?",
+     "Have you recently taken antibiotics or antidiarrheal drugs, so that drug interference can be excluded?"
+    ],
+    "stop_conditions": [
+     "When typical jam-like stools and a history of endemic area contact have been clearly described, and the signs are consistent.",
+     "When stool microscopy has been completed and Entamoeba histolytica trophozoites or cysts are found.",
+     "When the patient's vital signs are stable and there are no signs of acute perforation or massive hemorrhage."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Routine stool examination (microscopic search for Entamoeba histolytica trophozoites or cysts)",
+     "Colonoscopy (to observe the morphology of intestinal mucosal ulcers and obtain biopsies)",
+     "Serological antibody testing (for invasive cases)"
+    ],
+    "if_suspected": [
+     "Abdominal ultrasound or CT (to evaluate extraintestinal complications such as amebic liver abscess)",
+     "Complete blood count (to assess anemia severity and changes in white blood cells)",
+     "Liver function tests (to assess liver involvement)"
+    ],
+    "avoid": [
+     "Blind use of potent antidiarrheal drugs (may induce toxic megacolon)",
+     "Unnecessary barium enema (increases the risk of intestinal perforation)",
+     "Empirical broad-spectrum antibiotic therapy (avoid masking the condition before diagnosis is confirmed)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is metronidazole (0.4-0.8g, 3 times daily, for 7-10 days) to eradicate tissue trophozoites, followed by an intraluminal amebicide such as diloxanide or paromomycin to clear intestinal cysts and prevent relapse. Severe cases require intravenous administration. At the same time, attention should be paid to fluid replacement to correct electrolyte disturbances, and nutritional support should be provided when necessary."
+    ],
+    "safety_warnings": [
+     "Alcohol consumption is strictly prohibited during metronidazole treatment and for 3 days after discontinuation to prevent disulfiram-like reactions",
+     "Use with caution in pregnant women (especially in early pregnancy) and breastfeeding women; benefits and risks should be weighed",
+     "Common adverse reactions include metallic taste, nausea and vomiting, and neurological symptoms, which require monitoring"
+    ],
+    "personalization": [
+     "In children, doses should be calculated precisely by body weight to avoid neurotoxicity from overdose",
+     "In patients with hepatic impairment, the metronidazole dose should be adjusted and liver enzymes closely monitored",
+     "Immunosuppressed patients require a prolonged treatment course and combination of multiple drugs to prevent relapse"
+    ]
+   },
+   "disease": "amebic dysentery",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often complain of sudden-onset high fever (>38.5℃) and chills, accompanied by local redness, swelling, heat, and pain or dysfunction of specific organs. For example, respiratory manifestations include purulent sputum and chest pain; urinary manifestations include urinary frequency, urgency, and dysuria; gastrointestinal manifestations include diarrhea with mucopurulent bloody stools. Some severe patients may develop systemic toxemic symptoms such as confusion and hypotension; the source and severity of infection need to be rapidly identified in conjunction with the medical history.",
+   "interview_guide": {
+    "first_questions": [
+     "How long has the fever lasted? What was the highest body temperature?",
+     "Where do you feel the most discomfort right now? Is there any abnormal discharge?",
+     "Have you recently had trauma, surgery, or contact with patients with infectious diseases?"
+    ],
+    "followup_questions": [
+     "If you have difficulty breathing, have you had shortness of breath or cyanosis?",
+     "If you have abdominal pain and diarrhea, what is the stool like? Is there tenesmus?",
+     "Do you have any underlying diseases (such as diabetes) or an immunosuppressed state?"
+    ],
+    "stop_conditions": [
+     "The site of infection, typical symptoms, and high-risk factors have been identified, and vital signs are stable.",
+     "The patient has received empiric antibiotic therapy and has shown no worsening after 24 hours of observation.",
+     "Key laboratory test results (such as complete blood count and cultures) have been returned and have guided medication use."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete blood count (white blood cell count and neutrophil percentage)",
+     "C-reactive protein (CRP) and procalcitonin (PCT)",
+     "Pathogen cultures (blood/urine/sputum/secretions culture + antimicrobial susceptibility testing)"
+    ],
+    "if_suspected": [
+     "Imaging studies (chest CT, abdominal ultrasound, or MRI)",
+     "Blood gas analysis (to assess hypoxia and acid-base balance)",
+     "Liver and kidney function and electrolyte testing"
+    ],
+    "avoid": [
+     "Blind use of broad-spectrum antibiotics before specimen collection, leading to negative cultures",
+     "Repeated testing of nonspecific inflammatory markers without indication",
+     "Invasive procedures (such as lumbar puncture) in mild cases"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Select susceptible antibiotics empirically according to the site of infection and local resistance patterns (such as cephalosporins and penicillins), then adjust according to susceptibility results. Oral therapy for mild cases and intravenous infusion for severe cases. The course is usually 7-14 days, depending on the condition. At the same time, provide nonpharmacologic supportive treatment such as fluid replacement and fever reduction, and maintain water and electrolyte balance."
+    ],
+    "safety_warnings": [
+     "Antibiotics should be strictly avoided in patients allergic to β-lactam drugs",
+     "Pay attention to interactions between macrolides and antiarrhythmic drugs to prevent QT interval prolongation",
+     "Be alert to the nephrotoxicity and ototoxicity of aminoglycosides; serum drug concentrations need monitoring"
+    ],
+    "personalization": [
+     "Older adults require dose reduction and close monitoring of renal function to prevent drug accumulation",
+     "Tetracyclines and quinolones are contraindicated in pregnant women; penicillins or cephalosporins are preferred",
+     "Avoid quinolones in children to prevent cartilage damage; calculate doses by body weight"
+    ]
+   },
+   "disease": "Bacterial infection",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often have a clear history of being scratched or bitten by a cat (especially a kitten), with an incubation period of about 1-2 weeks. Typical manifestations are erythema, papules, or pustules on the local skin, followed by regional lymph node enlargement, pain, and tenderness, most commonly in the axilla, neck, or groin. Low-grade fever, fatigue, headache, and other systemic symptoms are often present. Some patients may develop conjunctival hyperemia or ocular granulomas.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently been scratched or bitten by a cat, or had a cat lick broken skin?",
+     "Has the injured area developed redness, swelling, induration, or purulent discharge?",
+     "Have you recently had fever, fatigue, or unexplained lymph node enlargement?"
+    ],
+    "followup_questions": [
+     "If your lymph nodes are noticeably enlarged: Is the lump severely tender? How mobile is it? Has it ulcerated or drained pus?",
+     "If you have eye symptoms: Has your vision decreased? Do you have photophobia or tearing?",
+     "Have you had HIV infection, an organ transplant, or long-term use of steroids/immunosuppressants?"
+    ],
+    "stop_conditions": [
+     "A history of cat scratch has been confirmed and typical local lymphadenitis manifestations are present",
+     "Necessary physical examination has been completed and other serious sources of infection have been excluded",
+     "The patient has no high-risk immunodeficiency background and symptoms are mild and stable"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete blood count and C-reactive protein testing",
+     "Bartonella serologic antibody testing (IgM/IgG)",
+     "Ultrasound of the affected lymph nodes"
+    ],
+    "if_suspected": [
+     "Lymph node needle biopsy (for confirmation and to exclude lymphoma and tuberculosis)",
+     "PCR testing for Bartonella DNA in blood or tissue samples",
+     "Fundoscopy (when endophthalmitis is suspected)"
+    ],
+    "avoid": [
+     "Blind culturing before routine empirical long-term antibiotic therapy",
+     "Unnecessary CT/MRI scans (unless deep abscess or complications are suspected)",
+     "Incision and drainage for simple superficial lymphadenitis"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Most mild cases resolve spontaneously and require no specific treatment. For symptomatic patients, oral azithromycin is preferred (adults 500mg on the first day, then 250mg/day for the next 3 days",
+     "children dosed by weight), course 5-7 days. For severe cases or immunosuppressed patients, rifampicin combined with trimethoprim-sulfamethoxazole may be selected, course 2-4 weeks. Combine with local hot compresses to relieve lymph node swelling and pain; avoid squeezing."
+    ],
+    "safety_warnings": [
+     "Rifampicin is a strong hepatic enzyme inducer; liver function should be monitored and drug interactions should be watched for",
+     "Trimethoprim-sulfamethoxazole may cause rash, bone marrow suppression, and hyperkalemia; use with caution in patients with an allergic predisposition",
+     "Azithromycin may prolong the QT interval; patients with heart disease require ECG assessment"
+    ],
+    "personalization": [
+     "Azithromycin is preferred for pregnant and breastfeeding women; avoid tetracyclines and quinolones",
+     "Doses in children must be strictly adjusted by body weight; avoid aspirin for fever reduction",
+     "Immunodeficient patients require a prolonged course and close follow-up, with combined intravenous therapy when necessary"
+    ]
+   },
+   "disease": "Cat-scratch disease",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often complain of increased urethral or cervical discharge, which is mucopurulent, accompanied by urinary frequency, urgency, dysuria, and other voiding discomfort. Women may have lower abdominal pain, dyspareunia, or irregular vaginal bleeding; men may have redness and swelling of the urethral meatus and a small amount of thin discharge. Some patients have insidious symptoms found only during physical examination, but vigilance is needed for complications such as persistent pain caused by epididymitis or pelvic inflammatory disease.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had unsafe sex or a new partner?",
+     "Do you have urethral stinging, abnormal discharge, or lower abdominal pain?"
+    ],
+    "followup_questions": [
+     "How long have the symptoms lasted, and have they resolved on their own?",
+     "Do you have a history of similar infections or a family history of sexually transmitted diseases?"
+    ],
+    "stop_conditions": [
+     "A history of high-risk sexual behavior has been confirmed and typical symptoms (discharge, dysuria) have been present for more than 3 days",
+     "The patient has provided recent nucleic acid test results and the diagnosis has been confirmed",
+     "Symptoms are mild with no signs of complications, and an initial screening plan has been formulated"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Nucleic acid amplification testing (NAAT) of urine or swab samples",
+     "Genitourinary physical examination (inspect discharge and tenderness)"
+    ],
+    "if_suspected": [
+     "Gonococcal smear and culture (to identify coinfection)",
+     "Pelvic ultrasound (to assess the adnexa when pelvic inflammatory disease is suspected)",
+     "Syphilis and HIV serologic screening (routine comorbidity screening)"
+    ],
+    "avoid": [
+     "Gram stain microscopy alone (low diagnostic value for Chlamydia)",
+     "Failure to perform pathogen testing before empiric use of broad-spectrum antibiotics",
+     "Unnecessary invasive surgical exploration"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line doxycycline 100mg orally twice daily for 7 consecutive days",
+     "If pregnant or allergic to tetracyclines, switch to azithromycin 1g as a single oral dose. Strictly abstain from alcohol during treatment, and avoid sexual intercourse until symptoms resolve and the course is completed. Treat sexual partners at the same time to prevent reinfection. Nonpharmacologic interventions include maintaining local hygiene and regular follow-up."
+    ],
+    "safety_warnings": [
+     "Doxycycline is contraindicated in pregnant women and children under 8 years of age and may cause photosensitivity reactions",
+     "Azithromycin may prolong the QT interval; use with caution in patients with heart disease",
+     "If severe rash or difficulty breathing occurs during treatment, stop the drug immediately and seek medical care"
+    ],
+    "personalization": [
+     "Azithromycin is preferred in pregnant women; avoid doxycycline because of effects on fetal skeletal development",
+     "Patients with hepatic or renal impairment require dose adjustment or a prolonged dosing interval",
+     "For patients with poor adherence, consider a single high-dose regimen or transition to intravenous administration"
+    ]
+   },
+   "disease": "chlamydial infection",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often present with dull right upper abdominal pain, abdominal bloating, indigestion, and fatigue, and some have mild fever or urticaria. Typical symptoms include epigastric discomfort, diarrhea, or nausea after eating raw fish. Severe cases may develop biliary colic, jaundice, or hepatosplenomegaly. If left untreated for a long time, it may progress to cholangitis, gallstones, or even cholangiocarcinoma; unexplained abnormal liver function warrants vigilance.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently eaten sashimi, drunken shrimp, or undercooked freshwater fish?",
+     "Have you had right upper abdominal pain, nausea and vomiting, or itching of the skin?",
+     "Do you have a history of similar symptoms or hepatobiliary disease?"
+    ],
+    "followup_questions": [
+     "Is the abdominal pain related to eating greasy food?",
+     "Have you had fever, chills, or darkening of the urine (jaundice)?",
+     "Is there a similar case in your family or a history of shared food consumption?"
+    ],
+    "stop_conditions": [
+     "A history of eating raw freshwater fish is clear and typical gastrointestinal symptoms are present",
+     "Ova have been detected in stool or serology is positive",
+     "Other hepatobiliary diseases have been excluded and the diagnostic evidence is sufficient"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Routine stool examination (to look for ova)",
+     "Complete blood count (eosinophil count)",
+     "Hepatobiliary ultrasound"
+    ],
+    "if_suspected": [
+     "Specific serologic antibody testing (ELISA)",
+     "CT or MRI (to assess biliary dilation or mass lesions)",
+     "ERCP (when bile duct obstruction is suspected)"
+    ],
+    "avoid": [
+     "Invasive cholangiography without indication",
+     "Nontargeted broad-spectrum antibiotic therapy",
+     "Unnecessary liver needle biopsy"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line praziquantel, adult dose 25mg/kg three times daily for 2 consecutive days",
+     "or 75mg/kg as a single oral dose. For mild cases, cholagogue drugs may be used to relieve symptoms. During treatment, a light diet is recommended, and avoid eating raw food again. Recheck stool for ova 2-4 weeks after completing the course to assess efficacy."
+    ],
+    "safety_warnings": [
+     "Use with caution in patients with epilepsy; it may lower the seizure threshold",
+     "Patients with severe cardiac, hepatic, or renal impairment require dose reduction and monitoring",
+     "Dizziness, abdominal pain, and other reactions may occur after taking the drug and require observation"
+    ],
+    "personalization": [
+     "Calculate doses precisely by body weight in children to avoid overdose",
+     "In pregnant women, use only when the condition is severe after weighing the benefits and risks",
+     "Pay attention to cardiovascular monitoring in older patients"
+    ]
+   },
+   "disease": "Clonorchiasis",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often present with acute influenza-like symptoms, including fever, dry cough, chest pain, fatigue, and arthralgia (especially of the ankles and knees). Some patients develop a characteristic red nodular rash (erythema nodosum) or purpura. If the disease progresses to a chronic or disseminated form, persistent cough, weight loss, night sweats, and even skin ulcers, osteoarticular destruction, or meningeal symptoms may occur.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently traveled to endemic areas such as the southwestern United States, Mexico, or Central America?",
+     "Are your symptoms accompanied by joint pain in specific areas or a skin rash?"
+    ],
+    "followup_questions": [
+     "If you have joint pain, which specific joints are affected? Is it accompanied by redness and swelling?",
+     "Do you have difficulty breathing, persistent high fever, or neurological abnormalities (such as headache or neck stiffness)?"
+    ],
+    "stop_conditions": [
+     "A clear epidemiological history has been established and typical symptoms (influenza-like symptoms plus erythema nodosum) are all present.",
+     "Other common respiratory infections have been excluded and there are no signs of high-risk dissemination.",
+     "The patient's symptoms are mild and there is no background of immunosuppression, suggesting a self-limited condition."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serological testing: complement fixation (CF), immunodiffusion (ID)",
+     "Chest X-ray or CT",
+     "Complete blood count (CBC) and inflammatory markers (ESR/CRP)"
+    ],
+    "if_suspected": [
+     "Fungal culture (sputum, blood, or tissue specimens)",
+     "Cerebrospinal fluid examination (when central nervous system involvement is suspected)",
+     "Skin biopsy or histopathological examination (for skin lesions)"
+    ],
+    "avoid": [
+     "Empirical broad-spectrum antibiotic therapy (unless there is evidence of bacterial coinfection)",
+     "Unnecessary invasive procedures (such as bronchoscopy) without a clear indication",
+     "Diagnosing solely on clinical symptoms while ignoring epidemiological history"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Asymptomatic or mild primary infection usually does not require antifungal therapy, and supportive care is the mainstay. For moderate-to-severe or persistent symptoms, oral fluconazole (400-800 mg/day) or itraconazole (200-400 mg/day) is preferred, for at least 3-6 months. Severe disseminated infection requires intravenous amphotericin B induction therapy, followed by oral azole maintenance."
+    ],
+    "safety_warnings": [
+     "Azoles may cause hepatotoxicity, and liver function should be monitored regularly.",
+     "Avoid concomitant use with warfarin, statins, or certain antiarrhythmic drugs to prevent interactions.",
+     "Amphotericin B may cause nephrotoxicity and electrolyte disturbances, and renal function and potassium and magnesium levels should be closely monitored."
+    ],
+    "personalization": [
+     "In pregnant women, amphotericin B is preferred, and azoles should be avoided.",
+     "Immunocompromised patients (such as those with HIV/AIDS) require prolonged treatment and consideration of combination therapy.",
+     "In elderly patients, drug doses should be adjusted according to renal function."
+    ]
+   },
+   "disease": "Coccidioidomycosis",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Affected infants often present with microcephaly, ocular abnormalities such as cataracts or glaucoma, and cardiac murmurs (such as patent ductus arteriosus) present at birth. Some infants have hearing loss, hepatosplenomegaly, rash ('blueberry muffin' appearance), and intracranial calcifications. The classic features are the 'triad': deafness, eye disease, and heart disease. If the mother has a history of fever or rash during pregnancy, this disease should be highly suspected.",
+   "interview_guide": {
+    "first_questions": [
+     "Did the mother have fever, rash, or cold-like symptoms during early pregnancy?",
+     "After birth, was the newborn found to have visual impairment, hearing abnormalities, or a cardiac murmur?",
+     "Is there a family history of similar congenital defects?"
+    ],
+    "followup_questions": [
+     "If the mother had a rash, at exactly what gestational week did it occur?",
+     "What were the newborn hearing screening results? Has sensorineural hearing loss been confirmed?",
+     "Did echocardiography show specific structural abnormalities (such as pulmonary artery stenosis)?"
+    ],
+    "stop_conditions": [
+     "A history of maternal infection during pregnancy has been established, and the newborn has the typical triad manifestations.",
+     "Laboratory testing has confirmed evidence of intrauterine rubella virus infection in the fetus.",
+     "Key imaging examinations have been completed and other teratogenic factors have been excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serological testing: specific IgM antibody and IgG antibody titers",
+     "Urine and saliva PCR testing: rubella virus nucleic acid",
+     "Ophthalmology and otolaryngology specialist evaluation: slit-lamp examination and auditory evoked potential testing"
+    ],
+    "if_suspected": [
+     "Brain MRI or CT: to screen for intracranial calcifications and brain developmental abnormalities",
+     "Echocardiography: to assess the type and severity of congenital heart disease",
+     "Liver function tests and complete blood count: to assess hepatosplenomegaly and thrombocytopenia"
+    ],
+    "avoid": [
+     "Routine bacterial culture (since this is not caused by bacterial infection)",
+     "Whole-body PET-CT without indication",
+     "Repeated unnecessary invasive puncture procedures"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "There is currently no specific antiviral drug, and treatment is mainly symptomatic and supportive. The focus is multidisciplinary collaborative management: surgical correction for cataracts; early hearing aid fitting or cochlear implantation for hearing impairment; and elective surgery for cardiac malformations according to severity. At the same time, nutritional support should be strengthened, secondary infections prevented, and long-term rehabilitation training and psychological intervention provided."
+    ],
+    "safety_warnings": [
+     "The use of unproven immunomodulators or pulse steroid therapy is strictly prohibited.",
+     "Avoid ototoxic drugs to prevent worsening of hearing damage.",
+     "Consider the burden of drug metabolism, and adjust doses in patients with hepatic or renal impairment."
+    ],
+    "personalization": [
+     "In premature infants, nutritional regimens and anti-infective strategies need to be adjusted.",
+     "For those with severe heart disease, a perioperative management plan should be developed jointly with cardiology.",
+     "Children with hearing impairment should start speech rehabilitation training as early as possible to meet their special needs."
+    ]
+   },
+   "disease": "Congenital rubella syndrome",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often report seizures of unknown cause, manifesting as sudden loss of consciousness and limb convulsions. Some patients may have palpable painless subcutaneous nodules or symptoms of increased intracranial pressure such as headache and vomiting. If the eyes are involved, they may report blurred vision or floaters; if muscles are involved, there may be aching and weakness. The severity of symptoms depends on the location and number of cysticerci and the host immune response.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you ever eaten raw pork or had contact with pig feces?",
+     "Have you had recurrent convulsions or loss of consciousness?",
+     "Have you ever felt small hard nodules on your skin?"
+    ],
+    "followup_questions": [
+     "Is the headache accompanied by projectile vomiting?",
+     "Is the visual decline related to eye movement?",
+     "Have you recently had significant weight loss or fever?"
+    ],
+    "stop_conditions": [
+     "A clear history of raw food consumption has been established, and typical epilepsy or subcutaneous nodules are present.",
+     "Imaging has indicated cystic lesions in the brain.",
+     "Serological antibody testing is strongly positive."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Non-contrast head CT",
+     "Contrast-enhanced head MRI",
+     "Serum cysticercus antibody ELISA"
+    ],
+    "if_suspected": [
+     "Fundoscopy",
+     "Whole-body muscle ultrasound",
+     "Lumbar puncture with pressure measurement and cerebrospinal fluid analysis"
+    ],
+    "avoid": [
+     "Routine chest X-ray (unless concurrent tuberculosis is suspected)",
+     "Whole-body PET-CT without indication",
+     "Unnecessary invasive biopsy"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Oral albendazole is preferred, at a dose of 15 mg/kg/day in 2 divided doses for 7-14 days, repeated if necessary. Dexamethasone is used concomitantly to prevent inflammatory reactions. For patients with intracranial hypertension, reduce intracranial pressure first before antihelminthic treatment. Severe cases require hospitalization and monitoring, with antiepileptic drugs to control seizures."
+    ],
+    "safety_warnings": [
+     "It is strictly contraindicated in women in early pregnancy and during breastfeeding.",
+     "Concomitant use with cimetidine may increase plasma drug concentrations and cause toxicity.",
+     "During the initial treatment period, it may easily induce cerebral edema or worsening of epilepsy, requiring close monitoring."
+    ],
+    "personalization": [
+     "In children, calculate the dose precisely by body weight and monitor liver function.",
+     "In patients with hepatic or renal impairment, reduce the dose and prolong the dosing interval.",
+     "For patients with frequent seizures, antiepileptic treatment should be intensified simultaneously."
+    ]
+   },
+   "disease": "Cysticercosis",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Immunocompetent individuals are often asymptomatic or present with an infectious mononucleosis-like syndrome, such as fever, sore throat, fatigue, and lymphadenopathy. Immunosuppressed patients (such as transplant recipients or those with HIV/AIDS) may develop pneumonia (dry cough, dyspnea), retinitis (blurred vision, visual field defects), colitis (abdominal pain, diarrhea), or encephalitis (disturbed consciousness, convulsions). Neonatal infection may manifest as jaundice, hepatosplenomegaly, microcephaly, and hearing loss.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had fever, fatigue, or cold-like symptoms?",
+     "Are you currently receiving immunosuppressive treatment (such as post-organ transplant medications or chemotherapy), or do you have a history of HIV infection?",
+     "Have you experienced blurred vision, dark shadows obscuring your vision, or hearing loss?"
+    ],
+    "followup_questions": [
+     "If you have respiratory symptoms, please describe whether there is a persistent dry cough or shortness of breath.",
+     "If you have eye discomfort, is it accompanied by eye pain or flashes of light?",
+     "Have you recently had unexplained abnormal liver function or rash?"
+    ],
+    "stop_conditions": [
+     "The patient's immune status and typical target-organ involvement symptoms (such as pneumonia or retinitis) have been clarified.",
+     "It has been confirmed that there are no high-risk factors and symptoms are mild, suggesting a self-limited infection.",
+     "Key history (medication history, underlying diseases) and physical signs have been fully collected, sufficient to guide initial testing."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum CMV IgM/IgG antibody testing",
+     "Quantitative CMV DNA PCR (blood or body fluids)",
+     "Complete blood count and liver function tests"
+    ],
+    "if_suspected": [
+     "Fundus fluorescein angiography or OCT (when retinitis is suspected)",
+     "High-resolution chest CT (when interstitial pneumonia is suspected)",
+     "Cerebrospinal fluid CMV PCR and MRI (when central nervous system infection is suspected)"
+    ],
+    "avoid": [
+     "Diagnosing acute infection based solely on positive IgG (IgM or PCR should be incorporated)",
+     "Invasive tissue biopsy in asymptomatic immunocompetent individuals",
+     "Blind use of antiviral drugs before excluding other pathogens"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For symptomatic immunosuppressed patients, intravenous ganciclovir (5 mg/kg every 12 hours for 14-21 days) is preferred, and after the condition stabilizes, treatment may be switched to oral valganciclovir. For mild cases or prophylactic treatment, oral valganciclovir may be used. Non-pharmacological interventions include supportive care and, when necessary, adjustment of immunosuppressant doses. During treatment, blood counts should be closely monitored to prevent bone marrow suppression."
+    ],
+    "safety_warnings": [
+     "It is contraindicated in pregnant women (risk of teratogenicity), and strict contraception is required during the reproductive years.",
+     "Concomitant use with bone marrow-suppressive drugs (such as zidovudine or azathioprine) is strictly prohibited to prevent severe agranulocytosis.",
+     "Renal impairment should be closely monitored; before administration, creatinine clearance must be assessed and the dose adjusted."
+    ],
+    "personalization": [
+     "In patients with renal impairment, the dose must be significantly reduced according to creatinine clearance.",
+     "In elderly patients, the starting dose should be conservative, and neutrophil counts should be closely monitored.",
+     "Hematopoietic stem cell transplant recipients require prolonged treatment until the viral load remains persistently negative."
+    ]
+   },
+   "disease": "Cytomegalovirus infection",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often present with sudden high fever, accompanied by severe headache (especially retro-orbital pain), generalized myalgia and arthralgia ('break-bone pain'), and some develop rash, nausea, and vomiting. The typical presentation is biphasic fever or persistent high fever for 3-5 days followed by rash during the defervescence phase. Be alert for bleeding tendency such as gum bleeding, epistaxis, or skin ecchymoses, and for warning signs of shock such as abdominal pain and restlessness.",
+   "interview_guide": {
+    "first_questions": [
+     "In the 14 days before illness onset, have you had any mosquito bites or traveled to an epidemic area?",
+     "Have you had sudden high fever, retro-orbital pain, or severe generalized muscle and joint pain?"
+    ],
+    "followup_questions": [
+     "If you have a rash or bleeding spots, where are they located, and have you had gum or nasal bleeding?",
+     "If your temperature has fallen but your symptoms are worsening, have you had severe abdominal pain, persistent vomiting, or changes in consciousness?"
+    ],
+    "stop_conditions": [
+     "Epidemiologic history is clear and the classic triad of fever, pain, and rash is present",
+     "Marked thrombocytopenia with bleeding manifestations",
+     "Early signs of shock (e.g., cold clammy extremities, rapid pulse) are present"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete blood count (with particular attention to leukopenia and thrombocytopenia)",
+     "Dengue NS1 antigen testing or IgM/IgG antibody testing",
+     "Coagulation profile"
+    ],
+    "if_suspected": [
+     "Liver function tests (to assess elevated transaminases)",
+     "Hematocrit measurement (to monitor hemoconcentration)",
+     "Chest X-ray (to evaluate for pleural effusion)"
+    ],
+    "avoid": [
+     "Routine use of aspirin or nonsteroidal anti-inflammatory drugs as diagnostic agents before antipyretic measures",
+     "Invasive procedures without an indication, such as bone marrow aspiration"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "There is currently no specific antiviral drug; management is primarily symptomatic and supportive. The first priority is adequate fluid replacement to maintain water and electrolyte balance, choosing oral or intravenous fluids according to the degree of dehydration. For fever, acetaminophen is the first choice; aspirin or ibuprofen are strictly prohibited to prevent bleeding risk. Closely monitor vital signs and platelet changes; severe cases should be promptly transferred to the ICU for interventions such as fluid resuscitation and plasma exchange."
+    ],
+    "safety_warnings": [
+     "Absolute contraindication to aspirin, ibuprofen, and other nonsteroidal anti-inflammatory drugs to avoid provoking severe bleeding",
+     "Avoid overhydration leading to pulmonary edema; hematocrit should be monitored dynamically",
+     "Be alert for sepsis caused by secondary bacterial infection"
+    ],
+    "personalization": [
+     "In pediatric patients, fluid volume must be calculated strictly to prevent volume overload",
+     "In pregnant women and older adults, lower the threshold for fluid infusion rate and strengthen monitoring of cardiac and renal function",
+     "Use acetaminophen with caution in patients with underlying liver disease and adjust the dose"
+    ]
+   },
+   "disease": "Dengue fever",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often present with sudden high fever, accompanied by severe headache, generalized myalgia, and rash. The typical presentation is a pink maculopapular rash appearing on days 5-7 after illness onset, usually starting on the trunk and spreading to the extremities, but the palms and soles are usually spared. Some patients may have nausea, vomiting, cough, or mild hepatosplenomegaly. Symptoms resemble influenza but are more severe, and the characteristic rash is key to recognition.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had contact with rats or their excreta?",
+     "When did the fever and rash start?",
+     "Are they accompanied by severe headache or muscle pain?"
+    ],
+    "followup_questions": [
+     "If you have had contact with rodents, what was the type of contact and when did it occur?",
+     "If you have a rash, did it start on the trunk and spread to the extremities?",
+     "If you have neurologic symptoms, have you had changes in consciousness or seizures?"
+    ],
+    "stop_conditions": [
+     "Fever, rash, and a history of rodent contact have been clearly established",
+     "Initial physical examination has been completed and typical signs have been found",
+     "Laboratory test results support the diagnosis"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Weil-Felix test",
+     "Serologic testing (e.g., IgM antibody testing)",
+     "Complete blood count"
+    ],
+    "if_suspected": [
+     "Liver function tests",
+     "Cerebrospinal fluid examination (if neurologic symptoms are present)",
+     "Chest X-ray (to rule out pulmonary complications)"
+    ],
+    "avoid": [
+     "Unnecessary empiric trial of antibiotics",
+     "Invasive procedures without an indication, such as bone marrow aspiration"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is doxycycline 100 mg orally twice daily for 7-10 days. Severe cases may receive intravenous administration. Nonpharmacologic interventions include adequate fluid replacement, fever control, and rest. Early treatment can significantly reduce mortality."
+    ],
+    "safety_warnings": [
+     "Doxycycline is contraindicated in pregnant women; an alternative regimen should be used",
+     "Avoid concomitant use with calcium-, magnesium-, or aluminum-containing antacids to prevent impaired absorption",
+     "Monitor for allergic reactions and gastrointestinal discomfort"
+    ],
+    "personalization": [
+     "In children, adjust the dose by body weight, usually 2.2 mg/kg per dose",
+     "In older adults, adjust the dose according to renal function",
+     "Immunosuppressed patients may require a prolonged course"
+    ]
+   },
+   "disease": "Endemic typhus",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients have persistent or recurrent fever for more than 3 weeks, with temperature fluctuating above 38.3℃, and the cause remains unclear after initial outpatient evaluation (e.g., complete blood count, chest X-ray) and 3 days of inpatient observation. It is often accompanied by nonspecific symptoms such as fatigue, night sweats, and weight loss, but there is no clear localized source of infection or typical rash.",
+   "interview_guide": {
+    "first_questions": [
+     "How long has the fever lasted? What is the highest temperature? Is there any pattern?",
+     "Have you recently traveled to or lived in an epidemic area, had contact with animals, or eaten contaminated food?",
+     "Do you have accompanying symptoms such as joint pain, rash, cough, or abdominal pain?"
+    ],
+    "followup_questions": [
+     "If you have joint pain, please specify the location and whether you have morning stiffness.",
+     "If you have a rash, please describe its appearance and distribution.",
+     "If you have recent travel history, please specify the exact locations and duration of stay.",
+     "If you have used antibiotics, please provide the specific drug name and the effect on fever."
+    ],
+    "stop_conditions": [
+     "The fever curve, medication history, and history of underlying diseases have been recorded in detail.",
+     "The epidemiologic history has been completed and there is no high-risk exposure.",
+     "The patient's vital signs are stable, with no indication for emergency resuscitation."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Blood cultures (aerobic and anaerobic)",
+     "Inflammatory markers (CRP, ESR, PCT)",
+     "Contrast-enhanced CT of the abdomen and chest"
+    ],
+    "if_suspected": [
+     "Autoantibody panel and quantitative immunoglobulins",
+     "Bone marrow aspiration smear and biopsy",
+     "Whole-body PET-CT scan"
+    ],
+    "avoid": [
+     "Blind repeated plain chest X-rays",
+     "Empiric combination use of broad-spectrum antibiotics without an indication",
+     "Unnecessary invasive organ biopsy"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Before the cause is identified, routine use of antibiotics or corticosteroids is generally not recommended. For high fever (>39℃), physical cooling or acetaminophen may be used for fever control. If an occult infection is highly suspected, targeted anti-infective therapy should be given after etiologic evidence supports it.",
+     "If an autoimmune disease is considered, low-dose glucocorticoid therapy may be used after diagnosis is confirmed. At the same time, strengthen nutritional support and fluid management."
+    ],
+    "safety_warnings": [
+     "Avoid long-term use of glucocorticoids without an indication, which may mask the condition",
+     "Be aware of gastrointestinal injury and hepatic and renal impairment caused by antipyretics and analgesics",
+     "Be alert for dysbiosis and emergence of resistant bacteria caused by antibiotic misuse"
+    ],
+    "personalization": [
+     "Use nonsteroidal anti-inflammatory drugs with caution in older adults to prevent kidney injury",
+     "In pregnant women, acetaminophen is the first choice; tetracyclines and quinolones are contraindicated",
+     "In children, calculate antipyretic doses strictly to prevent seizures"
+    ]
+   },
+   "disease": "Fever of unknown origin",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often report persistent watery diarrhea, with foul-smelling, greasy stools, accompanied by marked abdominal bloating, abdominal cramps, and frequent belching. Symptoms usually appear 1-2 weeks after drinking contaminated water or contact with contaminated water bodies, and may be accompanied by fatigue, nausea, and weight loss. Some patients present with alternating intermittent diarrhea and constipation, and children may have growth retardation.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently drunk untreated water, camped outdoors, or traveled?",
+     "Is the diarrhea accompanied by foul-smelling greasy stools and severe abdominal bloating?",
+     "How long have the symptoms lasted, and have you had significant weight loss?"
+    ],
+    "followup_questions": [
+     "If you mention raw food or unboiled water, please specify when and how often you consumed it.",
+     "If you describe fatty diarrhea, please say whether the stool floats on water or is difficult to flush away.",
+     "If symptoms are prolonged, please tell us whether you have an underlying immunodeficiency or a history of biliary disease."
+    ],
+    "stop_conditions": [
+     "A recent history of drinking contaminated water or exposure to contaminated water is clear and typical steatorrhea symptoms have lasted more than 1 week",
+     "Key epidemiologic history has been collected and other triggers of acute gastroenteritis have been excluded",
+     "The patient has provided sufficient information pointing to parasitic infection, and no further questioning about unrelated history is needed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Stool routine examination (including occult blood)",
+     "Stool antigen testing (Giardia lamblia antigen)",
+     "Stool smear for cysts or trophozoites"
+    ],
+    "if_suspected": [
+     "Small intestinal biopsy (for refractory or difficult-to-diagnose cases)",
+     "Complete blood count and electrolytes (to assess the degree of dehydration and malnutrition)",
+     "Liver function tests (to evaluate for concomitant biliary infection)"
+    ],
+    "avoid": [
+     "Blind use of empiric broad-spectrum antibiotics",
+     "Noncontrast abdominal CT without an indication (unless a complication such as intestinal obstruction is suspected)",
+     "Repeated low-sensitivity routine microscopy without antigen test support"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is metronidazole; the adult dose is usually 250 mg orally three times daily for 5-7 days",
+     "Or tinidazole 2 g as a single dose. Probiotics are also recommended to regulate intestinal flora, and patients with severe dehydration require fluid replacement to correct electrolyte disturbances. Avoid alcohol during treatment to prevent a disulfiram-like reaction."
+    ],
+    "safety_warnings": [
+     "Metronidazole is contraindicated in pregnant women (especially in early pregnancy) and breastfeeding women; the risks and benefits must be weighed",
+     "Strictly prohibit alcohol consumption during use; otherwise it can cause a severe disulfiram-like reaction",
+     "It may cause nausea, a metallic taste, and headache; patients should be told these are common adverse reactions"
+    ],
+    "personalization": [
+     "In children, calculate the dose by body weight (usually 15-20 mg/kg/day in divided doses), with the same course duration as adults",
+     "In patients with hepatic or renal impairment, reduce the dose or extend the dosing interval and closely monitor liver function",
+     "In immunosuppressed patients with poor response, consider combination therapy or extending the course to 14 days"
+    ]
+   },
+   "disease": "giardiasis",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often complain of severe sore throat and dysphagia, accompanied by fever and cervical lymphadenopathy. Some patients have mild or no symptoms and are easily misdiagnosed as ordinary tonsillitis. Typical signs include pharyngeal erythema, yellow-white purulent exudate on the tonsillar surface, and occasionally ulcers. If accompanied by a history of oral sex and the above symptoms, this disease should be highly suspected.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had unprotected oral sex recently?",
+     "What is the exact duration of your sore throat and fever?",
+     "Do you have difficulty swallowing or painful swelling of the cervical lymph nodes?"
+    ],
+    "followup_questions": [
+     "If the sore throat is severe and there is purulent exudate, ask further: 'Is the exudate yellow-white?'",
+     "If symptoms are mild, ask further: 'Have you had recent exposure to other sexually transmitted infections?'",
+     "If you have already self-medicated, ask further: 'Which antibiotics and doses have you taken?'"
+    ],
+    "stop_conditions": [
+     "High-risk sexual behavior history has been clearly elicited and symptoms are typical",
+     "Necessary epidemiological history has been collected",
+     "The patient refuses to provide further information, but symptoms are sufficient to initiate testing"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Pharyngeal swab Neisseria gonorrhoeae nucleic acid amplification test (NAAT)",
+     "Pharyngeal swab bacterial culture and antimicrobial susceptibility testing"
+    ],
+    "if_suspected": [
+     "Syphilis serology",
+     "HIV antibody test",
+     "Chlamydia nucleic acid amplification test"
+    ],
+    "avoid": [
+     "Empirical use of broad-spectrum antibiotics before etiological testing",
+     "Diagnosis based solely on visual observation of pharyngeal redness and swelling"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line: ceftriaxone sodium 1g single intramuscular injection. If concomitant Chlamydia trachomatis infection has not been excluded, add doxycycline 100mg orally twice daily for 7 days. Avoid sexual activity during treatment until symptoms resolve and repeat testing is negative. Non-pharmacological interventions include adequate rest and increased water intake."
+    ],
+    "safety_warnings": [
+     "Contraindicated in patients allergic to cephalosporins; assess history of penicillin allergy",
+     "Avoid combination with aminoglycosides to prevent increased ototoxicity",
+     "Be alert for severe allergic reactions such as anaphylactic shock; observe the patient after administration"
+    ],
+    "personalization": [
+     "Pregnant women: ceftriaxone is first-line; doxycycline is contraindicated and should be replaced with azithromycin",
+     "In renal impairment, adjust the ceftriaxone dose according to creatinine clearance",
+     "In children, calculate the ceftriaxone dose by body weight, usually 50-100mg/kg as a single dose"
+    ]
+   },
+   "disease": "Gonococcal pharyngitis",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often present with sudden fever, accompanied by oral mucosal herpes or ulcers leading to refusal to eat and drooling. Maculopapular rash or small vesicles appear on the hands, feet, and buttocks; the rash is not itchy and has an erythematous halo. Some children may have upper respiratory symptoms such as cough and runny nose. If persistent high fever, lethargy, limb trembling, or tachypnea occurs, it suggests possible progression to severe disease.",
+   "interview_guide": {
+    "first_questions": [
+     "Has your child had fever in the last 3 days? What was the highest temperature?",
+     "Have red bumps or blisters appeared on the hands, feet, and buttocks?",
+     "Is your child unwilling to eat or drink because of mouth pain?"
+    ],
+    "followup_questions": [
+     "If fever lasts more than 3 days, ask further: What is the mental status? Is there startle or limb trembling?",
+     "If the rash is obvious, ask further: Is the rash itchy? Has it ruptured or become infected?",
+     "Ask about recent contact with similar cases at kindergarten or childcare."
+    ],
+    "stop_conditions": [
+     "Typical rash distribution (hands, feet, mouth, buttocks) has been confirmed and there are no neurological symptoms.",
+     "Epidemiological history investigation and baseline vital sign assessment have been completed.",
+     "Parents have mastered key points of home care and confirmed no severe disease warning signs."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete blood count",
+     "C-reactive protein test",
+     "Throat swab enterovirus nucleic acid amplification test"
+    ],
+    "if_suspected": [
+     "Cerebrospinal fluid examination (when central nervous system involvement is suspected)",
+     "Cranial MRI or electroencephalography (when encephalitis is suspected)",
+     "Myocardial enzyme panel and electrocardiogram (when myocarditis is suspected)"
+    ],
+    "avoid": [
+     "Routine use of antibiotics (unless there is evidence of bacterial coinfection)",
+     "Unnecessary chest CT (no imaging needed for mild cases)",
+     "Repeated invasive procedures (e.g., lumbar puncture only for severe disease indications)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Mainly symptomatic supportive treatment. For fever above 38.5°C, acetaminophen or ibuprofen may be used to reduce fever",
+     "Oral pain can be relieved with lidocaine gel to ease difficulty eating; encourage small, frequent sips of water to prevent dehydration. Keep the skin clean and avoid scratching the rash open. The usual course is 7-10 days and self-resolves; no specific antiviral drugs are needed."
+    ],
+    "safety_warnings": [
+     "Aspirin must not be used to reduce fever in children because of the risk of Reye syndrome",
+     "Be alert for dehydration risk; avoid forced feeding that may cause choking",
+     "Closely observe changes in condition to prevent progression to severe encephalitis or pulmonary edema"
+    ],
+    "personalization": [
+     "In infants and young children, calculate antipyretic doses precisely by body weight",
+     "Children with malnutrition or immunodeficiency should have prolonged isolation and enhanced monitoring",
+     "Pregnant contacts should be assessed for fetal risk and consult obstetrics"
+    ]
+   },
+   "disease": "Hand, foot, and mouth disease (HFMD)",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often present with subacute or chronic respiratory symptoms, such as persistent dry cough, fever, night sweats, and chest pain, and are easily misdiagnosed as pulmonary tuberculosis. Severe cases may have generalized fatigue and weight loss, with hepatosplenomegaly and lymphadenopathy. If dissemination occurs, skin ulcers, mucosal lesions, or central nervous system symptoms may be seen. The history often includes travel to the Americas (e.g., the Ohio River Valley) or exposure to contaminated soil or bat guano.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you ever traveled to or lived in the Midwestern United States or Central and South America?",
+     "Have you recently been exposed to caves, bat guano, or disturbed soil in old buildings?",
+     "How long have the cough and fever lasted, and do you have night sweats?"
+    ],
+    "followup_questions": [
+     "If you have a rash or oral ulcer, where exactly is it located?",
+     "Do you have unexplained significant weight loss or extreme fatigue?",
+     "Do you have a history of tuberculosis or immunocompromising conditions (such as HIV, organ transplantation)?"
+    ],
+    "stop_conditions": [
+     "Epidemiological exposure history has been clearly established and typical respiratory symptoms have lasted more than 2 weeks.",
+     "The patient already has clear disseminated symptoms (such as hepatosplenomegaly, skin lesions).",
+     "Immune status assessment has been completed and initial imaging suggests pulmonary infiltrates."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Chest X-ray or CT",
+     "Fungal culture (blood, bone marrow, or sputum)",
+     "Urine antigen test (Histoplasma antigen)"
+    ],
+    "if_suspected": [
+     "Serological antibody testing (complement fixation test, immunodiffusion)",
+     "Bone marrow aspiration smear and culture",
+     "Bronchoalveolar lavage fluid (BALF) microscopy and culture"
+    ],
+    "avoid": [
+     "Long-term empirical treatment with broad-spectrum antibiotics without indications",
+     "Unnecessary invasive biopsy (when antigen testing is positive)",
+     "Relying solely on tuberculin skin test for differential diagnosis"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Mild to moderate cases: oral itraconazole is first-line, 200mg three times daily for 6-12 months",
+     "Severe or disseminated cases: liposomal amphotericin B intravenous infusion is first-line (0.7-1.0 mg/kg/d), followed by sequential oral itraconazole consolidation therapy after the condition stabilizes. At the same time, nutritional support should be strengthened and fatigue avoided. The course of treatment should be dynamically adjusted according to clinical symptom improvement and the decline in antigen titers."
+    ],
+    "safety_warnings": [
+     "Amphotericin B is nephrotoxic; renal function and electrolytes (potassium, magnesium) need to be monitored.",
+     "Itraconazole carries a risk of cardiotoxicity; use with caution in patients with heart failure, and it has interactions with many drugs.",
+     "A Jarisch-Herxheimer-like reaction may occur early in treatment; vital signs should be closely observed."
+    ],
+    "personalization": [
+     "HIV-infected patients require combined antiretroviral therapy and a prolonged antifungal course.",
+     "Itraconazole is contraindicated in pregnant women; amphotericin B is first-line, but fetal risk must be weighed.",
+     "In hepatic impairment, adjust the itraconazole dose and closely monitor liver enzymes."
+    ]
+   },
+   "disease": "Histoplasmosis",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often complain of long-term fatigue, dizziness, palpitations, and pallor, suggesting iron-deficiency anemia. Some patients have a history of skin itching or rash (such as 'ground itch'), mostly occurring after barefoot contact with soil. Gastrointestinal symptoms include vague epigastric pain, abnormal appetite, or pica (craving soil or raw rice). Severe cases may develop lower limb edema and manifestations of heart failure. Symptoms are insidious and easily mistaken for ordinary anemia or malnutrition.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you ever walked barefoot in farmland or moist soil?",
+     "Recently, have you felt unusually tired, palpitations, or pale?",
+     "Do you have a habit of eating soil, ice, or raw rice?"
+    ],
+    "followup_questions": [
+     "If skin itching or a red rash occurs, please describe the site and duration.",
+     "Has your stool color turned black or tarry? Do you have abdominal pain or diarrhea?",
+     "Have you had significant recent weight loss or lower limb swelling?"
+    ],
+    "stop_conditions": [
+     "Barefoot exposure history has been clearly established and typical anemia and gastrointestinal symptoms are present",
+     "Stool examination has confirmed hookworm eggs positive",
+     "The patient has no new symptoms and the previous confirmed diagnosis and treatment history is clear"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Routine stool examination (direct smear method)",
+     "Complete blood count (focus on hemoglobin and hematocrit)",
+     "Serum ferritin test"
+    ],
+    "if_suspected": [
+     "Duodenal aspirate examination (for parasite localization)",
+     "Electrocardiogram (to assess myocardial ischemia due to anemia)",
+     "Occult blood test (to exclude other gastrointestinal bleeding)"
+    ],
+    "avoid": [
+     "Blind performance of gastrointestinal endoscopy (when there is no indication)",
+     "Nonspecific antibiotic treatment",
+     "Repeated imaging examinations without clinical significance"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line: albendazole 400mg orally once daily for 3 days",
+     "Or mebendazole 100mg orally twice daily for 3 days. At the same time, iron supplements (such as ferrous sulfate 0.3g three times daily) and vitamin C should be added to promote absorption; the course depends on the severity of anemia and usually needs to continue until hemoglobin returns to normal. Improving sanitation and avoiding barefoot contact with soil are recommended."
+    ],
+    "safety_warnings": [
+     "Use albendazole with caution in pregnant and breastfeeding women; contraindicated in early pregnancy",
+     "In hepatic impairment, monitor liver enzymes and avoid concomitant use of hepatotoxic drugs",
+     "Be alert for allergic reactions; observe for 30 minutes after the first dose to prevent anaphylactic shock"
+    ],
+    "personalization": [
+     "In children, adjust the dose by body weight (15mg/kg/day), given in divided doses",
+     "In severe anemia, correct hypoxia before deworming to prevent worsening of the condition",
+     "In older patients, pay attention to comorbidity management and avoid drug interactions"
+    ]
+   },
+   "disease": "hookworm disease",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often present with asymptomatic dull pain in the hepatic region or abdomen and abdominal distension; some have a palpable painless, hard, smooth-surfaced mass. If the cyst ruptures, sudden severe abdominal pain, anaphylactic shock, or secondary infection causing fever may occur. Patients with pulmonary disease may have cough, chest pain, and hemoptysis. The history often includes living in pastoral areas or contact with dogs and sheep.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you ever lived long-term in a pastoral area or had close contact with dogs or sheep?",
+     "Recently, have you felt persistent dull pain or fullness in the right upper abdomen or chest?",
+     "Have previous physical examinations ever found a cystic space-occupying lesion in the liver or lungs?"
+    ],
+    "followup_questions": [
+     "If you have sudden severe pain or difficulty breathing, does the pain radiate? Have you coughed up white cyst fluid?",
+     "If you can feel a mass, how quickly is its size changing? Is it accompanied by fever or jaundice?",
+     "If pulmonary involvement is suspected, is your cough accompanied by blood-streaked sputum or copious frothy sputum?"
+    ],
+    "stop_conditions": [
+     "Clear epidemiological history (pastoral area/dog or sheep contact) has been established and imaging shows typical cystic lesions",
+     "Serologic testing (e.g., ELISA) has been completed and the result is strongly positive",
+     "The patient has emergency manifestations of cyst rupture and requires immediate surgical referral"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Abdominal or chest ultrasonography (preferred screening)",
+     "Serum hydatid antibody testing (ELISA or IHA)",
+     "CT or MRI (to assess cyst location, size, and complications)"
+    ],
+    "if_suspected": [
+     "Chest X-ray (to evaluate for pulmonary echinococcosis)",
+     "Complete liver function tests (to assess biliary obstruction or liver injury)",
+     "Needle biopsy (only when rupture risk has been rigorously assessed as absent and the diagnosis is unclear)"
+    ],
+    "avoid": [
+     "Routine percutaneous aspiration (strictly prohibited before drug pretreatment to prevent anaphylactic shock)",
+     "Unnecessary invasive biopsy (high risk of hypersensitivity)",
+     "Blind use of antibiotic therapy (ineffective against parasites)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Oral albendazole is the first-line treatment; adults usually receive 400 mg twice daily for 3-6 months, with perioperative combination therapy to kill daughter cysts. For a single, localized, uncomplicated cyst, the PAIR technique (puncture, aspiration, injection of a protoscolicidal agent, and reaspiration) may be performed. Surgical resection is indicated for giant cysts, multivesicular cysts, or those complicated by biliary obstruction. Liver function and complete blood count should be monitored simultaneously."
+    ],
+    "safety_warnings": [
+     "Puncture is strictly prohibited without prophylactic antiparasitic therapy to prevent cyst fluid spillage causing anaphylactic shock",
+     "Albendazole is hepatotoxic; liver function must be monitored regularly during treatment, and concomitant use with metabolism-affecting drugs such as cimetidine should be avoided",
+     "Albendazole is contraindicated in pregnant women and children under 2 years of age, and should be used with caution in breastfeeding women"
+    ],
+    "personalization": [
+     "Pediatric patients require precise weight-based dosing and close monitoring of growth and development parameters",
+     "Patients with hepatic impairment require dose reduction or temporary discontinuation, with regimen adjustment after recovery",
+     "Immunosuppressed patients require a prolonged course and combined immunomodulatory therapy"
+    ]
+   },
+   "disease": "Echinococcosis (hydatid disease)",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often report sudden high fever, marked sore throat with difficulty swallowing, and cervical or generalized lymphadenopathy (especially prominent in the posterior cervical triangle); some have fatigue, rash, and hepatosplenomegaly. Symptoms resemble a cold, but pharyngeal congestion is more severe, and tonsillar exudate may be seen. The course usually lasts 2-4 weeks and is more common in adolescents; vigilance for risk of airway obstruction is required.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had a persistent fever for more than 3 days accompanied by severe sore throat?",
+     "Recently, have you had cervical lymph node enlargement or extreme fatigue?"
+    ],
+    "followup_questions": [
+     "If a rash has appeared, did it occur after you took antibiotics?",
+     "Do you have left upper abdominal pain, which may suggest an enlarged spleen?"
+    ],
+    "stop_conditions": [
+     "Typical triad (fever, pharyngitis, lymphadenopathy) has been clearly established",
+     "Complete blood count and EBV antibody results are available and confirm the diagnosis",
+     "Other serious complications such as airway obstruction have been excluded"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Peripheral blood smear (proportion of atypical lymphocytes)",
+     "Epstein-Barr virus serology (VCA-IgM/IgG)",
+     "Liver function tests"
+    ],
+    "if_suspected": [
+     "Abdominal ultrasonography (to assess spleen size)",
+     "Chest X-ray (to evaluate for mediastinal lymphadenopathy)"
+    ],
+    "avoid": [
+     "Routine bacterial culture (not a bacterial infection)",
+     "Unnecessary CT scanning (radiation exposure and unnecessary)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "The disease is self-limited, and management is mainly supportive. Bed rest and adequate fluid intake are advised; acetaminophen may be used for fever and pain. Amoxicillin and other β-lactam antibiotics are strictly prohibited to prevent rash. If severe airway obstruction or thrombocytopenia is present, short-term glucocorticoids may be used. The duration depends on symptom resolution and is usually 2-4 weeks."
+    ],
+    "safety_warnings": [
+     "Amoxicillin/ampicillin are contraindicated to prevent drug rash",
+     "Avoid strenuous exercise to prevent splenic rupture",
+     "Monitor liver function to prevent drug-induced liver injury"
+    ],
+    "personalization": [
+     "Aspirin should be used with caution in children to prevent Reye syndrome",
+     "Pregnant women require rigorous assessment of antiviral drug risks",
+     "Immunosuppressed patients require a prolonged observation period and prevention of secondary infection"
+    ]
+   },
+   "disease": "Infectious mononucleosis",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often present with prolonged irregular fever, marked weight loss, anemia, and significant hepatosplenomegaly (especially splenomegaly). A typical sign is a dark, 'black' complexion with skin hyperpigmentation. The course is protracted, and patients are prone to secondary bacterial infection or bleeding tendency. It is more common in children or those with a history of travel to or residence in endemic areas; identification requires integration of epidemiological history and clinical manifestations.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you lived in or traveled to an endemic area (such as rural areas of northwest China)?",
+     "How long has the fever lasted? Is it accompanied by weight loss and fatigue?",
+     "Have you felt that your spleen is abnormally enlarged, or do you have abdominal fullness?"
+    ],
+    "followup_questions": [
+     "If you have had recurrent high fever, have you taken antipyretics on your own without good effect?",
+     "If you have noticed darkening of the skin or gum bleeding, has it worsened recently?",
+     "Has anyone in your household or among your contacts had similar symptoms?"
+    ],
+    "stop_conditions": [
+     "Exposure history in an endemic area has been clearly established, with typical hepatosplenomegaly and prolonged fever",
+     "Laboratory tests indicate pancytopenia and protozoal infection is highly suspected",
+     "The patient has already received treatment after etiological confirmation, and no further history taking is needed"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Bone marrow aspirate smear to identify Leishmania donovani amastigotes",
+     "Complete blood count (to assess the degree of pancytopenia)",
+     "Serologic testing (e.g., rK39 immunochromatographic test)"
+    ],
+    "if_suspected": [
+     "Assessment of liver and renal function",
+     "Abdominal ultrasound (to quantify spleen size and assess the liver)",
+     "Quantitative immunoglobulin analysis"
+    ],
+    "avoid": [
+     "Prolonged empiric routine antibiotic therapy (avoid misuse before diagnosis is confirmed)",
+     "Unnecessary invasive biopsy (e.g., lymph node biopsy, unless bone marrow is negative and another disease is highly suspected)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Sodium stibogluconate or pentavalent antimonials are first-line, with weight-based dosing given by intravenous infusion or intramuscular injection, usually for 20-30 days. Liposomal amphotericin B may be selected for severe or drug-resistant cases. Supportive therapy should be provided concurrently, including correction of anemia, nutritional supplementation, and prevention of secondary infection. Cardiac and renal function and electrolyte balance must be closely monitored during treatment."
+    ],
+    "safety_warnings": [
+     "Antimonials are cardiotoxic; electrocardiography should be monitored before and during treatment",
+     "They are strictly contraindicated in patients with severe cardiac, hepatic, or renal impairment",
+     "They may cause nausea, vomiting, and arthralgia; patients should be informed in advance and symptomatic management provided"
+    ],
+    "personalization": [
+     "Pediatric patients require strict precise weight-based dosing to prevent overdose and toxicity",
+     "Antimonials should be used with caution in pregnant women; when necessary, weigh the risks and benefits and select amphotericin B",
+     "Older patients require dose reduction and a prolonged observation period, with vigilance for arrhythmia risk"
+    ]
+   },
+   "disease": "kala-azar",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often have sudden high fever and chills, with severe dry cough or a small amount of sticky sputum, followed by dyspnea. Typical features include early gastrointestinal symptoms (such as nausea, vomiting, and diarrhea) and neurologic manifestations (such as headache and confusion). Relative bradycardia is often present, and conventional antibiotic therapy is ineffective. Many patients have a recent history of staying in a hotel or hot spring or exposure to contaminated water.",
+   "interview_guide": {
+    "first_questions": [
+     "In the 10 days before illness onset, have you stayed in a hotel or hospital or been exposed to cooling towers/fountains?",
+     "Have you had persistent high fever, dry cough, and gastrointestinal symptoms such as diarrhea?",
+     "Have you taken penicillin or cephalosporin antibiotics without improvement?"
+    ],
+    "followup_questions": [
+     "If you have confusion, do you have disorientation or somnolence?",
+     "If you have difficulty breathing, is it accompanied by chest pain or hemoptysis?",
+     "If you have recent travel history, what were the specific locations and details of the accommodation environment?"
+    ],
+    "stop_conditions": [
+     "Recent exposure history has been clearly established and the typical triad (fever, pneumonia, diarrhea) is present",
+     "Imaging confirms pulmonary infiltrates and conventional treatment is ineffective",
+     "The patient's vital signs are stable and key history has been completely obtained"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Chest CT",
+     "Urinary Legionella antigen test",
+     "Sputum culture (BCYE medium)"
+    ],
+    "if_suspected": [
+     "Serologic antibody titer testing (paired sera)",
+     "Bronchoalveolar lavage fluid PCR testing",
+     "Serial monitoring of complete blood count and C-reactive protein"
+    ],
+    "avoid": [
+     "Empiric use of β-lactam antibiotics as first-line treatment before repeat assessment",
+     "Nonspecific viral screening (e.g., influenza antigen) as a basis for confirmed diagnosis"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Macrolides are preferred (azithromycin 500mg once daily, intravenously or orally, for 7-10 days) or respiratory fluoroquinolones (levofloxacin 750mg once daily for 5-7 days). For severe patients, combination therapy and extension of the course to 14 days are recommended. Concurrently provide fluid replacement, oxygen therapy, and symptomatic supportive care; avoid drugs that suppress the cough reflex."
+    ],
+    "safety_warnings": [
+     "Macrolides may cause QT interval prolongation; electrocardiography monitoring is required",
+     "Quinolones are contraindicated in pregnant women and adolescents under 18 years of age; be vigilant for tendinitis risk",
+     "Be aware of drug interactions with warfarin and theophyllines"
+    ],
+    "personalization": [
+     "Patients with renal impairment require dose adjustment of quinolones",
+     "Macrolides should be used with caution in patients with abnormal liver function, with dose reduction if necessary",
+     "Immunosuppressed patients are advised to have a prolonged course and close monitoring for relapse"
+    ]
+   },
+   "disease": "Legionellosis",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often report a painless skin ulcer with a raised, crater-like edge and a granulation tissue base, most commonly on the face, auricles, or exposed areas of the limbs. Some patients have fever, fatigue, hepatosplenomegaly, and weight loss (visceral form). The course is slow, and the ulcer does not heal despite prolonged treatment; regional lymph nodes may be enlarged. The typical presentation is a papule at the bite site weeks later that gradually enlarges to form a chronic ulcer.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you traveled to or lived in tropical or subtropical regions (such as the Middle East, South America, or India)?",
+     "Has the skin wound failed to heal for a long time and been painless?",
+     "Have you recently had unexplained fever, weight loss, or hepatosplenomegaly?"
+    ],
+    "followup_questions": [
+     "If the ulcer persists, please describe whether its edge is raised and whether there is necrotic tissue at the base.",
+     "If you have systemic symptoms, please state whether the fever occurs periodically.",
+     "Have you definitely been bitten by sandflies, or is there a history of active local mosquito/insect activity?"
+    ],
+    "stop_conditions": [
+     "A clear epidemiological history is established and typical skin ulcer manifestations are present",
+     "Laboratory tests have confirmed positivity for Leishmania",
+     "The patient has received targeted treatment and the condition is stable"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Scraping from the ulcer edge or biopsy smear to identify Leishmania amastigotes",
+     "Bone marrow aspirate culture or PCR testing (for the visceral form)",
+     "Serologic antibody testing (e.g., rK39 rapid test strip)"
+    ],
+    "if_suspected": [
+     "Complete blood count to assess anemia and white blood cell abnormalities",
+     "Liver and kidney function tests to assess organ damage",
+     "Imaging studies (ultrasound/CT) to evaluate the degree of hepatosplenomegaly"
+    ],
+    "avoid": [
+     "Routine long-term empiric antibiotic use (ineffective and delays diagnosis)",
+     "Nonspecific corticosteroid therapy for suspected cases",
+     "Blind extensive debridement surgery before diagnosis is confirmed"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is a pentavalent antimonial (e.g., sodium stibogluconate); the adult dose is usually 20mg/kg/d by intravenous infusion or intramuscular injection for 10-28 days. For the cutaneous form, local injection or topical imiquimod may be used. For the visceral form, combine with an antifungal agent or switch to liposomal amphotericin B (3-5mg/kg/d for 14-21 days). At the same time, strengthen nutritional support, keep the ulcer clean and dry, and prevent secondary infection."
+    ],
+    "safety_warnings": [
+     "Pentavalent antimonials are cardiotoxic; electrocardiography and the QT interval must be closely monitored during treatment",
+     "Amphotericin B readily causes nephrotoxicity; renal function and electrolytes must be monitored regularly",
+     "Concomitant use with drugs to which the patient has a known allergy is strictly prohibited; watch for anaphylactic shock"
+    ],
+    "personalization": [
+     "Use pentavalent antimonials with caution in pregnant women; liposomal amphotericin B is preferred",
+     "Calculate the dose precisely by body weight in children to avoid toxic reactions from overdose",
+     "For patients with renal impairment, adjust the amphotericin B dosing regimen and extend the observation period"
+    ]
+   },
+   "disease": "Leishmaniasis",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often have sudden onset of high fever and chills, accompanied by severe headache, generalized muscle aches (especially marked calf tenderness), and conjunctival congestion. Some patients develop gastrointestinal symptoms such as nausea, vomiting, and diarrhea. Severe cases may rapidly progress to jaundice, bleeding tendency (e.g., epistaxis, hemoptysis), renal failure, or pulmonary hemorrhage; comprehensive judgment should be made in conjunction with a history of exposure to contaminated water.",
+   "interview_guide": {
+    "first_questions": [
+     "In the 2-3 weeks before illness onset, have you had contact with river water, rice paddy water, or rodent-contaminated materials?",
+     "Have you had sudden high fever, chills, and severe calf muscle pain?",
+     "Have you recently had contact with contaminated water through broken skin?"
+    ],
+    "followup_questions": [
+     "If jaundice or decreased urine output occurs, ask: 'Are your eyes and skin yellow? Has your urine become darker or has your urine output dropped sharply?'",
+     "If there are bleeding manifestations, ask: 'Have you had bleeding gums, nosebleeds, or coughing up blood?'",
+     "If the condition worsens, ask: 'Do you feel short of breath or chest pain?'"
+    ],
+    "stop_conditions": [
+     "A clear history of exposure to contaminated water and the complete typical symptoms (fever, calf muscle pain, conjunctival congestion) are present",
+     "Severe warning signs (jaundice, bleeding, oliguria, dyspnea) have appeared and require emergency management",
+     "Laboratory tests have indicated etiologic evidence or serologic positivity"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete blood count (white blood cell count and differential)",
+     "Liver and kidney function and electrolyte tests",
+     "Leptospira-specific antibody testing (MAT)"
+    ],
+    "if_suspected": [
+     "Urinalysis and urine sediment microscopy",
+     "Chest X-ray or CT (to evaluate pulmonary hemorrhage)",
+     "Cerebrospinal fluid examination (for suspected meningeal form)"
+    ],
+    "avoid": [
+     "Long-term empiric combination use of broad-spectrum antibiotics without indications",
+     "Unnecessary invasive procedures (e.g., bone marrow aspiration)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is penicillin G, 800,000-1,600,000 units per day for adults, given by divided intravenous infusions for 7-10 days. Mild cases may receive oral doxycycline. During the initial treatment period, watch for the Jarisch-Herxheimer reaction; it is recommended to reduce the first dose and use glucocorticoids. At the same time, provide fluid replacement, antipyretics, and symptomatic supportive care; in severe cases, monitor vital signs and organ function."
+    ],
+    "safety_warnings": [
+     "Contraindicated in patients allergic to penicillin; strict skin testing is required",
+     "The first dose may induce a Jarisch-Herxheimer reaction (worsening chills and high fever); emergency measures must be prepared",
+     "Avoid concomitant use with aminoglycosides to prevent additive nephrotoxicity"
+    ],
+    "personalization": [
+     "Use tetracyclines with caution in pregnant women; penicillin is preferred",
+     "Adjust the dose by body weight in children to avoid affecting skeletal development",
+     "For patients with renal impairment, adjust the dosing interval according to creatinine clearance"
+    ]
+   },
+   "disease": "leptospirosis",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often report erythema migrans (target-like rash) after outdoor activities, accompanied by fever, fatigue, headache, and muscle and joint pain. Some patients may develop facial nerve palsy, palpitations, or joint swelling. The typical presentation occurs in summer or autumn, with a history of tick bite; early symptoms resemble influenza, but the characteristic rash is an important clue for recognition.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had outdoor activities or a tick bite?",
+     "Has an expanding ring-shaped erythema appeared on your body?",
+     "Have you had symptoms such as fever, headache, or facial droop?"
+    ],
+    "followup_questions": [
+     "If you have joint pain, which joints are affected and how long does it last?",
+     "If you have palpitations, are they accompanied by fainting or chest tightness?",
+     "Has the rash expanded or faded within a few days?"
+    ],
+    "stop_conditions": [
+     "Typical erythema migrans and an epidemiological history have been clearly described",
+     "Specific manifestations of nervous system or cardiac involvement have been confirmed",
+     "Key information required for initial differential diagnosis has been collected"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serologic testing (ELISA screening)",
+     "Confirmation by Western blot",
+     "Physical examination (focusing on skin, neurologic, and cardiac signs)"
+    ],
+    "if_suspected": [
+     "Cerebrospinal fluid analysis (when neuroborreliosis is suspected)",
+     "Electrocardiography (when cardiac conduction block is suspected)",
+     "Synovial fluid analysis (when arthritis is suspected)"
+    ],
+    "avoid": [
+     "Routine bacterial culture (Lyme disease is a spirochetal infection and routine culture is negative)",
+     "Long-term empiric use of broad-spectrum antibiotics (when there is no confirmed diagnosis)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For early Lyme disease, first-line treatment is oral doxycycline 100mg twice daily for 14-21 days",
+     "For pregnant women or children, oral amoxicillin 500mg three times daily for 14-21 days may be selected. Nonpharmacologic interventions include rest and symptomatic treatment. If neurologic or cardiac involvement occurs, intravenous ceftriaxone 2g/day is required for 14-28 days."
+    ],
+    "safety_warnings": [
+     "Doxycycline is contraindicated in pregnant women and children under 8 years of age and may cause photosensitivity reactions",
+     "Contraindicated in patients allergic to amoxicillin; watch for cross-allergy with penicillins",
+     "During intravenous therapy, monitor liver and kidney function and electrolyte balance"
+    ],
+    "personalization": [
+     "Avoid tetracyclines in pregnant women; amoxicillin is preferred",
+     "Adjust the dose by body weight in children to avoid affecting skeletal development",
+     "For patients with hepatic or renal impairment, adjust the dosing regimen according to creatinine clearance"
+    ]
+   },
+   "disease": "Lyme disease",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often report a bright red or dark red cord-like red line along the course of a lymphatic vessel on a limb, accompanied by local burning, pain, and tenderness. Chills, high fever, fatigue, and other systemic toxic symptoms often occur. On examination, the red line can be seen extending proximally, and regional lymph nodes are enlarged and markedly tender; in some patients, skin blisters or necrosis may be palpable.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had a skin break, athlete's foot, an insect bite, or a surgical wound?",
+     "Has the redness, swelling, and pain spread in a cord-like pattern from distal to proximal?"
+    ],
+    "followup_questions": [
+     "Is it accompanied by sudden high fever, chills, or confusion?",
+     "Do you have a history of diabetes, lower limb varicose veins, or immunodeficiency?"
+    ],
+    "stop_conditions": [
+     "The path of the red line, associated systemic symptoms, and the location of the primary infection focus have been clearly established",
+     "Key differentiating features of cellulitis or deep vein thrombosis have been excluded",
+     "The patient's vital signs are stable and there are no signs of sepsis"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete blood count (focusing on white blood cell count and neutrophil percentage)",
+     "C-reactive protein and procalcitonin testing",
+     "Soft tissue ultrasound of the affected area"
+    ],
+    "if_suspected": [
+     "Blood culture (when bacteremia is suspected)",
+     "MRI or CT (to assess deep tissue involvement or abscess formation)",
+     "Bacterial smear and susceptibility testing (using exudate or secretions)"
+    ],
+    "avoid": [
+     "Incision and drainage of the red, swollen area (contraindicated before abscess formation)",
+     "Unnecessary radionuclide scanning",
+     "Invasive biopsy during the acute inflammatory phase"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Immediately rest in bed and elevate the affected limb. First-line treatment is empiric antibiotic therapy, such as a penicillin combined with a cephalosporin (e.g., cefuroxime 1.5g intravenously every 8 hours), usually for 7-14 days, until body temperature is normal and redness and swelling resolve. At the same time, perform debridement of the primary focus (e.g., athlete's foot, wound). If high fever or systemic toxic symptoms occur, strengthen fluid replacement supportive treatment."
+    ],
+    "safety_warnings": [
+     "Before using penicillins, a history of allergy must be obtained; watch for anaphylactic shock",
+     "Avoid combining antibiotics with nephrotoxic drugs to prevent increasing the renal burden",
+     "Closely monitor liver function to prevent liver injury caused by high-dose antibiotics"
+    ],
+    "personalization": [
+     "For patients with renal impairment, adjust the antibiotic dose according to creatinine clearance",
+     "In pregnant women, penicillins or cephalosporins are preferred; tetracyclines are contraindicated",
+     "Patients with diabetes need strict blood glucose control to promote infection healing"
+    ]
+   },
+   "disease": "Lymphangitis",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often present with fever, chills, and abscesses in multiple sites, commonly in the lungs (cough, chest pain), skin (ulcers, nodules), or prostate. Symptoms resemble pneumonia or sepsis, and the course may be acute or insidious. Some patients develop hepatosplenomegaly or neurological symptoms. A history of travel or residence in Southeast Asia or tropical regions warrants high vigilance, and the condition is easily misdiagnosed as an ordinary bacterial infection.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently traveled to endemic areas such as Southeast Asia or northern Australia?",
+     "Have you had unexplained persistent fever, cough, or purulent skin lesions?",
+     "Do you have a history of diabetes, chronic kidney disease, or alcohol abuse?"
+    ],
+    "followup_questions": [
+     "If you have lung symptoms, have you had any coughing up blood or worsening shortness of breath?",
+     "If you have a skin ulcer, when did the wound appear, and have you had any injury or contact with soil?",
+     "If disseminated infection is suspected, have you had any changes in consciousness or joint pain?"
+    ],
+    "stop_conditions": [
+     "Epidemiological history is clarified and typical clinical manifestations (such as multiple abscesses) are present",
+     "Initial tests suggest gram-negative bacillus infection and culture results are pending",
+     "The patient's vital signs are stable and there are no signs of new organ involvement"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Blood bacterial culture (including anaerobic culture)",
+     "Smear and culture of lesion secretions or aspirate",
+     "Chest CT"
+    ],
+    "if_suspected": [
+     "Serological agglutination test (indirect hemagglutination assay)",
+     "Bone marrow culture (for deep disseminated cases)",
+     "MRI (to assess soft tissue or central nervous system involvement)"
+    ],
+    "avoid": [
+     "Empiric use of broad-spectrum carbapenems instead of diagnostic waiting before targeted therapy",
+     "Diagnosing tuberculosis directly based on imaging findings alone while ignoring bacterial culture",
+     "Blindly combining multiple antibiotics before drug resistance has been ruled out"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For the acute phase, intravenous ceftazidime (2 g every 8 hours) or meropenem is preferred, for at least 2 weeks",
+     "For the consolidation phase, oral trimethoprim-sulfamethoxazole (TMP-SMX, twice daily), total course 3-6 months. Severe patients require concomitant doxycycline. At the same time, actively control underlying diseases such as diabetes and perform non-pharmacological interventions such as abscess drainage."
+    ],
+    "safety_warnings": [
+     "TMP-SMX is contraindicated in patients allergic to sulfonamides; an alternative regimen is required",
+     "Ceftazidime may cause coagulation disorders; INR should be monitored",
+     "Long-term high-dose TMP-SMX may cause bone marrow suppression; regular complete blood counts are required"
+    ],
+    "personalization": [
+     "For patients with renal insufficiency, adjust the ceftazidime dose according to creatinine clearance",
+     "Use TMP-SMX with caution in pregnant women; in early pregnancy, consider switching to ceftriaxone",
+     "Older adults with diabetes require close monitoring of blood glucose fluctuations and hypoglycemia risk"
+    ]
+   },
+   "disease": "Melioidosis",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often report removable white patches on the oral mucosa with an erythematous base, accompanied by burning or reduced taste. Some cases present with angular cheilitis, a smooth red dorsum of the tongue (atrophic type), or chronic hyperplastic plaques. It is more common in immunocompromised individuals, such as those on long-term antibiotics, those using inhaled corticosteroids without rinsing the mouth, or people with HIV infection; symptoms worsen when eating spicy food.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently used antibiotics, glucocorticoids, or inhaled medications for a long time?",
+     "Are there white patches in your mouth that can be wiped off? Is it painful or does it bleed after wiping?"
+    ],
+    "followup_questions": [
+     "Do you have pain or a foreign body sensation when swallowing food?",
+     "Have you recently had weight loss, fever, or fungal infection at other sites?"
+    ],
+    "stop_conditions": [
+     "Typical white pseudomembranes and associated symptoms have been clearly described, and relevant medication history has been obtained.",
+     "The patient can clearly show the location of the lesion and confirms no severe complications such as dysphagia.",
+     "Initial features of other common oral diseases (such as lichen planus, leukoplakia) have been excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Oral visual inspection and palpation (observe pseudomembrane morphology and base)",
+     "Microscopic examination of smear (10% KOH wet mount for budding yeasts and pseudohyphae)",
+     "Fungal culture and susceptibility testing (for recurrent or drug-resistant cases)"
+    ],
+    "if_suspected": [
+     "Complete blood count and C-reactive protein (assess systemic infection status)",
+     "Blood glucose testing (screen for diabetes as a predisposing factor)",
+     "HIV antibody testing (screen for immunodeficiency in high-risk populations)"
+    ],
+    "avoid": [
+     "Routine bacterial culture (not a bacterial infection; no diagnostic value)",
+     "Unnecessary imaging studies (such as CT/MRI, unless deep tissue invasion is suspected)",
+     "Empiric broad-spectrum antibiotic therapy (may worsen the condition)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Local antifungal therapy is preferred, such as nystatin suspension mouth rinse, 4 times daily, for 7-14 days",
+     "Or clotrimazole lozenges. For severe or immunosuppressed patients, oral fluconazole 100-200 mg/day for 7-14 days. At the same time, advise stopping predisposing factors (such as adjusting inhaler use and controlling blood glucose)."
+    ],
+    "safety_warnings": [
+     "Use oral azoles with caution in patients with hepatic impairment; liver enzymes should be monitored.",
+     "Avoid concomitant use with warfarin or sulfonylureas to prevent increased risk of bleeding or hypoglycemia.",
+     "Be alert for QT interval prolongation, especially when fluconazole is used in patients with underlying heart disease."
+    ],
+    "personalization": [
+     "For pediatric patients, suspension is preferred, with dose calculated by body weight; avoid accidental swallowing of lozenges.",
+     "For pregnant and breastfeeding women, topical agents are preferred to avoid systemic absorption.",
+     "For older frail patients or those with dysphagia, liquid formulations are recommended, with attention to preventing choking."
+    ]
+   },
+   "disease": "Oral candidiasis",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often present with persistent fever that rises in a stepwise manner, accompanied by generalized fatigue, headache, and loss of appetite. Some patients have relative bradycardia (temperature elevated but pulse not significantly increased) and rose spots (faint red maculopapular rash on the chest and abdomen). Gastrointestinal symptoms are prominent, such as abdominal distension, constipation, or diarrhea; severe cases may show signs of intestinal bleeding or perforation.",
+   "interview_guide": {
+    "first_questions": [
+     "Did you have a history of unclean food or drinking unboiled water before onset?",
+     "Have you recently been to areas with poor sanitation or had contact with people with similar symptoms?",
+     "What is the highest temperature so far, and how many days has the fever lasted?"
+    ],
+    "followup_questions": [
+     "If a rash appears, please describe its distribution and how it changes.",
+     "Do you have severe abdominal pain, black stools, or vomiting blood, which may indicate gastrointestinal bleeding?",
+     "Are you experiencing hearing loss, apathy, or delirium, which may indicate neurological symptoms?"
+    ],
+    "stop_conditions": [
+     "Epidemiological history is clarified and typical clinical manifestations (persistent fever, rose spots, relative bradycardia) are all present.",
+     "Key laboratory tests (blood culture/bone marrow culture) have been completed and a preliminary diagnosis has been made.",
+     "The patient's vital signs are stable, with no signs of critical conditions such as intestinal perforation or massive hemorrhage."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete blood count (note white blood cell count and eosinopenia)",
+     "Widal test",
+     "Blood culture or bone marrow culture (gold standard for diagnosis)"
+    ],
+    "if_suspected": [
+     "Stool culture (higher positivity rate in the later course)",
+     "Urine culture",
+     "Abdominal ultrasound (screen for bowel wall thickening, fluid accumulation, or perforation)"
+    ],
+    "avoid": [
+     "Routine chest CT (unless pulmonary complications are present)",
+     "Unnecessary invasive endoscopy (may induce perforation in the acute phase)",
+     "Multiple pathogen screening before empiric broad-spectrum antibiotic therapy (to avoid interference with culture results)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Fluoroquinolones (such as levofloxacin 500 mg bid for 10-14 days) or third-generation cephalosporins (such as ceftriaxone 2 g qd for 10-14 days) are preferred. During the acute phase, strict bed rest is required, with a high-calorie liquid or semiliquid diet and fluid supplementation to maintain water and electrolyte balance. For fever reduction, physical cooling is preferred; potent antipyretics should be used with caution to prevent collapse."
+    ],
+    "safety_warnings": [
+     "Fluoroquinolones are contraindicated in pregnant women and adolescents under 18 years; be alert for tendinitis risk.",
+     "Before using cephalosporins, a history of penicillin allergy must be asked to prevent anaphylactic shock.",
+     "Closely monitor gastrointestinal symptoms and be alert for intestinal bleeding and perforation; immediate surgical intervention is necessary when indicated."
+    ],
+    "personalization": [
+     "For older adults and frail patients, reduce the dose as appropriate and prolong the course to prevent relapse.",
+     "For patients with hepatic or renal impairment, adjust the drug dose according to creatinine clearance.",
+     "For pediatric patients, third-generation cephalosporins are preferred instead of fluoroquinolones."
+    ]
+   },
+   "disease": "Paratyphoid fever",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often present with persistent dry cough, fever, chest pain, and dyspnea, sometimes accompanied by fatigue and night sweats. Symptoms resemble pneumonia or pulmonary tuberculosis but progress relatively rapidly, and it is more common in immunocompromised individuals (such as patients with AIDS). If pulmonary crackles are present or imaging shows patchy infiltrates, this disease should be highly suspected.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have long-term cough, fever, or chest pain?",
+     "Do you have an immune system-related disease (such as HIV/AIDS)?"
+    ],
+    "followup_questions": [
+     "Have your symptoms worsened recently?",
+     "Have you had contact with cat feces or eaten undercooked meat?"
+    ],
+    "stop_conditions": [
+     "Immune status and typical symptoms have been clarified",
+     "Initial imaging examination has been completed",
+     "The patient cannot provide further history"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Chest CT scan",
+     "Serum Toxoplasma antibody testing",
+     "PCR testing of sputum or bronchoalveolar lavage fluid"
+    ],
+    "if_suspected": [
+     "Immune function assessment (CD4 count)",
+     "Whole-body PET-CT to screen for infection at other sites"
+    ],
+    "avoid": [
+     "Routine antibiotic treatment trials",
+     "Invasive biopsy without indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Sulfadiazine combined with pyrimethamine is preferred; the dose is sulfadiazine 100 mg/kg/day in divided oral doses, and pyrimethamine 50-75 mg loading dose on the first day followed by 25 mg/day maintenance. The course usually lasts 4-6 weeks, with concurrent folic acid supplementation to reduce the risk of bone marrow suppression. Non-pharmacological interventions include nutritional support and oxygen therapy."
+    ],
+    "safety_warnings": [
+     "Avoid use in patients allergic to sulfonamides",
+     "Note interactions with anticoagulants such as warfarin",
+     "Monitor complete blood count to prevent neutropenia"
+    ],
+    "personalization": [
+     "Pyrimethamine is contraindicated in pregnant women; switch to clindamycin combined with azithromycin",
+     "For patients with renal insufficiency, adjust the sulfadiazine dose",
+     "For children, calculate the dose precisely according to body weight"
+    ]
+   },
+   "disease": "pulmonary toxoplasmosis",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "The patient presents with sudden onset of high fever, with body temperature reaching above 40°C, accompanied by severe chills, headache, and generalized muscle aches. The fever occurs in periodic episodes ('relapsing'), lasting several days and then abruptly subsiding, with symptoms relieved during the afebrile interval, followed by recurrence. It is often accompanied by hepatosplenomegaly, jaundice, and a bleeding tendency (such as epistaxis, subcutaneous ecchymoses). Some patients develop a Jarisch-Herxheimer reaction, manifesting as temporary worsening of the condition after treatment.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently traveled to endemic areas such as mountainous or rural regions of Africa, South America, or Asia?",
+     "Does your fever recur in a regular pattern, with several days completely normal in between?",
+     "Before the illness began, were you bitten by lice or ticks?"
+    ],
+    "followup_questions": [
+     "During the febrile episodes, did you have noticeable skin petechiae or gum bleeding?",
+     "Have you had nausea, vomiting, abdominal pain, or darkening of the urine (jaundice)?",
+     "Have you had similar episodes of periodic fever in the past?"
+    ],
+    "stop_conditions": [
+     "Epidemiological history is clearly established and typical periodic fever symptoms are evident",
+     "Louse-borne or tick-borne exposure has been confirmed",
+     "Initial investigations suggest evidence of spirochete infection"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Peripheral blood smear stained for spirochetes (dark-field microscopy)",
+     "Complete blood count and liver function tests",
+     "Serologic testing (e.g., TPHA or ELISA)"
+    ],
+    "if_suspected": [
+     "Cerebrospinal fluid examination (when central nervous system involvement is suspected)",
+     "Full coagulation panel (to assess bleeding risk)",
+     "Electrocardiogram (to screen for myocarditis)"
+    ],
+    "avoid": [
+     "Routine antibiotic susceptibility testing (because spirochete culture is difficult and not first-line)",
+     "CT/MRI imaging without indication",
+     "Repeated blood cultures (low positivity rate)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Tetracyclines or doxycycline orally are first-line; adults 200 mg daily in divided doses for 7–10 days",
+     "Penicillin G by intravenous infusion may be used in severe cases or when oral administration is not possible. Early in treatment, be alert for the Jarisch-Herxheimer reaction; starting with a low dose and close monitoring of vital signs are recommended. At the same time, give fluid replacement, antipyretics, and symptomatic supportive treatment to prevent dehydration and electrolyte imbalance."
+    ],
+    "safety_warnings": [
+     "Tetracyclines are contraindicated in pregnant women and children under 8 years of age",
+     "Use β-lactam antibiotics with caution in patients allergic to penicillin",
+     "Early treatment may induce a Jarisch-Herxheimer reaction leading to shock; emergency resuscitation measures must be available"
+    ],
+    "personalization": [
+     "Doxycycline dose requires adjustment in patients with renal impairment",
+     "Erythromycin is the preferred alternative to tetracycline during pregnancy",
+     "In elderly patients, monitor the cardiovascular effects of the Jarisch-Herxheimer reaction"
+    ]
+   },
+   "disease": "Relapsing fever",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often present with sudden onset of high fever, severe headache, and generalized fatigue, with a characteristic rash developing within a few days, usually beginning on the wrists and ankles and spreading to the trunk. Typical signs include an eschar (commonly at the bite site) and lymphadenopathy. Some patients have nausea, vomiting, or confusion. Symptoms usually appear in summer and autumn or 1–2 weeks after contact with ticks or lice, and rapid identification requires correlation with the epidemiological history.",
+   "interview_guide": {
+    "first_questions": [
+     "In the two weeks before the illness began, did you have outdoor activities, sit or lie in grass, or come into contact with stray animals?",
+     "Have you recently noticed an unexplained eschar or dark brown crust on your body?",
+     "Have you had persistent high fever, severe headache, and a rash spreading from the limbs toward the trunk?"
+    ],
+    "followup_questions": [
+     "If an eschar is mentioned: Where exactly on your body is the eschar located? Is the surrounding skin red or swollen?",
+     "If a rash is mentioned: Did the rash start on the distal limbs or on the trunk first? Does it blanch when pressed?",
+     "If fever is mentioned: What was the highest temperature? Was it accompanied by chills or muscle aches?"
+    ],
+    "stop_conditions": [
+     "Epidemiological exposure history (e.g., tick bite, residence in an endemic area) has been clearly asked about and documented, and the typical symptoms (eschar, rash, high fever) are clearly described.",
+     "The patient has provided a recent medication history and allergy history, sufficient to assess the safety of the initial treatment plan.",
+     "The symptom duration is consistent with the incubation period, and there are no signs of other serious complications requiring urgent further questioning."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Weil-Felix test",
+     "Rickettsia-specific IgM/IgG antibody testing",
+     "Complete blood count and C-reactive protein (CRP)"
+    ],
+    "if_suspected": [
+     "PCR detection of rickettsial DNA in blood or eschar tissue",
+     "Liver and kidney function tests (to assess organ damage)",
+     "Chest X-ray or CT (to screen for complicating pneumonia)"
+    ],
+    "avoid": [
+     "Broad-spectrum culture before routine empiric antibiotic therapy (rickettsiae are intracellular parasites and are rarely positive on standard culture)",
+     "Unnecessary bone marrow aspiration (unless hematologic malignancy is suspected)",
+     "Non-specific comprehensive viral screening (if there is no clear evidence of viral infection)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Doxycycline is first-line: adults 100 mg orally twice daily; children 2.2 mg/kg twice daily by body weight; for 7–14 days or 3 days after defervescence. Critically ill patients may receive intravenous administration. When tetracyclines are contraindicated in non-pregnant patients and children over 8 years of age, chloramphenicol may be selected, but bone marrow suppression must be closely monitored. At the same time, provide supportive treatment such as fluid replacement and antipyretics, and bed rest."
+    ],
+    "safety_warnings": [
+     "Strictly contraindicated in pregnant women (causes abnormal fetal skeletal development)",
+     "Avoid co-administration with calcium-, magnesium-, or aluminum-containing antacids (impairs drug absorption)",
+     "Be alert for photosensitivity reactions and esophageal ulceration; remain upright for at least 30 minutes after taking the medication"
+    ],
+    "personalization": [
+     "Pregnant women and children under 8 years of age: azithromycin or chloramphenicol is preferred; weigh the risks and benefits and monitor closely",
+     "Patients with hepatic or renal impairment: adjust the dose according to creatinine clearance to avoid accumulation and toxicity",
+     "Immunocompromised patients: extend the course until 5–7 days after symptoms have completely resolved to prevent relapse"
+    ]
+   },
+   "disease": "Rickettsial disease",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often present with sudden onset of high fever, severe headache, and muscle aches (especially of the calves and back), and some have a rash or lymphadenopathy. Symptoms resemble influenza, but the pain is more pronounced, and may be accompanied by chills, fatigue, and other generalized discomfort. A typical history includes recent exposure to a trench environment or insect bites.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had recent symptoms of fever, headache, or muscle pain?",
+     "Have you recently been in a trench environment or been bitten by insects?"
+    ],
+    "followup_questions": [
+     "Where is your pain mainly located?",
+     "Do you have any rash or other skin abnormalities?"
+    ],
+    "stop_conditions": [
+     "Symptoms are clearly highly correlated with the epidemiological history",
+     "Initial physical examination has been completed and other common diseases have been excluded",
+     "The patient's symptoms are stable with no signs of further deterioration"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete blood count",
+     "Serologic testing (e.g., Bartonella antibodies)",
+     "Blood culture"
+    ],
+    "if_suspected": [
+     "Bone marrow aspiration (when hematologic involvement is suspected)",
+     "Imaging studies (to assess organ damage)"
+    ],
+    "avoid": [
+     "Unnecessary empiric antibiotic trials",
+     "Use of non-specific immunosuppressive drugs"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is usually doxycycline (100 mg twice daily for 7–14 days) or azithromycin (500 mg once on the first day, then 250 mg once daily for a total of 5 days). At the same time, provide symptomatic supportive treatment such as antipyretics and fluid replacement. Avoid overexertion and maintain rest."
+    ],
+    "safety_warnings": [
+     "Doxycycline is contraindicated in patients allergic to tetracyclines",
+     "Be aware of interactions with other drugs, especially anticoagulants",
+     "Monitor liver and kidney function to prevent serious adverse reactions"
+    ],
+    "personalization": [
+     "Use doxycycline with caution in pregnant and breastfeeding women; azithromycin may be considered",
+     "Pediatric doses must be adjusted according to body weight",
+     "In elderly patients, note the risk of slowed drug metabolism"
+    ]
+   },
+   "disease": "Trench fever",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often present with subacute onset of low-grade fever, night sweats, fatigue, and other symptoms of tuberculosis intoxication, accompanied by chest pain (usually pleuritic pain, worsening with breathing or changes in position) and dyspnea. On examination, heart sounds may be distant, with pulsus paradoxus and jugular venous distension. If a large effusion develops, it may rapidly progress to cardiac tamponade, manifesting as shock signs such as decreased blood pressure and altered mental status.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had prolonged low-grade fever, night sweats, or unexplained weight loss?",
+     "Have you recently felt chest tightness or shortness of breath, especially when lying flat?",
+     "Do you have a history of pulmonary tuberculosis or have you been in contact with a tuberculosis patient?"
+    ],
+    "followup_questions": [
+     "Is the chest pain related to deep breathing or coughing?",
+     "Have you recently had lower limb edema or decreased urine output?",
+     "Are you currently taking anticoagulant medications or do you have a bleeding tendency?"
+    ],
+    "stop_conditions": [
+     "Typical tuberculosis intoxication symptoms and warning signs of cardiac tamponade have been clearly asked about and documented.",
+     "The patient has provided a clear history of tuberculosis contact or a previous confirmed diagnosis.",
+     "Vital signs are stable and there are no manifestations of acute cardiac tamponade, so no urgent detailed questioning is needed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Transthoracic echocardiography",
+     "Chest CT",
+     "Routine and biochemical examination of pericardial aspirate"
+    ],
+    "if_suspected": [
+     "Pericardial fluid adenosine deaminase (ADA) assay",
+     "Acid-fast smear and culture of pericardial fluid for Mycobacterium tuberculosis",
+     "Interferon-gamma release assay (IGRA)"
+    ],
+    "avoid": [
+     "Coronary angiography without indication",
+     "Unnecessary invasive endomyocardial biopsy",
+     "Blind use of high-dose glucocorticoids before active tuberculosis has been excluded"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Standard antituberculosis chemotherapy regimen: isoniazid (300 mg/day), rifampin (600 mg/day), pyrazinamide (750–1000 mg/day) combined with ethambutol; 2-month intensive phase, consolidation phase of at least 10 months, total course of 12 months. For large effusions or cardiac tamponade, pericardiocentesis and drainage are required",
+     "If there is a trend toward constrictive pericarditis, short-term low-dose glucocorticoid adjunctive therapy may be considered on the basis of antituberculosis treatment, but contraindications must be rigorously assessed."
+    ],
+    "safety_warnings": [
+     "Be alert to interactions between rifampin and many drugs (e.g., warfarin, oral contraceptives).",
+     "Monitor liver function; isoniazid and pyrazinamide may cause hepatotoxicity, so transaminases must be rechecked regularly.",
+     "Avoid using glucocorticoids alone without antituberculosis treatment, to prevent dissemination of tuberculosis."
+    ],
+    "personalization": [
+     "In pediatric patients, doses must be calculated precisely according to body weight, and note the optic nerve effects of ethambutol.",
+     "In elderly patients or those with renal impairment, the doses of pyrazinamide and ethambutol need to be adjusted.",
+     "In pregnant women, isoniazid, rifampin, and streptomycin (use with caution) are preferred; avoid ethambutol and pyrazinamide."
+    ]
+   },
+   "disease": "Tuberculous pericarditis",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often present with long-term low-grade fever, night sweats, fatigue, and other tuberculosis toxemic symptoms, accompanied by persistent or paroxysmal abdominal pain, mostly dull or aching pain. Abdominal palpation may reveal a doughy sensation (kneading sensation), and some patients have alternating abdominal distension, diarrhea, or constipation. If an encapsulated effusion forms, an ill-defined mass may be palpable. Marked weight loss and a protracted course are common.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had low-grade fever in the afternoon or night sweats lasting more than two weeks?",
+     "What are the specific location and nature of your abdominal pain? Is it accompanied by abdominal distension?"
+    ],
+    "followup_questions": [
+     "Have you recently lost weight significantly? How is your appetite?",
+     "Do you have a history of pulmonary tuberculosis or have you been in contact with someone with tuberculosis?"
+    ],
+    "stop_conditions": [
+     "Typical tuberculosis toxemic symptoms and the abdominal doughy sensation have been clearly elicited.",
+     "It has been confirmed whether the patient has a history of tuberculosis contact and past tuberculosis.",
+     "The patient's reported symptoms and signs are highly consistent, and there is no need to further ask about nonspecific symptoms."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Abdominal ultrasound or CT (to assess ascites and adhesions)",
+     "Laparoscopy and peritoneal biopsy (gold standard for diagnosis)",
+     "Ascitic fluid ADA (adenosine deaminase) testing and tuberculosis culture"
+    ],
+    "if_suspected": [
+     "Chest CT (to screen for active or old pulmonary tuberculosis)",
+     "PPD skin test or T-SPOT.TB assay",
+     "Erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP)"
+    ],
+    "avoid": [
+     "Abdominal paracentesis without indication (use only for diagnostic paracentesis; avoid repeated large-volume drainage that causes protein loss)",
+     "Empirical use of broad-spectrum antibiotics instead of antituberculosis treatment",
+     "Unnecessary contrast-enhanced abdominal MRI (CT is usually sufficient to assess the lesions)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Standard antituberculosis chemotherapy regimen: isoniazid (300mg/d), rifampicin (450-600mg/d), pyrazinamide (750-1500mg/d), ethambutol (750-1250mg/d). Four-drug intensive phase for the first 2 months, followed by two-drug consolidation phase for 4-7 months. Total course at least 9-12 months. Also supplement vitamin B6 to prevent neurotoxicity and strengthen nutritional support."
+    ],
+    "safety_warnings": [
+     "Do not adjust the dose without authorization in patients with hepatic or renal insufficiency; liver function must be monitored regularly to prevent drug-induced hepatitis.",
+     "Rifampicin is a potent hepatic enzyme inducer and can significantly reduce the efficacy of oral contraceptives, warfarin, and other drugs.",
+     "Be alert for optic neuritis caused by ethambutol; visual acuity and color vision must be checked regularly during treatment."
+    ],
+    "personalization": [
+     "In elderly patients, adjust the ethambutol dose according to creatinine clearance and closely monitor fall risk.",
+     "In pregnant women, isoniazid, rifampicin, and ethambutol are preferred; streptomycin is contraindicated, and folic acid supplementation is needed.",
+     "In patients with HIV coinfection, adjust for interactions between antituberculosis drugs and antiretroviral drugs and extend the course to 18 months."
+    ]
+   },
+   "disease": "Tuberculous peritonitis",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often present with sudden high fever, severe headache, and generalized myalgia, accompanied by a characteristic rash. Epidemic typhus is mostly transmitted by lice and is more severe; endemic typhus is transmitted by rat fleas and has relatively milder symptoms. The typical rash initially consists of pale red maculopapular lesions that later turn dark red, mainly distributed on the trunk and proximal limbs, and may be accompanied by conjunctival congestion and hepatosplenomegaly.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had symptoms such as fever, headache, and rash?",
+     "Have you recently been in contact with rats or fleas?",
+     "Do you have a history of travel to epidemic areas or exposure to poor sanitary conditions?"
+    ],
+    "followup_questions": [
+     "When did the rash appear and how is it distributed?",
+     "Do you have severe symptoms such as nausea, vomiting, or altered consciousness?",
+     "Do you have a history of similar illness or immunodeficiency?"
+    ],
+    "stop_conditions": [
+     "The epidemiological history and typical clinical manifestations have been clearly established.",
+     "Laboratory tests support the diagnosis.",
+     "The patient's symptoms are stable and there are no complications."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Weil-Felix test",
+     "Serological testing (such as IgM/IgG antibodies)",
+     "Complete blood count and liver function tests"
+    ],
+    "if_suspected": [
+     "Cerebrospinal fluid examination (when central nervous system involvement is suspected)",
+     "Chest X-ray or CT (to assess pulmonary complications)",
+     "Pathogen culture (when necessary)"
+    ],
+    "avoid": [
+     "Unnecessary empirical antibiotic treatment",
+     "Nonspecific imaging examinations (such as MRI without indication)",
+     "Repeated identical serological tests"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Tetracyclines (such as doxycycline) are first-line; adult dose 100mg orally twice daily, with pediatric dosing by body weight. The course is usually 7-10 days, continuing for 3 days after defervescence. At the same time, give fluid replacement, antipyretics, and symptomatic supportive treatment. Severe patients require inpatient monitoring and, if necessary, intravenous administration."
+    ],
+    "safety_warnings": [
+     "Tetracyclines are contraindicated in pregnant women and children under 8 years of age.",
+     "Avoid concomitant use with calcium-, magnesium-, or aluminum-containing antacids.",
+     "Watch for photosensitivity and gastrointestinal adverse reactions."
+    ],
+    "personalization": [
+     "Dose adjustment is required in patients with renal insufficiency.",
+     "Elderly patients should be monitored for the risk of drug accumulation.",
+     "In immunocompromised patients, extend the course and observe closely."
+    ]
+   },
+   "disease": "Typhus (epidemic and endemic typhus)",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often have sudden fever with chills, fatigue, and generalized myalgia. Some cases develop respiratory symptoms such as cough and sore throat, or gastrointestinal symptoms such as nausea and diarrhea. Signs may include pharyngeal congestion, lymphadenopathy, or rash. A comprehensive assessment should be made in combination with epidemiological history (such as contact history and travel history), and attention should be paid to distinguishing the common cold from a tendency toward severe disease.",
+   "interview_guide": {
+    "first_questions": [
+     "Within 14 days before onset, have you had contact with an infectious disease or a history of travel to or residence in an epidemic area?",
+     "What is your current highest body temperature? Is it accompanied by dyspnea or altered consciousness?"
+    ],
+    "followup_questions": [
+     "If a rash is present, please describe its morphology and distribution and whether it itches.",
+     "If you have respiratory symptoms, please describe the character of your sputum and whether you have hemoptysis.",
+     "Do you have immunodeficiency disease, chronic underlying disease, or recent use of immunosuppressants?"
+    ],
+    "stop_conditions": [
+     "Pathogen evidence has been clearly established and the condition is stable; no further differential diagnosis is needed.",
+     "Symptoms are mild and consistent with a self-limited course, with no high-risk factors.",
+     "The patient's vital signs are stable, with no signs of organ failure."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete blood count and C-reactive protein testing",
+     "Pathogen nucleic acid testing or antigen testing",
+     "Chest CT (when pneumonia is suspected)"
+    ],
+    "if_suspected": [
+     "Liver and kidney function and electrolyte tests",
+     "Coagulation function and D-dimer",
+     "Specific antibody testing (IgM/IgG)"
+    ],
+    "avoid": [
+     "Routine empirical broad-spectrum antibiotics (when there is no evidence of bacterial infection)",
+     "Invasive procedures without indication (such as lumbar puncture)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Symptomatic supportive treatment is the mainstay, including antipyretics, fluid replacement, and rest. After a specific virus is confirmed, start antiviral drugs (such as oseltamivir 75mg bid×5 days). Severe patients require oxygen therapy and organ function support. Avoid misuse of antibiotics unless there is evidence of bacterial coinfection."
+    ],
+    "safety_warnings": [
+     "Aspirin is strictly prohibited in patients with influenza virus infection (risk of Reye syndrome in children).",
+     "For antiviral drugs, pay attention to renal dose adjustment and the risk of QT interval prolongation.",
+     "Be alert for early identification of secondary bacterial infection."
+    ],
+    "personalization": [
+     "For elderly patients and pregnant women, preferentially choose antiviral regimens with a high safety profile.",
+     "In patients with hepatic or renal insufficiency, adjust the dose according to creatinine clearance.",
+     "In immunosuppressed patients, extend the course and strengthen monitoring."
+    ]
+   },
+   "disease": "Viral infection",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often report painless ulcers or verrucous proliferation on the skin, mostly on exposed areas such as the limbs and face. Early lesions are cauliflower-like and accompanied by regional lymphadenopathy; late-stage disease may present with periostitis, arthralgia, or gummas. Some patients have nonspecific symptoms such as low-grade fever and fatigue. Lesions usually do not involve internal organs, but neurosyphilis-like manifestations should be watched for.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have any nonhealing ulcers or verrucous rash on your body?",
+     "Do these skin lesions appear on exposed areas such as the limbs or face?",
+     "Have you recently had contact with someone with similar symptoms or traveled to tropical regions?"
+    ],
+    "followup_questions": [
+     "If the skin lesions have exudate or odor, please describe how long they have lasted.",
+     "Do you have bone pain that worsens at night or restricted joint movement?",
+     "Have you previously received penicillin or other antibiotic treatment?"
+    ],
+    "stop_conditions": [
+     "The morphology and distribution of the skin lesions and associated symptoms have been clearly defined, with no signs of other systemic involvement.",
+     "The patient has provided a complete epidemiological history and previous treatment records.",
+     "The preliminary judgment is consistent with typical manifestations of yaws; no further questioning about unrelated symptoms is needed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Darkfield microscopy (direct observation of spirochetes)",
+     "Serological testing (TPHA/TPPA + RPR/TRUST)",
+     "Skin biopsy pathology examination (when necessary)"
+    ],
+    "if_suspected": [
+     "X-ray examination (to assess skeletal involvement)",
+     "Cerebrospinal fluid examination (when neuroyaws is suspected)",
+     "Screening for HIV and other sexually transmitted diseases"
+    ],
+    "avoid": [
+     "Routine bacterial culture (Treponema pertenue cannot grow on ordinary culture media)",
+     "Unnecessary empirical use of broad-spectrum antibiotics",
+     "Whole-body imaging examinations without indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line is single-dose intramuscular benzathine penicillin G: 2.4 million units for adults and 1.2 million units for children. For patients allergic to penicillin, oral azithromycin (single dose 1-2g) may be selected. During treatment, monitor for the Jarisch-Herxheimer reaction; bed rest and fluid supplementation are recommended. Three months after the end of the course, recheck the RPR titer; if it has not decreased by 4-fold, reassessment is required."
+    ],
+    "safety_warnings": [
+     "Contraindicated in patients allergic to penicillin; strict skin testing or an alternative regimen is required.",
+     "Avoid concomitant use with probenecid, which may prolong the penicillin half-life and increase toxicity.",
+     "Be alert for the Jarisch-Herxheimer reaction (fever, headache, worsening rash); patients must be informed in advance."
+    ],
+    "personalization": [
+     "Penicillin can be used in pregnant women; azithromycin requires weighing benefits and risks.",
+     "Adjust the dose by body weight in children and avoid overdose.",
+     "Use macrolides with caution in patients with hepatic or renal insufficiency; penicillin is preferred."
+    ]
+   },
+   "disease": "yaws",
+   "department": "Infectious Diseases"
+  },
+  {
+   "presentation": "Patients often present with acute-onset low-grade fever and maculopapular rash, accompanied by nonpurulent conjunctivitis, arthralgia (most commonly involving the small joints of the hands and feet), and myalgia. Some patients have headache, sore throat, or mild edema. Symptoms are usually mild and self-limited, but infection in pregnant women requires vigilance for severe complications such as fetal microcephaly. The incubation period is usually 3-14 days, and there is often a history of mosquito bites or travel to epidemic areas.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently traveled to areas with Zika virus transmission, such as Africa, the Americas, or Southeast Asia?",
+     "In the 2 weeks before illness onset, were you bitten by mosquitoes or did you have symptoms such as rash, fever, or arthralgia?",
+     "Are you pregnant or a woman planning to become pregnant?"
+    ],
+    "followup_questions": [
+     "If you have arthralgia, please describe the specific locations and the degree of limitation of movement",
+     "If you have a rash, please describe its distribution and whether it itches.",
+     "Have you recently had unprotected sexual intercourse, or does your partner have similar symptoms?",
+     "Do you have a history of autoimmune disease or pregnancy complications?"
+    ],
+    "stop_conditions": [
+     "A clear epidemiological history has been established and the typical symptoms (fever, rash, arthralgia, conjunctivitis) are all present.",
+     "Laboratory testing has confirmed IgM positivity or nucleic acid test positivity.",
+     "Other similar diseases (such as dengue fever and chikungunya) have been excluded and the condition is stable."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "RT-PCR testing for Zika virus nucleic acid in blood or urine",
+     "Serologic testing for Zika virus-specific IgM antibodies"
+    ],
+    "if_suspected": [
+     "Complete blood count (to assess changes in white blood cells and platelets)",
+     "Pregnancy ultrasound (to assess fetal development in pregnant women)"
+    ],
+    "avoid": [
+     "Routine antibiotic treatment trial (because this disease is a viral infection)",
+     "Invasive bone marrow aspiration (unless concomitant other hematologic disease is suspected)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "There is currently no specific antiviral drug; treatment is mainly symptomatic and supportive. This includes adequate rest and fluid supplementation to maintain water and electrolyte balance. For fever or pain, acetaminophen may be used to reduce fever and relieve pain; aspirin or nonsteroidal anti-inflammatory drugs should be avoided to prevent bleeding risk. Pregnant women require close monitoring of fetal development and, when necessary, referral to obstetrics for joint management."
+    ],
+    "safety_warnings": [
+     "Pregnant women should not use potentially teratogenic drugs such as ribavirin",
+     "Avoid aspirin to prevent Reye syndrome or exacerbation of bleeding tendency",
+     "Pay attention to a history of drug allergy, especially in those who have previously been allergic to antipyretic analgesics"
+    ],
+    "personalization": [
+     "Pregnant women need increased frequency of prenatal visits, with focus on monitoring fetal nervous system development",
+     "Older adults or those with underlying diseases require enhanced monitoring of vital signs to prevent dehydration and secondary infection",
+     "For children, drug doses must be calculated strictly by body weight to avoid overdose"
+    ]
+   },
+   "disease": "Zika virus disease",
+   "department": "Infectious Diseases"
+  }
+ ]
+}

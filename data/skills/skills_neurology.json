@@ -1,0 +1,1659 @@
+{
+ "department": "Neurology",
+ "skills": [
+  {
+   "presentation": "Episodic, moderate-to-severe, throbbing headache, mostly unilateral (may also be bilateral), lasting 4-72 hours; often accompanied by nausea, vomiting, photophobia, and phonophobia; routine physical activity (such as walking or climbing stairs) can worsen the headache; about 1/3 of patients have aura (typically visual aura: scintillating scotoma, zigzag bright lines, or visual field defect; aura lasts 5-60 minutes before headache onset).",
+   "interview_guide": {
+    "first_questions": [
+     "When you have a headache, is it on one side or all over your head? Is it a throbbing, pulsating pain like a blood vessel beating?",
+     "How many hours does each headache attack last (is it between 4 and 72 hours)?",
+     "When the headache is severe, do you have nausea, a desire to vomit, or sensitivity to bright light or loud sounds?"
+    ],
+    "followup_questions": [
+     "Before a headache starts, do you see flashing lights, bright spots, zigzag ripples, or a missing patch in your vision (visual aura)?",
+     "Do mild activities such as walking, bending over, or climbing stairs make the headache noticeably worse?",
+     "Before an attack, were you drinking red wine, eating cheese or chocolate, sleep-deprived, under stress, or having your period?"
+    ],
+    "stop_conditions": [
+     "Criteria are met for migraine attack duration, throbbing quality, unilateral location, photophobia/phonophobia, and worsening with routine activity",
+     "Aura features and attack frequency have been clarified",
+     "Red flags for secondary headache such as sudden thunderclap severe pain (subarachnoid hemorrhage) and brain tumor have been excluded"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Specialized neurological examination (pathological signs, meningeal irritation signs, and fundoscopic examination are all negative)"
+    ],
+    "if_suspected": [
+     "Brain MRI/MRA or head CT (for first attack, change in headache character, new onset at age >50 years, or accompanying focal neurological signs, to definitively exclude intracranial vascular malformation, aneurysm, and space-occupying lesions)",
+     "Transcranial Doppler ultrasound (TCD) plus bubble study (to screen for migraine associated with patent foramen ovale [PFO])"
+    ],
+    "avoid": [
+     "Frequent repeated head CT in typical young patients with recurrent migraine and normal neurological examination (increases radiation exposure)",
+     "Blind lumbar puncture without signs of encephalitis"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Rapid pain relief during acute attacks: NSAIDs (such as ibuprofen, naproxen, diclofenac) are first choice for mild-to-moderate attacks",
+     "For moderate-to-severe attacks, migraine-specific triptans (such as zolmitriptan, rizatriptan, taken as early as possible in the headache) or novel CGRP receptor antagonists (gepants) are first choice",
+     "Add metoclopramide if nausea is present",
+     "Preventive treatment (>=2 attacks per month or severely affecting daily life): first choice includes beta-blockers (propranolol), antiepileptic drugs (topiramate/valproate), calcium channel blockers (flunarizine), or CGRP monoclonal antibodies."
+    ],
+    "safety_warnings": [
+     "Triptans have vasoconstrictive effects and are absolutely contraindicated in patients with ischemic heart disease, coronary heart disease, uncontrolled hypertension, and cerebrovascular disease",
+     "Using simple analgesics or triptans for more than 10-15 days per month can induce medication-overuse headache (MOH); analgesic frequency must be strictly controlled and preventive treatment started early",
+     "Ergotamine drugs are contraindicated during pregnancy and in severe cardiovascular disease"
+    ],
+    "personalization": [
+     "Women with menstrual migraine: prophylactic oral NSAIDs or triptans may be started 2 days before the period and continued until the period ends",
+     "Patients with comorbid sleep disorders or anxiety: amitriptyline or flunarizine is preferred for preventive treatment",
+     "Patients with patent foramen ovale (PFO) and drug-refractory migraine: percutaneous PFO closure by cardiology may be evaluated"
+    ]
+   },
+   "disease": "Migraine",
+   "department": "Neurology"
+  },
+  {
+   "presentation": "Transient brain dysfunction caused by sudden abnormal hypersynchronous discharge of cerebral neurons, characterized by paroxysmal, transient, stereotyped, and repetitive features. Generalized tonic-clonic seizure (GTCS/grand mal) presents with sudden loss of consciousness, screaming and falling, generalized muscle tonic convulsions, upward deviation of the eyes, foaming at the mouth, tongue biting, cyanosis, and urinary incontinence; the seizure lasts 1-3 minutes, followed by postictal drowsiness, headache, and fatigue; focal seizures may present with unilateral limb convulsions, localized sensory abnormalities, or impaired consciousness with arrest of activity.",
+   "interview_guide": {
+    "first_questions": [
+     "During an attack, is there sudden loss of consciousness, unresponsiveness to calling, and falling to the ground?",
+     "What exactly are the limb convulsions like during an attack? Are they symmetric violent jerking of all four limbs, or unilateral convulsions? Is there upward deviation of the eyes, locked jaw, foaming at the mouth, or tongue biting with bleeding?",
+     "How many minutes do the attacks usually last? After waking up, do you feel extremely fatigued, have a headache, and not remember what just happened?"
+    ],
+    "followup_questions": [
+     "Before the attack, is there any aura (such as smelling an odd odor, a rising epigastric sensation, flashing lights, or palpitations and fear)?",
+     "Do you have a history of febrile seizures, traumatic brain injury, encephalitis, cerebral hemorrhage, cerebral infarction, or a family history of epilepsy?",
+     "Before the attack, were there any triggers such as staying up late, alcohol use, missed doses of antiepileptic drugs, flashing light stimulation, or intense emotional excitement?"
+    ],
+    "stop_conditions": [
+     "Stereotyped attack features, duration, and convulsion pattern (generalized vs focal) have been clarified",
+     "Syncope, cardiogenic Adams-Stokes syndrome, and hysterical pseudoseizures have been ruled out",
+     "Triggers and history of regular antiepileptic drug use are clear"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Long-term video electroencephalography (VEEG)/ambulatory EEG (to capture epileptiform discharges: spike waves, sharp waves, spike-and-slow-wave complexes; gold standard for diagnosis and classification)",
+     "Brain MRI without contrast plus hippocampal protocol (to screen for structural causes such as brain tumor, vascular malformation, hippocampal sclerosis, and cortical dysplasia)",
+     "Blood chemistry (electrolytes Na+/Ca2+, fasting glucose, liver and kidney function—to screen for metabolic seizures such as hyponatremia, hypoglycemia, and hypocalcemia)"
+    ],
+    "if_suspected": [
+     "Autoimmune encephalitis antibody panel testing (for acute or subacute attacks with psychiatric abnormalities or cognitive decline)",
+     "Genetic testing (hereditary epilepsy syndromes)",
+     "Lumbar puncture for cerebrospinal fluid testing (fever with suspected central nervous system infection)"
+    ],
+    "avoid": [
+     "Relying solely on low-resolution noncontrast head CT instead of high-field high-resolution brain MRI when there is no indication of traumatic brain injury or fracture",
+     "Blindly using inappropriate multidrug combination antiepileptic therapy before the seizure type is clarified"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Monotherapy is the preferred principle, with drug selection based on seizure type: broad-spectrum antiepileptic drugs (sodium valproate, levetiracetam, lamotrigine, topiramate) are first choice for generalized seizures",
+     "For focal seizures, carbamazepine, oxcarbazepine, lamotrigine, and levetiracetam are first choice",
+     "Regular lifelong or long-term medication; only after 3-5 years of sustained seizure freedom may drugs be slowly tapered and withdrawn under close EEG monitoring",
+     "For status epilepticus (SE), urgently administer intravenous diazepam/midazolam to stop seizures and maintain a patent airway."
+    ],
+    "safety_warnings": [
+     "Sodium valproate is severely teratogenic (neural tube defects) and should in principle be avoided in women of childbearing age who have reproductive plans",
+     "Monitor liver function and platelets during treatment",
+     "Before carbamazepine/oxcarbazepine use, HLA-B*1502 genetic screening is strongly recommended; it is contraindicated in positive patients (to prevent severe exfoliative dermatitis/Stevens-Johnson syndrome)",
+     "Abrupt drug discontinuation or missed doses without authorization are strictly prohibited; sudden withdrawal can easily trigger fatal status epilepticus (SE)"
+    ],
+    "personalization": [
+     "Women of childbearing age planning pregnancy: lamotrigine or levetiracetam monotherapy at the lowest effective dose is preferred, with high-dose folic acid supplementation throughout",
+     "Older patients with epilepsy: prefer drugs with fewer drug interactions and less cognitive impact, such as levetiracetam and lamotrigine",
+     "Drug-refractory epilepsy (frequent seizures despite standard combination of 2 first-line drugs): evaluate epileptogenic focus resection surgery or vagus nerve stimulation (VNS)"
+    ]
+   },
+   "disease": "Epilepsy",
+   "department": "Neurology"
+  },
+  {
+   "presentation": "Insidious onset and progressively worsening cognitive decline and behavioral abnormalities. Core features include early short-term memory impairment (forgetting what was just done, repeating the same sentence or question, misplacing everyday items such as keys), followed by long-term memory impairment, disorientation (getting lost, not knowing the date), language impairment (word-finding difficulty, inability to name familiar objects), visuospatial skill impairment, executive dysfunction (inability to manage accounts or perform familiar household chores), and personality and behavioral changes (suspiciousness and delusions of spousal infidelity, hallucinations, delusions, aggression, apathy), with gradual loss of ability to perform activities of daily living.",
+   "interview_guide": {
+    "first_questions": [
+     "Has the older adult's memory declined noticeably recently? Is it mainly forgetting things that just happened or words just spoken?",
+     "Has he/she ever gotten lost outside and been unable to find the way home? Can he/she clearly state today's date and current location?",
+     "Can he/she still independently do things that used to be routine, such as buying groceries and handling money, using a mobile phone, or cooking?"
+    ],
+    "followup_questions": [
+     "Has the older adult's personality and temperament changed greatly recently? Is there marked suspiciousness (suspecting others of stealing, suspecting family members), irritability, or emotional apathy?",
+     "Is there a history of cerebral infarction, cerebral hemorrhage, hypertension, diabetes, or family history of dementia?",
+     "Has the memory decline worsened gradually over several years, or suddenly deteriorated overnight in a stepwise manner? (to differentiate vascular dementia)"
+    ],
+    "stop_conditions": [
+     "The degree of short-term memory impairment, executive dysfunction, and impairment in activities of daily living has been clarified",
+     "Accompanying behavioral and psychological symptoms of dementia (BPSD) have been assessed",
+     "Reversible cognitive disorders such as vascular dementia, depressive pseudodementia, hypothyroidism, and vitamin B12 deficiency have been excluded"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Neuropsychological scale assessment (Mini-Mental State Examination [MMSE], Montreal Cognitive Assessment [MoCA], Activities of Daily Living [ADL] scale)",
+     "High-resolution brain MRI (characteristic changes include hippocampal volume loss, medial temporal lobe atrophy, ventricular enlargement, and widened sulci, without severe focal stroke lesions)",
+     "Blood chemistry (thyroid function TSH, serum vitamin B12 and folate levels, Treponema pallidum antibody TPPA, HIV antibody—to screen for reversible dementia)"
+    ],
+    "if_suspected": [
+     "Amyloid PET brain imaging (Aβ-PET) and Tau-PET imaging (early precision molecular imaging diagnosis)",
+     "Cerebrospinal fluid (CSF)/peripheral blood biomarker testing (decreased Aβ42, decreased Aβ42/Aβ40, elevated total Tau and phosphorylated Tau-p181)",
+     "APOE genotyping (APOE-ε4 allele testing to assess genetic risk)"
+    ],
+    "avoid": [
+     "Blind emergency lumbar puncture when there is no suspicion of meningitis or subarachnoid hemorrhage",
+     "Inappropriate use of extensive contrast-enhanced CT scanning for mild forgetfulness alone"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Cognitive-enhancing drugs: cholinesterase inhibitors (donepezil, rivastigmine, galantamine) are first choice for mild-to-moderate AD",
+     "For moderate-to-severe AD, an NMDA receptor antagonist (memantine hydrochloride) is used or added",
+     "Targeted anti-Aβ monoclonal antibody biologics (such as lecanemab, for mild cognitive impairment and early AD)",
+     "For behavioral and psychological symptoms of dementia (BPSD), nonpharmacological psychological and environmental interventions are preferred; for severe agitation and impulsivity, short-term low-dose atypical antipsychotics (olanzapine/quetiapine) may be selected."
+    ],
+    "safety_warnings": [
+     "Cholinesterase inhibitors (such as donepezil) can cause severe bradycardia, atrioventricular block, and syncope; they are contraindicated in patients with sick sinus syndrome and severe conduction block",
+     "Atypical antipsychotics in patients with dementia require strict evaluation, with vigilance for cerebrovascular events and increased mortality risk",
+     "During anti-Aβ monoclonal antibody treatment, regular follow-up brain MRI is mandatory, with close monitoring for amyloid-related imaging abnormalities (ARIA-E edema/ARIA-H microhemorrhage)"
+    ],
+    "personalization": [
+     "Mild-to-moderate patients: maintenance treatment with donepezil 5-10 mg/day",
+     "Patients progressing to moderate-to-severe disease: donepezil combined with memantine (10 mg bid) for synergistic effect",
+     "Patients with prominent insomnia and anxiety: low-dose trazodone or mirtazapine may be added"
+    ]
+   },
+   "disease": "Alzheimer disease",
+   "department": "Neurology"
+  },
+  {
+   "presentation": "Patients often have a clear history of head trauma, with immediate transient loss of consciousness (usually not exceeding 30 minutes) or confusion after injury. Chief complaints are mostly severe headache, dizziness, nausea and vomiting; some patients have retrograde or anterograde amnesia. Physical examination may show autonomic dysfunction such as pallor, sweating, and a rapid thready pulse, but focal neurological signs are usually absent, and pupillary light reflexes are normal. Symptoms usually gradually resolve over hours to days.",
+   "interview_guide": {
+    "first_questions": [
+     "At the time of injury, was there any brief loss of consciousness or confusion? How long did it last?",
+     "After the injury, have you had nausea, vomiting, or memory gaps?",
+     "How severe are your headache and dizziness now, and are they getting worse?"
+    ],
+    "followup_questions": [
+     "After the injury, have you had blurred vision, double vision, or limb weakness?",
+     "Are you currently taking anticoagulant drugs, or do you have a history of coagulation disorders?",
+     "What was the injury mechanism (such as a fall from height or a car crash), and was the head protected at the time?"
+    ],
+    "stop_conditions": [
+     "A history of trauma is clear and there are no signs of progressive neurological deterioration.",
+     "Initial consciousness assessment (Glasgow Coma Scale [GCS] score 15) and vital sign monitoring have been completed.",
+     "High-risk factors for intracranial hemorrhage (such as advanced age, anticoagulant therapy, severe alcohol intoxication) have been excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Glasgow Coma Scale (GCS)",
+     "Noncontrast head CT (to exclude intracranial hemorrhage, especially in high-risk patients)",
+     "Neurological physical examination (focusing on pupils, muscle strength, and pathological reflexes)"
+    ],
+    "if_suspected": [
+     "Brain MRI (if CT is negative but symptoms persist, with suspicion of subtle injury)",
+     "Vestibular function testing (for patients with persistent vertigo)",
+     "Cognitive function scale assessment (such as SCAT5, for recovery assessment after sports injury)"
+    ],
+    "avoid": [
+     "Routine lumbar puncture (contraindicated when there are no meningeal irritation signs or evidence of intracranial hypertension)",
+     "Repeated head CT scans (avoid unnecessary radiation exposure)",
+     "Unnecessary use of sedative-hypnotic drugs (may mask changes in condition)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First choice is absolute bed rest and cognitive rest; during the acute phase (24-48 hours), restrict physical activity and screen time and avoid bright light and noise stimulation. After symptoms improve, gradually increase activity according to a 'stepped' rehabilitation principle. Symptomatic treatment: mild headache may be treated short-term with acetaminophen; aspirin or ibuprofen is strictly prohibited in the acute phase to prevent bleeding risk. Most patients do not require specific drug treatment and have a good prognosis."
+    ],
+    "safety_warnings": [
+     "Antiplatelet or anticoagulant drugs are strictly prohibited in the acute phase to avoid inducing delayed intracranial hemorrhage.",
+     "Be alert for delayed intracranial hematoma; if projectile vomiting or decreased consciousness occurs, immediate repeat CT is required.",
+     "Avoid early return to driving, working at heights, or strenuous exercise until completely asymptomatic and evaluated by a physician."
+    ],
+    "personalization": [
+     "Pediatric patients require prolonged observation; parents should closely monitor nighttime sleep and mental status.",
+     "Because older adults have less buffering space due to brain atrophy, more proactive imaging evaluation is recommended even for mild trauma.",
+     "Patients with a history of migraine may have increased attack frequency and require enhanced psychological counseling and lifestyle intervention."
+    ]
+   },
+   "disease": "concussion",
+   "department": "Neurology"
+  },
+  {
+   "presentation": "Patients often report sudden severe unilateral upper limb pain, followed by muscle weakness or paralysis. The pain is mostly located in the scapular region or upper arm, is burning or tearing in nature, and worsens at night. After days to weeks, the pain lessens, but marked weakness (such as difficulty raising the arm or reduced grip strength) and sensory loss remain; some patients have deltoid or biceps atrophy.",
+   "interview_guide": {
+    "first_questions": [
+     "When did the pain in your arm start? Where exactly is it most painful?",
+     "Have you recently had a cold, fever, vaccination, or shoulder injury?"
+    ],
+    "followup_questions": [
+     "After the pain eased, did you notice that you could not lift your arm or had weakness when holding things?",
+     "Besides pain and weakness, do you have numbness or abnormal sensation in your arm?"
+    ],
+    "stop_conditions": [
+     "The sequence and progression of pain and weakness have been clarified.",
+     "Key history for common differential diagnoses such as cervical spondylosis and frozen shoulder has been excluded.",
+     "It has been confirmed that there are no signs of recent severe trauma or tumor metastasis."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Electromyography (EMG) and nerve conduction velocity testing",
+     "Upper limb muscle strength and sensory distribution examination",
+     "Cervical spine MRI (to rule out spinal cord compression)"
+    ],
+    "if_suspected": [
+     "Serum inflammatory markers (ESR, CRP)",
+     "Autoimmune antibody panel screening",
+     "Upper limb vascular ultrasound"
+    ],
+    "avoid": [
+     "Routine plain X-ray (low diagnostic value for neuropathy)",
+     "Unnecessary whole-body PET-CT (unless malignancy is highly suspected)",
+     "Repeat lumbar puncture (when there is no evidence of elevated cerebrospinal fluid protein)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "In the acute phase, glucocorticoids are first-line (e.g., prednisone 0.5-1mg/kg/d), tapered gradually after a 2-3 week course",
+     "Combine B vitamins (mecobalamin, vitamin B1) for neurotrophic support. For severe pain, gabapentin or pregabalin may be used short-term. During recovery, start physical therapy as early as possible with passive and active range-of-motion training to prevent muscle atrophy and joint stiffness."
+    ],
+    "safety_warnings": [
+     "Long-term glucocorticoid use requires monitoring of blood glucose, blood pressure, and gastrointestinal reactions, with vigilance for gastrointestinal bleeding.",
+     "Avoid concomitant use with NSAIDs because of the increased risk of gastric mucosal injury.",
+     "Watch for signs of secondary infection, especially in patients with diabetes or immunosuppression."
+    ],
+    "personalization": [
+     "In older patients, reduce the initial glucocorticoid dose as appropriate and prolong the tapering period.",
+     "In patients with diabetes, closely monitor glycemic fluctuations and adjust the glucose-lowering regimen if necessary.",
+     "Use glucocorticoids with caution in pregnant women; prioritize physical therapy and vitamin support."
+    ]
+   },
+   "disease": "brachial neuritis",
+   "department": "Neurology"
+  },
+  {
+   "presentation": "Patients often report severe shoulder or upper limb pain, followed by decreased sensation, numbness, or sensory loss in specific areas. Motor impairment manifests as weakness or paralysis of some upper limb muscles, such as inability to shrug the shoulder, flex the elbow, or extend the wrist, with limited fine hand movements. Depending on the injury site, characteristic postures of the 'upper trunk type' (Erb palsy) or 'lower trunk type' (Klumpke palsy) may appear, such as 'waiter's tip' deformity.",
+   "interview_guide": {
+    "first_questions": [
+     "What was the specific mechanism of injury? (e.g., motor vehicle accident, traction injury, birth injury)",
+     "Did the symptoms appear immediately after the injury or gradually worsen?",
+     "What functional impairment bothers you most at present? (e.g., inability to raise the arm, finger numbness)"
+    ],
+    "followup_questions": [
+     "Does the pain radiate to the neck or supraclavicular region?",
+     "Do you have signs of Horner syndrome (e.g., ptosis, miosis)?",
+     "Have you had any treatment or rehabilitation training since the injury? How effective was it?"
+    ],
+    "stop_conditions": [
+     "The history of trauma has been clarified and typical signs (such as paralysis of specific muscle groups) have been confirmed.",
+     "Emergent complications such as cervical spine fracture or spinal cord injury have been excluded.",
+     "The patient has clearly described the distribution of sensory and motor impairment."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Electromyography (EMG) and nerve conduction velocity (NCV) testing",
+     "Brachial plexus magnetic resonance imaging (MRI)",
+     "Cervical spine X-ray or noncontrast CT"
+    ],
+    "if_suspected": [
+     "High-resolution ultrasound (to assess nerve continuity)",
+     "Brachial plexus contrast study (when nerve rupture is suspected)",
+     "Chest CT (to rule out compression by a lung apex tumor)"
+    ],
+    "avoid": [
+     "Whole-body bone scan without indication",
+     "Repeat invasive nerve biopsy",
+     "Nontargeted routine comprehensive blood chemistry panel"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "In the acute phase, conservative treatment is primary, including strict immobilization of the affected limb, use of nonsteroidal anti-inflammatory drugs (e.g., ibuprofen 0.4g tid) to control pain, and neurotrophic drugs (mecobalamin 0.5mg tid). Combine with physical therapy, such as electrical stimulation to prevent muscle atrophy. If there are no signs of recovery after 3-6 months or if there is complete rupture, surgical exploration and repair should be performed as early as possible."
+    ],
+    "safety_warnings": [
+     "Long-term glucocorticoid use requires vigilance for the risk of hyperglycemia and gastrointestinal bleeding",
+     "Avoid heat application in areas with sensory loss to prevent burns",
+     "With nerve block anesthesia, guard against local infection and neurotoxic reactions"
+    ],
+    "personalization": [
+     "In pediatric patients, consider the impact on growth and development and prioritize minimally invasive repair",
+     "In older patients, adjust analgesic doses to prevent falls and cognitive impairment",
+     "In patients with diabetes, closely monitor blood glucose to avoid worsening neuropathy"
+    ]
+   },
+   "disease": "brachial plexus injury",
+   "department": "Neurology"
+  },
+  {
+   "presentation": "Patients often present with occipitocervical pain, especially aggravated by coughing, sneezing, or straining. Some patients have dizziness, balance impairment, unsteady gait, or even numbness and weakness of the limbs. Severe cases may be accompanied by symptoms of medullary compression such as dysphagia, hoarseness, and abnormal respiratory rhythm. Children may present with developmental delay or intellectual disability.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have continuous or paroxysmal occipitocervical pain?",
+     "Have you recently felt dizzy, unsteady when walking, or numbness in the limbs?"
+    ],
+    "followup_questions": [
+     "Is the pain aggravated by coughing, sneezing, or straining?",
+     "Do you have difficulty swallowing, voice changes, or abnormal breathing?"
+    ],
+    "stop_conditions": [
+     "The patient has clearly described typical symptoms (such as occipitocervical pain with neurological deficit).",
+     "Symptoms are clearly related to changes in position or increased abdominal pressure.",
+     "Other common neurological diseases (such as cervical spondylosis and multiple sclerosis) have been excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Brain and cervical spine MRI (including sagittal and axial views)",
+     "Myelography (when needed to assess cerebrospinal fluid flow)"
+    ],
+    "if_suspected": [
+     "CT angiography (CTA) to rule out vascular compression",
+     "Electromyography (EMG) to assess peripheral nerve function"
+    ],
+    "avoid": [
+     "Lumbar puncture (may worsen the condition)",
+     "Routine plain X-ray (limited diagnostic value)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Mildly affected asymptomatic patients may be followed with regular observation",
+     "For symptomatic patients, surgery is first-line, including posterior fossa decompression and duraplasty. After surgery, closely monitor vital signs and neurological recovery. Nonpharmacologic interventions include avoiding strenuous exercise and controlling actions that increase abdominal pressure (such as breath holding and lifting heavy objects)."
+    ],
+    "safety_warnings": [
+     "Before surgery, assess for intracranial hypertension to avoid blind surgery.",
+     "After surgery, take care to prevent infection and cerebrospinal fluid leakage.",
+     "Be alert for postoperative respiratory depression or worsening swallowing dysfunction."
+    ],
+    "personalization": [
+     "In pediatric patients, pay attention to growth and development and protection of cognitive function.",
+     "In older patients, assess cardiopulmonary function for tolerance of anesthesia.",
+     "Patients with concomitant Chiari II malformation require multidisciplinary combined treatment."
+    ]
+   },
+   "disease": "Chiari malformation",
+   "department": "Neurology"
+  },
+  {
+   "presentation": "Patients often have sudden severe headache, described as exploding or tearing, with nausea and vomiting. Some patients have seizures, manifesting as limb convulsions, loss of consciousness, or abnormal sensations. If bleeding occurs, focal neurological deficits such as hemiplegia, aphasia, and visual impairment may develop rapidly. About half of patients present with recurrent seizures as the first symptom; seizures without an obvious trigger require high vigilance.",
+   "interview_guide": {
+    "first_questions": [
+     "Did your headache start suddenly? How severe is the pain?",
+     "Have you had convulsions, loss of consciousness, or limb weakness?",
+     "Have you had similar headaches or seizures in the past?"
+    ],
+    "followup_questions": [
+     "If convulsions are mentioned: What exactly happens during an episode? How long does it last?",
+     "If headache is mentioned: Is it accompanied by projectile vomiting or blurred vision?",
+     "Is there a family history of cerebrovascular disease or similar conditions?"
+    ],
+    "stop_conditions": [
+     "A sudden severe headache with neurological deficit has been clearly described",
+     "Typical seizures have been confirmed and there are no other high-risk factors",
+     "The patient's vital signs are stable and key symptoms have been fully documented"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Noncontrast head CT (to rule out acute hemorrhage)",
+     "Brain MRI + MRA (to assess vascular structure and hemodynamics)",
+     "Digital subtraction angiography (DSA) (gold standard for diagnosis)"
+    ],
+    "if_suspected": [
+     "Transcranial Doppler ultrasound (TCD) to screen for abnormal blood flow",
+     "Electroencephalography (EEG) to assess epileptic discharges",
+     "Coagulation function tests (to rule out bleeding tendency)"
+    ],
+    "avoid": [
+     "Lumbar puncture (contraindicated before mass effect is ruled out)",
+     "Plain X-ray (no diagnostic value for vascular malformations)",
+     "Using noncontrast CTA instead of DSA as the final diagnostic basis"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "In the acute phase, control intracranial pressure and achieve hemostasis; use mannitol for dehydration to lower intracranial pressure and antiepileptic drugs such as levetiracetam to prevent seizures. After stabilization, choose microsurgical resection, interventional embolization, or stereotactic radiotherapy according to the size and location of the malformation nidus. Nonpharmacologic interventions include strict blood pressure control and avoidance of strenuous exercise. The course of treatment depends on the individual regimen and usually requires long-term follow-up."
+    ],
+    "safety_warnings": [
+     "Anticoagulation therapy is strictly prohibited before bleeding risk has been assessed",
+     "During interventional procedures, guard against intraprocedural rupture causing massive hemorrhage",
+     "After radiotherapy, monitor for radiation-induced cerebral edema and necrosis"
+    ],
+    "personalization": [
+     "In pediatric patients, prioritize minimally invasive intervention to reduce effects on development",
+     "For older patients or those with many comorbidities, conservative treatment or palliative radiotherapy is recommended",
+     "In pregnant women, weigh the timing of surgery against fetal safety and avoid radiation exposure"
+    ]
+   },
+   "disease": "cerebral arteriovenous malformation",
+   "department": "Neurology"
+  },
+  {
+   "presentation": "Patients often report severe, explosive pain around one orbit or in the temporal region, rated 10/10. The attacks have strict temporal regularity, often occurring suddenly at a fixed time at night and lasting 15 minutes to 3 hours. During attacks, autonomic symptoms such as ipsilateral conjunctival injection, lacrimation, nasal congestion, rhinorrhea, and eyelid edema are present; patients often appear restless or pace back and forth, unlike migraine patients who prefer to lie still.",
+   "interview_guide": {
+    "first_questions": [
+     "Is the pain strictly located in one orbital or temporal region?",
+     "Does each headache attack last between 15 minutes and 3 hours?",
+     "During an attack, do you have redness, tearing, or nasal congestion on the same side?"
+    ],
+    "followup_questions": [
+     "Do the attacks occur at a specific time of day (such as late at night or early morning)?",
+     "During an attack, do you feel extremely restless and unable to stay still?",
+     "Recently, have headaches been triggered after drinking alcohol or smoking?"
+    ],
+    "stop_conditions": [
+     "Pain has been confirmed as unilateral, severe, and accompanied by typical autonomic symptoms.",
+     "The periodic pattern and duration characteristics of attacks have been confirmed.",
+     "Obvious warning signs of other secondary headaches have been excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Brain MRI without and with contrast",
+     "EEG (to exclude epilepsy-related pain)"
+    ],
+    "if_suspected": [
+     "Sinus CT (to exclude sinusitis)",
+     "Carotid ultrasound (to exclude vascular disease)"
+    ],
+    "avoid": [
+     "Routine lumbar puncture (when there is no evidence of increased intracranial pressure)",
+     "Unnecessary long-term empiric antidepressant trials"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For acute attacks, first-line treatment is high-flow 100% oxygen (12–15 L/min via non-rebreather mask) for 15–20 minutes, or subcutaneous sumatriptan 5–6 mg. First-line preventive medication is verapamil, starting at 80 mg three times daily and gradually titrated to an effective dose (usually requiring more than 480 mg/day); treatment duration depends on the clinical course. Avoid opioids."
+    ],
+    "safety_warnings": [
+     "Verapamil may cause bradycardia or atrioventricular block; ECG monitoring is required.",
+     "Sumatriptan is contraindicated in patients with ischemic heart disease or uncontrolled hypertension.",
+     "Long-term oxygen therapy requires attention to fire safety and care for nasal mucosal dryness."
+    ],
+    "personalization": [
+     "In older adults, verapamil should be started at a low dose with close heart rate monitoring.",
+     "Triptans should be used with caution in pregnant women; oxygen therapy is preferred.",
+     "Oxygen therapy regimens need adjustment in patients with coexisting sleep apnea."
+    ]
+   },
+   "disease": "Cluster headache",
+   "department": "Neurology"
+  },
+  {
+   "presentation": "Patients often have sudden unilateral limb jerking, paresthesia (such as numbness or tingling), visual or auditory hallucinations, or confusion with automatisms (such as lip smacking or fumbling). Seizures are usually brief (seconds to minutes) and may be accompanied by postictal fatigue or disorientation. Symptoms are stereotyped and repetitive, often beginning in one body part and possibly spreading.",
+   "interview_guide": {
+    "first_questions": [
+     "What exactly happens during a seizure? Does it start at one point in the body?",
+     "Are you conscious during the seizure? Can you remember what happened during the seizure?",
+     "How often do seizures occur? How long does each one last?"
+    ],
+    "followup_questions": [
+     "Do you have an aura before a seizure (such as stomach discomfort or a peculiar smell)?",
+     "After a seizure, do you have residual symptoms such as limb weakness or slurred speech?",
+     "Have you recently had head trauma, infection, or sleep deprivation?"
+    ],
+    "stop_conditions": [
+     "The onset site, duration, and level of consciousness during seizures have been clearly described.",
+     "Triggers and any previous similar history have been confirmed.",
+     "Key information on seizure frequency and postictal recovery has been obtained."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Video electroencephalogram (VEEG) monitoring",
+     "Brain MRI without and with contrast",
+     "Routine blood chemistry tests"
+    ],
+    "if_suspected": [
+     "Prolonged video EEG (more than 24 hours)",
+     "PET-CT metabolic imaging",
+     "Lumbar puncture for cerebrospinal fluid analysis"
+    ],
+    "avoid": [
+     "Whole-body bone scan without indication",
+     "Unnecessary invasive brain biopsy",
+     "Plain X-ray examination alone"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is oral carbamazepine or oxcarbazepine. The initial dose should be increased gradually from a low dose; for example, start carbamazepine at 100 mg twice daily and gradually increase to an effective dose (usually 400–800 mg/day). After at least 2 years without seizures, tapering and discontinuation may be considered. Recording a seizure diary is also recommended, and triggers such as staying up late and alcohol use should be avoided. If seizures are poorly controlled with medication, the possibility of surgery should be assessed."
+    ],
+    "safety_warnings": [
+     "Carbamazepine may cause severe rash (such as Stevens-Johnson syndrome), and close observation is required early in treatment.",
+     "It interacts with many drugs, especially anticoagulants and contraceptives, requiring dose adjustment.",
+     "Long-term use may lead to hyponatremia or elevated liver enzymes; periodic monitoring of blood counts and liver function is required."
+    ],
+    "personalization": [
+     "Older adults should start at a low dose and be monitored for fall risk and cognitive adverse effects.",
+     "Valproate should be used with caution in women of childbearing age; drugs with less effect on the fetus should be preferred, and folic acid supplementation should be given.",
+     "In patients with hepatic or renal impairment, drug doses should be adjusted according to creatinine clearance."
+    ]
+   },
+   "disease": "Focal epilepsy",
+   "department": "Neurology"
+  },
+  {
+   "presentation": "Patients often present with progressive intellectual disability, delayed language development, and social anxiety. Typical signs include facial features such as a long face, large ears, and a prominent forehead; some adult men may have enlarged testes. Behaviors commonly include hyperactivity, stereotyped movements (such as hand flapping), and autism spectrum symptoms. Learning difficulties may appear in childhood, and seizures or motor coordination impairment may occur after puberty.",
+   "interview_guide": {
+    "first_questions": [
+     "Is your child's language development significantly behind that of other children of the same age?",
+     "Are there male relatives in the family with intellectual disability or similar behavioral problems?"
+    ],
+    "followup_questions": [
+     "Have you noticed distinctive facial features (such as a long face or large ears)?",
+     "Are there signs of hyperactivity, attention deficit, or repetitive body movements?"
+    ],
+    "stop_conditions": [
+     "Family history has been clarified and the clinical presentation is highly typical.",
+     "Genetic testing has been completed and an FMR1 gene mutation has been confirmed.",
+     "Other common inherited metabolic diseases and neurodevelopmental disorders have been excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "FMR1 gene methylation and CGG repeat sequence analysis",
+     "Chromosome karyotype analysis (adjunctive screening)"
+    ],
+    "if_suspected": [
+     "EEG (to assess seizure risk)",
+     "Brain MRI (to exclude structural lesions)",
+     "Hearing and vision assessment"
+    ],
+    "avoid": [
+     "Whole-body metabolic screening without indication",
+     "Unnecessary invasive biopsy",
+     "Empirical drug treatment trials based solely on phenotype"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "There is currently no cure, and treatment is mainly symptomatic and supportive. First-line interventions include behavioral therapy (for ADHD and autism symptoms), special education programs, and speech therapy. Pharmacologically, risperidone or aripiprazole may be used as appropriate to control severe irritability, and atomoxetine may improve attention. Multidisciplinary collaboration and regular follow-up of neurodevelopmental status are required."
+    ],
+    "safety_warnings": [
+     "Antipsychotics require monitoring for extrapyramidal reactions and metabolic syndrome.",
+     "Avoid sedative drugs that may worsen cognitive impairment.",
+     "Pay attention to drug interactions, especially with multiple-drug regimens."
+    ],
+    "personalization": [
+     "In childhood, nonpharmacologic behavioral interventions should be prioritized.",
+     "During adolescence, focus on mental health and transition-period educational planning.",
+     "Female carriers need monitoring for the risk of premature ovarian insufficiency."
+    ]
+   },
+   "disease": "fragile X syndrome",
+   "department": "Neurology"
+  },
+  {
+   "presentation": "Patients often present with severe intellectual disability, developmental delay, and refractory seizures. Typical signs include midline facial structural abnormalities such as a single eye or centrally placed eyes (cyclopia), absent or flat nasal bridge, and cleft lip and palate. In the neonatal period, weak sucking and feeding difficulties may be seen; some affected infants have abnormal muscle tone or convulsions. Diagnosis requires correlation with imaging.",
+   "interview_guide": {
+    "first_questions": [
+     "Did your child have facial malformations at birth (such as a single eye or absent nose)?",
+     "Does your child currently have frequent convulsions or loss of consciousness?",
+     "Are your child's motor development and language comprehension significantly behind those of peers?"
+    ],
+    "followup_questions": [
+     "If convulsions occur, what is their frequency and what exactly do they look like?",
+     "If feeding difficulties are present, has aspiration or failure to gain weight occurred?",
+     "Is there a family history of similar congenital malformations or genetic disease?"
+    ],
+    "stop_conditions": [
+     "Facial midline structural abnormalities accompanied by neurologic symptoms have been confirmed.",
+     "Prenatal ultrasound or postnatal MRI has been completed and the diagnosis confirmed.",
+     "Seizure types and frequency have been recorded in detail, and no further questioning is needed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Brain MRI",
+     "Noncontrast head CT",
+     "Video EEG (VEEG) monitoring"
+    ],
+    "if_suspected": [
+     "Chromosomal microarray analysis (CMA)",
+     "Whole-exome sequencing (WES)",
+     "Ocular ultrasound and fundus examination"
+    ],
+    "avoid": [
+     "Lumbar puncture (unless infection is present and there is no risk of increased intracranial pressure)",
+     "Routine chest X-ray (not first-line unless pulmonary complications are suspected)",
+     "Invasive brain biopsy"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "There is currently no curative treatment, and management is mainly symptomatic and supportive. First-line treatment is antiepileptic drugs to control seizures, commonly levetiracetam or valproate; doses should be adjusted by weight and serum drug concentrations monitored. Rehabilitation training should also be provided to improve motor and cognitive function; for patients with feeding difficulties, nasogastric tube nutritional support should be used to prevent aspiration pneumonia."
+    ],
+    "safety_warnings": [
+     "Avoid drugs that may worsen central nervous system depression.",
+     "Be aware of interactions between antiepileptic drugs and vitamin D metabolism.",
+     "Prevent deep vein thrombosis and pressure ulcers caused by long-term bed rest."
+    ],
+    "personalization": [
+     "In infants and young children, antiepileptic drug doses should be dynamically adjusted according to weight.",
+     "For patients with severe dysphagia, enteral nutrition access should be established as early as possible.",
+     "When multiple-system malformations are present, a multidisciplinary joint management plan is required."
+    ]
+   },
+   "disease": "Holoprosencephaly",
+   "department": "Neurology"
+  },
+  {
+   "presentation": "Patients often complain of severe unilateral ear pain, followed by ipsilateral weakness of the facial expression muscles (facial palsy), accompanied by tinnitus, hearing loss, or vertigo. Some patients may have clusters of vesicles in the external auditory canal or on the tympanic membrane, and the soft palate in the oral cavity may also be involved. Symptoms usually progress over several days; the pain is often burning or electric shock-like, and vigilance is needed to differentiate it from Bell's palsy.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you felt severe pain or a burning sensation deep in your ear?",
+     "Recently, have you noticed that one side of your face cannot close the eye or smile?",
+     "Have small blisters appeared around your ear or inside your mouth?"
+    ],
+    "followup_questions": [
+     "If you have hearing loss or a spinning sensation of vertigo, please describe how long it lasts.",
+     "Does the pain worsen after exposure to cold water or wind?",
+     "Recently, have you had a cold, fatigue, or a decline in immune function?"
+    ],
+    "stop_conditions": [
+     "The triad of unilateral facial palsy with ear herpes and severe pain has been clearly established.",
+     "Detailed questioning about hearing, vestibular function, and herpes distribution has been completed.",
+     "Other common causes of facial palsy (such as otitis media) have been excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Brain MRI without and with contrast (to exclude brainstem lesions)",
+     "Pure-tone audiometry and vestibular function tests",
+     "Otoscopy (to observe herpes distribution)"
+    ],
+    "if_suspected": [
+     "Lumbar puncture (cerebrospinal fluid virological testing)",
+     "Facial nerve electroneurography (to assess the degree of nerve injury)",
+     "Screening of blood glucose and immune markers"
+    ],
+    "avoid": [
+     "Routine X-ray examination (no diagnostic value for soft tissue and nerves)",
+     "Blind incision and drainage of herpes (likely to cause secondary infection)",
+     "Nonspecific antibiotic therapy (unless complicated by bacterial infection)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Start antiviral therapy within 72 hours of onset; first-line is valacyclovir 1 g orally, 3 times daily, for 7–10 days",
+     "Combine with glucocorticoids (e.g., prednisone 60 mg/day, gradually tapered) to reduce nerve edema. At the same time, give neurotrophic drugs (mecobalamin) and analgesics. Early intervention can significantly improve the prognosis of facial palsy."
+    ],
+    "safety_warnings": [
+     "Glucocorticoid use requires monitoring of blood glucose and blood pressure; use with caution in patients with diabetes",
+     "Antiviral drugs require dose adjustment in patients with renal impairment",
+     "Avoid stopping medication on one's own, which may lead to relapse"
+    ],
+    "personalization": [
+     "In elderly patients, pay attention to fall prevention and osteoporosis risk",
+     "Pregnant women should receive medication under joint evaluation by obstetrics and neurology",
+     "In patients with impaired renal function, adjust the antiviral dose according to creatinine clearance"
+    ]
+   },
+   "disease": "Hunter syndrome",
+   "department": "Neurology"
+  },
+  {
+   "presentation": "Patients often present with chronic, progressively worsening headache, mostly frontal or occipital, and more pronounced in the morning. Some patients may have epileptic seizures, manifesting as limb convulsions or loss of consciousness. If the cyst compresses specific functional areas, focal neurological deficits may occur, such as unilateral limb weakness, sensory abnormalities, or visual field defects. A small number of asymptomatic patients are found incidentally only during physical examination.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had persistent or paroxysmal headaches recently? Where exactly are they located?",
+     "Have you ever had sudden limb convulsions, loss of consciousness, or foaming at the mouth?",
+     "Recently, have you felt numbness or weakness in the hands or feet, or blurred vision?"
+    ],
+    "followup_questions": [
+     "Is the headache worst when you wake up in the morning, or worse when coughing or bending over?",
+     "Before a seizure, do you have any aura (such as smelling a strange odor or seeing flashes of light)? How often do seizures occur?",
+     "Are the symptoms gradually worsening or sudden in onset? Do you have any history of head trauma?"
+    ],
+    "stop_conditions": [
+     "Typical headache features and accompanying neurological localization signs have been clearly described.",
+     "The patient reports no specific symptoms, and previous imaging has already confirmed an asymptomatic cyst.",
+     "A complete history, medication history, and family history have been obtained, sufficient to assess risk."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Brain MRI without and with contrast (preferred, to clarify cyst nature, size, and mass effect)",
+     "Non-contrast brain CT (rapid screening for calcification, hemorrhage, or bony changes)"
+    ],
+    "if_suspected": [
+     "Electroencephalography (EEG, to assess epileptic activity and discharge location)",
+     "Cerebral angiography (DSA, when a cyst associated with vascular malformation is suspected)"
+    ],
+    "avoid": [
+     "Lumbar puncture (strictly prohibited before mass effect is excluded, to prevent cerebral herniation)",
+     "Routine plain X-ray (low resolution for soft tissue, limited diagnostic value)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For small asymptomatic cysts, conservative observation with regular follow-up MRI (every 6–12 months). For symptomatic patients, surgery is first-line, including microscopic craniotomy resection or endoscopic fenestration. Drug therapy is only used to control complications, such as antiepileptic drugs (sodium valproate 0.5 g bid) to prevent seizures, or short-term mannitol to reduce intracranial pressure. Non-drug interventions include avoiding strenuous exercise and controlling blood pressure."
+    ],
+    "safety_warnings": [
+     "Lumbar puncture is strictly prohibited before imaging evaluation to prevent inducing cerebral herniation.",
+     "Antiepileptic drugs require monitoring of liver function and complete blood count; avoid long-term misuse leading to drug resistance.",
+     "After surgery, be alert for complications such as infection, hemorrhage, and cerebrospinal fluid leakage, and closely monitor vital signs."
+    ],
+    "personalization": [
+     "In pediatric patients, growth and development factors should be considered, and minimally invasive surgery should be preferred to reduce damage to brain tissue.",
+     "In elderly patients with hypertension or diabetes, underlying disease control should be optimized before surgery to reduce surgical risk.",
+     "In pregnant patients, avoid radiation examinations as much as possible; MRI is preferred, and treatment should be mainly conservative unless life-threatening."
+    ]
+   },
+   "disease": "intracranial cyst",
+   "department": "Neurology"
+  },
+  {
+   "presentation": "Patients often complain of progressively worsening headache, mostly persistent dull pain or explosive headache, worse on waking and accompanied by projectile vomiting. Some patients have epileptic seizures (limb convulsions, loss of consciousness) or focal neurological deficits (such as unilateral limb weakness, slurred speech, blurred vision). If the tumor is located in specific functional areas, personality changes, memory decline, or balance disturbances may occur. Symptoms usually have an insidious onset and gradually worsen over time.",
+   "interview_guide": {
+    "first_questions": [
+     "When did the headache start? How have its nature and frequency changed?",
+     "Recently, have you had convulsions, fainting, or sudden weakness in the limbs?",
+     "Is it accompanied by nausea and vomiting, especially when getting up in the morning?"
+    ],
+    "followup_questions": [
+     "If the headache is severe, please describe the exact location of the pain and whether it radiates to the neck.",
+     "If you have vision problems, is it blurred vision or visual field defects (such as not being able to see clearly on both sides)?",
+     "Recently, have you had significant weight loss, fever, or a history of previous tumors?"
+    ],
+    "stop_conditions": [
+     "The nature of the headache, accompanying symptoms, and neurological localization signs have been clearly established.",
+     "The patient has provided complete information on past medical history and family history of tumors.",
+     "The course of symptom evolution is clear, sufficient to support the indication for imaging examination."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Non-contrast brain CT",
+     "Brain MRI without and with contrast",
+     "Fundus examination (to assess papilledema)"
+    ],
+    "if_suspected": [
+     "Electroencephalography (when epileptic seizures are suspected)",
+     "Whole-spine MRI (to screen for the source of metastatic tumors)",
+     "Whole-body PET-CT or chest/abdominal CT (to search for the primary lesion)"
+    ],
+    "avoid": [
+     "Lumbar puncture (strictly prohibited before intracranial hypertension is excluded, to prevent cerebral herniation)",
+     "Plain X-ray alone (low resolution for soft tissue, no diagnostic value)",
+     "Transcranial Doppler ultrasound (cannot replace structural imaging)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is surgical resection to clarify pathology and decompress. Before surgery, mannitol is needed for dehydration to lower intracranial pressure, and dexamethasone to reduce peritumoral edema. If surgery is not possible, choose radiotherapy or chemotherapy according to pathological type. For patients with epileptic seizures, immediately give antiepileptic drugs (such as levetiracetam) to control symptoms. Non-drug interventions include bed rest, elevating the head of the bed to 30 degrees, and avoiding straining during defecation."
+    ],
+    "safety_warnings": [
+     "Strictly prohibit blind lumbar puncture before imaging evaluation, to prevent inducing fatal cerebral herniation.",
+     "Long-term use of glucocorticoids requires vigilance for gastrointestinal bleeding and elevated blood glucose; concomitant gastric mucosal protective agents are recommended.",
+     "Antiepileptic drugs may cause drowsiness or rash; monitor liver and kidney function and blood drug concentrations."
+    ],
+    "personalization": [
+     "In elderly patients, adjust dehydrating agent doses to prevent electrolyte disturbances and cardiorenal failure.",
+     "In pregnant women, use contrast agents and radiation examinations with caution; prefer non-contrast MRI, and treatment requires multidisciplinary consultation.",
+     "In pediatric patients, pay attention to the effects of hormones on growth and development; shorten the course or reduce the dose as much as possible."
+    ]
+   },
+   "disease": "intracranial space-occupying lesion",
+   "department": "Neurology"
+  },
+  {
+   "presentation": "Patients often complain of muscle stiffness and difficulty relaxing after clenching the fist (myotonia), accompanied by progressive muscle weakness, especially in the face, neck, and distal limbs. Some patients have cataracts, arrhythmias, or endocrine abnormalities. Symptoms mostly begin in adulthood and are chronic and progressive, and are easily misdiagnosed as other neuromuscular diseases.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have muscle stiffness or difficulty relaxing quickly after clenching your fist?",
+     "Have you noticed reduced facial expression or difficulty chewing?"
+    ],
+    "followup_questions": [
+     "Do you have a history of blurred vision or cataracts?",
+     "Do you have palpitations, syncope, or a family history of similar disease?"
+    ],
+    "stop_conditions": [
+     "Typical myotonia manifestations and family history have been clearly established.",
+     "An initial neurological examination has been completed and other causes have been excluded.",
+     "The patient's complaints and signs are highly consistent, and there are no urgent complications."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Electromyography (EMG)",
+     "Genetic testing (DMPK or CNBP gene mutation analysis)",
+     "Electrocardiogram (ECG) to assess cardiac conduction function"
+    ],
+    "if_suspected": [
+     "Chest CT to screen for pulmonary infection or interstitial lesions",
+     "Ophthalmologic slit-lamp examination to assess cataracts",
+     "Serum creatine kinase (CK) level measurement"
+    ],
+    "avoid": [
+     "Unnecessary repeat muscle biopsy",
+     "Nonspecific whole-body imaging screening",
+     "Steroid therapy trial without indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes symptomatic management: use mexiletine to relieve myotonia, with dosage adjusted individually",
+     "Physical therapy to improve motor function",
+     "Regular monitoring of cardiac function to prevent arrhythmias. Non-drug interventions include avoiding cold stimulation and excessive fatigue."
+    ],
+    "safety_warnings": [
+     "Mexiletine may induce arrhythmias and requires close ECG monitoring.",
+     "Avoid drugs that worsen myotonia, such as quinine-class drugs.",
+     "Be alert for liver and kidney function impairment caused by long-term medication."
+    ],
+    "personalization": [
+     "In pediatric patients, adjust drug doses according to body weight.",
+     "In elderly patients, assess cardiac risk first before formulating a plan.",
+     "Pregnant women need to choose treatment options cautiously under multidisciplinary collaboration."
+    ]
+   },
+   "disease": "Myotonic dystrophy",
+   "department": "Neurology"
+  },
+  {
+   "presentation": "The child often presents with abnormal muscle tone; early findings may include hypotonia, weak sucking, or feeding difficulty, and later progression to spastic diplegia, predominantly involving the lower limbs. Some children show hyperactive or delayed disappearance of primitive reflexes, such as a diminished Moro reflex. Severe cases may be accompanied by developmental delay and delayed motor milestones, but consciousness is usually intact, without seizures.",
+   "interview_guide": {
+    "first_questions": [
+     "Was there a history of asphyxia or severe jaundice at birth?",
+     "Is your baby currently having difficulty feeding or choking easily?",
+     "Are the limb movements symmetric, and is there any stiffness or floppiness?"
+    ],
+    "followup_questions": [
+     "If lower-limb stiffness is found, ask further: Are the legs difficult to separate during diaper changes?",
+     "If feeding difficulty is present, ask further: Has the frequency and duration of sucking decreased significantly?",
+     "If developmental delay is present, ask further: Are actions such as head lifting and rolling over clearly later than in peers of the same age?"
+    ],
+    "stop_conditions": [
+     "A history of prematurity and typical changes in muscle tone have been clearly established",
+     "Imaging has confirmed periventricular white matter injury",
+     "The parents can clearly describe the current main functional impairment"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Cranial ultrasound",
+     "Noncontrast brain MRI",
+     "Neurologic physical examination"
+    ],
+    "if_suspected": [
+     "EEG monitoring",
+     "Developmental assessment scales (e.g., GMs)",
+     "Hearing screening"
+    ],
+    "avoid": [
+     "Routine noncontrast CT (radiation risk and low soft-tissue resolution)",
+     "Lumbar puncture (avoid when there is no indication of infection)",
+     "Invasive angiography"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "There is currently no specific drug that reverses the lesions; the core is early rehabilitation intervention. This includes passive joint range of motion, positioning management to prevent contractures, and prone positioning training to promote head lifting. For those with increased muscle tone, oral baclofen or local botulinum toxin injection may be used as appropriate. At the same time, strengthen nutritional support, ensure caloric intake, regularly follow up neurodevelopment, and introduce assistive devices in a timely manner."
+    ],
+    "safety_warnings": [
+     "Avoid excessive stretching that may cause joint dislocation",
+     "Botulinum toxin injection requires strict dose control to prevent respiratory muscle weakness",
+     "Antispasticity drugs require monitoring of liver and kidney function and drowsiness reactions"
+    ],
+    "personalization": [
+     "For extremely preterm infants, rehabilitation intensity should be adjusted according to gestational age",
+     "Those at high risk of cerebral palsy should receive early multidisciplinary team management",
+     "Those with seizures require individualized adjustment of the antiepileptic regimen"
+    ]
+   },
+   "disease": "Neonatal periventricular leukomalacia (PVL)",
+   "department": "Neurology"
+  },
+  {
+   "presentation": "Patients often present with new-onset refractory seizures, especially focal seizures. Some patients develop chronic or subacute headache and symptoms of increased intracranial pressure (such as nausea and vomiting). If the cysticerci are located in the brain parenchyma, focal neurologic deficits may occur, such as limb weakness and sensory abnormalities; if the ventricles or subarachnoid space are involved, hydrocephalus or meningitis-like manifestations may be caused. The history often includes consumption of undercooked pork or residence in an endemic area.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you ever eaten raw meat or undercooked pork?",
+     "Have you recently had uncontrollable seizures or severe headache?",
+     "Are you from, or have you recently traveled to, an area where Taenia solium is endemic?"
+    ],
+    "followup_questions": [
+     "If headache is accompanied by projectile vomiting, ask further: 'Is the headache worse in the early morning?'",
+     "If there is limb weakness, ask further: 'Did the weakness occur suddenly or gradually worsen? Is it accompanied by numbness?'",
+     "If epilepsy is diagnosed, ask further: 'Was there any aura before the seizure? How was consciousness recovery after the seizure?'"
+    ],
+    "stop_conditions": [
+     "A history of endemic-area exposure and typical seizures or symptoms of increased intracranial pressure have been clearly established",
+     "Imaging has suggested characteristic cysticercotic lesions",
+     "The patient has clear indications for surgery or drug therapy"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Noncontrast head CT",
+     "Contrast-enhanced brain MRI",
+     "Serum cysticercus antibody testing (ELISA)"
+    ],
+    "if_suspected": [
+     "Lumbar puncture (to check cerebrospinal fluid pressure, protein, and cell count)",
+     "Fundoscopic examination (to screen for papilledema)",
+     "Whole-body muscle ultrasound or MRI (to screen for muscular cysticercosis)"
+    ],
+    "avoid": [
+     "Whole-body PET-CT without indication",
+     "Unnecessary invasive biopsy (unless imaging is atypical and tumor needs to be excluded)",
+     "Blind use of high-dose corticosteroids without assessing infection status"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is albendazole (15 mg/kg/day, divided into 2 oral doses, for 7–14 days) combined with dexamethasone to prevent inflammatory reactions. For a single cysticercus without severe mass effect, surgical removal may be considered. During treatment, liver function and complete blood count need close monitoring. Nonpharmacologic interventions include seizure control (adding antiepileptic drugs) and measures to lower intracranial pressure."
+    ],
+    "safety_warnings": [
+     "Do not use antiparasitic drugs alone when intracranial pressure is significantly elevated, to prevent antigen release from dying cysticerci and triggering fatal cerebral edema",
+     "Concomitant use with rifampin reduces the plasma concentration of albendazole and requires dose adjustment",
+     "Contraindicated or used with caution in pregnant women and those with severe hepatic impairment"
+    ],
+    "personalization": [
+     "In children, calculate the dose precisely by body weight to avoid overdose",
+     "In older patients, adjust the course according to liver and kidney function and strengthen monitoring",
+     "In patients with ventricular cysticercosis, hydrocephalus should be managed first, followed by drug therapy"
+    ]
+   },
+   "disease": "Neurocysticercosis",
+   "department": "Neurology"
+  },
+  {
+   "presentation": "Patients often complain of resting tremor (such as pill-rolling tremor of the hands), bradykinesia (difficulty buttoning, shuffling when walking), and rigidity (limb stiffness). Typical manifestations include difficulty initiating gait, short steps, festinating gait, accompanied by masked facies and micrographia. Symptoms often begin asymmetrically, and postural balance impairment develops as the disease progresses, with a tendency to fall.",
+   "interview_guide": {
+    "first_questions": [
+     "Do your hands or body have involuntary shaking when you are relaxed?",
+     "Have you recently felt that your movements have slowed, for example, dressing or walking takes more effort than usual?",
+     "When walking, do you feel that your legs are stiff, that it is difficult to start walking, or that you trip easily?"
+    ],
+    "followup_questions": [
+     "Does this shaking worsen when you are tense or at rest, and improve with activity?",
+     "Have you recently had reduced sense of smell, constipation, or shouting during sleep?",
+     "Are there relatives in your family with similar symptoms?"
+    ],
+    "stop_conditions": [
+     "The three core symptoms of resting tremor, bradykinesia, and rigidity have been clearly established.",
+     "Secondary causes such as drug-induced or traumatic brain injury have been excluded.",
+     "The patient has a clear response to levodopa therapy and a typical history."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Neurologic physical examination (assessing muscle tone, tremor, and gait)",
+     "Levodopa challenge test (to assess treatment response)",
+     "Brain MRI (to exclude secondary parkinsonism such as cerebrovascular disease and tumors)"
+    ],
+    "if_suspected": [
+     "Transcranial ultrasound (increased substantia nigra echogenicity)",
+     "Dopamine transporter PET/SPECT imaging",
+     "Genetic testing (for early-onset cases or those with a clear family history)"
+    ],
+    "avoid": [
+     "Routine exploratory craniotomy",
+     "Lumbar puncture without indication",
+     "Nonspecific systemic metabolic screening"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is a levodopa/benserazide or levodopa/carbidopa combination product, starting at a low dose (e.g., Madopar 125 mg twice daily) and gradually titrating to an effective dose. Combining with a dopamine receptor agonist (e.g., pramipexole) can delay motor complications. Combine with rehabilitation training and physical therapy to improve gait and balance. The course requires long-term individualized adjustment, with the goal of maintaining the best possible quality of life."
+    ],
+    "safety_warnings": [
+     "Do not stop the drug suddenly to prevent malignant withdrawal syndrome",
+     "Avoid concomitant use with monoamine oxidase inhibitors, which can cause hypertensive crisis",
+     "Watch for hallucinations, impulse control disorders, and orthostatic hypotension"
+    ],
+    "personalization": [
+     "In older patients, dopamine receptor agonists are preferred to reduce cognitive side effects",
+     "In younger patients, use levodopa with caution to delay the onset of motor complications",
+     "In patients with renal impairment, adjust the dose of amantadine"
+    ]
+   },
+   "disease": "Parkinson disease",
+   "department": "Neurology"
+  },
+  {
+   "presentation": "Patients complain of pain, burning, squeezing, or electric shock-like sensations in the amputated limb, often describing it as 'the foot is still there but very painful.' The pain is mostly continuous or paroxysmal, worsens at night, and may be accompanied by itching or a cold sensation. Symptoms usually appear within days to months after amputation, and emotional fluctuations or weather changes may trigger or worsen the pain.",
+   "interview_guide": {
+    "first_questions": [
+     "How long after your amputation did this pain begin?",
+     "What does the pain feel like specifically (e.g., burning, stabbing, squeezing)?",
+     "Does the pain fluctuate with emotional changes or weather changes?"
+    ],
+    "followup_questions": [
+     "If the pain is paroxysmal, what are the frequency and duration of attacks?",
+     "Are there accompanying symptoms such as redness and swelling of the stump, fever, or abnormal discharge?",
+     "Which pain medications have you used in the past, and what were their effects and side effects?"
+    ],
+    "stop_conditions": [
+     "The nature of the pain, triggers, and relationship to the time of amputation have been clearly established",
+     "Stump infection or new organic lesions have been excluded",
+     "The patient has a clear understanding of the current treatment plan and has no emergency complications"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Stump physical examination (palpation and inspection)",
+     "Nerve conduction velocity testing",
+     "Psychological status assessment scale"
+    ],
+    "if_suspected": [
+     "Stump X-ray or MRI (to exclude bone spurs or tumors)",
+     "Brain functional imaging (fMRI/PET to study central reorganization mechanisms)",
+     "Blood inflammatory marker testing"
+    ],
+    "avoid": [
+     "Routine lumbar puncture (when not indicated)",
+     "Repeated high-dose CT scans (radiation risk)",
+     "Unnecessary invasive nerve biopsy"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes gabapentin (starting at 300 mg/day, gradually increasing to 900–1800 mg/day in divided doses) or pregabalin (starting at 75 mg bid). Combine with mirror therapy for 20 minutes daily and stump desensitization training. The course usually lasts 4–8 weeks, with dose adjustment according to efficacy. Nonpharmacologic interventions emphasize combining psychological support with rehabilitation training."
+    ],
+    "safety_warnings": [
+     "Avoid sudden discontinuation to prevent withdrawal reactions",
+     "Watch for respiratory depression caused by concomitant use of gabapentin and opioids",
+     "Monitor the risk of drug accumulation in patients with renal impairment"
+    ],
+    "personalization": [
+     "In older patients, reduce the starting dose and titrate slowly",
+     "In patients with hepatic or renal impairment, individualize the dosing regimen",
+     "For those with comorbid anxiety and depression, consider combined treatment with antidepressants"
+    ]
+   },
+   "disease": "Phantom limb pain",
+   "department": "Neurology"
+  },
+  {
+   "presentation": "Patients often have a clear history of head trauma, followed by persistent headache, dizziness, poor concentration, memory decline, and emotional lability (such as anxiety, irritability). Symptoms often persist for weeks to months without resolution; some patients have sleep disturbance, sensitivity to light and sound, or balance abnormalities. Chief complaints are often described as 'foggy-headed', 'my brain won't work', or 'like being under heavy pressure', and symptoms are related to mild physical or mental activity.",
+   "interview_guide": {
+    "first_questions": [
+     "When exactly did the injury occur, what was the mechanism, and was there loss of consciousness at the time?",
+     "What symptom bothers you most now (e.g., nature of headache, memory problems)?",
+     "Have the symptoms persisted since the injury or gradually worsened?"
+    ],
+    "followup_questions": [
+     "If headache is mentioned, ask about the location, character, and whether it changes with position.",
+     "If emotional problems are mentioned, ask about specific manifestations of depression, anxiety, or sleep disturbance.",
+     "If cognitive decline is mentioned, determine whether daily work and social functioning are affected."
+    ],
+    "stop_conditions": [
+     "A clear history of trauma has been established and symptoms match typical clinical features, with no new focal neurological signs.",
+     "Necessary imaging has been completed to exclude intracranial organic lesions.",
+     "The patient's symptoms are stable with no signs of acute deterioration, and an initial treatment plan can be formulated."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Non-contrast head CT (to exclude hemorrhage in the acute phase)",
+     "Non-contrast head MRI + DWI (to assess minor contusions and diffuse axonal injury)",
+     "Neuropsychological scale assessment (e.g., MoCA, SDS/SAS)"
+    ],
+    "if_suspected": [
+     "Transcranial Doppler ultrasound (TCD) to assess cerebral hemodynamics",
+     "Electroencephalography (EEG) to screen for occult epileptiform discharges",
+     "Vestibular function testing (for patients with vertigo)"
+    ],
+    "avoid": [
+     "Routine repeat head CT (increases radiation risk when there are no new symptoms)",
+     "Lumbar puncture (contraindicated without evidence of intracranial hypertension)",
+     "Nonspecific whole-body PET-CT (overtesting when there is no indication of tumor or metabolic disease)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is mainly symptomatic supportive care: for headache, ibuprofen or acetaminophen may be selected; avoid opioids",
+     "For dizziness, betahistine may be used",
+     "For cognitive impairment, memantine or donepezil is recommended starting at low dose. At the same time, combine cognitive rehabilitation training, psychological counseling, and a regular daily routine. The course is usually 3-6 months, with gradual dose reduction according to symptom relief."
+    ],
+    "safety_warnings": [
+     "Avoid long-term use of sedative-hypnotic drugs to prevent dependence and further cognitive impairment.",
+     "NSAIDs require attention to the risk of gastrointestinal bleeding, especially in patients with a history of gastric disease.",
+     "Be alert to anticholinergic drugs inducing delirium or urinary retention in older patients."
+    ],
+    "personalization": [
+     "In pediatric patients, adjust drug doses and prioritize behavioral interventions.",
+     "Use anticholinergics cautiously in older adults and focus on monitoring fall risk.",
+     "Teratogenic drugs are contraindicated in pregnant women; physical therapy and non-drug interventions are preferred."
+    ]
+   },
+   "disease": "Post-traumatic brain injury syndrome",
+   "department": "Neurology"
+  },
+  {
+   "presentation": "Patients often report progressive limb weakness beginning in childhood or adolescence, typically manifested as difficulty climbing stairs, needing support to stand from a squatting position (Gowers sign), and a waddling duck-like gait. Some patients have pseudohypertrophy of the calves, scoliosis, or scapular winging. Symptoms are usually symmetric, with proximal muscles affected earlier than distal muscles; as the disease progresses, respiratory and cardiac muscles may be involved.",
+   "interview_guide": {
+    "first_questions": [
+     "Does the child fall easily when walking or have difficulty going up and down stairs?",
+     "Has there been a situation where the calves become thicker but strength actually decreases?"
+    ],
+    "followup_questions": [
+     "Does the child need to use the hands to support the thighs in order to stand up?",
+     "Are there similar affected family members or female carriers in the family?"
+    ],
+    "stop_conditions": [
+     "Typical Gowers sign and proximal muscle weakness features have been clearly described",
+     "A clear family history of inheritance has been confirmed",
+     "Temporary weakness caused by trauma or acute infection has been excluded"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum creatine kinase (CK) measurement",
+     "Genetic testing (e.g., DMD gene)",
+     "Electromyography"
+    ],
+    "if_suspected": [
+     "Echocardiography and electrocardiography (to assess cardiomyopathy)",
+     "Pulmonary function testing (to assess respiratory muscle function)",
+     "Muscle MRI or muscle biopsy"
+    ],
+    "avoid": [
+     "Lumbar puncture without indication",
+     "Nonspecific whole-body CT scanning",
+     "Repeated routine complete blood count with no diagnostic value"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "There is currently no curative treatment; first-line treatment is mainly glucocorticoids (such as prednisone or deflazacort), aimed at slowing the decline in muscle strength. The standard dose should be adjusted according to body weight and taken long term. Combine with rehabilitation training, including physical therapy, use of orthoses, and moderate exercise, avoiding excessive fatigue. Monitor cardiac and pulmonary function regularly and provide respiratory support when necessary."
+    ],
+    "safety_warnings": [
+     "Long-term corticosteroid use requires vigilance for osteoporosis, Cushing syndrome, and elevated blood glucose",
+     "Note drug-induced irritation of the gastrointestinal mucosa and prevent gastrointestinal bleeding",
+     "Monitor blood pressure changes to prevent hypertensive crisis"
+    ],
+    "personalization": [
+     "In pediatric patients, closely monitor growth and development and bone density",
+     "In older patients or those with comorbid conditions, reduce the dose and strengthen monitoring of cardiac and renal function",
+     "If female carriers develop symptoms, the treatment plan should be individualized"
+    ]
+   },
+   "disease": "progressive muscular dystrophy",
+   "department": "Neurology"
+  },
+  {
+   "presentation": "Patients often present with subacute or chronic onset of focal neurological deficits, such as visual field defects, hemianopia, limb weakness, ataxia, dysarthria, or cognitive decline. Symptoms are progressively worsening, without fever or other infectious/toxic symptoms. It is more common in immunosuppressed states (such as HIV/AIDS, after lymphoma chemotherapy); be alert to nonspecific headache or seizures as early signals.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had blurred vision, unsteady walking, or weakness in the hands or feet?",
+     "Do you have a history of immune system disease or are you currently receiving chemotherapy/steroid therapy?"
+    ],
+    "followup_questions": [
+     "When did the symptoms start, and how quickly have they progressed?",
+     "Have you had unexplained weight loss or recurrent infections recently?"
+    ],
+    "stop_conditions": [
+     "Immunosuppressed status has been clearly established and typical focal neurological signs are present",
+     "MRI shows characteristic white matter lesions and the history is consistent",
+     "Other common cerebrovascular diseases or tumors have been excluded"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Non-contrast + contrast-enhanced head MRI (T2/FLAIR hyperintensity, no enhancement)",
+     "Lumbar puncture for cerebrospinal fluid JC virus PCR testing",
+     "Immune function assessment (CD4 count, immunoglobulins)"
+    ],
+    "if_suspected": [
+     "Whole-body PET-CT (to screen for potential malignant tumors)",
+     "Brain biopsy (to confirm diagnosis in difficult cases)",
+     "Serological screening for HIV, EBV, etc."
+    ],
+    "avoid": [
+     "Routine empiric antibiotic treatment for infection",
+     "Brain angiography without indication",
+     "Repeated unnecessary EEG examinations"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "The first choice is to restore immune function, such as stopping immunosuppressants or initiating antiretroviral therapy (ART). Some patients may consider drugs such as cimetidine or mitoxantrone, but efficacy is limited. Supportive treatment includes rehabilitation training and symptomatic treatment of seizures. The course depends on immune reconstitution and requires long-term follow-up."
+    ],
+    "safety_warnings": [
+     "Do not arbitrarily restart potent immunosuppressants, to prevent worsening of the disease",
+     "Note interactions between ART drugs and antiviral drugs",
+     "Be alert to immune reconstitution inflammatory syndrome (IRIS) causing temporary worsening of symptoms"
+    ],
+    "personalization": [
+     "For HIV-infected patients, prioritize optimizing the ART regimen",
+     "For cancer patients, weigh chemotherapy intensity against the risk of PML",
+     "For older patients, adjust the rehabilitation plan to prevent falls"
+    ]
+   },
+   "disease": "progressive multifocal leukoencephalopathy",
+   "department": "Neurology"
+  },
+  {
+   "presentation": "Patients are mostly female, usually presenting with developmental regression at 6-18 months after birth. Typical manifestations include loss of acquired language ability and fine hand movements, accompanied by stereotyped hand movements (such as hand-wringing, hand-clapping), abnormal muscle tone, unsteady gait or ataxia; some patients have seizures and abnormal respiratory rhythm.",
+   "interview_guide": {
+    "first_questions": [
+     "Did the child experience regression in language or hand function after 6-18 months?",
+     "Are there recurrent stereotyped hand movements (such as hand-wringing, hand-clapping)?",
+     "Has the child had unexplained seizures or abnormal breathing?"
+    ],
+    "followup_questions": [
+     "If developmental regression is present, in which specific area did the regression begin?",
+     "Are there relatives in the family with similar symptoms?",
+     "Does the child currently have sleep disturbance or feeding difficulties?"
+    ],
+    "stop_conditions": [
+     "Developmental regression and stereotyped movement features have been clearly established",
+     "The frequency and types of seizures have been clearly described",
+     "Family history and past medical history information are complete"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Electroencephalography (EEG)",
+     "MECP2 gene testing",
+     "Head MRI"
+    ],
+    "if_suspected": [
+     "Metabolic screening (to exclude other inherited metabolic diseases)",
+     "Echocardiography (to assess autonomic dysfunction)",
+     "Bone density measurement (to assess osteoporosis risk)"
+    ],
+    "avoid": [
+     "Routine lumbar puncture (unless infection is suspected)",
+     "Whole-body PET-CT without indication",
+     "Unnecessary invasive biopsy"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is mainly symptomatic supportive care, including antiepileptic drugs to control seizures (such as sodium valproate, levetiracetam), physical therapy to improve motor function, and speech training to promote communication ability. At the same time, strengthen nutritional support and psychological intervention, and avoid excessive stimulation."
+    ],
+    "safety_warnings": [
+     "Avoid drugs that may worsen seizures",
+     "Note the interaction between antiepileptic drugs and vitamin D",
+     "Monitor the effects of long-term medication on liver and kidney function"
+    ],
+    "personalization": [
+     "In infancy and early childhood, focus on strengthening rehabilitation training",
+     "In adolescence, focus on bone health and menstrual management",
+     "In adulthood, focus on quality of life and prevention of complications"
+    ]
+   },
+   "disease": "Rett syndrome",
+   "department": "Neurology"
+  },
+  {
+   "presentation": "Patients often present with persistent cognitive impairment (e.g., memory loss, poor concentration), motor dysfunction (limb weakness, ataxia, or abnormal muscle tone), and psychiatric/behavioral abnormalities (emotional lability, irritability, or apathy). Some patients may have residual seizures, dysphagia, or dysarthria. Symptoms often persist after the acute phase, showing chronic progression or a plateau, and severely affect activities of daily living.",
+   "interview_guide": {
+    "first_questions": [
+     "What specific functional limitations have you had since the onset of the illness?",
+     "Have you had any seizures or episodes of confusion recently?",
+     "Are you currently taking antiepileptic drugs or rehabilitation medications?"
+    ],
+    "followup_questions": [
+     "If you have had limb convulsions, what is the frequency and duration?",
+     "If you have difficulty swallowing, do you frequently choke or cough when eating?",
+     "If you have marked mood swings, do you have any tendency toward self-harm or aggressive behavior?"
+    ],
+    "stop_conditions": [
+     "The main types and severity grading of sequelae have been clarified.",
+     "The current medication regimen and adverse reactions have been ascertained.",
+     "The patient's family caregiving capacity and rehabilitation needs have been understood."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Brain MRI without and with contrast",
+     "Video EEG monitoring",
+     "Neuropsychological assessment scales"
+    ],
+    "if_suspected": [
+     "Lumbar puncture for cerebrospinal fluid examination (to rule out active infection)",
+     "Evoked potential studies (to assess sensory/motor pathways)",
+     "Screening for metabolic encephalopathy (blood ammonia, lactate, etc.)"
+    ],
+    "avoid": [
+     "Repeat head CT without indication (radiation exposure)",
+     "Nonspecific whole-body PET-CT (low cost-effectiveness)",
+     "Invasive brain biopsy (unless there is high suspicion of tumor)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is primarily comprehensive rehabilitation, including physical therapy to improve motor function, occupational training to enhance activities of daily living, and speech therapy to correct swallowing and language disorders. Pharmacologically, for seizures, use levetiracetam (start at 500 mg bid, titrate to an effective dose), for at least 6 months",
+     "For cognitive impairment, donepezil may be selected (start at 5 mg qn). At the same time, combine with psychological intervention to relieve anxiety and depression, and adjust the regimen during regular follow-up."
+    ],
+    "safety_warnings": [
+     "Avoid abrupt discontinuation of antiepileptic drugs to prevent status epilepticus.",
+     "Note that donepezil may cause bradycardia; heart rate should be monitored.",
+     "Be alert for muscle injury caused by excessive exertion during rehabilitation training."
+    ],
+    "personalization": [
+     "Older patients should start at a reduced dose and have fall risk closely monitored.",
+     "Pediatric patients should focus on play-based rehabilitation training to promote neuroplasticity.",
+     "Patients with hepatic or renal impairment require dose adjustment and prolonged dosing intervals."
+    ]
+   },
+   "disease": "sequelae of encephalitis",
+   "department": "Neurology"
+  },
+  {
+   "presentation": "Patients complain of involuntary contraction of neck muscles, causing the head and neck to twist to one side, tilt, or flex/extend. It is often accompanied by neck pain and stiffness; in some patients, symptoms can be temporarily relieved by touching the chin or changing posture (sensory trick). Symptoms worsen with stress and fatigue and disappear during sleep.",
+   "interview_guide": {
+    "first_questions": [
+     "Does your head involuntarily tilt to one side or turn? Is this movement continuous or paroxysmal?",
+     "Do you have significant neck pain or stiffness, and in what situations does it worsen or improve?"
+    ],
+    "followup_questions": [
+     "Does touching your chin or performing specific movements temporarily straighten your head?",
+     "Have you recently taken antipsychotic drugs or had other neurological abnormalities?"
+    ],
+    "stop_conditions": [
+     "It has been clarified that the symptoms are involuntary neck torsion, and drug-induced factors have been excluded.",
+     "It has been confirmed that symptoms completely disappear during sleep.",
+     "The accompanying pain severity and impact on life have been understood."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Neurological physical examination (to assess muscle tone and movement patterns)",
+     "Brain MRI (to rule out secondary causes such as tumor or vascular malformation)"
+    ],
+    "if_suspected": [
+     "Electromyography (EMG) to localize affected muscles and guide botulinum toxin injection",
+     "Thyroid function and autoantibody screening (to rule out metabolic or immune factors)"
+    ],
+    "avoid": [
+     "Routine non-contrast CT (low soft tissue resolution; not first choice)",
+     "Lumbar puncture without indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is local injection of botulinum toxin type A, injected into overactive muscle groups based on EMG localization, repeated every 3-4 months. Oral medications such as trihexyphenidyl, baclofen, or clonazepam may be used as adjuncts and should be titrated from a low dose. Physical therapy and posture training can help relieve symptoms."
+    ],
+    "safety_warnings": [
+     "Overdose of botulinum toxin injection may cause dysphagia or respiratory muscle weakness.",
+     "Trihexyphenidyl may cause dry mouth, constipation, and cognitive impairment; use with caution in older adults.",
+     "Avoid concomitant use with aminoglycoside antibiotics to prevent enhancement of neuromuscular blockade."
+    ],
+    "personalization": [
+     "Older patients should have a lower starting dose of anticholinergic drugs to prevent delirium.",
+     "Botulinum toxin is contraindicated in pregnant and breastfeeding women; weigh the risks and benefits and choose physical therapy.",
+     "Patients with comorbid anxiety and depression require combined psychological intervention or anxiolytic drugs."
+    ]
+   },
+   "disease": "Spasmodic torticollis",
+   "department": "Neurology"
+  },
+  {
+   "presentation": "Patients often present with progressive symmetric proximal muscle weakness and hypotonia. In infancy, difficulty holding the head up, weak sucking, and a 'frog-leg' posture may be seen; in childhood, delayed walking, frequent falls, and a positive Gowers sign occur. Some patients have tongue tremor or fasciculations, but sensation is usually normal. The disease is chronically progressive, and in severe cases it can involve the respiratory muscles and cause dyspnea.",
+   "interview_guide": {
+    "first_questions": [
+     "Has your child had delayed motor development (e.g., sitting, standing, or walking later than peers)?",
+     "Have you observed limb weakness, easy fatigability, or frequent falls?",
+     "Are there relatives in the family with similar symptoms or known carriers?"
+    ],
+    "followup_questions": [
+     "If your child has difficulty swallowing or chokes during feeding, do they also have rapid breathing or sleep apnea at night?",
+     "If your child has muscle twitching, is it accompanied by limb numbness or pain to rule out peripheral neuropathy?",
+     "If the condition is progressing rapidly, has a recent infection triggered worsening of symptoms?"
+    ],
+    "stop_conditions": [
+     "The classic triad of proximal muscle weakness, hypotonia, and diminished tendon reflexes has been clearly described.",
+     "Family history or genetic testing results strongly suggest an SMN1 gene mutation.",
+     "Typical features of other common hereditary myopathies or metabolic diseases have been excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "SMN1 gene copy number testing (gold standard for diagnosis)",
+     "Serum creatine kinase (CK) measurement (usually mildly elevated or normal)",
+     "Electromyography (shows neurogenic damage with spontaneous potentials)"
+    ],
+    "if_suspected": [
+     "SMN2 gene copy number analysis (to assess disease severity and prognosis)",
+     "Pulmonary function tests (to assess the degree of respiratory muscle involvement)",
+     "Spine X-ray or MRI (to screen for skeletal complications such as scoliosis)"
+    ],
+    "avoid": [
+     "Unnecessary muscle biopsy (genetic testing is sufficient for diagnosis; avoid invasive procedures)",
+     "Routine lumbar puncture (not necessary unless inflammatory myopathy is suspected)",
+     "Repeated nonspecific biochemical screening (of limited value after genetic confirmation)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Current first-line treatments include intrathecal nusinersen injection (loading dose followed by maintenance dosing), oral risdiplam solution, or gene replacement therapy (Zolgensma). The route of administration should be selected based on age, genotype, and swallowing function. At the same time, rehabilitation training (physical therapy, occupational therapy) must be combined to delay joint contractures, and respiratory support equipment should be used when necessary. Early intervention is crucial for improving quality of life."
+    ],
+    "safety_warnings": [
+     "Nusinersen may cause thrombocytopenia; complete blood count should be monitored regularly.",
+     "Risdiplam may cause gastrointestinal reactions (vomiting, diarrhea); it is recommended to take it with meals and monitor liver function.",
+     "Gene therapy carries a risk of immunogenicity; antibody levels should be assessed before administration and immunosuppressants used prophylactically."
+    ],
+    "personalization": [
+     "In infants and young children, swallowing function should be assessed first, and an appropriate non-invasive or nasogastric feeding administration regimen should be selected.",
+     "Patients with severe respiratory muscle involvement should receive non-invasive ventilation support as early as possible; hepatic and renal function should be considered when adjusting drug doses.",
+     "For patients unable to tolerate intrathecal injection, oral small-molecule drugs may be considered as an alternative."
+    ]
+   },
+   "disease": "spinal muscular atrophy",
+   "department": "Neurology"
+  },
+  {
+   "presentation": "Patients often complain of bilateral persistent dull headache or a tight band-like sensation, like pressure from a tight hat or headband; pain intensity is mostly mild to moderate and is not aggravated by routine physical activity. It is often accompanied by neck and shoulder muscle stiffness and tenderness, occasionally photophobia or phonophobia, but no nausea or vomiting. Symptoms can last from 30 minutes to several days and recur, often related to stress, fatigue, or poor posture.",
+   "interview_guide": {
+    "first_questions": [
+     "What is the specific nature of the headache: a pressure-like pain, stabbing pain, or tight band-like sensation?",
+     "Is the pain unilateral or bilateral? Is it accompanied by neck stiffness?"
+    ],
+    "followup_questions": [
+     "Are headache attacks related to recent mental stress, anxiety, or insufficient sleep?",
+     "Do symptoms relieve after taking painkillers? How often?"
+    ],
+    "stop_conditions": [
+     "Migraine, cluster headache, and features of secondary headache (such as sudden severe pain or neurological deficit) have been clearly excluded.",
+     "The history shows a typical bilateral tight band-like sensation without warning symptoms, and the neurological physical examination is normal.",
+     "The patient's description is consistent with a chronic tension-type headache pattern (>15 days per month), and there are no red flags."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Neurological physical examination (focusing on muscle tone, reflexes, and sensorimotor function)",
+     "Head palpation (to examine tender points such as the temporalis and occipital muscles)"
+    ],
+    "if_suspected": [
+     "Cervical spine X-ray or MRI (when cervical spondylosis is suspected)",
+     "Psychological scale assessment (e.g., SAS/SDS, to screen for comorbid anxiety and depression)"
+    ],
+    "avoid": [
+     "Routine head CT or MRI (not recommended as initial screening in the absence of warning symptoms)",
+     "Lumbar puncture (in the absence of meningeal irritation signs or evidence of intracranial hypertension)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For the acute phase, first choice is nonsteroidal anti-inflammatory drugs (NSAIDs), such as oral ibuprofen 400 mg, no more than 3 times daily, for no more than 2 weeks",
+     "or aspirin 500-1000 mg. For preventive treatment, amitriptyline may be selected, starting at 10-25 mg at bedtime and gradually titrated to an effective dose. At the same time, combine physical therapy, relaxation training, and cognitive behavioral therapy to improve sleep and reduce stress."
+    ],
+    "safety_warnings": [
+     "Long-term frequent use of NSAIDs requires vigilance for the risk of gastrointestinal bleeding and renal impairment.",
+     "Amitriptyline may cause dry mouth, constipation, and drowsiness; use with caution in older adults to prevent falls.",
+     "Avoid medication-overuse headache; analgesic use should be <15 days per month."
+    ],
+    "personalization": [
+     "For pregnant women, acetaminophen is the first choice; avoid NSAIDs and tricyclic antidepressants.",
+     "Patients with hepatic or renal impairment require NSAID dose adjustment or a switch to another analgesic regimen.",
+     "Older patients should start at half the dose, titrate slowly, and have adverse reactions closely monitored."
+    ]
+   },
+   "disease": "Tension-type headache",
+   "department": "Neurology"
+  },
+  {
+   "presentation": "Patients often present with sudden, rapid, repeated, non-rhythmic movements or vocalizations. Motor tics such as blinking, shoulder shrugging, and head jerking; vocal tics such as throat clearing, coughing, and grunting. Symptoms can be triggered by stress and fatigue, disappear during sleep, and rebound after brief suppression. More common in children and adolescents, with a fluctuating course.",
+   "interview_guide": {
+    "first_questions": [
+     "Does your child have involuntary blinking, shoulder shrugging, or throat clearing?",
+     "Are these movements repeated and beyond voluntary control?"
+    ],
+    "followup_questions": [
+     "Do the symptoms worsen when under stress or fatigued?",
+     "Can your child briefly suppress them? After suppression, do they occur more intensely?"
+    ],
+    "stop_conditions": [
+     "Symptom nature, frequency, and triggers have been clarified",
+     "Other neurological diseases (such as epilepsy and chorea) have been excluded",
+     "Degree of impact on school and daily life has been understood"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Detailed neurological physical examination",
+     "Video recording of tic behaviors",
+     "Psychological assessment scales (such as YGTSS)"
+    ],
+    "if_suspected": [
+     "Electroencephalogram (to exclude epilepsy)",
+     "Brain MRI (to exclude structural lesions)",
+     "Thyroid function tests"
+    ],
+    "avoid": [
+     "Routine use of antipsychotic drugs without prior electrocardiogram",
+     "Lumbar puncture without indication",
+     "Overreliance on imaging without clinical basis"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First choice is behavioral intervention (such as CBIT). Mild to moderate cases do not require medication",
+     "For moderate to severe cases, consider α2-receptor agonists (such as clonidine 0.1 mg bid starting dose), titrate gradually to effective dose, treatment course at least 3 months. Provide concurrent family and school support education to reduce psychological stress."
+    ],
+    "safety_warnings": [
+     "Avoid sudden discontinuation, which can cause rebound",
+     "Monitor changes in blood pressure and heart rate",
+     "Watch for central inhibitory reactions such as drowsiness and dizziness"
+    ],
+    "personalization": [
+     "For school-age children, prioritize medications that do not affect attention",
+     "For adolescent patients, pay attention to emotional comorbidities",
+     "For those with comorbid ADHD, combined use of stimulants requires careful assessment"
+    ]
+   },
+   "disease": "Tic disorder",
+   "department": "Neurology"
+  },
+  {
+   "presentation": "Patients often present with difficult-to-control epileptic seizures, especially infantile spasms occurring in infancy. Characteristic skin changes may be seen, such as facial angiofibromas in a butterfly distribution, flat forehead bald patches (hypopigmented macules), or shagreen patches. Some patients have intellectual disability, autism spectrum behavioral abnormalities, or learning difficulties. If headache, vomiting, or blurred vision occurs, be alert for symptoms of intracranial hypertension caused by an intracranial space-occupying lesion.",
+   "interview_guide": {
+    "first_questions": [
+     "Does your child have recurrent convulsions or loss of consciousness?",
+     "Are there white spots, red papules, or skin thickening on the face or trunk?",
+     "Is your child's language development or social interaction significantly behind that of peers?"
+    ],
+    "followup_questions": [
+     "What are the specific forms and frequency of the epileptic seizures?",
+     "Is there a family history of similar disease or unexplained sudden death?",
+     "Has there recently been headache, vomiting, or vision loss or other neurological symptoms?"
+    ],
+    "stop_conditions": [
+     "Typical skin manifestations have been clarified and the epilepsy type has been confirmed; no further detailed history-taking is needed.",
+     "The patient has provided a complete family genetic history and prior imaging examination results.",
+     "When the clinical presentation is highly specific and family members have no major objection to the current diagnosis."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Contrast-enhanced brain MRI",
+     "Electroencephalogram (EEG) monitoring",
+     "Whole-exome genetic testing (TSC1/TSC2)"
+    ],
+    "if_suspected": [
+     "Abdominal CT or MRI (to screen for renal angiomyolipoma)",
+     "Ophthalmologic slit-lamp examination (to screen for retinal hamartoma)",
+     "Echocardiography (to screen for ventricular septal tumor)"
+    ],
+    "avoid": [
+     "Routine plain X-ray (low resolution for soft-tissue lesions, not first choice)",
+     "Invasive brain biopsy (unless imaging cannot determine the nature and the condition is life-threatening)",
+     "Repeated high-dose radiation examinations (such as frequent CT; prioritize MRI)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment focuses on seizure control; preferred antiepileptic drugs include levetiracetam or sodium valproate, and ACTH or vigabatrin may be added for infantile spasms. For refractory epilepsy, consider mTOR inhibitors (such as everolimus). For certain types of brain tumors (such as SEGA), surgical indications should be evaluated. At the same time, combine rehabilitation training to improve cognitive and motor function."
+    ],
+    "safety_warnings": [
+     "Everolimus may cause stomatitis, increased risk of infection, and dyslipidemia; regular monitoring of complete blood count and liver and kidney function is required.",
+     "Avoid drugs that may lower the seizure threshold (such as tramadol and bupropion).",
+     "Long-term use of antiepileptic drugs requires attention to osteoporosis risk; calcium and vitamin D supplementation are recommended."
+    ],
+    "personalization": [
+     "For infants and young children, antiepileptic drug doses must be precisely adjusted according to body weight, and developmental milestones should be closely observed.",
+     "Before using everolimus in women of childbearing age, pregnancy status must be confirmed because it is teratogenic.",
+     "For those with severe renal impairment, mTOR inhibitors should be used cautiously; adjust the dosing regimen or switch to other therapies if necessary."
+    ]
+   },
+   "disease": "Tuberous sclerosis",
+   "department": "Neurology"
+  },
+  {
+   "presentation": "Patients often present with sudden fever, severe headache, and neck stiffness; some have nausea, vomiting, or photophobia. Symptoms usually progress over hours to days and may be accompanied by mild confusion but no focal neurological deficits. It is important to distinguish this from bacterial meningitis, which is more severe and often accompanied by shock.",
+   "interview_guide": {
+    "first_questions": [
+     "Did you have an upper respiratory tract infection or contact with someone with similar symptoms before onset?",
+     "Is the headache accompanied by neck stiffness or inability to bend the neck forward?",
+     "Have you recently had mosquito or insect bites or travel history?"
+    ],
+    "followup_questions": [
+     "If you have a rash, what does it look like and where is it located?",
+     "If you have had changes in consciousness, how long did they last and how did they fluctuate?",
+     "If you are vomiting frequently, is it projectile, and do you have abdominal pain or diarrhea?"
+    ],
+    "stop_conditions": [
+     "Typical triad (fever, headache, neck stiffness) has been confirmed and there are no focal signs",
+     "Epidemiological history has been completed and high-risk factors excluded",
+     "Vital signs are stable and no emergency intervention is needed"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Lumbar puncture (cerebrospinal fluid routine, biochemistry, and pathogen testing)",
+     "Non-contrast head CT (perform lumbar puncture after excluding space-occupying lesion)",
+     "Complete blood count and C-reactive protein"
+    ],
+    "if_suspected": [
+     "Cerebrospinal fluid viral PCR testing (such as enterovirus, HSV, etc.)",
+     "Serum specific IgM antibody testing",
+     "Contrast-enhanced brain MRI"
+    ],
+    "avoid": [
+     "Blind lumbar puncture before excluding intracranial hypertension",
+     "Use of broad-spectrum antibiotics without indication as a substitute for diagnostic testing",
+     "Repeated unnecessary whole-body imaging screening"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Supportive treatment is the mainstay, including adequate fluid replacement to maintain water and electrolyte balance, antipyretics and analgesics, and bed rest. Severe patients may receive short-term glucocorticoids to reduce inflammatory response. If herpes simplex virus infection is suspected, immediately start intravenous acyclovir (10 mg/kg every 8 hours for 14-21 days). Most cases have a good prognosis and do not require specific antiviral drugs."
+    ],
+    "safety_warnings": [
+     "Acyclovir requires monitoring of renal function to prevent crystalluria",
+     "Avoid nephrotoxic drugs in a dehydrated state",
+     "Use of steroids requires vigilance for the risk of secondary infection"
+    ],
+    "personalization": [
+     "For pediatric patients, drug doses must be precisely calculated according to body weight",
+     "For elderly patients, adjust fluid replacement rate to prevent heart failure",
+     "Use nonsteroidal anti-inflammatory drugs cautiously in pregnant women; prioritize acetaminophen"
+    ]
+   },
+   "disease": "Viral meningitis",
+   "department": "Neurology"
+  }
+ ]
+}

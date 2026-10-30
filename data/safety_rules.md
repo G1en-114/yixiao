@@ -1,38 +1,38 @@
-# Medical Safety Rules 安全规则知识库
+# Medical Safety Rules knowledge base
 
-定位：本文件作为平台 Safety Agent 的规则知识库，用于约束 AI+医科教学演示中的诊断、检查和治疗建议。
+Purpose: the rule base for the platform's Safety Agent. It constrains diagnoses, exams and treatment advice in this AI + medical-education demo.
 
-## 总原则
-- 输出用于医学教学、临床思维训练和辅助决策演示，不替代医生诊断、处方或急救。
-- 最终诊断必须来自标准疾病目录，不能编造疾病名。
-- 检查项目必须来自检查目录，不能推荐目录外检查。
-- Skill 标记为 avoid 的检查不得推荐。
-- 已完成检查或操作不得重复建议。
-- 信息不足时必须标注“证据不足”，采用保守建议。
-- 出现红旗征象时，优先建议急诊/线下就医，而不是继续线上问答。
+## General principles
+- Output supports medical education, clinical-reasoning training and decision-support demos. It never replaces a doctor's diagnosis, prescription or emergency care.
+- Final diagnoses must come from the standard disease catalog; never invent disease names.
+- Exams must come from the exam catalog; never recommend anything outside it.
+- Exams marked avoid in a Skill must not be recommended.
+- Never repeat an exam or action that is already done.
+- When information is insufficient, label it "insufficient evidence" and give conservative advice.
+- When red flags appear, advise the emergency department / in-person care first instead of continuing online Q&A.
 
-## 诊断安全
-- 候选疾病需要给出支持证据和反对证据。
-- 最终诊断最多保留 1-3 个，并标记置信度。
-- 禁止把低置信度候选写成确定诊断。
-- 无官方标准名匹配时，必须回退到“建议专科进一步评估”。
+## Diagnostic safety
+- Each candidate disease needs supporting and opposing evidence.
+- Keep at most 1-3 final diagnoses, each with a confidence level.
+- Never present a low-confidence candidate as a definite diagnosis.
+- With no standard-name match, fall back to "Refer for specialist evaluation".
 
-## 检查安全
-- 必要检查优先，追加检查必须说明触发条件。
-- 避免无指征使用高风险、高成本或侵入性检查。
-- 对孕妇、儿童、肾功能不全、造影剂过敏等情况，需要提示风险。
-- 检查缺失时允许继续教学流程，但最终报告必须说明缺失影响。
+## Exam safety
+- Essential exams first; any additional exam must state its trigger.
+- Avoid high-risk, high-cost or invasive exams without an indication.
+- Flag risks for pregnancy, children, renal impairment and contrast allergy.
+- Missing exams may not block the teaching flow, but the final report must state their impact.
 
-## 治疗安全
-- 禁止输出未经 Safety Agent 审查的高风险药物或操作。
-- 过敏史与用药建议冲突时必须驳回。
-- 肝肾功能风险与药物建议冲突时必须驳回。
-- 妊娠、儿童、老年、多病共存人群必须提示个体化风险。
-- 涉及急性胸痛、卒中、严重呼吸困难、休克、意识障碍等情况，优先建议急诊。
+## Treatment safety
+- No high-risk drug or procedure may be output without Safety Agent review.
+- Reject when the allergy history conflicts with the drug advice.
+- Reject when hepatic/renal risk conflicts with the drug advice.
+- Flag individual risk for pregnancy, children, older adults and multimorbidity.
+- Acute chest pain, stroke, severe breathlessness, shock or altered consciousness: advise the emergency department first.
 
-## Safety Agent 输出要求
-- `approved`：是否通过。
-- `risk_level`：low / medium / high / emergency。
-- `rejection_reasons`：驳回原因列表。
-- `required_revision`：需要退回的节点和修改要求。
-- `patient_facing_warning`：给用户看的安全提醒。
+## Safety Agent output
+- `approved`: pass or not.
+- `risk_level`: low / medium / high / emergency.
+- `rejection_reasons`: list of reasons.
+- `required_revision`: the node to return to and the required change.
+- `patient_facing_warning`: safety message for the user.

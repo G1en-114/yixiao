@@ -1,584 +1,584 @@
-酒精性心肌病	心内科
-主动脉瓣狭窄	心内科
-心房颤动	心内科
-房间隔缺损	心内科
-心动过缓	心内科
-心律失常	心内科
-慢性缩窄性心包炎	心内科
-三房心	心内科
-冠状动脉粥样硬化性心脏病（冠状动脉疾病，CAD）	心内科
-右位心	心内科
-扩张型心肌病	心内科
-右心室双出口	心内科
-埃布斯坦畸形（三尖瓣下移畸形）	心内科
-心内膜垫缺损	心内科
-心力衰竭	心内科
-肝淤血	心内科
-低血压	心内科
-特发性心肌病	心内科
-特发性肺动脉高压	心内科
-缺血性心肌病	心内科
-马方综合征	心内科
-二尖瓣反流	心内科
-二尖瓣狭窄	心内科
-多瓣膜性心脏病	心内科
-心肌炎	心内科
-陈旧性心肌梗死	心内科
-动脉导管未闭	心内科
-房性早搏（PACs）	心内科
-室性早搏（PVCs）	心内科
-原发性高血压	心内科
-肺源性心脏病（Cor Pulmonale）	心内科
-肺动脉狭窄	心内科
-肺动脉瓣狭窄	心内科
-风湿性二尖瓣关闭不全	心内科
-风湿性心脏病	心内科
-风湿性心肌炎	心内科
-二度房室传导阻滞	心内科
-病态窦房结综合征	心内科
-室上性心动过速	心内科
-心动过速	心内科
-法洛四联症	心内科
-三尖瓣反流	心内科
-三尖瓣狭窄	心内科
-室间隔缺损（VSD）	心内科
-病毒性心肌炎	心内科
-慢性根尖周炎	口腔科
-龋齿	口腔科
-氟斑牙	口腔科
-地图舌	口腔科
-牙龈炎	口腔科
-舌炎	口腔科
-疱疹性龈口炎	口腔科
-阻生牙	口腔科
-巨舌症	口腔科
-口腔溃疡	口腔科
-牙周炎	口腔科
-牙髓炎	口腔科
-根尖囊肿	口腔科
-颞下颌关节脱位（TMJ）	口腔科
-寻常痤疮	皮肤科
-连续性肢端皮炎	皮肤科
-白化病	皮肤科
-斑秃	皮肤科
-全秃	皮肤科
-脚气病	皮肤科
-腋臭	皮肤科
-大疱性类天疱疮	皮肤科
-咖啡牛奶斑	皮肤科
-皮肤钙沉着症	皮肤科
-胡萝卜素血症	皮肤科
-冻疮	皮肤科
-胆碱能性荨麻疹	皮肤科
-色汗症	皮肤科
-着色芽生菌病	皮肤科
-尖锐湿疣	皮肤科
-冷球蛋白血症	皮肤科
-皮肤蝇蛆病	皮肤科
-囊肿性痤疮	皮肤科
-疱疹样皮炎	皮肤科
-汗疱疹（pompholyx）	皮肤科
-卡波西水痘样疹	皮肤科
-表皮样囊肿	皮肤科
-多形性红斑	皮肤科
-火激红斑	皮肤科
-离心性环状红斑	皮肤科
-红癣	皮肤科
-环状肉芽肿	皮肤科
-单纯疱疹病毒感染	皮肤科
-化脓性汗腺炎	皮肤科
-超敏性血管炎	皮肤科
-色素失禁症	皮肤科
-板层状鱼鳞病	皮肤科
-光泽苔藓	皮肤科
-扁平苔藓	皮肤科
-黑色素细胞痣	皮肤科
-黄褐斑	皮肤科
-痱	皮肤科
-传染性软疣	皮肤科
-甲营养不良	皮肤科
-神经性皮炎	皮肤科
-神经梅毒	皮肤科
-钱币状湿疹	皮肤科
-甲剥离	皮肤科
-副银屑病	皮肤科
-口周皮炎	皮肤科
-光敏性皮炎	皮肤科
-色素性紫癜性皮肤病	皮肤科
-白色糠疹	皮肤科
-毛发红糠疹	皮肤科
-花斑癣	皮肤科
-结节性痒疹	皮肤科
-肛门瘙痒症	皮肤科
-布罗克假性斑秃	皮肤科
-银屑病	皮肤科
-化脓性肉芽肿	皮肤科
-日光性皮炎	皮肤科
-日光性荨麻疹	皮肤科
-梅毒	皮肤科
-叠瓦癣	皮肤科
-手癣	皮肤科
-嵌趾皮蚤病	皮肤科
-荨麻疹	皮肤科
-睑黄瘤	皮肤科
-皮肤干燥症	皮肤科
-肾上腺疾病	内分泌科
-垂体前叶功能减退	内分泌科
-先天性肾上腺皮质增生	内分泌科
-先天性糖尿病	内分泌科
-先天性肾上腺发育不全	内分泌科
-尿崩症	内分泌科
-糖尿病周围神经病变	内分泌科
-妊娠期糖尿病（GDM）	内分泌科
-桥本甲状腺炎	内分泌科
-高雄激素血症	内分泌科
-高泌乳素血症	内分泌科
-多毛症	内分泌科
-低钾血症	内分泌科
-低镁血症	内分泌科
-甲状腺功能减退症	内分泌科
-克兰费尔特综合征	内分泌科
-混合型高脂血症	内分泌科
-肥胖症	内分泌科
-骨质疏松症	内分泌科
-外周性性早熟	内分泌科
-苯丙酮尿症	内分泌科
-嗜铬细胞瘤	内分泌科
-原发性醛固酮增多症	内分泌科
-亚急性甲状腺炎	内分泌科
-手足搐搦症	内分泌科
-甲状腺炎	内分泌科
-毒性弥漫性甲状腺肿	内分泌科
-1型糖尿病	内分泌科
-2型糖尿病（T2DM）	内分泌科
-贲门失弛缓症	消化内科
-急性单纯性胃炎	消化内科
-酒精性肝病	消化内科
-自身免疫性肝炎	消化内科
-乳糜泻	消化内科
-慢性胃炎	消化内科
-慢性浅表性胃炎	消化内科
-肝硬化	消化内科
-结肠息肉	消化内科
-便秘	消化内科
-十二指肠溃疡	消化内科
-十二指肠炎	消化内科
-肠道病毒感染	消化内科
-食管溃疡	消化内科
-胃溃疡	消化内科
-胃底静脉曲张	消化内科
-吉尔伯特综合征	消化内科
-幽门螺杆菌感染	消化内科
-肝纤维化	消化内科
-乳糖不耐受	消化内科
-肝病	消化内科
-肠系膜淋巴结炎	消化内科
-门静脉高压	消化内科
-原发性胆汁性胆管炎	消化内科
-反流性食管炎	消化内科
-轮状病毒性肠炎	消化内科
-溃疡性直肠炎	消化内科
-副溶血性弧菌食物中毒	消化内科
-腹壁挫伤	普外科
-肛门息肉	普外科
-肛瘘	普外科
-乳腺腺病	普外科
-蜂窝织炎	普外科
-胸部挫伤	普外科
-胆囊炎	普外科
-慢性胆囊炎	普外科
-乳腺囊性增生	普外科
-痔	普外科
-肝包虫病	普外科
-脐膨出	普外科
-肛周脓肿	普外科
-直肠息肉	普外科
-直肠脱垂	普外科
-肠系膜上动脉压迫综合征	普外科
-急性淋巴细胞白血病	血液科
-贫血	血液科
-慢性淋巴细胞白血病	血液科
-慢性粒-单核细胞白血病	血液科
-先天性高铁血红蛋白血症	血液科
-弥漫性大B细胞淋巴瘤	血液科
-嗜酸性粒细胞增多症	血液科
-原发性血小板增多症	血液科
-范可尼贫血	血液科
-毛细胞白血病	血液科
-遗传性出血性毛细血管扩张症	血液科
-脾功能亢进	血液科
-特发性血小板减少性紫癜	血液科
-缺铁性贫血	血液科
-白血病	血液科
-套细胞淋巴瘤	血液科
-多发性骨髓瘤	血液科
-骨髓增生异常综合征	血液科
-骨髓纤维化	血液科
-髓系肉瘤	血液科
-大理石骨病	血液科
-浆细胞白血病	血液科
-血管性血友病	血液科
-成人发病型斯蒂尔病	免疫科
-过敏性紫癜	免疫科
-强直性脊柱炎	免疫科
-白塞综合征	免疫科
-结缔组织病	免疫科
-盘状红斑狼疮（DLE）	免疫科
-费尔蒂综合征	免疫科
-纤维肌痛综合征	免疫科
-痛风	免疫科
-多血管炎性肉芽肿	免疫科
-遗传性血管性水肿	免疫科
-结节性多动脉炎	免疫科
-多发性肌炎	免疫科
-赖特综合征	免疫科
-复发性多软骨炎	免疫科
-类风湿关节炎	免疫科
-系统性红斑狼疮	免疫科
-系统性硬化症	免疫科
-获得性免疫缺陷综合征（AIDS）	感染科
-急性丙型肝炎	感染科
-急性戊型肝炎	感染科
-急性淋巴结炎	感染科
-阿米巴痢疾	感染科
-细菌感染	感染科
-猫抓病	感染科
-衣原体感染	感染科
-华支睾吸虫病	感染科
-球孢子菌病	感染科
-先天性风疹综合征	感染科
-囊虫病	感染科
-巨细胞病毒感染	感染科
-登革热	感染科
-地方性斑疹伤寒	感染科
-不明原因发热	感染科
-贾第虫病	感染科
-淋球菌性咽炎	感染科
-手足口病（HFMD）	感染科
-乙型肝炎（HBV感染）	感染科
-组织胞浆菌病	感染科
-钩虫病	感染科
-包虫病（棘球蚴病）	感染科
-传染性单核细胞增多症	感染科
-黑热病	感染科
-军团菌病	感染科
-利什曼病	感染科
-钩端螺旋体病	感染科
-莱姆病	感染科
-淋巴管炎	感染科
-类鼻疽	感染科
-口腔念珠菌病	感染科
-副伤寒	感染科
-肺结核	感染科
-肺弓形虫病	感染科
-回归热	感染科
-立克次体病	感染科
-战壕热	感染科
-结核性心包炎	感染科
-结核性腹膜炎	感染科
-斑疹伤寒（流行性和地方性斑疹伤寒）	感染科
-水痘	感染科
-病毒感染	感染科
-雅司病	感染科
-寨卡病毒病	感染科
-慢性肾脏病	肾内科
-终末期肾病	肾内科
-显微镜下多血管炎	肾内科
-多囊肾病	肾内科
-肾性骨营养不良	肾内科
-肾血管性高血压	肾内科
-阿尔茨海默病	神经内科
-臂神经炎	神经内科
-臂丛神经损伤	神经内科
-小脑扁桃体下疝畸形	神经内科
-脑动静脉畸形	神经内科
-丛集性头痛	神经内科
-脑震荡	神经内科
-癫痫	神经内科
-局灶性癫痫	神经内科
-脆性X综合征	神经内科
-前脑无裂畸形	神经内科
-亨特综合征	神经内科
-颅内囊肿	神经内科
-颅内占位性病变	神经内科
-偏头痛	神经内科
-肌强直性营养不良	神经内科
-新生儿脑室周围白质软化（PVL）	神经内科
-神经囊虫病	神经内科
-帕金森病	神经内科
-幻肢痛	神经内科
-创伤后脑损伤综合征	神经内科
-进行性肌营养不良	神经内科
-进行性多灶性白质脑病	神经内科
-雷特综合征	神经内科
-脑炎后遗症	神经内科
-痉挛性斜颈	神经内科
-脊髓性肌萎缩症	神经内科
-紧张型头痛	神经内科
-抽动障碍	神经内科
-结节性硬化症	神经内科
-病毒性脑膜炎	神经内科
-急性外阴炎	妇产科
-附件炎	妇产科
-闭经	妇产科
-巴氏腺囊肿	妇产科
-双角子宫	妇产科
-宫颈上皮内瘤变	妇产科
-宫颈息肉	妇产科
-陈旧性宫颈裂伤	妇产科
-黄体囊肿	妇产科
-痛经	妇产科
-功能性痛经	妇产科
-妊娠期痔	妇产科
-处女膜闭锁	妇产科
-巨大儿	妇产科
-卵巢过度刺激综合征	妇产科
-卵睾性别发育异常（Ovotesticular DSD）	妇产科
-围绝经期综合征	妇产科
-生理性卵巢囊肿	妇产科
-多囊卵巢综合征	妇产科
-经前综合征	妇产科
-原发性卵巢功能不全（POI）	妇产科
-继发性痛经	妇产科
-继发性闭经	妇产科
-老年性阴道炎	妇产科
-子宫复旧不全	妇产科
-子宫黏膜下平滑肌瘤	妇产科
-先兆流产	妇产科
-滴虫性阴道炎	妇产科
-X三体综合征（47,XXX）	妇产科
-双胎妊娠	妇产科
-单角子宫	妇产科
-外阴囊肿	妇产科
-外阴阴道假丝酵母菌病	妇产科
-乳腺癌	肿瘤科
-伯基特淋巴瘤	肿瘤科
-类癌综合征	肿瘤科
-宫颈癌	肿瘤科
-结肠癌	肿瘤科
-胃癌	肿瘤科
-肝母细胞瘤	肿瘤科
-肝细胞癌（肝癌）	肿瘤科
-肝内胆管癌	肿瘤科
-肺癌	肿瘤科
-非霍奇金淋巴瘤	肿瘤科
-前列腺癌	肿瘤科
-直肠癌	肿瘤科
-甲状腺癌	肿瘤科
-腺病毒性结膜炎	眼科
-睑缘炎	眼科
-白内障	眼科
-霰粒肿	眼科
-慢性泪囊炎	眼科
-色盲	眼科
-并发性白内障	眼科
-先天性青光眼	眼科
-先天性上睑下垂	眼科
-先天性角膜混浊	眼科
-先天性睑内翻	眼科
-结膜炎	眼科
-角膜病	眼科
-角膜溃疡	眼科
-泪腺炎	眼科
-睑外翻	眼科
-外斜视	眼科
-形觉剥夺性弱视	眼科
-青光眼	眼科
-遗传性视网膜营养不良	眼科
-隐斜视	眼科
-虹膜缺损	眼科
-角膜炎	眼科
-圆锥角膜	眼科
-角膜软化症	眼科
-晶状体脱位	眼科
-开角型青光眼	眼科
-视神经萎缩	眼科
-后葡萄膜炎	眼科
-老视	眼科
-翼状胬肉	眼科
-上睑下垂	眼科
-屈光不正	眼科
-视网膜母细胞瘤	眼科
-早产儿视网膜病变	眼科
-巩膜炎	眼科
-斜视	眼科
-沙眼	眼科
-外伤性白内障	眼科
-视力障碍	眼科
-玻璃体出血	眼科
-跟腱炎	骨科
-跟腱断裂	骨科
-软骨发育不全	骨科
-肩锁关节脱位	骨科
-肩关节粘连性关节囊炎（冻结肩）	骨科
-踝关节扭伤	骨科
-关节炎	骨科
-跟骨骨折	骨科
-腕管综合征	骨科
-神经根型颈椎病	骨科
-颈肩臂综合征	骨科
-髌骨软化症	骨科
-锁骨骨折	骨科
-腓总神经损伤	骨科
-先天性手畸形	骨科
-肋软骨炎	骨科
-桡骨远端骨折	骨科
-废用性骨质疏松	骨科
-埃勒斯-当洛综合征	骨科
-股神经损伤	骨科
-手指屈肌腱鞘炎	骨科
-肱骨干骨折	骨科
-髂胫束综合征	骨科
-关节积液	骨科
-大骨节病	骨科
-关节游离体（关节鼠）	骨科
-腰椎间盘突出症（腰椎间盘突出）	骨科
-骨折畸形愈合	骨科
-肱骨内上髁炎	骨科
-感觉异常性股痛（股外侧皮神经卡压综合征）	骨科
-肌肉拉伤	骨科
-骨化性肌炎	骨科
-骨关节炎	骨科
-剥脱性骨软骨炎	骨科
-成骨不全症	骨科
-骨髓炎	骨科
-骨坏死	骨科
-髌骨骨折	骨科
-髌腱病	骨科
-漏斗胸	骨科
-色素沉着绒毛结节性滑膜炎	骨科
-多指（趾）畸形	骨科
-创伤后骨关节炎	骨科
-肱骨近端骨折	骨科
-桡神经损伤	骨科
-肋骨骨折	骨科
-肩袖损伤	骨科
-骶髂关节炎	骨科
-肩胛骨骨折	骨科
-肩关节脱位	骨科
-肩手综合征	骨科
-氟骨症	骨科
-脊柱裂	骨科
-桡骨茎突狭窄性腱鞘炎	骨科
-肩峰下滑囊炎	骨科
-肱骨髁上骨折	骨科
-并指（趾）畸形	骨科
-马蹄内翻足	骨科
-距骨骨折	骨科
-跗管综合征	骨科
-网球肘	骨科
-创伤性骨化性肌炎	骨科
-结核性关节炎	骨科
-尺神经损伤	骨科
-急性鼻窦炎	耳鼻咽喉科
-急性鼓膜炎	耳鼻咽喉科
-腺样体肥大	耳鼻咽喉科
-鳃裂囊肿	耳鼻咽喉科
-耵聍栓塞	耳鼻咽喉科
-慢性鼻咽炎	耳鼻咽喉科
-慢性咽炎	耳鼻咽喉科
-慢性鼻炎	耳鼻咽喉科
-慢性扁桃体炎	耳鼻咽喉科
-慢性喉炎	耳鼻咽喉科
-慢性鼻窦炎	耳鼻咽喉科
-慢性蝶窦炎	耳鼻咽喉科
-先天性中耳畸形	耳鼻咽喉科
-先天性喉软化症	耳鼻咽喉科
-鼻中隔偏曲	耳鼻咽喉科
-外耳道胆脂瘤	耳鼻咽喉科
-外耳脓肿	耳鼻咽喉科
-下鼻甲肥大	耳鼻咽喉科
-迷路炎	耳鼻咽喉科
-喉囊肿	耳鼻咽喉科
-乳突炎	耳鼻咽喉科
-小耳畸形	耳鼻咽喉科
-晕动病	耳鼻咽喉科
-梅尼埃病	耳鼻咽喉科
-鼻骨骨折	耳鼻咽喉科
-鼻息肉	耳鼻咽喉科
-中耳炎	耳鼻咽喉科
-耳硬化症	耳鼻咽喉科
-鼻旁窦囊肿	耳鼻咽喉科
-鼻孢子菌病	耳鼻咽喉科
-链球菌性咽炎	耳鼻咽喉科
-突发性聋	耳鼻咽喉科
-化脓性中耳炎	耳鼻咽喉科
-化脓性扁桃体炎	耳鼻咽喉科
-耳鸣	耳鼻咽喉科
-血管运动性鼻炎	耳鼻咽喉科
-腺苷脱氨酶（ADA）缺乏症	儿科
-先天性白内障	儿科
-先天性心脏病	儿科
-先天性巨结肠	儿科
-先天性胆道闭锁	儿科
-先天畸形	儿科
-先天性肌性斜颈	儿科
-克里格勒-纳贾尔综合征	儿科
-枫糖尿病	儿科
-流行性腮腺炎	儿科
-新生儿脐炎	儿科
-神经母细胞瘤	儿科
-小于胎龄儿（SGA）	儿科
-酪氨酸血症	儿科
-维生素D缺乏性佝偻病	儿科
-维斯科特-奥尔德里奇综合征	儿科
-急性支气管炎	呼吸内科
-腺病毒性肺炎	呼吸内科
-腺病毒感染	呼吸内科
-哮喘	呼吸内科
-肺不张	呼吸内科
-支气管肺炎	呼吸内科
-肺炎衣原体肺炎	呼吸内科
-慢性阻塞性肺疾病	呼吸内科
-慢性呼吸衰竭	呼吸内科
-乳糜胸	呼吸内科
-先天性纵隔囊肿	呼吸内科
-囊性纤维化	呼吸内科
-嗜酸性肉芽肿性多血管炎	呼吸内科
-流感嗜血杆菌感染	呼吸内科
-过敏性肺炎	呼吸内科
-流行性感冒	呼吸内科
-支原体肺炎	呼吸内科
-肥胖低通气综合征	呼吸内科
-肺吸虫病	呼吸内科
-胸膜间皮瘤	呼吸内科
-胸膜炎	呼吸内科
-耶氏肺孢子菌肺炎（PJP）	呼吸内科
-肺炎	呼吸内科
-花粉症（季节性过敏性鼻炎；花粉热）	呼吸内科
-肺念珠菌病	呼吸内科
-肺隔离症	呼吸内科
-肺放线菌病	呼吸内科
-肺动静脉瘘	呼吸内科
-肺隐球菌病	呼吸内科
-肺包虫病	呼吸内科
-肺诺卡菌病	呼吸内科
-肺结节病	呼吸内科
-放射性肺炎	呼吸内科
-呼吸道合胞病毒肺炎	呼吸内科
-上呼吸道感染	呼吸内科
-急性膀胱炎	泌尿外科
-急性细菌性前列腺炎	泌尿外科
-膀胱结石	泌尿外科
-膀胱颈挛缩	泌尿外科
-膀胱结核	泌尿外科
-慢性前列腺炎	泌尿外科
-膀胱膨出	泌尿外科
-尿道上裂	泌尿外科
-尿道下裂	泌尿外科
-非淋菌性尿道炎	泌尿外科
-器质性勃起功能障碍	泌尿外科
-阴茎硬结症	泌尿外科
-早泄	泌尿外科
-前列腺结石	泌尿外科
-前列腺疾病	泌尿外科
-肾结石	泌尿外科
-肾囊肿	泌尿外科
-压力性尿失禁	泌尿外科
-脐尿管囊肿	泌尿外科
-输尿管结石	泌尿外科
-尿道结石	泌尿外科
-尿道综合征	泌尿外科
-尿道肉阜	泌尿外科
-尿道憩室	泌尿外科
-精索静脉曲张	泌尿外科
+alcoholic cardiomyopathy	Cardiology
+Aortic stenosis	Cardiology
+Atrial fibrillation	Cardiology
+Atrial septal defect	Cardiology
+Bradycardia	Cardiology
+Arrhythmia	Cardiology
+Chronic constrictive pericarditis	Cardiology
+Cor triatriatum	Cardiology
+Coronary atherosclerotic heart disease (coronary artery disease, CAD)	Cardiology
+Dextrocardia	Cardiology
+Dilated cardiomyopathy	Cardiology
+Double outlet right ventricle	Cardiology
+Ebstein anomaly (downward displacement of the tricuspid valve)	Cardiology
+Endocardial cushion defect	Cardiology
+Heart failure	Cardiology
+Hepatic congestion	Cardiology
+Hypotension	Cardiology
+Idiopathic cardiomyopathy	Cardiology
+Idiopathic pulmonary arterial hypertension	Cardiology
+Ischemic cardiomyopathy	Cardiology
+Marfan syndrome	Cardiology
+Mitral regurgitation	Cardiology
+Mitral stenosis	Cardiology
+Multivalvular heart disease	Cardiology
+Myocarditis	Cardiology
+old myocardial infarction	Cardiology
+Patent ductus arteriosus	Cardiology
+Premature atrial contractions (PACs)	Cardiology
+Premature ventricular contractions (PVCs)	Cardiology
+Essential hypertension	Cardiology
+cor pulmonale	Cardiology
+pulmonary artery stenosis	Cardiology
+pulmonary valve stenosis	Cardiology
+rheumatic mitral regurgitation	Cardiology
+rheumatic heart disease	Cardiology
+rheumatic myocarditis	Cardiology
+Second-degree atrioventricular block	Cardiology
+Sick sinus syndrome	Cardiology
+Supraventricular tachycardia	Cardiology
+Tachycardia	Cardiology
+Tetralogy of Fallot	Cardiology
+Tricuspid regurgitation	Cardiology
+Tricuspid stenosis	Cardiology
+Ventricular septal defect (VSD)	Cardiology
+Viral myocarditis	Cardiology
+Chronic apical periodontitis	Stomatology
+dental caries	Stomatology
+Dental fluorosis	Stomatology
+Geographic tongue	Stomatology
+Gingivitis	Stomatology
+glossitis	Stomatology
+Herpetic gingivostomatitis	Stomatology
+impacted tooth	Stomatology
+Macroglossia	Stomatology
+Oral ulcer	Stomatology
+Periodontitis	Stomatology
+Pulpitis	Stomatology
+Radicular cyst	Stomatology
+temporomandibular joint dislocation (TMJ)	Stomatology
+Acne vulgaris	Dermatology
+acrodermatitis continua	Dermatology
+Albinism	Dermatology
+Alopecia areata	Dermatology
+Alopecia totalis	Dermatology
+beriberi	Dermatology
+axillary osmidrosis	Dermatology
+Bullous pemphigoid	Dermatology
+Café-au-lait macule	Dermatology
+Calcinosis cutis	Dermatology
+carotenemia	Dermatology
+Chilblains	Dermatology
+cholinergic urticaria	Dermatology
+chromhidrosis	Dermatology
+Chromoblastomycosis	Dermatology
+Condyloma acuminatum	Dermatology
+Cryoglobulinemia	Dermatology
+Cutaneous myiasis	Dermatology
+Cystic acne	Dermatology
+Dermatitis herpetiformis	Dermatology
+Dyshidrotic eczema (pompholyx)	Dermatology
+Kaposi varicelliform eruption	Dermatology
+epidermoid cyst	Dermatology
+Erythema multiforme	Dermatology
+Erythema ab igne	Dermatology
+Erythema annulare centrifugum	Dermatology
+Erythrasma	Dermatology
+Granuloma annulare	Dermatology
+Herpes simplex virus infection	Dermatology
+Hidradenitis suppurativa	Dermatology
+hypersensitivity vasculitis	Dermatology
+incontinentia pigmenti	Dermatology
+Lamellar ichthyosis	Dermatology
+Lichen nitidus	Dermatology
+Lichen planus	Dermatology
+melanocytic nevus	Dermatology
+melasma	Dermatology
+Miliaria	Dermatology
+Molluscum contagiosum	Dermatology
+Onychodystrophy	Dermatology
+Neurodermatitis	Dermatology
+Neurosyphilis	Dermatology
+nummular eczema	Dermatology
+Onycholysis	Dermatology
+Parapsoriasis	Dermatology
+Perioral dermatitis	Dermatology
+Photosensitive dermatitis	Dermatology
+pigmented purpuric dermatosis	Dermatology
+Pityriasis alba	Dermatology
+Pityriasis rubra pilaris	Dermatology
+tinea versicolor	Dermatology
+Prurigo nodularis	Dermatology
+Pruritus ani	Dermatology
+Pseudopelade of Brocq	Dermatology
+psoriasis	Dermatology
+Pyogenic granuloma	Dermatology
+Photodermatitis	Dermatology
+Solar urticaria	Dermatology
+Syphilis	Dermatology
+Tinea imbricata	Dermatology
+Tinea manuum	Dermatology
+Tungiasis	Dermatology
+urticaria	Dermatology
+Xanthelasma palpebrarum	Dermatology
+Xerosis cutis	Dermatology
+adrenal gland disorders	Endocrinology
+Anterior pituitary insufficiency	Endocrinology
+Congenital adrenal hyperplasia	Endocrinology
+Congenital diabetes mellitus	Endocrinology
+Congenital adrenal hypoplasia	Endocrinology
+Diabetes insipidus	Endocrinology
+Diabetic peripheral neuropathy	Endocrinology
+Gestational diabetes mellitus (GDM)	Endocrinology
+Hashimoto thyroiditis	Endocrinology
+hyperandrogenism	Endocrinology
+hyperprolactinemia	Endocrinology
+Hirsutism	Endocrinology
+Hypokalemia	Endocrinology
+Hypomagnesemia	Endocrinology
+Hypothyroidism	Endocrinology
+Klinefelter syndrome	Endocrinology
+Mixed hyperlipidemia	Endocrinology
+obesity	Endocrinology
+osteoporosis	Endocrinology
+Peripheral precocious puberty	Endocrinology
+phenylketonuria	Endocrinology
+Pheochromocytoma	Endocrinology
+Primary aldosteronism	Endocrinology
+Subacute thyroiditis	Endocrinology
+Tetany	Endocrinology
+Thyroiditis	Endocrinology
+Graves disease	Endocrinology
+Type 1 diabetes mellitus	Endocrinology
+Type 2 diabetes mellitus (T2DM)	Endocrinology
+achalasia	Gastroenterology
+Acute simple gastritis	Gastroenterology
+alcoholic liver disease	Gastroenterology
+autoimmune hepatitis	Gastroenterology
+Celiac disease	Gastroenterology
+Chronic gastritis	Gastroenterology
+Chronic superficial gastritis	Gastroenterology
+Cirrhosis	Gastroenterology
+Colon polyp	Gastroenterology
+Constipation	Gastroenterology
+Duodenal ulcer	Gastroenterology
+Duodenitis	Gastroenterology
+Enterovirus infection	Gastroenterology
+esophageal ulcer	Gastroenterology
+gastric ulcer	Gastroenterology
+gastric fundal varices	Gastroenterology
+Gilbert syndrome	Gastroenterology
+Helicobacter pylori infection	Gastroenterology
+Liver fibrosis	Gastroenterology
+Lactose intolerance	Gastroenterology
+Liver disease	Gastroenterology
+Mesenteric lymphadenitis	Gastroenterology
+portal hypertension	Gastroenterology
+Primary biliary cholangitis	Gastroenterology
+Reflux esophagitis	Gastroenterology
+rotavirus gastroenteritis	Gastroenterology
+Ulcerative proctitis	Gastroenterology
+Vibrio parahaemolyticus food poisoning	Gastroenterology
+abdominal wall contusion	General Surgery
+Anal polyp	General Surgery
+Anal fistula	General Surgery
+Breast adenosis	General Surgery
+cellulitis	General Surgery
+chest contusion	General Surgery
+cholecystitis	General Surgery
+Chronic cholecystitis	General Surgery
+Fibrocystic breast disease	General Surgery
+Hemorrhoids	General Surgery
+Hepatic echinococcosis	General Surgery
+omphalocele	General Surgery
+Perianal abscess	General Surgery
+Rectal polyp	General Surgery
+Rectal prolapse	General Surgery
+Superior mesenteric artery syndrome	General Surgery
+Acute lymphoblastic leukemia	Hematology
+anemia	Hematology
+Chronic lymphocytic leukemia	Hematology
+Chronic myelomonocytic leukemia	Hematology
+Congenital methemoglobinemia	Hematology
+Diffuse large B-cell lymphoma	Hematology
+Eosinophilia	Hematology
+Essential thrombocythemia	Hematology
+Fanconi anemia	Hematology
+Hairy cell leukemia	Hematology
+hereditary hemorrhagic telangiectasia	Hematology
+hypersplenism	Hematology
+Idiopathic thrombocytopenic purpura	Hematology
+Iron deficiency anemia	Hematology
+Leukemia	Hematology
+Mantle cell lymphoma	Hematology
+Multiple myeloma	Hematology
+myelodysplastic syndrome	Hematology
+myelofibrosis	Hematology
+myeloid sarcoma	Hematology
+Osteopetrosis	Hematology
+Plasma cell leukemia	Hematology
+von Willebrand disease	Hematology
+Adult-onset Still disease	Immunology & Rheumatology
+Henoch-Schönlein purpura	Immunology & Rheumatology
+Ankylosing spondylitis	Immunology & Rheumatology
+Behçet syndrome	Immunology & Rheumatology
+Connective tissue disease	Immunology & Rheumatology
+Discoid lupus erythematosus (DLE)	Immunology & Rheumatology
+Felty syndrome	Immunology & Rheumatology
+Fibromyalgia syndrome	Immunology & Rheumatology
+Gout	Immunology & Rheumatology
+Granulomatosis with polyangiitis	Immunology & Rheumatology
+hereditary angioedema	Immunology & Rheumatology
+Polyarteritis nodosa	Immunology & Rheumatology
+Polymyositis	Immunology & Rheumatology
+Reiter syndrome	Immunology & Rheumatology
+Relapsing polychondritis	Immunology & Rheumatology
+Rheumatoid arthritis	Immunology & Rheumatology
+Systemic lupus erythematosus	Immunology & Rheumatology
+Systemic sclerosis	Immunology & Rheumatology
+acquired immunodeficiency syndrome (AIDS)	Infectious Diseases
+Acute hepatitis C	Infectious Diseases
+Acute hepatitis E	Infectious Diseases
+Acute lymphadenitis	Infectious Diseases
+amebic dysentery	Infectious Diseases
+Bacterial infection	Infectious Diseases
+Cat-scratch disease	Infectious Diseases
+chlamydial infection	Infectious Diseases
+Clonorchiasis	Infectious Diseases
+Coccidioidomycosis	Infectious Diseases
+Congenital rubella syndrome	Infectious Diseases
+Cysticercosis	Infectious Diseases
+Cytomegalovirus infection	Infectious Diseases
+Dengue fever	Infectious Diseases
+Endemic typhus	Infectious Diseases
+Fever of unknown origin	Infectious Diseases
+giardiasis	Infectious Diseases
+Gonococcal pharyngitis	Infectious Diseases
+Hand, foot, and mouth disease (HFMD)	Infectious Diseases
+Hepatitis B (HBV infection)	Infectious Diseases
+Histoplasmosis	Infectious Diseases
+hookworm disease	Infectious Diseases
+Echinococcosis (hydatid disease)	Infectious Diseases
+Infectious mononucleosis	Infectious Diseases
+kala-azar	Infectious Diseases
+Legionellosis	Infectious Diseases
+Leishmaniasis	Infectious Diseases
+leptospirosis	Infectious Diseases
+Lyme disease	Infectious Diseases
+Lymphangitis	Infectious Diseases
+Melioidosis	Infectious Diseases
+Oral candidiasis	Infectious Diseases
+Paratyphoid fever	Infectious Diseases
+pulmonary tuberculosis	Infectious Diseases
+pulmonary toxoplasmosis	Infectious Diseases
+Relapsing fever	Infectious Diseases
+Rickettsial disease	Infectious Diseases
+Trench fever	Infectious Diseases
+Tuberculous pericarditis	Infectious Diseases
+Tuberculous peritonitis	Infectious Diseases
+Typhus (epidemic and endemic typhus)	Infectious Diseases
+Chickenpox	Infectious Diseases
+Viral infection	Infectious Diseases
+yaws	Infectious Diseases
+Zika virus disease	Infectious Diseases
+Chronic kidney disease	Nephrology
+End-stage kidney disease	Nephrology
+Microscopic polyangiitis	Nephrology
+Polycystic kidney disease	Nephrology
+renal osteodystrophy	Nephrology
+renovascular hypertension	Nephrology
+Alzheimer disease	Neurology
+brachial neuritis	Neurology
+brachial plexus injury	Neurology
+Chiari malformation	Neurology
+cerebral arteriovenous malformation	Neurology
+Cluster headache	Neurology
+concussion	Neurology
+Epilepsy	Neurology
+Focal epilepsy	Neurology
+fragile X syndrome	Neurology
+Holoprosencephaly	Neurology
+Hunter syndrome	Neurology
+intracranial cyst	Neurology
+intracranial space-occupying lesion	Neurology
+Migraine	Neurology
+Myotonic dystrophy	Neurology
+Neonatal periventricular leukomalacia (PVL)	Neurology
+Neurocysticercosis	Neurology
+Parkinson disease	Neurology
+Phantom limb pain	Neurology
+Post-traumatic brain injury syndrome	Neurology
+progressive muscular dystrophy	Neurology
+progressive multifocal leukoencephalopathy	Neurology
+Rett syndrome	Neurology
+sequelae of encephalitis	Neurology
+Spasmodic torticollis	Neurology
+spinal muscular atrophy	Neurology
+Tension-type headache	Neurology
+Tic disorder	Neurology
+Tuberous sclerosis	Neurology
+Viral meningitis	Neurology
+Acute vulvitis	Obstetrics & Gynecology
+adnexitis	Obstetrics & Gynecology
+amenorrhea	Obstetrics & Gynecology
+Bartholin cyst	Obstetrics & Gynecology
+Bicornuate uterus	Obstetrics & Gynecology
+Cervical intraepithelial neoplasia	Obstetrics & Gynecology
+Cervical polyp	Obstetrics & Gynecology
+old cervical laceration	Obstetrics & Gynecology
+corpus luteum cyst	Obstetrics & Gynecology
+Dysmenorrhea	Obstetrics & Gynecology
+Functional dysmenorrhea	Obstetrics & Gynecology
+Hemorrhoids in pregnancy	Obstetrics & Gynecology
+Imperforate hymen	Obstetrics & Gynecology
+Macrosomia	Obstetrics & Gynecology
+Ovarian hyperstimulation syndrome	Obstetrics & Gynecology
+Ovotesticular disorder of sex development (Ovotesticular DSD)	Obstetrics & Gynecology
+Perimenopausal syndrome	Obstetrics & Gynecology
+Physiologic ovarian cyst	Obstetrics & Gynecology
+Polycystic ovary syndrome	Obstetrics & Gynecology
+Premenstrual syndrome	Obstetrics & Gynecology
+Primary ovarian insufficiency (POI)	Obstetrics & Gynecology
+Secondary dysmenorrhea	Obstetrics & Gynecology
+Secondary amenorrhea	Obstetrics & Gynecology
+Atrophic vaginitis	Obstetrics & Gynecology
+Subinvolution of the uterus	Obstetrics & Gynecology
+Submucosal uterine leiomyoma	Obstetrics & Gynecology
+Threatened abortion	Obstetrics & Gynecology
+Trichomonas vaginitis	Obstetrics & Gynecology
+Triple X syndrome (47,XXX)	Obstetrics & Gynecology
+Twin pregnancy	Obstetrics & Gynecology
+Unicornuate uterus	Obstetrics & Gynecology
+Vulvar cyst	Obstetrics & Gynecology
+Vulvovaginal candidiasis	Obstetrics & Gynecology
+Breast cancer	Oncology
+Burkitt lymphoma	Oncology
+Carcinoid syndrome	Oncology
+Cervical cancer	Oncology
+Colon cancer	Oncology
+gastric cancer	Oncology
+Hepatoblastoma	Oncology
+Hepatocellular carcinoma (liver cancer)	Oncology
+Intrahepatic cholangiocarcinoma	Oncology
+lung cancer	Oncology
+non-Hodgkin lymphoma	Oncology
+Prostate cancer	Oncology
+Rectal cancer	Oncology
+Thyroid cancer	Oncology
+adenoviral conjunctivitis	Ophthalmology
+Blepharitis	Ophthalmology
+Cataract	Ophthalmology
+chalazion	Ophthalmology
+Chronic dacryocystitis	Ophthalmology
+color blindness	Ophthalmology
+Complicated cataract	Ophthalmology
+Congenital glaucoma	Ophthalmology
+Congenital ptosis	Ophthalmology
+Congenital corneal opacity	Ophthalmology
+Congenital entropion	Ophthalmology
+Conjunctivitis	Ophthalmology
+corneal disease	Ophthalmology
+corneal ulcer	Ophthalmology
+Dacryoadenitis	Ophthalmology
+Ectropion	Ophthalmology
+Exotropia	Ophthalmology
+Deprivation amblyopia	Ophthalmology
+glaucoma	Ophthalmology
+hereditary retinal dystrophy	Ophthalmology
+heterophoria	Ophthalmology
+iris coloboma	Ophthalmology
+keratitis	Ophthalmology
+Keratoconus	Ophthalmology
+keratomalacia	Ophthalmology
+Lens dislocation	Ophthalmology
+Open-angle glaucoma	Ophthalmology
+optic atrophy	Ophthalmology
+Posterior uveitis	Ophthalmology
+Presbyopia	Ophthalmology
+Pterygium	Ophthalmology
+Ptosis	Ophthalmology
+Refractive error	Ophthalmology
+retinoblastoma	Ophthalmology
+Retinopathy of prematurity	Ophthalmology
+Scleritis	Ophthalmology
+Strabismus	Ophthalmology
+Trachoma	Ophthalmology
+Traumatic cataract	Ophthalmology
+visual impairment	Ophthalmology
+Vitreous hemorrhage	Ophthalmology
+Achilles tendinitis	Orthopedics
+Achilles tendon rupture	Orthopedics
+achondroplasia	Orthopedics
+acromioclavicular joint dislocation	Orthopedics
+adhesive capsulitis of the shoulder (frozen shoulder)	Orthopedics
+ankle sprain	Orthopedics
+Arthritis	Orthopedics
+calcaneal fracture	Orthopedics
+carpal tunnel syndrome	Orthopedics
+Cervical radiculopathy	Orthopedics
+cervicobrachial syndrome	Orthopedics
+chondromalacia patellae	Orthopedics
+clavicle fracture	Orthopedics
+common peroneal nerve injury	Orthopedics
+Congenital hand deformity	Orthopedics
+Costochondritis	Orthopedics
+Distal radius fracture	Orthopedics
+Disuse osteoporosis	Orthopedics
+Ehlers-Danlos syndrome	Orthopedics
+Femoral nerve injury	Orthopedics
+Flexor tenosynovitis of the fingers	Orthopedics
+humeral shaft fracture	Orthopedics
+iliotibial band syndrome	Orthopedics
+Joint effusion	Orthopedics
+Kashin-Beck disease	Orthopedics
+Loose body in joint (joint mouse)	Orthopedics
+lumbar disc herniation (lumbar disc protrusion)	Orthopedics
+fracture malunion	Orthopedics
+medial epicondylitis	Orthopedics
+Meralgia paresthetica (lateral femoral cutaneous nerve entrapment syndrome)	Orthopedics
+Muscle strain	Orthopedics
+myositis ossificans	Orthopedics
+osteoarthritis	Orthopedics
+Osteochondritis dissecans	Orthopedics
+Osteogenesis imperfecta	Orthopedics
+osteomyelitis	Orthopedics
+osteonecrosis	Orthopedics
+patellar fracture	Orthopedics
+patellar tendinopathy	Orthopedics
+Pectus excavatum	Orthopedics
+pigmented villonodular synovitis	Orthopedics
+Polydactyly	Orthopedics
+Post-traumatic osteoarthritis	Orthopedics
+proximal humeral fracture	Orthopedics
+Radial nerve injury	Orthopedics
+Rib fracture	Orthopedics
+rotator cuff injury	Orthopedics
+sacroiliitis	Orthopedics
+scapular fracture	Orthopedics
+shoulder dislocation	Orthopedics
+shoulder-hand syndrome	Orthopedics
+Skeletal fluorosis	Orthopedics
+spina bifida	Orthopedics
+De Quervain tenosynovitis	Orthopedics
+subacromial bursitis	Orthopedics
+supracondylar fracture of the humerus	Orthopedics
+Syndactyly	Orthopedics
+clubfoot	Orthopedics
+talus fracture	Orthopedics
+tarsal tunnel syndrome	Orthopedics
+Tennis elbow	Orthopedics
+Traumatic myositis ossificans	Orthopedics
+Tuberculous arthritis	Orthopedics
+Ulnar nerve injury	Orthopedics
+Acute sinusitis	Otolaryngology (ENT)
+Acute myringitis	Otolaryngology (ENT)
+adenoid hypertrophy	Otolaryngology (ENT)
+branchial cleft cyst	Otolaryngology (ENT)
+Cerumen impaction	Otolaryngology (ENT)
+Chronic nasopharyngitis	Otolaryngology (ENT)
+Chronic pharyngitis	Otolaryngology (ENT)
+Chronic rhinitis	Otolaryngology (ENT)
+Chronic tonsillitis	Otolaryngology (ENT)
+Chronic laryngitis	Otolaryngology (ENT)
+Chronic sinusitis	Otolaryngology (ENT)
+Chronic sphenoid sinusitis	Otolaryngology (ENT)
+Congenital middle ear malformation	Otolaryngology (ENT)
+Congenital laryngomalacia	Otolaryngology (ENT)
+deviated nasal septum	Otolaryngology (ENT)
+External auditory canal cholesteatoma	Otolaryngology (ENT)
+External ear abscess	Otolaryngology (ENT)
+Inferior turbinate hypertrophy	Otolaryngology (ENT)
+labyrinthitis	Otolaryngology (ENT)
+Laryngeal cyst	Otolaryngology (ENT)
+Mastoiditis	Otolaryngology (ENT)
+Microtia	Otolaryngology (ENT)
+Motion sickness	Otolaryngology (ENT)
+Meniere disease	Otolaryngology (ENT)
+nasal bone fracture	Otolaryngology (ENT)
+nasal polyp	Otolaryngology (ENT)
+Otitis media	Otolaryngology (ENT)
+Otosclerosis	Otolaryngology (ENT)
+paranasal sinus cyst	Otolaryngology (ENT)
+rhinosporidiosis	Otolaryngology (ENT)
+streptococcal pharyngitis	Otolaryngology (ENT)
+Sudden sensorineural hearing loss	Otolaryngology (ENT)
+Suppurative otitis media	Otolaryngology (ENT)
+Suppurative tonsillitis	Otolaryngology (ENT)
+Tinnitus	Otolaryngology (ENT)
+vasomotor rhinitis	Otolaryngology (ENT)
+adenosine deaminase (ADA) deficiency	Pediatrics
+Congenital cataract	Pediatrics
+Congenital heart disease	Pediatrics
+Hirschsprung disease	Pediatrics
+Congenital biliary atresia	Pediatrics
+Congenital malformation	Pediatrics
+Congenital muscular torticollis	Pediatrics
+Crigler-Najjar syndrome	Pediatrics
+Maple syrup urine disease	Pediatrics
+Mumps	Pediatrics
+Neonatal omphalitis	Pediatrics
+Neuroblastoma	Pediatrics
+Small for gestational age (SGA)	Pediatrics
+tyrosinemia	Pediatrics
+Vitamin D deficiency rickets	Pediatrics
+Wiskott-Aldrich syndrome	Pediatrics
+Acute bronchitis	Respiratory Medicine
+adenoviral pneumonia	Respiratory Medicine
+adenovirus infection	Respiratory Medicine
+Asthma	Respiratory Medicine
+atelectasis	Respiratory Medicine
+Bronchopneumonia	Respiratory Medicine
+Chlamydia pneumoniae pneumonia	Respiratory Medicine
+Chronic obstructive pulmonary disease	Respiratory Medicine
+Chronic respiratory failure	Respiratory Medicine
+Chylothorax	Respiratory Medicine
+Congenital mediastinal cyst	Respiratory Medicine
+Cystic fibrosis	Respiratory Medicine
+Eosinophilic granulomatosis with polyangiitis	Respiratory Medicine
+Haemophilus influenzae infection	Respiratory Medicine
+hypersensitivity pneumonitis	Respiratory Medicine
+Influenza	Respiratory Medicine
+Mycoplasma pneumonia	Respiratory Medicine
+obesity hypoventilation syndrome	Respiratory Medicine
+pulmonary paragonimiasis	Respiratory Medicine
+pleural mesothelioma	Respiratory Medicine
+pleurisy	Respiratory Medicine
+Pneumocystis jirovecii pneumonia (PJP)	Respiratory Medicine
+pneumonia	Respiratory Medicine
+pollinosis (seasonal allergic rhinitis; hay fever)	Respiratory Medicine
+pulmonary candidiasis	Respiratory Medicine
+pulmonary sequestration	Respiratory Medicine
+pulmonary actinomycosis	Respiratory Medicine
+pulmonary arteriovenous fistula	Respiratory Medicine
+pulmonary cryptococcosis	Respiratory Medicine
+pulmonary echinococcosis	Respiratory Medicine
+pulmonary nocardiosis	Respiratory Medicine
+pulmonary sarcoidosis	Respiratory Medicine
+Radiation pneumonitis	Respiratory Medicine
+Respiratory syncytial virus pneumonia	Respiratory Medicine
+Upper respiratory tract infection	Respiratory Medicine
+Acute cystitis	Urology
+Acute bacterial prostatitis	Urology
+bladder calculi	Urology
+bladder neck contracture	Urology
+bladder tuberculosis	Urology
+Chronic prostatitis	Urology
+cystocele	Urology
+Epispadias	Urology
+Hypospadias	Urology
+nongonococcal urethritis	Urology
+Organic erectile dysfunction	Urology
+Peyronie disease	Urology
+Premature ejaculation	Urology
+Prostatic calculi	Urology
+Prostate disease	Urology
+nephrolithiasis	Urology
+renal cyst	Urology
+Stress urinary incontinence	Urology
+urachal cyst	Urology
+ureteral calculus	Urology
+Urethral calculus	Urology
+Urethral syndrome	Urology
+Urethral caruncle	Urology
+Urethral diverticulum	Urology
+Varicocele	Urology

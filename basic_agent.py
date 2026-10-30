@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""BasicAgent：原比赛基础入口，保持 train / test 接口不变；内部委托医晓临床运行时。"""
+"""BasicAgent: the original competition entry; train / test unchanged, delegating to the YiXiao clinical runtime."""
 import json
 import sys
 

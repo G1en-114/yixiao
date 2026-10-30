@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""事件总线：追加式 JSONL 事件日志 + SQLite 持久化 + SSE 订阅广播。"""
+"""Event bus: append-only JSONL event log + SQLite persistence + SSE broadcast."""
 import json
 import os
 import queue
@@ -24,7 +24,7 @@ CREATE TABLE IF NOT EXISTS messages(
 
 
 class Store:
-    """每线程独立连接（WAL 模式），避免多线程共享连接。"""
+    """One connection per thread (WAL mode); connections are never shared across threads."""
 
     def __init__(self, db_path):
         self.db_path = db_path
@@ -100,7 +100,7 @@ class Store:
 
 
 class EventBus:
-    """追加式事件日志：内存广播 + SQLite 持久化 + 每病例 JSONL 落盘。"""
+    """Append-only event log: in-memory broadcast + SQLite persistence + one JSONL file per case."""
 
     def __init__(self, store, jsonl_dir):
         self.store = store
@@ -126,7 +126,7 @@ class EventBus:
     def replay(self, case_id, after_seq=-1):
         with self._lock:
             last = self._seqs.get(case_id)
-        if last is None:                 # 进程重启后从 SQLite 恢复
+        if last is None:                 # after a process restart, recover from SQLite
             events = self.store.events_for(case_id)
             with self._lock:
                 self._seqs[case_id] = events[-1]['seq'] if events else -1

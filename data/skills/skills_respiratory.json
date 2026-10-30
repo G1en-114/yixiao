@@ -1,0 +1,1878 @@
+{
+ "department": "Respiratory Medicine",
+ "skills": [
+  {
+   "presentation": "Recurrent wheezing, shortness of breath, chest tightness, or cough, often occurring or worsening at night and/or in the early morning; episodes are often related to exposure to allergens (house dust mites, pollen, pet dander), cold air, physical/chemical irritants, strenuous exercise, or upper respiratory tract infection; during attacks, examination reveals widespread scattered expiratory high-pitched wheezing in both lungs, with markedly prolonged expiration; symptoms may resolve spontaneously or after bronchodilator treatment (reversible airflow limitation).",
+   "interview_guide": {
+    "first_questions": [
+     "How long have you had episodes of wheezing, chest tightness, or difficulty breathing? During episodes, do you have a whistling sound in your throat like air being forced through a bellows (wheezing)?",
+     "Does the breathlessness often suddenly worsen in the middle of the night, early morning, after getting cold, with exercise, or after exposure to cooking fumes, smoke, pollen, cats, or dogs?",
+     "After inhaling a rescue spray such as salbutamol (Ventolin), does the wheezing improve significantly within a few minutes to ten-odd minutes?"
+    ],
+    "followup_questions": [
+     "Do you or any first-degree relatives have a history of allergic rhinitis, eczema, urticaria, or asthma (atopic constitution)?",
+     "Do you usually have a long-term chronic dry cough (especially severe dry cough at night without sputum or fever, to screen for cough-variant asthma [CVA])?",
+     "Are you currently using inhaled corticosteroids regularly for maintenance control? How many acute attacks do you have each month?"
+    ],
+    "stop_conditions": [
+     "Core features of reversible expiratory wheezing with sudden nighttime onset/resolution and allergic triggers have been clarified",
+     "Rapid responsiveness to bronchodilators has been confirmed",
+     "Personal atopic background and prior level of inhaled medication control are clearly understood"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Pulmonary function testing + bronchodilator test (BDT) (core gold standard: after inhaled bronchodilator, FEV1 increase >=12% and absolute increase >=200 ml is positive)",
+     "Bronchial provocation test (BPT) or diurnal variability of peak expiratory flow (PEF) (in patients with normal pulmonary function but suspected asthma, PEF diurnal variability >10%)",
+     "Fractional exhaled nitric oxide (FeNO) (noninvasive assessment of eosinophilic airway inflammation)",
+     "Chest plain radiograph (during attacks, increased bilateral radiolucency with hyperinflation may be seen; exclude pneumothorax, pneumonia, and pneumomediastinum)"
+    ],
+    "if_suspected": [
+     "Serum total IgE and inhaled allergen-specific IgE (sIgE) screening",
+     "Chest CT (to differentiate from bronchiectasis, COPD, and eosinophilic granulomatosis with polyangiitis)"
+    ],
+    "avoid": [
+     "Bronchial provocation testing during severe acute asthma exacerbation with respiratory failure (absolute contraindication: may induce fatal acute laryngospasm and airway obstruction)",
+     "Blindly and frequently ordering contrast-enhanced chest CT for mild typical asthma"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For long-term control, first-line is inhaled corticosteroid combined with long-acting β2-agonist (ICS-LABA combination, e.g., budesonide/formoterol powder inhaler, fluticasone/salmeterol)",
+     "For acute relief/rescue, first-line is as-needed low-dose ICS-formoterol (SMART therapy) or short-acting β2-agonist (SABA salbutamol aerosol)",
+     "Adjunctive therapy: oral leukotriene receptor antagonist (montelukast sodium)",
+     "For severe refractory asthma, use targeted biologics (anti-IgE monoclonal antibody omalizumab, anti-IL-5 monoclonal antibody)."
+    ],
+    "safety_warnings": [
+     "Long-term use of a long-acting β2-agonist (LABA) alone without ICS anti-inflammatory therapy is strictly prohibited (LABA monotherapy can increase the risk of severe asthma exacerbations and death)",
+     "After each inhalation of ICS or ICS-LABA, immediately rinse the mouth thoroughly with water and spit it out to prevent oral candidiasis and hoarseness",
+     "Severe acute asthma exacerbation (silent chest, profuse sweating, orthopnea, somnolence) is a fatal emergency requiring immediate high-flow oxygen, intravenous corticosteroids, and nebulized SABA+SAMA"
+    ],
+    "personalization": [
+     "Cough-variant asthma (CVA): primarily standardized inhaled ICS-LABA or ICS plus oral montelukast for at least 8-12 weeks",
+     "Exercise-induced asthma: pre-exercise inhalation of SABA or ICS-formoterol 15 minutes before strenuous exercise",
+     "Aspirin-exacerbated respiratory disease triad (asthma + aspirin allergy + nasal polyps): lifelong strict prohibition of aspirin and all NSAIDs"
+    ]
+   },
+   "disease": "Asthma",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Commonly seen in middle-aged and older smokers; slow onset with progressive dyspnea (exertional shortness of breath after activity is the hallmark feature); chronic long-term cough with white mucous or frothy sputum (more sputum in the morning); during acute exacerbations, worsened dyspnea, increased sputum volume with yellow purulent sputum, and fever; in advanced stages, barrel chest, widened intercostal spaces, hyperresonant percussion, diminished breath sounds, pursed-lip breathing, cyanosis, and signs of cor pulmonale (lower extremity edema, jugular venous distension).",
+   "interview_guide": {
+    "first_questions": [
+     "When climbing stairs or walking fast on level ground, do you feel chest tightness or shortness of breath (exertional dyspnea)? How many years has this lasted?",
+     "Do you cough and bring up white sticky sputum every morning all year round (history of chronic bronchitis)?",
+     "How many years have you smoked? How many packs per day? (Long-term heavy smoking is the primary risk factor)"
+    ],
+    "followup_questions": [
+     "Has your breathlessness suddenly worsened recently? Has the sputum volume increased and become yellow-green purulent sputum? (screen for acute exacerbation of COPD [AECOPD])",
+     "Do your ankles have swelling? Is your abdomen bloated? (screen for chronic cor pulmonale with right heart failure)",
+     "At work, are you chronically exposed to coal mine dust, asbestos, biomass fuel smoke, or chemical dust?"
+    ],
+    "stop_conditions": [
+     "Progressive exertional dyspnea, chronic sputum production course, and smoking exposure index have been clarified",
+     "Stable phase (GOLD grades 1-4/groups ABCD) versus acute exacerbation (AECOPD) has been distinguished",
+     "Spontaneous pneumothorax, pulmonary embolism, and complications of acute left heart failure have been ruled out"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Pulmonary function testing (post-bronchodilator FEV1/FVC<70%—the absolute gold standard for diagnosing COPD with incompletely reversible airflow limitation)",
+     "High-resolution chest CT/chest radiograph (shows bilateral emphysema, bullae, lung hyperinflation, and excludes bronchiectasis, lung cancer, pulmonary tuberculosis)",
+     "Arterial blood gas analysis (assess hypoxemia PaO2 and hypercapnia PaCO2, determine type II respiratory failure)",
+     "CBC, C-reactive protein (CRP)"
+    ],
+    "if_suspected": [
+     "Echocardiography (assess pulmonary artery systolic pressure PAP and right ventricular hypertrophy/dilation, screen for pulmonary hypertension and cor pulmonale)",
+     "Sputum bacterial smear and culture + susceptibility testing (to guide antibiotic use in AECOPD patients with purulent sputum)"
+    ],
+    "avoid": [
+     "Administering high-concentration high-flow oxygen to COPD patients with type II respiratory failure and hypercapnia (strictly prohibited! It abolishes hypoxic drive and can induce pulmonary encephalopathy, coma, and death)",
+     "Routinely prescribing systemic oral corticosteroids for mild stable COPD patients"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Smoking cessation (the most critical measure to slow lung function decline)",
+     "First-line maintenance pharmacotherapy is inhaled long-acting bronchodilators: long-acting anticholinergic (LAMA, e.g., tiotropium) and/or long-acting β2-agonist (LABA, e.g., indacaterol)",
+     "In those with frequent exacerbations and high blood eosinophils, add ICS to form triple inhaled therapy (ICS+LAMA+LABA, e.g., budesonide/glycopyrronium/formoterol, beclometasone/formoterol/glycopyrronium)",
+     "Nonpharmacologic treatment: pulmonary rehabilitation (diaphragmatic breathing, pursed-lip breathing), long-term home oxygen therapy (LTOT >15 hours/day, flow 1-2 L/min), and influenza/pneumococcal vaccination."
+    ],
+    "safety_warnings": [
+     "Oxygen therapy in COPD with type II respiratory failure must adhere to \"low-flow, low-concentration continuous oxygen (FiO2 25%-29%, flow 1-2 L/min)\" to strictly prevent carbon dioxide retention and pulmonary encephalopathy",
+     "Inhaled anticholinergics (e.g., tiotropium) require caution for urinary difficulty/urinary retention in patients with prostatic hyperplasia and worsening glaucoma",
+     "In AECOPD with severe dyspnea, pH<7.35 with hypercapnia, first-line support is noninvasive positive pressure ventilation (NIV/BiPAP)"
+    ],
+    "personalization": [
+     "Blood eosinophils >=300/ul and prior frequent exacerbations: strongly recommend ICS-containing triple inhaled therapy",
+     "With severe hypoxemia (resting PaO2<=55 mmHg or SaO2<=88%): must initiate long-term home oxygen therapy (LTOT)",
+     "In patients with severe bullae and severe breathlessness: evaluate for bronchoscopic lung volume reduction with endobronchial valves (BLVR)"
+    ]
+   },
+   "disease": "Chronic obstructive pulmonary disease",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Fever (often high fever with chills), cough, sputum (rust-colored sputum suggests Streptococcus pneumoniae; brick-red jelly-like sputum suggests Klebsiella; yellow purulent sputum suggests Staphylococcus aureus or Pseudomonas aeruginosa), chest pain (pleuritic stabbing pain worsened by deep breathing or coughing), tachypnea/dyspnea; on examination, reduced respiratory movement on the affected side, increased tactile fremitus, dullness on percussion, and localized fixed crackles and tubular breath sounds on lung auscultation.",
+   "interview_guide": {
+    "first_questions": [
+     "How many days have you had fever, cough, and sputum? What was your highest temperature? Have you had chills?",
+     "What color is your sputum? Is it yellow purulent, white mucous, or rust-colored, brick-red, or blood-streaked?",
+     "When you take a deep breath or cough violently, do you have a sharp stabbing pain in the chest (pleuritic pain)?"
+    ],
+    "followup_questions": [
+     "Do you have rapid breathing, breathlessness, or bluish lips?",
+     "Before onset, did you have a history of getting cold, getting soaked in rain, excessive fatigue, alcohol intoxication, or aspiration?",
+     "What is your baseline health status: do you have diabetes, COPD, coronary heart disease, liver or kidney dysfunction, or are you elderly and frail?"
+    ],
+    "stop_conditions": [
+     "Clear course of fever, characteristic sputum, chest pain, and pulmonary infiltrates has been clarified",
+     "Severe pneumonia risk stratification score has been completed (CURB-65 score to assess indications for outpatient/inpatient/ICU care)",
+     "Baseline immune host status and antibiotic use history have been fully obtained"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "High-resolution chest CT or DR chest radiograph (core imaging gold standard: patchy or large-area pulmonary parenchymal infiltrates, consolidation, or air bronchograms)",
+     "CBC + C-reactive protein (CRP) + procalcitonin (PCT, to differentiate bacterial from nonbacterial infection and assess severity)",
+     "Sputum Gram stain and bacterial culture + susceptibility testing (collect a qualified deep sputum specimen)",
+     "Arterial blood gas analysis/transcutaneous pulse oximetry (SpO2 to assess degree of hypoxemia in respiratory failure)"
+    ],
+    "if_suspected": [
+     "Bilateral two-set blood cultures (mandatory in severe pneumonia patients with high fever and chills)",
+     "Respiratory multiplex pathogen nucleic acid/PCR testing (Mycoplasma pneumoniae, Legionella pneumophila, influenza A/B virus, respiratory syncytial virus)",
+     "Bronchoalveolar lavage fluid (BALF) for metagenomic next-generation sequencing (mNGS, in difficult/severe or immunocompromised host pneumonia)"
+    ],
+    "avoid": [
+     "Blind use of expensive top-tier carbapenem (meropenem) antibiotics for simple mild community-acquired pneumonia",
+     "Blindly ordering whole-brain contrast-enhanced MRI without chest imaging"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Empiric anti-infective therapy (preferentially covering common respiratory pathogens): for mild outpatient community-acquired pneumonia (CAP) in young adults, first-line oral amoxicillin/clavulanate, second-generation cephalosporin (cefuroxime), or respiratory fluoroquinolone (levofloxacin/moxifloxacin) or macrolide (azithromycin)",
+     "For hospitalized moderate-to-severe patients, use IV third-generation cephalosporin (ceftriaxone/cefotaxime) plus azithromycin, or IV moxifloxacin alone",
+     "Symptomatic antipyretic and mucolytic therapy (ambroxol hydrochloride), oxygen support."
+    ],
+    "safety_warnings": [
+     "Diagnostic criteria for severe pneumonia (major criteria: need for invasive mechanical ventilation, septic shock requiring vasopressors): patients meeting 1 major criterion or >=3 minor criteria must be immediately transferred to the ICU for monitoring and treatment",
+     "Quinolone antibiotics (levofloxacin/moxifloxacin) are contraindicated in children under 18 and pregnant or breastfeeding women (affects bone/cartilage development)",
+     "Before antibiotics, obtain qualified sputum and blood culture specimens whenever possible, and de-escalate precisely after susceptibility results return"
+    ],
+    "personalization": [
+     "Elderly patients with multiple comorbidities or aspiration pneumonia: strengthen coverage of anaerobes and Gram-negative bacilli (choose piperacillin/tazobactam or ampicillin/sulbactam)",
+     "Suspected methicillin-resistant Staphylococcus aureus (MRSA) infection: add vancomycin or linezolid",
+     "Mycoplasma pneumoniae infection (more common in adolescents): first-line azithromycin or newer tetracyclines (doxycycline/minocycline)"
+    ]
+   },
+   "disease": "pneumonia",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients often present with fever, cough, and sputum; sputum may be purulent or blood-streaked. Some patients have chest pain, dyspnea, or hemoptysis. Symptoms are often insidious and easily confused with bacterial pneumonia; common in immunocompromised patients or those on long-term broad-spectrum antibiotics.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had long-term fever or cough?",
+     "Have you recently used broad-spectrum antibiotics or immunosuppressants?"
+    ],
+    "followup_questions": [
+     "If the patient has fever and cough, ask further: 'Has the color or character of the sputum changed?'",
+     "If dyspnea is present, ask: 'Does it worsen after activity? Do you wake up at night with breathlessness?'"
+    ],
+    "stop_conditions": [
+     "The patient has clearly described typical symptoms (e.g., fever, cough, abnormal sputum) and has no history of other systemic diseases.",
+     "The patient has provided recent medication history and information on underlying diseases.",
+     "The patient's symptoms are highly associated with known high-risk factors (e.g., immunosuppression)."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Chest CT",
+     "Sputum culture and fungal smear",
+     "Serum G test or GM test"
+    ],
+    "if_suspected": [
+     "Bronchoscopy and lavage fluid culture",
+     "Blood culture",
+     "Lung MRI (to assess extent of lesions)"
+    ],
+    "avoid": [
+     "Routine chest X-ray (low sensitivity, easy to miss)",
+     "Nonspecific inflammatory marker testing (e.g., CRP used alone)",
+     "Excessive imaging examinations before empirical antifungal treatment"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is fluconazole (400 mg/day, oral or IV), usually for 2-4 weeks. For severe patients, an echinocandin (e.g., caspofungin) may be added. At the same time, discontinue unnecessary broad-spectrum antibiotics and strengthen supportive care."
+    ],
+    "safety_warnings": [
+     "Avoid concomitant use with anticoagulants such as warfarin to prevent increased bleeding risk.",
+     "Monitor liver function to prevent hepatotoxic reactions.",
+     "Be alert for QT interval prolongation, especially with fluconazole."
+    ],
+    "personalization": [
+     "Adjust fluconazole dose in patients with renal impairment.",
+     "Reduce initial dose in elderly patients and closely monitor adverse reactions.",
+     "Use fluconazole with caution in pregnant women; if necessary, choose amphotericin B."
+    ]
+   },
+   "disease": "pulmonary candidiasis",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients often report progressively worsening dyspnea, chest tightness, and chest pain, accompanied by unexplained weight loss and malnutrition. On examination, breath sounds on the affected side are diminished or absent, and percussion is dull. If it occurs due to trauma or after surgery, there is often a clear history of surgery or trauma; if spontaneous, it may be accompanied by manifestations of lymphatic disease such as chyluria or cutaneous lymphedema. When the effusion is large, signs of circulatory failure such as hypotension may occur.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had chest surgery, trauma, or a cervical lymph node biopsy?",
+     "Have you experienced unexplained weight loss, fatigue, or worsening abdominal bloating after eating?",
+     "Do you have a history of lymphoma, tuberculosis, or congenital lymphatic system abnormalities?"
+    ],
+    "followup_questions": [
+     "Does the pleural fluid have a milky appearance or separate into layers after standing?",
+     "Is it accompanied by milky urine (chyluria) or lower limb lymphedema?",
+     "Does the dyspnea worsen significantly when lying flat?"
+    ],
+    "stop_conditions": [
+     "A history of chest surgery has been confirmed and imaging confirms a large pleural effusion.",
+     "The pleural fluid has a typical appearance and biochemical testing indicates a high triglyceride level.",
+     "The patient's vital signs are stable, and there is no need to further inquire about nonspecific symptoms."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Chest X-ray or CT",
+     "Diagnostic thoracentesis",
+     "Pleural fluid triglyceride measurement"
+    ],
+    "if_suspected": [
+     "Pleural fluid chylomicron electrophoresis",
+     "Contrast-enhanced abdominal CT or lymphangiography",
+     "Mediastinoscopy or PET-CT to rule out tumor"
+    ],
+    "avoid": [
+     "Repeated thoracentesis without indication",
+     "Percutaneous lung biopsy before ruling out coagulopathy",
+     "Empiric antibiotic use before routine antibiotic treatment"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is conservative management: strict fasting and initiation of total parenteral nutrition (TPN) to block chyle production, with closed chest tube drainage for decompression. If ineffective after 2 weeks or if leakage is >1000ml/day, pleurodesis or thoracic duct ligation should be considered. Pharmacologically, octreotide may be tried to reduce lymphatic fluid secretion. Duration depends on drainage volume and usually needs to continue until drainage has stopped for more than 48 hours."
+    ],
+    "safety_warnings": [
+     "Prolonged fasting requires close monitoring of electrolytes and liver function to prevent refeeding syndrome.",
+     "Strict aseptic technique is required for the chest drainage tube to prevent secondary infection leading to empyema.",
+     "When using octreotide, be alert to blood glucose fluctuations and the risk of gallstones."
+    ],
+    "personalization": [
+     "In pediatric patients, minimally invasive intervention should be preferred over open thoracotomy.",
+     "For cases caused by malignant tumors, palliative treatment should be formulated in conjunction with the primary disease.",
+     "In patients with cardiac insufficiency, large-volume fluid replacement should be used with caution, and the TPN formula needs adjustment."
+    ]
+   },
+   "disease": "Chylothorax",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients often present with fever and cough with sputum production, and the sputum is mostly mucopurulent. Some patients develop tachypnea and dyspnea, and fixed moist rales may be heard on auscultation. Infants and young children may have refusal to feed, lethargy, or perioral cyanosis. Symptoms usually have an acute onset, with a course of several days to two weeks; if not treated promptly, it may progress to respiratory failure.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have persistent fever, cough, or yellow sputum?",
+     "Have you recently felt short of breath or had worsening breathlessness after activity?"
+    ],
+    "followup_questions": [
+     "How do the color and amount of sputum change when you cough?",
+     "Do you have chest pain, chills, or a history of similar episodes?"
+    ],
+    "stop_conditions": [
+     "Core symptoms such as fever, cough, sputum production, and pulmonary signs have been confirmed",
+     "Recent history of contact with infectious diseases and exposure to allergens have been ruled out",
+     "The patient's vital signs are stable and there are no signs of serious complications"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Chest X-ray",
+     "Complete blood count",
+     "C-reactive protein measurement"
+    ],
+    "if_suspected": [
+     "Procalcitonin testing",
+     "Sputum culture and susceptibility testing",
+     "Blood gas analysis"
+    ],
+    "avoid": [
+     "Routine CT scanning (unless the condition is complex or the diagnosis is unclear)",
+     "Bronchoscopy without indication",
+     "Unnecessary whole-body PET-CT"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is empiric antibiotic therapy, such as amoxicillin-clavulanate or ceftriaxone, adjusted according to pathogen findings. The course is usually 7-10 days. At the same time, nebulized expectorants are given to maintain airway patency. For high fever, use physical cooling or antipyretic-analgesic drugs, encourage increased water intake, and provide oxygen support if necessary."
+    ],
+    "safety_warnings": [
+     "β-lactam drugs are contraindicated in patients allergic to penicillins",
+     "Avoid concomitant use with warfarin to prevent increased bleeding risk",
+     "Be alert to antibiotic-associated diarrhea and pseudomembranous colitis"
+    ],
+    "personalization": [
+     "Older adults require dose reduction and monitoring of liver and kidney function",
+     "In children, calculate the dose precisely according to body weight",
+     "Quinolones and tetracyclines should be used with caution in pregnant women"
+    ]
+   },
+   "disease": "Bronchopneumonia",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients often have sudden onset of high fever (39-40℃), accompanied by chills and rigors. The main symptoms include severe headache, generalized myalgia, extreme fatigue, and dry cough, while respiratory catarrhal symptoms are relatively mild. On examination, an acute illness appearance, conjunctival injection, and pharyngeal congestion may be seen; lung auscultation is mostly normal or shows only a few dry and moist rales. Abrupt onset is a key feature that distinguishes it from the common cold.",
+   "interview_guide": {
+    "first_questions": [
+     "In the 1-2 days before onset, did you have contact with a patient with influenza?",
+     "Have you had sudden high fever and generalized muscle aches?",
+     "Is the cough dry or productive?"
+    ],
+    "followup_questions": [
+     "If high fever persists, ask whether it is accompanied by dyspnea or chest pain.",
+     "If confusion occurs, ask whether there are convulsions or changes in mental status.",
+     "Ask about recent vaccination status and history of underlying diseases."
+    ],
+    "stop_conditions": [
+     "Epidemiological contact history has been confirmed and typical symptoms are complete",
+     "Nucleic acid or antigen testing has been completed and the result is positive",
+     "Warning signs for severe disease have been ruled out and vital signs are stable"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Influenza virus nucleic acid amplification testing (NAAT)",
+     "Rapid influenza virus antigen testing",
+     "Complete blood count"
+    ],
+    "if_suspected": [
+     "Chest X-ray or CT (to evaluate for pneumonia complications)",
+     "C-reactive protein and procalcitonin (to differentiate bacterial infection)",
+     "Arterial blood gas analysis (to assess the degree of hypoxia)"
+    ],
+    "avoid": [
+     "Empiric antibiotic use before routine antibiotic treatment",
+     "Unnecessary repeated imaging studies",
+     "Blood cultures without indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "After diagnosis, start a neuraminidase inhibitor as soon as possible within 48 hours (e.g., oseltamivir 75mg twice daily for 5 days). For severe cases or high-risk groups, it may be extended to 10 days. At the same time, provide symptomatic supportive treatment: physical cooling for high fever or acetaminophen, increased water intake, and rest. Nonpharmacologic interventions include isolation precautions to avoid cross-infection."
+    ],
+    "safety_warnings": [
+     "Dose adjustment is required in pregnant women and patients with renal insufficiency",
+     "Avoid concomitant use with antiviral drugs such as ribavirin to prevent additive toxicity",
+     "Be alert to neurologic adverse reactions such as delirium and convulsions"
+    ],
+    "personalization": [
+     "In children, calculate the dose according to body weight and avoid aspirin to prevent Reye syndrome",
+     "Older adults require monitoring of cardiac and renal function to prevent dehydration",
+     "Immunosuppressed patients require a prolonged course and close follow-up"
+    ]
+   },
+   "disease": "Influenza",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients often report sudden onset of persistent cough, initially dry, subsequently productive of white or yellow mucous sputum. It is often accompanied by throat itching, a burning sensation behind the sternum, or mild chest tightness. Some patients may have low-grade fever (<38.5℃), fatigue, and upper respiratory infection prodromal symptoms such as nasal congestion and rhinorrhea. On lung auscultation, scattered dry rales or coarse moist rales may be present and change with coughing, without fixed signs of pulmonary consolidation.",
+   "interview_guide": {
+    "first_questions": [
+     "How many days has the cough lasted? Do you have fever or difficulty breathing?",
+     "What is the color and character of the sputum? Is it streaked with blood?",
+     "Have you recently had a cold, contact with patients with respiratory infectious diseases, or a smoking history?"
+    ],
+    "followup_questions": [
+     "If high fever persists, ask whether there are chills or chest pain.",
+     "If there is blood in the sputum, ask about the amount of bleeding and whether it is accompanied by hemoptysis.",
+     "If there are underlying diseases, ask about a history of asthma, chronic obstructive pulmonary disease, or heart disease."
+    ],
+    "stop_conditions": [
+     "Serious diseases such as pneumonia and heart failure have been clearly ruled out, and vital signs are stable.",
+     "The symptom duration is short (<2 weeks) and there are no high-risk factors, so further in-depth questioning is not needed.",
+     "The patient has provided a complete medication history and allergy history sufficient to guide initial treatment."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Chest X-ray (to rule out pneumonia)",
+     "Complete blood count (to assess the type of infection)",
+     "Physical examination (lung auscultation)"
+    ],
+    "if_suspected": [
+     "C-reactive protein (CRP) and procalcitonin (PCT) (to differentiate bacterial infection)",
+     "Sputum culture and susceptibility testing (for severe or recurrent infections)",
+     "Pulmonary function testing (when concomitant airway hyperresponsiveness is suspected)"
+    ],
+    "avoid": [
+     "Routine antibiotic use (when there is no evidence of bacterial infection)",
+     "Unnecessary CT scanning (X-ray is preferred for mild cases)",
+     "Frequent repeat complete blood counts (unless the condition worsens)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Symptomatic treatment is the main approach, including adequate rest and increased water intake. For patients with severe cough affecting sleep, short-term dextromethorphan (15-30mg per dose, 3 times daily) may be used",
+     "For patients with viscous sputum that is difficult to expectorate, use ambroxol (30mg per dose, 3 times daily) or acetylcysteine. Routine antibiotic use is generally not recommended; amoxicillin-clavulanate (0.625g per dose, 3 times daily, for 5-7 days) should be considered only when bacterial infection is confirmed or in high-risk groups. Nonpharmacologic interventions include avoiding smoke irritation and maintaining indoor humidity."
+    ],
+    "safety_warnings": [
+     "Dextromethorphan must not be used in patients with contraindications (e.g., those currently taking monoamine oxidase inhibitors) to prevent serotonin syndrome.",
+     "When using expectorants, be alert to the risk of bronchospasm; use with caution in patients with asthma.",
+     "Antibiotic misuse may lead to the emergence of resistant bacteria, so indications must be strictly followed."
+    ],
+    "personalization": [
+     "Older adults require dose adjustment and monitoring of liver and kidney function, and excessive sedation leading to falls should be avoided.",
+     "Many antitussive and expectorant drugs are contraindicated in pregnant and breastfeeding women; physical therapy is preferred.",
+     "In children, calculate the dose according to body weight and avoid antitussive drugs containing codeine."
+    ]
+   },
+   "disease": "Acute bronchitis",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients often have sudden onset of high fever, with body temperature up to 39-40°C that persists, accompanied by severe cough, tachypnea, and dyspnea. Some children develop lethargy and decreased appetite, and severe cases may rapidly progress to respiratory failure. Crackles may be heard on auscultation, and chest radiography shows patchy shadows or pulmonary consolidation; identification should be combined with epidemiological history (such as contact history).",
+   "interview_guide": {
+    "first_questions": [
+     "How many days has the fever lasted? What is the highest temperature?",
+     "Is there obvious cough, wheezing, or rapid breathing?",
+     "Have you recently been in contact with anyone with respiratory infection who has similar symptoms?"
+    ],
+    "followup_questions": [
+     "If the high fever persists, have you had any convulsions or changes in consciousness?",
+     "If your breathing difficulty worsens, do you have bluish lips or chest retractions?",
+     "If you have gastrointestinal symptoms, do you have diarrhea or vomiting?"
+    ],
+    "stop_conditions": [
+     "High fever, respiratory symptoms, and contact history have been clarified, and vital signs are stable",
+     "Basic physical examination has been completed, with no signs of urgent deterioration",
+     "Initial assessment indicates non-severe disease, and immediate inpatient observation is not required"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Chest X-ray or CT examination",
+     "Adenovirus nucleic acid testing of throat swab or sputum",
+     "Complete blood count and C-reactive protein testing"
+    ],
+    "if_suspected": [
+     "Arterial blood gas analysis (to assess degree of hypoxia)",
+     "Combined Mycoplasma/influenza virus screening (for differential diagnosis)",
+     "Liver and kidney function and myocardial enzyme panel (to assess complications)"
+    ],
+    "avoid": [
+     "Routine empiric use of broad-spectrum antibiotics (unless there is evidence of concomitant bacterial infection)",
+     "Repeated imaging studies without indication",
+     "Unnecessary invasive procedures such as bronchoscopy (unless the condition is critical and specimens are needed)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Supportive care is the mainstay, including oxygen therapy, fluid replacement to maintain water and electrolyte balance, and antipyretic treatment. For severe cases, intravenous infusion of ribavirin or cidofovir may be considered, usually for 5-7 days. At the same time, closely monitor respiratory function and provide mechanical ventilation when necessary. Nonpharmacologic interventions include maintaining airway patency and nutritional support."
+    ],
+    "safety_warnings": [
+     "Ribavirin is teratogenic and is contraindicated in pregnant women",
+     "Cidofovir may cause nephrotoxicity; creatinine levels need to be monitored",
+     "Avoid misuse of glucocorticoids to prevent immunosuppression and viral dissemination"
+    ],
+    "personalization": [
+     "For infants and young children, drug doses should be calculated precisely according to body weight",
+     "For older adults or immunocompromised patients, extend the observation period and intensify monitoring",
+     "For patients with underlying cardiopulmonary disease, adjust oxygen therapy strategy and fluid management"
+    ]
+   },
+   "disease": "adenoviral pneumonia",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients often have sudden onset of high fever, with body temperature up to 39-40°C, accompanied by chills, headache, and generalized fatigue. Respiratory symptoms are prominent, manifesting as severe dry cough, sore throat, nasal congestion, or rhinorrhea; some severe cases may develop dyspnea, wheezing, or pulmonary crackles. Children are prone to conjunctivitis (red eye) or gastrointestinal symptoms such as diarrhea and vomiting. The course usually lasts 1-2 weeks, but cough may persist.",
+   "interview_guide": {
+    "first_questions": [
+     "How many days since onset? What is the highest temperature?",
+     "Is there obvious cough, shortness of breath, or red, watery eyes?",
+     "Have you recently been in contact with febrile patients with similar symptoms or visited crowded places?"
+    ],
+    "followup_questions": [
+     "If you have diarrhea, how many bowel movements do you have per day? Is there pus or blood in the stool?",
+     "If you have breathing difficulty, do you also feel short of breath at rest?",
+     "Do you have a history of immunodeficiency or chronic heart or lung disease?"
+    ],
+    "stop_conditions": [
+     "High fever and typical respiratory symptoms have been clarified, with no signs of serious complications",
+     "Epidemiological history has been obtained and basic vital signs assessed",
+     "The patient has mild symptoms and can cooperate with home observation; no emergency intervention is needed"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete blood count (white blood cell count and differential)",
+     "Chest X-ray or CT examination (to assess pulmonary infiltrates)",
+     "Adenovirus nucleic acid PCR testing of throat swab or bronchoalveolar lavage fluid"
+    ],
+    "if_suspected": [
+     "Serologic antibody testing (IgM/IgG) for retrospective diagnosis",
+     "Liver and kidney function and myocardial enzyme panel (to assess multiorgan involvement)",
+     "Stool routine and pathogen testing (to screen for enteric adenovirus)"
+    ],
+    "avoid": [
+     "Empiric use of broad-spectrum antibiotics (unless there is evidence of concomitant bacterial infection)",
+     "Invasive bronchoscopy without indication",
+     "Repeated unnecessary imaging studies (to avoid cumulative radiation exposure)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "There is currently no specific antiviral drug; symptomatic supportive treatment is the mainstay. For high fever, administer acetaminophen or ibuprofen for fever reduction",
+     "Maintain adequate fluid intake to prevent dehydration",
+     "For severe cough, antitussives such as dextromethorphan can be used. Severe patients require oxygen to maintain oxygen saturation, and mechanical ventilation if necessary. For immunocompromised patients, intravenous cidofovir (Cidofovir) may be considered, but nephrotoxicity must be strictly monitored. The course depends on recovery and is usually 1-2 weeks"
+    ],
+    "safety_warnings": [
+     "Avoid misuse of glucocorticoids to prevent immunosuppression and viral dissemination",
+     "When using cidofovir, renal function must be closely monitored to prevent acute kidney injury",
+     "Pay attention to drug interactions, especially when concomitant nephrotoxic drugs are used"
+    ],
+    "personalization": [
+     "Infants and young children: calculate antipyretic doses precisely by body weight and watch for febrile seizures",
+     "Older adults and immunocompromised patients: closely monitor changes in condition and identify early signs of severe disease",
+     "Pregnant women: use antiviral drugs with caution, prioritizing physical cooling and supportive therapy"
+    ]
+   },
+   "disease": "adenovirus infection",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients often develop sudden or progressive dyspnea, chest pain, and irritating dry cough. On auscultation, breath sounds on the affected side may be diminished or absent, and percussion may be dull. If caused by mucus plug obstruction, fever may be present; if caused by tumor compression, weight loss and hemoptysis may be seen. Symptom severity is related to the extent and speed of onset of atelectasis; large-area atelectasis may present with cyanosis and shock.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had sudden chest tightness, shortness of breath, or severe chest pain?",
+     "When coughing, do you have difficulty expectorating sputum or blood-streaked sputum?"
+    ],
+    "followup_questions": [
+     "Have you recently had surgery, prolonged bed rest, or anesthesia?",
+     "Do you have high fever, chills, or significant weight loss?"
+    ],
+    "stop_conditions": [
+     "A recent history of chest surgery or trauma has been clarified, and symptoms are typical",
+     "The patient has undergone imaging and has been diagnosed with atelectasis",
+     "Symptoms are mild without progressive worsening, and vital signs are stable"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Chest X-ray (plain film)",
+     "Chest CT scan (contrast-enhanced)",
+     "Arterial blood gas analysis"
+    ],
+    "if_suspected": [
+     "Fiberoptic bronchoscopy (for mucus plug removal or biopsy)",
+     "Sputum cytology and pathogen culture",
+     "Pulmonary function testing (to assess degree of ventilatory impairment)"
+    ],
+    "avoid": [
+     "Systemic anticoagulation without indication",
+     "Blind use of potent antitussives before airway obstruction is ruled out",
+     "Repeated low-resolution ultrasound examinations in place of CT"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "The primary goal is to relieve airway obstruction. For mucus plugs, use postural drainage, chest physiotherapy, and nebulized acetylcysteine or ambroxol to dilute sputum. If obstruction is due to a foreign body or tumor, bronchoscopic removal or interventional treatment is required. When infection is present, use susceptible antibiotics. At the same time, provide oxygen support, correct hypoxemia, and encourage deep breathing and effective coughing to re-expand the lung lobes."
+    ],
+    "safety_warnings": [
+     "Avoid excessive sedation before severe hypoxemia is corrected, which may cause respiratory depression",
+     "Bronchoscopy requires vigilance for the risks of bleeding and pneumothorax",
+     "Use potent antitussives with caution to avoid worsening secretion retention"
+    ],
+    "personalization": [
+     "For older patients, pay attention to fall prevention and electrolyte disturbances",
+     "Postoperative patients should mobilize early and receive adequate analgesia to facilitate breathing",
+     "For pediatric patients, adjust drug doses and closely monitor oxygen saturation"
+    ]
+   },
+   "disease": "atelectasis",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients often present with subacute onset, characterized mainly by persistent dry cough, and may have low-grade fever, fatigue, headache, and sore throat. Pulmonary signs are often not obvious and are inconsistent with imaging findings (that is, symptoms are severe but auscultatory crackles are few). Some patients have prodromal symptoms of upper respiratory tract infection; the course is prolonged and easily misdiagnosed as the common cold or bronchitis.",
+   "interview_guide": {
+    "first_questions": [
+     "How long has the cough lasted? Is it accompanied by fever or sore throat?",
+     "Have you recently had influenza-like symptoms or a relevant contact history?",
+     "Do you have any underlying diseases or immunosuppression?"
+    ],
+    "followup_questions": [
+     "If you have chest pain or breathing difficulty, what is the pain like, and does it worsen with activity?",
+     "If the high fever persists, have you had chills, sweating, or changes in the character of your sputum?",
+     "If you have a history of asthma or COPD, how well are you adhering to your current medications, and how well are your symptoms controlled?"
+    ],
+    "stop_conditions": [
+     "The chief complaint has been clarified as persistent dry cough with low-grade fever, and there is no severe dyspnea",
+     "Basic epidemiological history has been obtained, with no indication of high-risk contact history",
+     "The patient's vital signs are stable, and emergency resuscitation assessment is not required"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Chest X-ray or CT examination",
+     "Serum Chlamydia pneumoniae-specific IgM/IgG antibody testing",
+     "Respiratory pathogen nucleic acid testing (PCR)"
+    ],
+    "if_suspected": [
+     "Complete blood count and C-reactive protein (CRP)",
+     "Blood gas analysis (if hypoxia is suspected)",
+     "Combined Mycoplasma/Legionella screening"
+    ],
+    "avoid": [
+     "Routine empiric use of broad-spectrum beta-lactam antibiotics (ineffective against atypical pathogens)",
+     "Repeated chest CT scans without indication",
+     "Blind bronchoscopy (unless the condition is complex or diagnosis is unclear)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is macrolides (such as azithromycin: 500mg on the first day, then 250mg once daily for a total of 5 days) or tetracyclines (such as doxycycline: 100mg every 12 hours for 7-14 days). Fluoroquinolones (such as levofloxacin) can be used as an alternative regimen. During treatment, bed rest and adequate fluid intake are recommended, and antitussive and expectorant drugs should be given when necessary. The course usually requires 10-14 days to prevent relapse."
+    ],
+    "safety_warnings": [
+     "Macrolides may cause QT interval prolongation and should be used with caution in patients with heart disease",
+     "Tetracyclines are contraindicated in pregnant women and children under 8 years of age to avoid tooth discoloration",
+     "Pay attention to gastrointestinal reactions; taking after meals is recommended to reduce discomfort"
+    ],
+    "personalization": [
+     "For pregnant women, erythromycin or azithromycin is preferred; avoid tetracyclines and fluoroquinolones",
+     "For older adults, monitor liver and kidney function, adjust doses, and prevent fall risk",
+     "For children, calculate azithromycin or doxycycline doses precisely according to body weight"
+    ]
+   },
+   "disease": "Chlamydia pneumoniae pneumonia",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients often present with progressively worsening dyspnea, marked exertional shortness of breath, and chest tightness even at rest. It is accompanied by chronic cough and sputum production; some patients develop cyanosis (bluish discoloration of the lips and nail beds) and clubbing. In advanced stages, symptoms of pulmonary encephalopathy may be seen, such as headache, somnolence, confusion, or reversal of the sleep-wake cycle. On examination, crackles and rhonchi may be heard, along with barrel chest and rapid, shallow breathing.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently felt short of breath with even slight activity, and does it improve with rest?",
+     "Do you have a long-term smoking history or a history of chronic cough and sputum production?"
+    ],
+    "followup_questions": [
+     "Do you ever wake up at night gasping for air and need to sit up?",
+     "Have you recently had headaches, memory loss, or personality changes?"
+    ],
+    "stop_conditions": [
+     "Underlying lung disease (such as COPD) has been clearly established, and symptoms are consistent with chronic hypoxemia.",
+     "Blood gas analysis has shown PaO2<60mmHg with or without elevated PaCO2.",
+     "The patient's mental status is stable, with no severe neuropsychiatric symptoms caused by acute exacerbation."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Arterial blood gas analysis",
+     "High-resolution chest CT",
+     "Pulmonary function tests"
+    ],
+    "if_suspected": [
+     "Echocardiography (to exclude cardiac causes)",
+     "BNP testing (to differentiate heart failure)",
+     "Sleep study (to evaluate for sleep apnea syndrome)"
+    ],
+    "avoid": [
+     "Routine chest radiography (insufficient resolution for early interstitial disease)",
+     "Unnecessary bronchial provocation testing (may induce bronchospasm in the chronic phase)",
+     "Whole-body PET-CT scanning without an indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Long-term home oxygen therapy is central, with the goal of maintaining SpO2≥90%. During acute exacerbations, noninvasive positive pressure ventilation (NIV) is the first choice, and parameters should be individually titrated. Pharmacotherapy includes long-acting bronchodilators (LABA/LAMA) combined with inhaled corticosteroids (ICS), and mucolytics when necessary. Smoking cessation, nutritional support, and pulmonary rehabilitation should also be provided. The duration of treatment depends on the condition and generally requires long-term management."
+    ],
+    "safety_warnings": [
+     "High-concentration oxygen therapy may worsen carbon dioxide retention, so blood gases must be monitored closely.",
+     "Long-term corticosteroid use requires vigilance for osteoporosis, hyperglycemia, and fungal infection risk.",
+     "During NIV, closely monitor for gastric distension and aspiration risk, and ensure a well-fitting mask."
+    ],
+    "personalization": [
+     "In patients with cor pulmonale, fluid intake should be controlled to avoid excessive right heart load.",
+     "In older patients, cognitive function should be assessed, and sedative use should be adjusted.",
+     "Patients with malnutrition should increase protein intake and receive enteral nutrition supplementation when necessary."
+    ]
+   },
+   "disease": "Chronic respiratory failure",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients are often asymptomatic and found incidentally during physical examination, or they may present with persistent chest pain, chest tightness, or an irritating dry cough. If the cyst compresses the trachea or esophagus, dyspnea, dysphagia, or hoarseness may occur. Some patients with superimposed infection develop sudden high fever, severe chest pain, and worsened cough; physical signs are mostly nonspecific, and decreased breath sounds may be heard on auscultation.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have persistent chest pain, chest tightness, or a cough of unknown cause?",
+     "Have you recently had difficulty swallowing, hoarseness, or shortness of breath?"
+    ],
+    "followup_questions": [
+     "Have your symptoms suddenly worsened recently and been accompanied by fever?",
+     "Do you have a history of chest trauma or recurrent respiratory tract infections?"
+    ],
+    "stop_conditions": [
+     "Typical compressive symptoms (such as dysphagia or dyspnea) have been clearly described, and there are no signs of acute infection.",
+     "The patient reports no symptoms at all and only mentions abnormal imaging found during physical examination.",
+     "It has been confirmed that there are no systemic toxic symptoms caused by acute infection."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Chest CT without and with contrast",
+     "Chest radiograph"
+    ],
+    "if_suspected": [
+     "Bronchoscopy (to assess airway compression)",
+     "Echocardiography (to exclude pericardial cyst or cardiac-origin lesions)"
+    ],
+    "avoid": [
+     "Routine percutaneous biopsy (may cause infection spread or fistula formation)",
+     "Unnecessary radionuclide scanning"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For asymptomatic patients with small lesions, regular follow-up observation is preferred.",
+     "For symptomatic patients, those with increasing size, or those with superimposed infection, surgical resection is required (minimally invasive thoracoscopic surgery is preferred). Anti-infective therapy is used only to control acute inflammation before surgery; cephalosporins combined with metronidazole are commonly used for 7-10 days. Prophylactic antibiotics should be used for 3 days after surgery, and complications such as chylothorax or pneumothorax should be monitored."
+    ],
+    "safety_warnings": [
+     "Do not perform direct puncture drainage when infection is uncontrolled, to prevent spread of mediastinal abscess.",
+     "During surgery, be alert for injury to adjacent major vessels and neural structures.",
+     "After surgery, respiratory function must be monitored closely to prevent tension pneumothorax."
+    ],
+    "personalization": [
+     "Pediatric patients should undergo surgery as early as possible to avoid affecting chest wall development and cardiopulmonary function.",
+     "In older patients or those with poor cardiopulmonary function, anesthesia risk should be assessed, and a staged management strategy should be adopted when necessary.",
+     "In pregnant patients, conservative treatment is preferred unless severe compression endangers maternal or fetal safety."
+    ]
+   },
+   "disease": "Congenital mediastinal cyst",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients often present with chronic persistent cough and copious thick purulent sputum, accompanied by exertional dyspnea. Typical features include recurrent lower respiratory tract infections (such as pneumonia and bronchitis), growth retardation, or failure to gain weight. Some patients have malabsorption manifestations such as steatorrhea and abdominal distension. Meconium ileus may occur in the neonatal period. A family history often includes members with a similar disease.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have a history of long-term chronic cough, copious thick sputum, or recurrent pulmonary infections?",
+     "In pediatric patients, is there growth retardation, failure to gain weight, or greasy, foul-smelling stools?"
+    ],
+    "followup_questions": [
+     "Have there been episodes of neonatal meconium ileus or, in adulthood, symptoms of nasal polyps or sinusitis?",
+     "Is there a first-degree relative with confirmed cystic fibrosis or who is a carrier?"
+    ],
+    "stop_conditions": [
+     "The typical combination of respiratory and gastrointestinal symptoms has been clearly asked about and documented.",
+     "A family genetic history or prior genetic testing/sweat chloride test results have been confirmed.",
+     "The patient's complaints are highly consistent with the typical clinical presentation, and there are no other obvious differential diagnostic clues."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Sweat chloride testing (gold standard)",
+     "CFTR gene mutation analysis",
+     "High-resolution chest CT (HRCT)"
+    ],
+    "if_suspected": [
+     "Pulmonary function tests (to assess the degree of airflow limitation)",
+     "Sputum culture and susceptibility testing (to guide anti-infective therapy)",
+     "Assessment of exocrine pancreatic function (such as fecal elastase)"
+    ],
+    "avoid": [
+     "Routine chest radiography as the sole diagnostic basis (insufficient sensitivity)",
+     "Invasive bronchoscopy without an indication",
+     "Nonspecific allergen screening (unless asthma is present)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes airway clearance techniques (such as postural drainage and high-frequency chest wall oscillation) combined with inhaled hypertonic saline to thin sputum. CFTR modulators (such as ivacaftor) are used for specific gene mutations. Antibiotics are selected according to sputum culture results; during acute exacerbations, intravenous antipseudomonal drugs are required. Nutritional support includes pancreatic enzyme preparations and fat-soluble vitamins. The duration of treatment depends on disease severity and acute exacerbations and requires long-term management."
+    ],
+    "safety_warnings": [
+     "Before inhaled hypertonic saline, prophylactic bronchodilators should be used to prevent bronchospasm.",
+     "Long-term use of aminoglycoside antibiotics requires monitoring of hearing and renal function.",
+     "CFTR modulators may cause elevated liver enzymes, so liver function should be monitored regularly."
+    ],
+    "personalization": [
+     "Select the CFTR modulator regimen precisely according to the CFTR gene mutation type.",
+     "In pediatric patients, adjust the proportion of nutritional intake and growth hormone adjuvant therapy.",
+     "In older patients or those with very poor pulmonary function, simplify the frequency of airway clearance and strengthen oxygen therapy."
+    ]
+   },
+   "disease": "Cystic fibrosis",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients often have a long history of refractory allergic rhinitis or asthma and recently develop systemic symptoms such as fever and fatigue. Typical features include markedly elevated peripheral blood eosinophils, accompanied by new-onset sinusitis, pulmonary infiltrates, or cutaneous purpura. Some patients may develop peripheral neuropathy (such as foot drop) or cardiac involvement (palpitations, chest pain), and signs of multisystem involvement require high vigilance.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have a long history of asthma or allergic rhinitis?",
+     "Have you recently had fever of unknown cause, weight loss, or extreme fatigue?",
+     "Do you have numbness, tingling, or muscle weakness (especially in the feet)?"
+    ],
+    "followup_questions": [
+     "If you have joint pain or a rash, please describe the specific location and changes in appearance.",
+     "Have you had paroxysmal nocturnal dyspnea or episodes of chest pain?",
+     "Have you recently taken antibiotics or antiallergic drugs without good effect?"
+    ],
+    "stop_conditions": [
+     "A history of asthma/rhinitis has been clearly established, and typical neurologic or cutaneous symptoms are present.",
+     "Laboratory tests have shown markedly elevated eosinophils.",
+     "Imaging shows multiple pulmonary infiltrates with systemic inflammatory response."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete blood count with differential (focusing on the eosinophil percentage)",
+     "Serum IgE level measurement",
+     "ANCA antibody testing (p-ANCA/MPO-ANCA)",
+     "High-resolution chest CT (HRCT)"
+    ],
+    "if_suspected": [
+     "Nerve conduction velocity studies (to assess peripheral neuropathy)",
+     "Echocardiography and cardiac enzyme panel (to evaluate cardiac involvement)",
+     "Biopsy of affected tissue (gold standard for pathologic diagnosis)"
+    ],
+    "avoid": [
+     "Long-term use of broad-spectrum antibiotics without an indication",
+     "Unnecessary invasive lung puncture (when coagulation function is abnormal)",
+     "Empiric pulse corticosteroid therapy alone without a clear diagnostic basis"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is glucocorticoids (such as prednisone 0.5-1mg/kg/d); in severe cases, intravenous methylprednisolone pulse therapy may be added. For ANCA-positive or severe patients, rituximab or cyclophosphamide should be added for remission induction. The course usually lasts 6-12 months, with gradual tapering for maintenance. Gastric mucosal protection and osteoporosis prevention should also be provided."
+    ],
+    "safety_warnings": [
+     "Long-term corticosteroid use requires vigilance for infection risk and fluctuations in blood glucose and blood pressure",
+     "Cyclophosphamide may cause bone marrow suppression and hemorrhagic cystitis, so complete blood count should be monitored regularly",
+     "Rituximab may cause hypogammaglobulinemia and reactivation of hepatitis B virus"
+    ],
+    "personalization": [
+     "In older patients, lower the initial corticosteroid dose to prevent falls and fractures",
+     "In patients with renal insufficiency, adjust immunosuppressant doses and monitor creatinine closely",
+     "In pregnant patients, avoid cyclophosphamide and prefer hydroxychloroquine or azathioprine"
+    ]
+   },
+   "disease": "Eosinophilic granulomatosis with polyangiitis",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients often present with sudden-onset high fever, chills, and severe cough with purulent or rust-colored sputum; some develop dyspnea and chest pain. Infants and young children may present with acute laryngitis (barking cough, inspiratory stridor) or epiglottitis (dysphagia, drooling). If the middle ear is involved, ear pain and otorrhea occur; with meningitis, headache, neck stiffness, and impaired consciousness occur. Symptoms progress rapidly; be alert to the risk of sepsis.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have persistent high fever, chills, or severe cough?",
+     "Have you recently been in contact with anyone with a similar respiratory infection?",
+     "Do you have any underlying conditions such as chronic lung disease or immunodeficiency?"
+    ],
+    "followup_questions": [
+     "If you have difficulty swallowing or hoarseness, please describe how long it has lasted.",
+     "If you have headache or neck stiffness, is it accompanied by vomiting or confusion?",
+     "Have you recently received the Hib vaccine or had similar episodes?"
+    ],
+    "stop_conditions": [
+     "Typical respiratory symptoms have been confirmed and there are no signs of neurological involvement.",
+     "Key history has been obtained and vaccination status confirmed.",
+     "The patient's vital signs are stable and no emergency airway intervention is required."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete blood count and C-reactive protein testing",
+     "Sputum Gram stain and bacterial culture",
+     "Chest X-ray or CT"
+    ],
+    "if_suspected": [
+     "Lumbar puncture and cerebrospinal fluid analysis (if meningitis is suspected)",
+     "Blood cultures (if sepsis is suspected)",
+     "Serologic antibody testing (for retrospective diagnosis)"
+    ],
+    "avoid": [
+     "Empiric combination therapy with broad-spectrum antibiotics without indication",
+     "Unnecessary invasive procedures such as bronchoscopy (unless the condition is complex)",
+     "Repeated imaging studies of the same type"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is a third-generation cephalosporin (e.g., ceftriaxone 2 g/day IV) or oral amoxicillin-clavulanate for 7–10 days. Severe cases require combination with a macrolide. Supportive care includes fluid replacement, antipyretics, and oxygen therapy. The regimen should be adjusted for β-lactamase-positive strains. Nonpharmacologic interventions emphasize isolation precautions and nutritional support."
+    ],
+    "safety_warnings": [
+     "Beta-lactam drugs are contraindicated in patients allergic to penicillin.",
+     "Avoid concomitant use with warfarin to prevent increased bleeding risk.",
+     "Monitor liver and kidney function to prevent toxicity from drug accumulation."
+    ],
+    "personalization": [
+     "Calculate doses precisely by body weight in children to avoid nephrotoxicity.",
+     "In older adults, adjust dosing intervals according to creatinine clearance.",
+     "Prolong the course and follow up closely in immunocompromised patients."
+    ]
+   },
+   "disease": "Haemophilus influenzae infection",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients often present with subacute or chronic onset, complaining of progressively worsening exertional dyspnea, dry cough, and fatigue. Typical symptoms include fever, chills, and chest tightness several hours after exposure to specific antigens (e.g., moldy hay, bird droppings), which may resolve after removal from the environment. Some patients have flu-like systemic symptoms; auscultation may reveal crackles at both lung bases, and the condition is easily misdiagnosed as infectious pneumonia.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had exposure to moldy hay or grain, or kept birds (such as pigeons or parrots)?",
+     "Did your cough and shortness of breath improve after leaving a specific environment (such as a farm or aviary)?",
+     "Before the onset, did you have recurrent flu-like symptoms such as fever, chills, or muscle aches?"
+    ],
+    "followup_questions": [
+     "If your symptoms are related to exposure history, please describe the specific frequency and duration of exposure.",
+     "Do you have a history of asthma, allergic rhinitis, or other allergic diseases?",
+     "Is there obvious mold growth or a damp environment at home or in the workplace?"
+    ],
+    "stop_conditions": [
+     "A history of specific antigen exposure has been confirmed, and symptoms are highly associated with the environment.",
+     "A basic physical examination has been completed, and typical features of common infectious pneumonia have been excluded.",
+     "The patient has provided sufficient occupational or environmental exposure details to support the initial diagnostic hypothesis."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "High-resolution CT (HRCT): observe ground-glass opacities, centrilobular nodules, and mosaic perfusion",
+     "Serum specific IgG antibody testing: for suspected antigens (e.g., thermophilic actinomycetes, pigeon proteins)",
+     "Pulmonary function tests: assess restrictive ventilatory impairment and reduced diffusing capacity"
+    ],
+    "if_suspected": [
+     "Bronchoalveolar lavage (BAL): analyze lymphocyte proportion and differential",
+     "Percutaneous lung biopsy: to obtain histopathological evidence in difficult cases",
+     "Allergen skin prick test: to help confirm sensitization status"
+    ],
+    "avoid": [
+     "Routine antibiotic treatment trials: should not be overused when there is no evidence of bacterial infection",
+     "Chest radiography alone as a basis for diagnosis: low sensitivity and unable to show subtle lesions",
+     "Nonspecific pulse corticosteroid therapy: high-dose corticosteroids are strictly prohibited before infection is excluded"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "The primary measure is strict avoidance of exposure to the causative antigen, which is key to controlling the disease. In mild cases, symptoms may resolve spontaneously after removal from the environment. Patients with moderate to severe disease require oral corticosteroids; prednisone 0.5–1 mg/kg/day is recommended for 2–4 weeks, followed by gradual tapering according to symptoms until discontinuation. Symptomatic supportive care should also be provided, such as oxygen therapy to improve hypoxemia and, when necessary, bronchodilators to relieve airway spasm."
+    ],
+    "safety_warnings": [
+     "Long-term corticosteroid use requires vigilance for osteoporosis, hyperglycemia, and risk of secondary infection.",
+     "Avoid rash use of immunosuppressants before active tuberculosis or fungal infection has been excluded.",
+     "Be aware of drug interactions; coagulation function should be monitored especially when used with anticoagulants."
+    ],
+    "personalization": [
+     "In older patients, start with low-dose corticosteroids and closely monitor blood pressure and bone mineral density.",
+     "In pediatric patients, calculate doses precisely by body weight and monitor effects on growth and development.",
+     "In pregnant patients, nonpharmacologic interventions are preferred; corticosteroid use requires weighing fetal safety."
+    ]
+   },
+   "disease": "hypersensitivity pneumonitis",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients often present with persistent dry cough accompanied by low-grade or moderate fever; some have sore throat and fatigue. Symptoms gradually worsen; pulmonary signs are not obvious, but imaging shows patchy opacities. It is more common in children and adolescents, has a relatively long course, and is easily misdiagnosed as the common cold.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have persistent cough or fever?",
+     "Is the cough accompanied by sputum or chest pain?",
+     "Have you recently been in contact with anyone with similar symptoms?"
+    ],
+    "followup_questions": [
+     "If your fever has lasted more than 3 days, please describe how your temperature has changed and what medications you have taken.",
+     "If your cough is severe, does it affect your sleep or daily activities?",
+     "If you have difficulty breathing, when does it occur and what triggers it?"
+    ],
+    "stop_conditions": [
+     "When symptoms are clear and consistent with typical manifestations.",
+     "Key history and initial examination results have been obtained.",
+     "The patient's condition is stable and no further questioning is needed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Chest X-ray",
+     "Serum Mycoplasma antibody testing",
+     "Complete blood count"
+    ],
+    "if_suspected": [
+     "Chest CT scan",
+     "Respiratory pathogen nucleic acid testing",
+     "Pulmonary function tests"
+    ],
+    "avoid": [
+     "Unindicated testing before routine empiric antibiotic therapy",
+     "Unnecessary invasive procedures such as bronchoscopy (unless complications are highly suspected)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is macrolide antibiotics, such as azithromycin (500 mg/day for 3–5 days). For resistant cases, tetracyclines (doxycycline 100 mg/day for 7–14 days) or fluoroquinolones (levofloxacin 500 mg/day for 7–10 days) may be considered. Symptomatic supportive care should also be given, such as antipyretics and antitussives."
+    ],
+    "safety_warnings": [
+     "Avoid tetracyclines and fluoroquinolones in pregnant women and children under 8 years of age.",
+     "Note that macrolides may cause gastrointestinal reactions and QT interval prolongation.",
+     "Monitor dose adjustments of antibiotics in patients with abnormal liver or kidney function."
+    ],
+    "personalization": [
+     "In pediatric patients, prefer azithromycin and adjust the dose according to body weight.",
+     "In older adults, assess cardiovascular risk and use fluoroquinolones with caution.",
+     "In immunosuppressed patients, prolong the course and closely observe changes in the condition."
+    ]
+   },
+   "disease": "Mycoplasma pneumonia",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients often present with severe obesity (BMI >30 kg/m²) accompanied by daytime somnolence, morning headache, and fatigue. At night, severe snoring, apnea, or sleep fragmentation may be observed; during the day, exertional dyspnea and lower extremity edema occur. Some patients have signs of pulmonary hypertension, such as jugular venous distension and a systolic murmur in the tricuspid area. Symptoms progress chronically, and the condition is easily misdiagnosed as simple obstructive sleep apnea or heart failure.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have a history of significant weight gain? What are your height and weight?",
+     "Has anyone observed you having apnea or severe snoring during sleep at night?",
+     "Do you feel extremely sleepy during the day, even falling asleep uncontrollably while driving or in meetings?"
+    ],
+    "followup_questions": [
+     "Do you have persistent headache or a dry mouth on waking in the morning?",
+     "Have you recently developed lower extremity swelling or marked worsening of breathlessness after activity?",
+     "Do you have a history of hypertension, diabetes, or heart disease?"
+    ],
+    "stop_conditions": [
+     "BMI has been confirmed, and symptoms related to daytime hypercapnia (such as somnolence and morning headache) have been identified.",
+     "Polysomnography (PSG) has been completed and concurrent hypoventilation events have been diagnosed.",
+     "The patient has received noninvasive ventilation and symptoms are stable; no further differential diagnosis is needed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Polysomnography (PSG)",
+     "Arterial blood gas analysis (at rest)",
+     "Pulmonary function tests (including diffusing capacity)"
+    ],
+    "if_suspected": [
+     "Echocardiography (to assess pulmonary hypertension and right heart function)",
+     "Chest X-ray or CT (to exclude other lung diseases)",
+     "Thyroid function testing (to exclude secondary obesity caused by hypothyroidism)"
+    ],
+    "avoid": [
+     "Routine sedative-hypnotic drug trials",
+     "Unnecessary bronchoscopy",
+     "Excessive oxygen supplementation before prolonged bed rest (before hypoventilation is corrected)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is continuous positive airway pressure (CPAP) or bilevel positive airway pressure (BiPAP), with parameters adjusted according to blood gas analysis to ensure improvement in nocturnal ventilation. At the same time, develop a strict weight-loss plan, including dietary control and moderate exercise, with a target of 5%–10% weight loss to significantly improve ventilation. For pharmacologic intervention, acetazolamide may be considered to promote respiratory drive, but electrolytes must be monitored. Nonpharmacologic interventions include behavioral therapy and sleep hygiene education."
+    ],
+    "safety_warnings": [
+     "High-flow oxygen must not be given alone before effective ventilatory support is established, to avoid suppressing respiratory drive and worsening hypercapnia.",
+     "When using diuretics, be alert to hypokalemia and avoid precipitating arrhythmias.",
+     "Sedative drugs may worsen respiratory depression and should be strictly contraindicated or used with caution."
+    ],
+    "personalization": [
+     "In older patients, reduce the initial ventilation pressure to prevent barotrauma and gastric distension.",
+     "In patients with heart failure, optimize heart failure drug therapy in combination and closely monitor volume status.",
+     "For patients with severe obesity, prone positioning ventilation may be recommended to improve diaphragmatic movement."
+    ]
+   },
+   "disease": "obesity hypoventilation syndrome",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients often present with chronic cough, chest pain, and rust-colored or blood-streaked sputum; symptoms are easily confused with pulmonary tuberculosis. Some patients have a history of migratory subcutaneous nodules. If the liver is involved, right upper quadrant abdominal pain may occur; if the brain is involved, neurological symptoms such as headache and seizures may appear. Typical cases often have a history of eating raw crabs or crayfish, and the course is prolonged with intermittent attacks.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently eaten raw crab or crayfish, or drunk unboiled water?",
+     "Have you had migratory subcutaneous indurations or masses?",
+     "Is your cough accompanied by rust-colored or blood-streaked sputum?"
+    ],
+    "followup_questions": [
+     "If you have noticed subcutaneous nodules, please describe how their location changes and how long they last.",
+     "If you have had headaches or convulsions, what is the specific frequency of episodes and what symptoms accompany them?",
+     "Have you previously had a similar pulmonary infection that did not respond to treatment?"
+    ],
+    "stop_conditions": [
+     "A history of raw food consumption has been confirmed, with typical respiratory symptoms and subcutaneous nodules.",
+     "Imaging shows pulmonary infiltrates with significantly elevated eosinophils.",
+     "Serology or stool examination has shown evidence of Paragonimus westermani infection."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete blood count (with focus on eosinophil count)",
+     "Chest CT scan",
+     "Serum Paragonimus antibody test (ELISA)"
+    ],
+    "if_suspected": [
+     "Sputum smear for parasite ova",
+     "Biopsy and pathologic examination of subcutaneous nodules",
+     "Cerebrospinal fluid routine and immunologic testing (if cerebral involvement is suspected)"
+    ],
+    "avoid": [
+     "Bronchoscopy without an indication",
+     "Blind use of corticosteroids before empiric antituberculosis treatment",
+     "Long-term combined use of nonspecific antibiotics"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line: praziquantel 25-30mg/kg three times daily for 2-3 days",
+     "or bithionol 1g on the first day, followed by 1.5-2g daily in three divided oral doses for 7-10 days. For severe or cerebral cases, extend the course. Provide symptomatic supportive treatment, such as antitussive and expectorant therapy."
+    ],
+    "safety_warnings": [],
+    "personalization": [
+     "Calculate the dose precisely by body weight in children to avoid overdose.",
+     "Reduce the dose as appropriate in elderly patients according to hepatic and renal function.",
+     "Adjust the sequence of drug administration in patients coinfected with other parasites."
+    ]
+   },
+   "disease": "pulmonary paragonimiasis",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients often present with progressively worsening chest pain, usually unilateral dull or sharp pain that is aggravated by breathing or coughing. It is accompanied by a persistent dry cough, exertional dyspnea, and unexplained weight loss. Some patients may have a palpable chest wall mass or dyspnea caused by pleural effusion. Symptoms are insidious and easily misdiagnosed as pneumonia or tuberculosis; a history of long-term asbestos exposure should be considered.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had long-term exposure to asbestos dust (e.g., in construction or shipbuilding)?",
+     "Is the chest pain continuous or intermittent? Does it worsen with deep breathing?",
+     "Have you recently had unexplained significant weight loss or night sweats?"
+    ],
+    "followup_questions": [
+     "If you have dyspnea, please describe whether it worsens when lying flat and whether you have orthopnea.",
+     "If you have noticed an induration or mass on the chest wall, please describe changes in its size and the degree of pain.",
+     "Have you had recurrent episodes of pleural effusion or a history of pulmonary infection?"
+    ],
+    "stop_conditions": [
+     "A history of asbestos exposure and typical chest pain and dyspnea have been clearly elicited and documented.",
+     "The presence or absence of pleural effusion and related systemic wasting symptoms has been confirmed.",
+     "The patient's complaints and signs are highly suggestive of malignant pleural disease, and no further unrelated history is needed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Contrast-enhanced chest CT",
+     "Diagnostic thoracentesis (pleural fluid cytology)",
+     "Pleural biopsy (ultrasound- or CT-guided)"
+    ],
+    "if_suspected": [
+     "Whole-body PET-CT evaluation",
+     "Pulmonary function tests",
+     "Tumor marker testing (e.g., mesothelin-related antigens)"
+    ],
+    "avoid": [
+     "Repeated plain chest radiography without an indication (insensitive for early lesions)",
+     "Blind percutaneous core needle biopsy (high risk and low positive yield without imaging guidance)",
+     "Unnecessary bronchoscopy (unless concomitant airway disease is suspected)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment usually consists of platinum-based combination chemotherapy, such as cisplatin plus pemetrexed, generally for 6 cycles. For patients with good performance status and limited-stage disease, surgical resection (e.g., pleurectomy) may be considered. At the same time, pleural drainage should be used to relieve effusion, with intrapleural drug instillation if necessary. Nonpharmacologic interventions include nutritional support and pain management."
+    ],
+    "safety_warnings": [
+     "Cisplatin is nephrotoxic; renal function should be assessed and adequate hydration provided before administration.",
+     "Pemetrexed may cause myelosuppression; complete blood counts should be monitored regularly.",
+     "Avoid these regimens in severe hepatic or renal impairment or during pregnancy."
+    ],
+    "personalization": [
+     "Adjust the cisplatin dose according to creatinine clearance in elderly patients.",
+     "For patients with poor performance status (ECOG≥2), consider dose reduction or transition to best supportive care.",
+     "Use immune checkpoint inhibitors with caution in patients with autoimmune disease."
+    ]
+   },
+   "disease": "pleural mesothelioma",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients often present with sudden-onset chest pain, sharp or knife-like, worsened by deep breathing, coughing, or changes in position. It may be accompanied by dry cough, fever, and dyspnea. Some patients may have signs of pleural effusion, such as decreased breath sounds on the affected side and dullness on percussion.",
+   "interview_guide": {
+    "first_questions": [
+     "Is your chest pain related to breathing or coughing?",
+     "Do you have fever, cough, or other accompanying symptoms?",
+     "How long has the pain lasted, and has it progressively worsened?"
+    ],
+    "followup_questions": [
+     "If you have fever, please describe the changes in temperature and how long it lasts.",
+     "Have you had recent trauma, surgery, or infection?",
+     "Have you had dyspnea or exertional shortness of breath?"
+    ],
+    "stop_conditions": [
+     "Chest pain has been clearly established as related to breathing, with no other complex symptoms.",
+     "The patient's symptoms are typical, allowing a preliminary judgment without further questioning.",
+     "Key history has been collected, and the information is sufficient to guide the next steps in evaluation."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Chest X-ray",
+     "Chest CT scan",
+     "Pleural fluid analysis"
+    ],
+    "if_suspected": [
+     "Tuberculin skin test (TST)",
+     "Serum inflammatory marker testing (e.g., CRP, ESR)",
+     "Autoimmune antibody screening"
+    ],
+    "avoid": [
+     "Routine blood cultures (unless sepsis is suspected)",
+     "Unnecessary bronchoscopy",
+     "Repeat imaging studies"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes nonsteroidal anti-inflammatory drugs (NSAIDs) to relieve pain and inflammation, such as ibuprofen 400mg three times daily for 1-2 weeks. If bacterial pleuritis is present, select antibiotics according to the pathogen, such as amoxicillin-clavulanate 875mg/125mg twice daily for 7-10 days. For large pleural effusion, thoracentesis and drainage are required. Bed rest and avoidance of strenuous activity are also recommended."
+    ],
+    "safety_warnings": [
+     "NSAIDs are contraindicated in patients with peptic ulcer disease or renal impairment.",
+     "Confirm allergy history before antibiotic use to avoid cross-reactions.",
+     "Thoracentesis must be performed under strict aseptic conditions to prevent secondary infection."
+    ],
+    "personalization": [
+     "Adjust the NSAID dose in elderly patients and monitor for gastrointestinal adverse effects.",
+     "Prefer acetaminophen in pregnant women and avoid NSAIDs.",
+     "Prolong the antibiotic course and follow up closely in immunocompromised patients."
+    ]
+   },
+   "disease": "pleurisy",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients often present with progressive dyspnea, dry cough, and low-grade fever; symptoms are insidious and progress rapidly. Typical complaints include worsening exertional dyspnea, night sweats, and fatigue; some patients have chest pain or cyanosis. High-risk groups such as people with HIV infection, organ transplant recipients, or long-term users of immunosuppressants require high vigilance.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have an immune-related disease, or are you currently using corticosteroids/immunosuppressants?",
+     "Have you recently had an unexplained dry cough or worsening exertional dyspnea?"
+    ],
+    "followup_questions": [
+     "Have the symptoms progressively worsened within two weeks?",
+     "Do you have systemic symptoms such as fever, night sweats, or weight loss?"
+    ],
+    "stop_conditions": [
+     "The patient's immune status and the duration of typical respiratory symptoms have been clarified.",
+     "The patient has provided recent medication history and information on underlying diseases.",
+     "The preliminary assessment is consistent with high-risk features for PJP, and the symptom description is complete."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "High-resolution chest CT (HRCT)",
+     "Serum lactate dehydrogenase (LDH) testing",
+     "Pathogen testing of induced sputum or bronchoalveolar lavage fluid (BALF)"
+    ],
+    "if_suspected": [
+     "Arterial blood gas analysis to assess oxygenation",
+     "Comprehensive immune function testing (e.g., CD4+ T-cell count)",
+     "Etiologic screening to exclude other pulmonary infections"
+    ],
+    "avoid": [
+     "Empiric broad-spectrum antibiotic therapy without an indication",
+     "Unnecessary invasive procedures (e.g., percutaneous lung biopsy)",
+     "Repeated low-value imaging studies"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is trimethoprim-sulfamethoxazole (TMP-SMX) at 15-20mg/kg/d (calculated as TMP), given orally or intravenously in three divided doses for 21 days. In mild cases, a corticosteroid may be added (e.g., prednisone 40mg/d, with gradual tapering). Supportive treatment, including oxygen supplementation and nutritional support, should also be provided."
+    ],
+    "safety_warnings": [
+     "TMP-SMX is contraindicated in patients allergic to sulfonamides.",
+     "Pay attention to drug interactions; avoid concomitant use with warfarin or phenytoin sodium.",
+     "Monitor for adverse reactions such as myelosuppression, hepatic and renal function abnormalities, and severe rash."
+    ],
+    "personalization": [
+     "Adjust the TMP-SMX dose in patients with renal impairment and monitor serum drug concentrations closely.",
+     "Use with caution in pregnant women; choose an alternative regimen after weighing the risks and benefits.",
+     "In elderly patients, pay attention to the risk of toxicity due to slowed drug metabolism."
+    ]
+   },
+   "disease": "Pneumocystis jirovecii pneumonia (PJP)",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients often report paroxysmal sneezing, clear watery rhinorrhea, and nasal itching during specific seasons (e.g., spring or autumn), accompanied by eye itching, tearing, and conjunctival congestion. Symptoms show a clear seasonal pattern, worsening in the morning or after outdoor pollen exposure and improving indoors or in windless weather. Some patients may have cough, throat itching, or mild wheezing, but usually no fever or other signs of infection.",
+   "interview_guide": {
+    "first_questions": [
+     "Have your symptoms recurred during specific months each year?",
+     "Are they accompanied by eye itching, tearing, or throat discomfort?"
+    ],
+    "followup_questions": [
+     "Do your symptoms worsen significantly after outdoor activities?",
+     "Do you have a history of asthma or eczema?"
+    ],
+    "stop_conditions": [
+     "Seasonal pattern of symptoms has been clearly established and signs of infection excluded",
+     "Typical combination of nasal and ocular allergic symptoms has been confirmed",
+     "Past allergy history and family history have been obtained"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Nasal endoscopy",
+     "Serum specific IgE testing (for common pollen allergens)"
+    ],
+    "if_suspected": [
+     "Skin prick test",
+     "Pulmonary function tests (to evaluate comorbid asthma)"
+    ],
+    "avoid": [
+     "Routine white blood cell count (unless bacterial infection is suspected)",
+     "Plain sinus CT (when chronic sinusitis or complications are not present)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is an intranasal corticosteroid spray (e.g., mometasone furoate, 1-2 sprays per nostril once daily), for at least 2-4 weeks until symptoms are controlled. Combine with an oral second-generation antihistamine (e.g., loratadine 10 mg once daily). Adjunctive saline nasal irrigation is recommended to reduce residual pollen. Avoiding allergen exposure is a fundamental measure."
+    ],
+    "safety_warnings": [
+     "Intranasal corticosteroids must be used properly; avoid long-term high-dose use, which can cause nasal septal perforation",
+     "First-generation antihistamines have sedative side effects and are contraindicated before driving",
+     "Severe allergic reactions are rare; be alert to the risk of laryngeal edema"
+    ],
+    "personalization": [
+     "For children, adjust the dose by weight and prioritize nasal sprays with a high safety profile",
+     "For pregnant women, use medications cautiously; prefer topical therapy and consult obstetrics",
+     "In older adults, note the potential cardiovascular effects of medications and avoid pseudoephedrine-containing preparations"
+    ]
+   },
+   "disease": "pollinosis (seasonal allergic rhinitis; hay fever)",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients often present with recurrent lower respiratory tract infections, accompanied by chronic cough, purulent sputum, or hemoptysis. Typical symptoms include fever, chest pain, and dyspnea, and the infection site is mostly located in the posterior basal segment of the left lower lobe. Some patients may have asymptomatic incidental findings, but most present in adolescence or early adulthood with recurrent pneumonia. If congenital heart disease is present, cyanosis or manifestations of heart failure may occur.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have a history of long-term recurrent cough, purulent sputum, or hemoptysis?",
+     "Was your most recent lung infection located in the left lower lobe?",
+     "Do you have a diagnosis or family history of congenital heart disease?"
+    ],
+    "followup_questions": [
+     "If you have hemoptysis, approximately how much blood is there, and is it related to changes in position?",
+     "How effective has previous anti-infective treatment been, and does it recur easily?",
+     "Do you have esophageal abnormalities such as dysphagia or choking during eating?"
+    ],
+    "stop_conditions": [
+     "Recurrent lower respiratory tract infection has been clearly established and localized to the posterior basal segment of the left lower lobe.",
+     "Active massive hemoptysis or acute respiratory failure requiring emergency management has been confirmed absent.",
+     "A key imaging examination plan has been obtained and other common causes of pneumonia excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Chest contrast-enhanced CT (including 3D reconstruction)",
+     "Bronchial arteriography",
+     "Chest MRI (to evaluate the vascular course and relationship with the aorta)"
+    ],
+    "if_suspected": [
+     "Echocardiography (to screen for congenital heart disease)",
+     "Fiberoptic bronchoscopy (to exclude endobronchial tumor or foreign body)",
+     "Complete blood count and C-reactive protein (to assess the degree of infection)"
+    ],
+    "avoid": [
+     "Conventional noncontrast CT (cannot clearly show the feeding arteries)",
+     "Percutaneous lung biopsy (increases bleeding risk and has low diagnostic value)",
+     "Routine empiric antibiotic therapy as the basis for diagnosis"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is surgical resection of the affected lung lobe, usually by minimally invasive video-assisted thoracoscopic surgery. Infection should be controlled before surgery with broad-spectrum antibiotics such as cephalosporins combined with metronidazole. For asymptomatic patients without complications, surgery can be scheduled electively",
+     "Patients with recurrent infections should undergo surgery as early as possible. No special drug therapy is needed after surgery; regular follow-up chest radiographs are sufficient."
+    ],
+    "safety_warnings": [
+     "Blind puncture or interventional procedures are strictly prohibited before the feeding artery is identified, to prevent major hemorrhage.",
+     "During surgery, be alert to accidental injury caused by variations in ectopic feeding arteries.",
+     "After surgery, monitor for complications such as chylothorax or persistent air leak."
+    ],
+    "personalization": [
+     "For infants and young children, adjust the anesthesia plan and surgical incision size according to body weight.",
+     "For patients with complex congenital heart disease, joint evaluation with cardiac surgery is required to determine surgical timing.",
+     "For older adults or those with poor cardiopulmonary function, weigh the surgical risks and perform palliative embolization if necessary."
+    ]
+   },
+   "disease": "pulmonary sequestration",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients often present with chronic cough and purulent sputum, in which sulfur granules may be seen. They have low-grade fever, night sweats, fatigue, and weight loss, and are easily misdiagnosed with pulmonary tuberculosis or lung cancer. Some patients develop chest pain and dyspnea; if the lesion involves the chest wall, multiple sinus tracts may form and drain pus. A prolonged course and lack of response to antibiotics are important clues.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have a long-term cough with purulent sputum containing yellow granules?",
+     "Have you recently had unexplained fever, night sweats, or weight loss?"
+    ],
+    "followup_questions": [
+     "If there are small sulfur-like granules in your sputum, please describe their color and character.",
+     "Do you have a history of oral disease (such as tooth extraction or periodontitis) or chest trauma/surgery?",
+     "How effective was previous treatment for tuberculosis or ordinary pneumonia?"
+    ],
+    "stop_conditions": [
+     "Typical sulfur granule-containing sputum and chronic disease course have been clearly elicited.",
+     "An established history of oral infection or an immunosuppressive background has been confirmed.",
+     "The patient's symptoms are highly consistent with imaging findings, and common tuberculosis/tumor risk factors have been excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Noncontrast and contrast-enhanced chest CT",
+     "Sputum smear Gram stain and anaerobic culture",
+     "Pathological biopsy (to look for sulfur granules and branching hyphae)"
+    ],
+    "if_suspected": [
+     "Serum antibody testing (adjunctive diagnosis)",
+     "Bronchoscopy and lavage fluid culture",
+     "Complete blood count and inflammatory markers (CRP, ESR)"
+    ],
+    "avoid": [
+     "PET-CT without indication (to avoid overtesting)",
+     "Unnecessary empiric anti-tuberculosis treatment",
+     "Percutaneous lung puncture before active bleeding has been excluded"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is high-dose intravenous penicillin G (12-24 million units per day) for 2-6 weeks until symptoms are markedly relieved. Then switch to oral amoxicillin or penicillin V potassium; the total course needs to last 6-12 months to prevent recurrence. For patients allergic to penicillin, tetracyclines or doxycycline may be selected. At the same time, nutritional support should be strengthened, and surgical drainage to clear abscesses or resection of necrotic tissue should be performed when necessary."
+    ],
+    "safety_warnings": [
+     "Strictly monitor for penicillin allergic reactions and have epinephrine ready.",
+     "Long-term use of high-dose penicillin requires vigilance for pseudomembranous enterocolitis and superinfection.",
+     "Watch for drug-induced hepatic and renal injury and periodically recheck biochemical indicators."
+    ],
+    "personalization": [
+     "For pregnant women, use tetracyclines cautiously; prefer penicillin and adjust the dose.",
+     "For older adults, adjust antibiotic doses according to creatinine clearance.",
+     "For immunocompromised patients (e.g., those with HIV infection), prolong the course and combine anti-infective treatment."
+    ]
+   },
+   "disease": "pulmonary actinomycosis",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients often present with progressive exertional dyspnea and fatigue; some develop clubbing or cyanosis. Typical features are positional hypoxemia (worse when supine) and recurrent hemoptysis. If hereditary hemorrhagic telangiectasia is present, epistaxis and mucocutaneous telangiectasia may be seen. In severe cases, right-to-left shunting can lead to brain abscess or transient ischemic attack.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have obvious shortness of breath after activity or bluish lips?",
+     "Have you had unexplained syncope, hemiparesis, or severe headache?",
+     "Does anyone in your family have similar symptoms or red spots on the skin or in the nose?"
+    ],
+    "followup_questions": [
+     "Is your shortness of breath worse when lying flat and relieved after sitting up?",
+     "Have you recently had hemoptysis or a history of recurrent lung infections?",
+     "Are there red spider nevus-like changes on the skin or oral mucosa?"
+    ],
+    "stop_conditions": [
+     "Typical positional dyspnea and history of hemoptysis have been clearly described",
+     "A history of neurological complications (such as stroke) has been confirmed",
+     "Clear clues to a family genetic history have been obtained"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Chest contrast-enhanced CT angiography (CTA)",
+     "Transthoracic echocardiography (including bubble study)",
+     "Arterial blood gas analysis"
+    ],
+    "if_suspected": [
+     "Whole-brain cerebral angiography (to screen for brain arteriovenous malformations)",
+     "Genetic testing (to screen for mutations in genes such as ENG and ACVRL1)",
+     "Fiberoptic bronchoscopy (to evaluate the source of hemoptysis)"
+    ],
+    "avoid": [
+     "Conventional chest X-ray (easily misses small lesions)",
+     "Noninvasive ventilation (may worsen hypoxia before a shunt is excluded)",
+     "Routine anticoagulation (blind use before the cause is clarified)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is catheter-directed embolization, using coils or occluders to close the abnormal vessels. For patients who cannot undergo the procedure, surgical resection may be considered. Pharmacotherapy is only for symptomatic support, such as correcting anemia or using antibiotics to prevent brain abscess. The course depends on the embolization effect; after the procedure, regular CT follow-up is needed to monitor recurrence."
+    ],
+    "safety_warnings": [
+     "Strictly prohibit high-concentration oxygen before shunt status is assessed, to avoid masking hypoxemia",
+     "Interventional procedures must guard against the risk of ectopic embolism, especially cerebral embolism",
+     "Avoid nonsteroidal anti-inflammatory drugs that may increase bleeding risk"
+    ],
+    "personalization": [
+     "For pregnant patients, weigh the timing of embolization and prefer intervention in the second trimester",
+     "For pediatric patients, intervene as early as possible to prevent impaired growth and neurological injury",
+     "For patients with hereditary hemorrhagic telangiectasia, multidisciplinary management is required"
+    ]
+   },
+   "disease": "pulmonary arteriovenous fistula",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients often present with subacute or chronic cough and sputum production, sometimes with low-grade fever, night sweats, and fatigue. Chest pain and dyspnea are more common in those with larger lesions. About half of patients are asymptomatic, and lung nodules or infiltrates are found only during medical examinations. Immunosuppressed populations (e.g., people with HIV) progress faster and are prone to multiple cavities or diffuse lesions; vigilance is needed for the risk of concurrent meningitis.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had a long-standing cough, fever, or night sweats?",
+     "Do you have HIV/AIDS, a history of organ transplantation, or long-term use of corticosteroids/immunosuppressants?"
+    ],
+    "followup_questions": [
+     "If you have headache, nausea, or blurred vision, does this suggest possible central nervous system involvement?",
+     "Have you recently been exposed to pigeon droppings or traveled to a specific geographic endemic area?"
+    ],
+    "stop_conditions": [
+     "Immune status has been clarified, and typical respiratory symptoms have lasted more than 2 weeks",
+     "Imaging shows characteristic nodules or cavities, and there is no evidence of other systemic involvement",
+     "The patient has received antifungal therapy and symptoms are stable"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "High-resolution computed tomography (HRCT) of the chest",
+     "Serum cryptococcal capsular antigen (CrAg) testing",
+     "Sputum or bronchoalveolar lavage fluid India ink staining and fungal culture"
+    ],
+    "if_suspected": [
+     "Brain MRI (to rule out cryptococcal meningitis)",
+     "Lumbar puncture for cerebrospinal fluid pressure and cryptococcal antigen",
+     "CD4+ T-lymphocyte count and HIV antibody testing"
+    ],
+    "avoid": [
+     "Long-term empiric use of broad-spectrum antibiotics (delays diagnosis)",
+     "Percutaneous lung biopsy without indication (risk of bleeding and dissemination)",
+     "Relying solely on chest radiography as the basis for diagnosis (insufficient sensitivity)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For mild cases in immunocompetent patients, oral fluconazole is preferred, at a dose of 400mg/d for 6-12 months",
+     "For severe cases or immunosuppressed patients, induction therapy with amphotericin B plus flucytosine for 2 weeks is recommended, followed by consolidation therapy with fluconazole. Non-drug interventions include regular follow-up imaging and monitoring of liver and kidney function."
+    ],
+    "safety_warnings": [
+     "Amphotericin B is nephrotoxic; electrolytes and renal function must be closely monitored",
+     "Fluconazole interacts with drugs such as warfarin; dosage adjustment is required",
+     "Avoid self-discontinuation to prevent relapse or development of resistance"
+    ],
+    "personalization": [
+     "For people with HIV, antifungal treatment duration should be extended based on CD4 count until CD4 >150 and sustained for more than 3 months",
+     "Fluconazole should be used with caution in pregnant women; amphotericin B is recommended in early pregnancy",
+     "In older patients, the dose of amphotericin B should be adjusted according to creatinine clearance"
+    ]
+   },
+   "disease": "pulmonary cryptococcosis",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients often present with chronic cough, chest pain, or hemoptysis; some are asymptomatic and found only during medical examinations. A typical feature is a round or oval pulmonary shadow with clear borders, which may be accompanied by a 'water lily sign' or 'crescent sign'. If the cyst ruptures, sudden severe chest pain, dyspnea, and anaphylactic shock can occur; symptoms may be temporarily relieved after coughing up cyst fluid. The history often includes living in pastoral areas or contact with dogs and sheep.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have a history of long-term residence in pastoral areas or close contact with dogs or sheep?",
+     "Have you recently had unexplained cough, chest pain, or blood-streaked sputum?",
+     "Have you previously had lung nodules or cysts found on medical examination?"
+    ],
+    "followup_questions": [
+     "If you have sudden chest pain and dyspnea, is it accompanied by allergic manifestations such as rash or laryngeal edema?",
+     "When coughing, have you ever coughed up white cyst fluid or jelly-like material?",
+     "Do you have fever, night sweats, or other tuberculosis toxic symptoms to exclude tuberculosis?"
+    ],
+    "stop_conditions": [
+     "A clear history of pastoral-area contact is established, and imaging shows typical cyst features",
+     "The patient has developed an acute allergic reaction due to cyst rupture and needs emergency management",
+     "Necessary serologic and imaging examinations have been completed to confirm the diagnosis"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Noncontrast and contrast-enhanced chest CT",
+     "Echinococcal antibody testing (ELISA or indirect hemagglutination test)",
+     "Complete blood count (attention to eosinophil count)"
+    ],
+    "if_suspected": [
+     "Echocardiography (to assess for pericardial involvement)",
+     "Abdominal ultrasound or CT (to assess for comorbid hepatic hydatid disease)",
+     "Bronchoscopy (to evaluate airway lesions or obtain secretions)"
+    ],
+    "avoid": [
+     "Percutaneous needle biopsy (strictly prohibited to prevent cyst fluid spill causing anaphylactic shock or implantation metastasis)",
+     "Routine empiric anti-infective treatment (when there is no clear evidence of bacterial infection)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Oral albendazole is preferred, at a dose of 10-15mg/kg/day divided into 2 doses, usually for 3 to 6 months, and it should be used both before and after surgery. For unruptured simple cysts, PAIR (puncture, aspiration, injection of scolicidal agent, and reaspiration) may be considered. Surgical resection is suitable for giant cysts, multiple cysts, or those complicated by infection; during surgery, strict measures are needed to prevent cyst fluid spillage. Non-drug interventions include avoiding strenuous exercise to prevent cyst rupture."
+    ],
+    "safety_warnings": [
+     "Blind puncture or biopsy of suspected hydatid cysts is strictly prohibited",
+     "Albendazole is hepatotoxic; liver function should be monitored regularly during treatment",
+     "Cyst rupture can cause fatal anaphylactic shock; epinephrine and antiallergic drugs should be available"
+    ],
+    "personalization": [
+     "In pediatric patients, the dose must be calculated precisely according to body weight, and growth and development should be closely monitored",
+     "Albendazole should be used with caution in pregnant and breastfeeding women; if necessary, weigh the benefits and risks or delay until postpartum",
+     "In patients with hepatic impairment, the dose should be reduced or the drug suspended, and an alternative regimen should be used"
+    ]
+   },
+   "disease": "pulmonary echinococcosis",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients often present with subacute or chronic onset of respiratory symptoms, including persistent cough, purulent or blood-streaked sputum, chest pain, and low-grade fever. Some patients have fatigue, night sweats, and weight loss, and are easily misdiagnosed as having pulmonary tuberculosis or lung cancer. Immunosuppressed populations (e.g., organ transplant recipients or long-term corticosteroid users) are at high risk, progress faster, and may develop dyspnea.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had a long-standing cough, fever, or hemoptysis? How long has it lasted?",
+     "Have you recently undergone organ transplantation or chemotherapy, or used glucocorticoids long term?",
+     "Do you have a history of environmental exposure to soil, dust, or decaying plants?"
+    ],
+    "followup_questions": [
+     "If you have chest pain, is it sharp or dull, and is it related to breathing?",
+     "Have you had a previous similar lung infection that responded poorly to conventional antibiotic treatment?",
+     "Has there been a situation in which a skin ulcer became infected and spread to the lungs?"
+    ],
+    "stop_conditions": [
+     "Immunosuppressed status and typical respiratory symptoms are established, and common bacterial pneumonia has been excluded.",
+     "The patient has provided a clear history of soil exposure and long-term immunosuppressant use.",
+     "Imaging shows cavities or nodules with systemic wasting symptoms, and an atypical pathogen is highly suspected."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "High-resolution computed tomography (HRCT) of the chest",
+     "Sputum Gram stain and acid-fast stain (modified acid-fast stain)",
+     "Sputum culture and susceptibility testing (extended culture time required)"
+    ],
+    "if_suspected": [
+     "Serum galactomannan testing (to help differentiate Aspergillus)",
+     "Bronchoscopy and etiologic testing of bronchoalveolar lavage fluid",
+     "Complete blood count and C-reactive protein, procalcitonin"
+    ],
+    "avoid": [
+     "Empiric use of broad-spectrum carbapenem monotherapy without pathogen testing",
+     "Excluding all possible infections solely on the basis of a negative routine bacterial culture",
+     "PET-CT without indication to distinguish benign from malignant lesions"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Trimethoprim-sulfamethoxazole (SMZ-TMP) is preferred, usually at a dose of 160/800mg twice daily; severe cases may receive intravenous administration. The course is at least 3-6 months, until clinical symptoms disappear and imaging lesions are stable. For those who cannot tolerate sulfonamides, amikacin combined with meropenem or linezolid may be selected. At the same time, nutritional support should be strengthened and the immunodeficiency state corrected."
+    ],
+    "safety_warnings": [
+     "Sulfonamides may cause severe rash (such as Stevens-Johnson syndrome); skin reactions should be closely monitored.",
+     "Pay attention to drug interactions, especially increased bleeding risk when used with warfarin.",
+     "Long-term use requires regular monitoring of liver and kidney function and complete blood count to prevent bone marrow suppression."
+    ],
+    "personalization": [
+     "In patients with renal impairment, the dose of SMZ-TMP should be adjusted according to creatinine clearance.",
+     "Use with caution in pregnant and breastfeeding women; choose an alternative regimen after weighing the benefits and risks.",
+     "In older patients, be alert to electrolyte disturbances (such as hyperkalemia) and gastrointestinal adverse reactions."
+    ]
+   },
+   "disease": "pulmonary nocardiosis",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients often report progressive dyspnea, dry cough, and chest pain, and some have fatigue, low-grade fever, or weight loss. Typical signs include bibasilar crackles or clubbing. About half of patients develop skin lesions (such as erythema nodosum) or ocular symptoms (blurred vision). If the heart is involved, palpitations may occur; if the nervous system is involved, manifestations such as facial palsy may appear.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had a dry cough lasting more than two weeks or shortness of breath on exertion?",
+     "Have you recently had unexplained low-grade fever, night sweats, or weight loss?",
+     "Do you have red painful nodules on your body or red eyes or blurred vision?"
+    ],
+    "followup_questions": [
+     "If you have joint pain, which joints are affected, and is it accompanied by morning stiffness?",
+     "Do you have a history of tuberculosis or long-term environmental exposure to dust or mold?",
+     "Is there a family history of similar disease or autoimmune disease?"
+    ],
+    "stop_conditions": [
+     "Typical respiratory symptoms and multisystem involvement have been clearly described.",
+     "Active pulmonary tuberculosis and other common pulmonary infections have been excluded.",
+     "Key past history (tuberculosis, occupational exposure) and medication history have been obtained."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "High-resolution computed tomography (HRCT) of the chest",
+     "Serum angiotensin-converting enzyme (ACE) measurement",
+     "Bronchoalveolar lavage fluid cytologic analysis"
+    ],
+    "if_suspected": [
+     "Whole-body PET-CT scan (to assess the extent of systemic involvement)",
+     "Transbronchial lung biopsy or mediastinal lymph node biopsy",
+     "Ophthalmologic slit-lamp examination and electrocardiography/echocardiography"
+    ],
+    "avoid": [
+     "Routine anti-tuberculosis treatment as a diagnostic trial (unless tuberculosis is highly suspected and cannot be confirmed)",
+     "Repeated contrast-enhanced CT without indication (increases radiation and contrast agent risks)",
+     "Using nonspecific inflammatory markers as the sole basis for diagnosis"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Asymptomatic or mild patients are initially managed with observation and follow-up. For symptomatic patients, glucocorticoids are first-line; the starting dose of prednisone is 0.5mg/kg/d, continued for 4 weeks and then gradually tapered, with a total course of 6-12 months. Refractory cases may be treated with methotrexate or azathioprine in combination. At the same time, smoking cessation is recommended, and pulmonary rehabilitation training should be performed to improve ventilatory function."
+    ],
+    "safety_warnings": [
+     "Long-term corticosteroid use requires vigilance for risks of osteoporosis, hyperglycemia, and secondary infection.",
+     "Methotrexate has hepatotoxic and bone marrow suppressive effects; complete blood count and liver function should be monitored regularly.",
+     "Avoid concomitant use with NSAIDs, which increases the risk of gastrointestinal bleeding, and pay attention to drug interactions."
+    ],
+    "personalization": [
+     "Methotrexate should be used with caution in pregnant women; low-dose corticosteroids or biologics are preferred.",
+     "In older patients, the starting dose of corticosteroids should be reduced, and calcium and vitamin D supplementation should be strengthened.",
+     "In patients with renal impairment, adjust the dose of immunosuppressants and avoid nephrotoxic drugs."
+    ]
+   },
+   "disease": "pulmonary sarcoidosis",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients often develop progressively worsening dry cough and exertional dyspnea within weeks to months after chest radiotherapy, and some have low-grade fever or chest pain. Symptoms have a subacute onset and are easily misdiagnosed as infection or tumor progression. The typical presentation is coexistence of dyspnea and ground-glass opacities on imaging, but bacterial infection signs such as purulent sputum are absent; identification should focus on combining the radiotherapy history.",
+   "interview_guide": {
+    "first_questions": [
+     "When did your most recent course of chest radiotherapy end?",
+     "Do you currently have a persistent dry cough or worsening shortness of breath after activity?",
+     "Do you have fever or chest pain?"
+    ],
+    "followup_questions": [
+     "If fever occurs, please describe the highest temperature and whether it is accompanied by chills.",
+     "If shortness of breath is prominent, please state whether it worsens when lying flat or you need to sit upright to breathe.",
+     "Have you recently taken antibiotics or corticosteroid medications on your own?"
+    ],
+    "stop_conditions": [
+     "The end date of radiotherapy has been clarified and symptoms match the radiotherapy time window.",
+     "No evidence of purulent infection (such as purulent sputum or high fever) has been confirmed.",
+     "The patient reports stable symptoms and shows no signs of acute respiratory failure."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "High-resolution chest CT (HRCT)",
+     "Arterial blood gas analysis",
+     "Complete blood count and C-reactive protein"
+    ],
+    "if_suspected": [
+     "Pulmonary function tests (to assess restrictive ventilatory impairment)",
+     "Cytologic analysis of bronchoalveolar lavage fluid",
+     "Echocardiography (to exclude cardiac causes)"
+    ],
+    "avoid": [
+     "Routine bacterial culture (if there is no evidence of infection)",
+     "PET-CT (difficult to differentiate in early stage and adds radiation exposure)",
+     "Invasive lung biopsy (unless the diagnosis is unclear and the risk is manageable)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "After diagnosis, glucocorticoids are first-line, such as oral prednisone 0.5-1mg/kg/d; for severe symptoms, give intravenous pulse methylprednisolone. The course is usually 4-6 weeks, with slow tapering according to symptom relief, and abrupt discontinuation should be avoided. At the same time, provide oxygen support, antitussive and expectorant treatment, and prevention of secondary infection. Nonpharmacologic interventions include strict smoking cessation, moderate rest, and nutritional support."
+    ],
+    "safety_warnings": [
+     "Long-term corticosteroid use requires vigilance for hyperglycemia, gastrointestinal bleeding, and osteoporosis.",
+     "Under immunosuppression, fungal and opportunistic infections require close monitoring.",
+     "Abrupt discontinuation is strictly prohibited to prevent adrenal cortical insufficiency crisis."
+    ],
+    "personalization": [
+     "Older patients require adjusted corticosteroid doses and strengthened fall-prevention measures.",
+     "Patients with diabetes require simultaneous intensification of blood glucose monitoring and insulin adjustment.",
+     "Use nonsteroidal anti-inflammatory drugs as adjunctive treatment with caution in patients with renal insufficiency."
+    ]
+   },
+   "disease": "Radiation pneumonitis",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients often present with fever, cough, and dyspnea; wheezing or retractions are more common in infants and young children. Initially it resembles a common cold, followed by tachypnea and nasal flaring; crackles or wheezing may be heard on auscultation. Severe cases may show cyanosis, lethargy, or refusal to feed. Symptoms usually peak 3-5 days after onset, and the course is about 1-2 weeks.",
+   "interview_guide": {
+    "first_questions": [
+     "Does the patient have fever, cough, or rapid breathing?",
+     "Has the patient recently been in contact with a child or adult with similar respiratory symptoms?",
+     "How old is the patient, and is there a history of prematurity or underlying cardiopulmonary disease?"
+    ],
+    "followup_questions": [
+     "If you have wheezing, please describe when it occurs and whether it worsens at night.",
+     "If you have significant difficulty breathing, please state whether you have nasal flaring, retractions, or bluish lips.",
+     "If the patient is an infant or young child, please describe feeding and changes in urine output to assess the risk of dehydration."
+    ],
+    "stop_conditions": [
+     "Typical clinical manifestations have been clarified and there is an epidemiologic contact history.",
+     "Vital signs are stable, there are no signs of hypoxia, and no emergency intervention is needed.",
+     "Necessary physical examination and initial laboratory screening have been completed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Chest X-ray",
+     "Complete blood count and C-reactive protein testing",
+     "Respiratory pathogen nucleic acid testing (RSV antigen/nucleic acid)"
+    ],
+    "if_suspected": [
+     "Blood gas analysis (to assess the degree of hypoxia)",
+     "Electrocardiography (to rule out myocardial involvement)",
+     "Pulmonary function tests (to assess airway obstruction during recovery)"
+    ],
+    "avoid": [
+     "Routine use of broad-spectrum antibiotics (unless there is evidence of bacterial coinfection)",
+     "Unnecessary CT scans (to avoid radiation exposure)",
+     "Empiric use of antiviral drugs (such as ribavirin, not recommended for nonsevere cases)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Maintain supportive treatment, including oxygen to maintain oxygen saturation >92%, adequate fluid replacement to correct dehydration, and, if necessary, nebulized bronchodilators to relieve wheezing. For high fever, give acetaminophen to reduce fever. Specific antiviral drugs are generally not needed; severe cases require comprehensive management under monitoring, and the course depends on recovery and is usually 1-2 weeks."
+    ],
+    "safety_warnings": [
+     "Antibiotic misuse is strictly prohibited to avoid the emergence of resistant bacteria and disruption of gut microbiota.",
+     "Monitor heart rate when using bronchodilators and watch for tachycardia.",
+     "Pay attention to fluid intake control to prevent worsening of heart failure or pulmonary edema."
+    ],
+    "personalization": [
+     "Premature infants or children with congenital heart disease require closer monitoring of respiratory rate and blood oxygen.",
+     "Immunocompromised patients should have a prolonged observation period and be monitored for secondary infection.",
+     "Elderly patients require attention to electrolyte balance and management of underlying diseases."
+    ]
+   },
+   "disease": "Respiratory syncytial virus pneumonia",
+   "department": "Respiratory Medicine"
+  },
+  {
+   "presentation": "Patients often report sudden sore throat, nasal congestion, runny nose, or sneezing, accompanied by mild fever (usually below 38.5℃), fatigue, and generalized muscle aches. Symptoms are mostly limited to the nose, pharynx, and larynx, without lower respiratory tract involvement such as severe cough or dyspnea. The course is usually self-limited and lasts 3-7 days; symptoms may worsen in the morning and are accompanied by hoarseness or mild headache.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have a sore throat, runny nose, or fever?",
+     "When did these symptoms start?",
+     "Have you recently been in contact with anyone with cold-like symptoms?"
+    ],
+    "followup_questions": [
+     "If you have persistent high fever, please state the highest temperature and how many days it has lasted.",
+     "['If dyspnea occurs, please state whether you have chest tightness, shortness of breath, or wheezing.']",
+     "['If symptoms do not improve after more than one week, please state whether you have new symptoms such as purulent sputum or ear pain.']"
+    ],
+    "stop_conditions": [
+     "Symptoms are typical, there are no high-risk factors, and vital signs are stable",
+     "Viral infection has been confirmed and there are no signs of complications",
+     "The patient's symptoms are mild, do not affect daily life, and show no trend of worsening"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete blood count (to distinguish viral from bacterial infection)",
+     "C-reactive protein testing",
+     "Physical examination (pharyngeal congestion and tonsillar enlargement)"
+    ],
+    "if_suspected": [
+     "Influenza virus antigen testing (when influenza is suspected)",
+     "Chest X-ray (to rule out pneumonia)",
+     "Throat swab culture (when bacterial pharyngitis is suspected)"
+    ],
+    "avoid": [
+     "Routine use of antibiotics (when there is no evidence of bacterial infection)",
+     "Unnecessary CT scans (imaging is not needed for mild cases)",
+     "Frequent blood gas analysis (when there are no signs of hypoxia)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Symptomatic supportive treatment is the mainstay. Advise increased water intake and adequate rest. For significant fever or pain, oral acetaminophen (0.5g/dose, no more than 4 times daily) or ibuprofen (0.2-0.4g/dose, 3 times daily) may be used. For nasal congestion, nasal irrigation with normal saline may be used. Antibiotics are generally not needed unless there is evidence of bacterial coinfection. The course is usually 5-7 days, and the drug is stopped according to symptom relief."
+    ],
+    "safety_warnings": [
+     "Avoid duplicate use of combination products containing the same antipyretic-analgesic ingredient to prevent liver injury",
+     "Use nonsteroidal anti-inflammatory drugs with caution in patients with a history of gastrointestinal ulcer",
+     "Pregnant and breastfeeding women must use medications strictly according to medical advice"
+    ],
+    "personalization": [
+     "In children, doses must be calculated by body weight, and aspirin is contraindicated to prevent Reye syndrome",
+     "In older adults, monitor renal function and adjust drug doses",
+     "In patients with chronic diseases (such as hypertension and diabetes), pay attention to the effects of drugs on underlying diseases"
+    ]
+   },
+   "disease": "Upper respiratory tract infection",
+   "department": "Respiratory Medicine"
+  }
+ ]
+}

@@ -17,9 +17,9 @@ from agent.runtime.retriever import KnowledgeBase       # noqa: E402
 
 SKILLS_DIR = os.path.join(ROOT, 'data', 'skills')
 CHEST_PAIN = {
-    'chief_complaint': '胸口疼并伴有呼吸困难，持续半小时',
-    'age': 56, 'sex': '男', 'duration': '半小时',
-    'symptoms': ['胸痛', '呼吸困难'], 'past_history': '高血压',
+    'chief_complaint': 'Chest pain with shortness of breath for 30 minutes',
+    'age': 56, 'sex': 'Male', 'duration': '30 minutes',
+    'symptoms': ['chest pain', 'shortness of breath'], 'past_history': 'hypertension',
     'allergies': '', 'medications': '',
 }
 
@@ -46,7 +46,7 @@ def pipeline(store, bus, kb):
 
 
 def run_case(pipeline, intake=None, timeout=30):
-    """跑一个自动应答病例直到 final（或 error），返回 (case_id, final_view)。"""
+    """Run one auto-answered case until final (or error); return (case_id, final_view)."""
     cid = pipeline.create_case(dict(intake or CHEST_PAIN), auto=True)
     deadline = time.time() + timeout
     view = {}
@@ -55,6 +55,6 @@ def run_case(pipeline, intake=None, timeout=30):
         if view.get('stage') == 'final' or view.get('error'):
             break
         time.sleep(0.2)
-    assert not view.get('error'), f'管线报错: {view.get("error")}'
-    assert view.get('stage') == 'final', f'管线未完成: {view.get("stage")}'
+    assert not view.get('error'), f'pipeline error: {view.get("error")}'
+    assert view.get('stage') == 'final', f'pipeline did not finish: {view.get("stage")}'
     return cid, view

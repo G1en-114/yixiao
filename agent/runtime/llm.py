@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""OpenAI 兼容 LLM 客户端（零第三方依赖）+ FakeLLM（仅自动化测试）。"""
+"""OpenAI-compatible LLM client (zero third-party dependencies) + FakeLLM (automated tests only)."""
 import json
 import os
 import re
@@ -11,7 +11,7 @@ DEFAULT_MODEL = 'qwen3.5-flash'
 
 
 def load_config(root):
-    """读取 config.yaml 中的简单 key: value 配置（不引入 PyYAML）。"""
+    """Read simple key: value pairs from config.yaml (no PyYAML); HOSPITAL_<KEY> environment variables override them."""
     cfg = {'base_url': DEFAULT_BASE_URL, 'model': DEFAULT_MODEL,
            'api_key_env': 'DASHSCOPE_API_KEY', 'api_key': '', 'temperature': 0.3, 'timeout': 60}
     path = os.path.join(root, 'config.yaml')
@@ -24,11 +24,15 @@ def load_config(root):
             k, v = k.strip(), v.strip().strip('"').strip("'")
             if k in cfg and v != '':
                 cfg[k] = v
+    for k in cfg:                        # environment overrides, e.g. HOSPITAL_MODEL / HOSPITAL_BASE_URL
+        v = os.environ.get('HOSPITAL_' + k.upper())
+        if v:
+            cfg[k] = v
     return cfg
 
 
 class LLMClient:
-    """qwen3.5-flash（阿里云 DashScope OpenAI 兼容接口），可配置替换任意兼容基座。"""
+    """qwen3.5-flash (Alibaba Cloud DashScope, OpenAI-compatible); any compatible base model can be configured."""
 
     def __init__(self, cfg):
         self.base_url = str(cfg.get('base_url', DEFAULT_BASE_URL)).rstrip('/')
@@ -39,7 +43,7 @@ class LLMClient:
 
     def chat(self, system, user):
         if not self.api_key:
-            raise RuntimeError('模型未配置：请设置 DASHSCOPE_API_KEY 环境变量或 config.yaml 的 api_key')
+            raise RuntimeError('Model not configured: set the DASHSCOPE_API_KEY environment variable or api_key in config.yaml')
         body = json.dumps({
             'model': self.model,
             'messages': [{'role': 'system', 'content': system}, {'role': 'user', 'content': user}],
@@ -57,7 +61,7 @@ class LLMClient:
 
 
 class FakeLLM:
-    """确定性脚本化响应，仅用于自动化测试与 --fake 开发模式；正式演示不自动回退。"""
+    """Deterministic scripted responses for automated tests and --fake dev mode only; the real demo never falls back to it."""
 
     def __init__(self, script=None):
         self.script = script or {}
@@ -79,13 +83,13 @@ class FakeLLM:
 
 
 def extract_json(text):
-    """从模型输出中提取第一个平衡的 JSON 对象；失败抛 ValueError（由角色层重试）。"""
+    """Extract the first balanced JSON object from model output; raise ValueError on failure (the role layer retries)."""
     if not text:
-        raise ValueError('空输出')
+        raise ValueError('empty output')
     text = re.sub(r'```(json)?', '', text)
     start = text.find('{')
     if start < 0:
-        raise ValueError('输出中不含 JSON 对象')
+        raise ValueError('no JSON object in output')
     depth = 0
     for i in range(start, len(text)):
         if text[i] == '{':
@@ -94,4 +98,4 @@ def extract_json(text):
             depth -= 1
             if depth == 0:
                 return json.loads(text[start:i + 1])
-    raise ValueError('JSON 未闭合')
+    raise ValueError('unterminated JSON')

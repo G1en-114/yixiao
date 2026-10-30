@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""智能体协作协议：AgentMessage / AgentResult / HandoffEvent。"""
+"""Agent collaboration protocol: AgentMessage / AgentResult / HandoffEvent."""
 from dataclasses import dataclass, field
 
 
@@ -22,7 +22,7 @@ class AgentResult:
     status: str = 'ok'                 # ok | rejected | error
     payload: dict = field(default_factory=dict)
     risk: str = 'low'
-    evidence: list = field(default_factory=list)   # 所用 Skill / 知识证据
+    evidence: list = field(default_factory=list)   # Skills / knowledge evidence used
 
     def to_dict(self):
         return {'agent': self.agent, 'status': self.status, 'payload': self.payload,

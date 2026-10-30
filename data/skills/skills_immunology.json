@@ -1,0 +1,991 @@
+{
+ "department": "Immunology & Rheumatology",
+ "skills": [
+  {
+   "presentation": "More common in women of childbearing age, with multisystem and multiorgan involvement: systemic symptoms (recurrent fever, fatigue, weight loss); mucocutaneous (symmetric malar butterfly rash, discoid rash, photosensitivity, painless oral ulcers, diffuse alopecia); musculoskeletal (symmetric polyarthralgia and swelling); organ damage (lupus nephritis presenting as proteinuria/hematuria/edema, pleuritis/pericarditis presenting as chest pain and shortness of breath, hematologic involvement presenting as reduction in all three blood cell lines, neuropsychiatric lupus presenting as seizures/psychiatric disorders).",
+   "interview_guide": {
+    "first_questions": [
+     "Have you ever had a red rash shaped like a butterfly on both cheeks or the bridge of your nose? Do the rash or systemic symptoms worsen markedly after sun exposure (photosensitivity)?",
+     "Have you had recurrent fever, painless oral ulcers, or hair falling out in large amounts?",
+     "Have you had symmetric swelling and aching pain in joints such as both hands and both wrists?"
+    ],
+    "followup_questions": [
+     "Have you noticed increased foamy urine, or swelling of the eyelids or both lower limbs? (to evaluate for lupus nephritis [LN])",
+     "After cold exposure, do your fingers or toes turn white first, then purple, and finally red (Raynaud phenomenon)?",
+     "Have you had chest tightness or chest pain that worsens with deep breathing? Have you had sudden seizures, incoherent speech, or personality changes?"
+    ],
+    "stop_conditions": [
+     "Characteristic manifestations such as malar rash, photosensitivity, oral ulcers, and polyarthritis have been collected",
+     "Signs of involvement of important organs such as the kidneys, blood system, heart and lungs, and central nervous system have been systematically assessed",
+     "Prior history of immunosuppressant and glucocorticoid use has been clearly obtained"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete autoantibody panel (antinuclear antibody [ANA] titer, anti-double-stranded DNA antibody [anti-dsDNA], anti-Sm antibody—specific diagnostic markers)",
+     "Anti-extractable nuclear antigen antibody profile (complete ENA panel: anti-SSA, anti-SSB, anti-Rib-P, etc.)",
+     "Serum complement C3 and C4 measurement (complement is markedly reduced during active disease)",
+     "Complete blood count (hemolytic anemia, leukopenia, thrombocytopenia)",
+     "Urinalysis + 24-hour urine total protein (24h UTP) + renal function (to assess renal involvement)"
+    ],
+    "if_suspected": [
+     "Renal biopsy with pathologic examination (pathologic classification of lupus nephritis types I-VI is the gold standard for guiding immunosuppressive therapy)",
+     "Complete antiphospholipid antibody panel (lupus anticoagulant [LA], anticardiolipin antibody [aCL], anti-β2-GP1, to evaluate for antiphospholipid syndrome)",
+     "High-resolution chest CT and echocardiography (to evaluate for serosal effusions and myocardial or pulmonary lesions)",
+     "Brain MRI and cerebrospinal fluid examination (if neuropsychiatric lupus [NPSLE] is suspected)"
+    ],
+    "avoid": [
+     "Frequent whole-body high-dose PET-CT without indication solely for disease follow-up",
+     "Misuse of radionuclide bone scanning without clear indication of local fracture"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Background therapy with hydroxychloroquine (HCQ) throughout the treatment course; unless contraindicated, it should be maintained long-term or even lifelong to improve prognosis and reduce relapse",
+     "Glucocorticoids (from low-dose maintenance to high-dose methylprednisolone pulse therapy according to disease activity)",
+     "Combined immunosuppressants (preferably mycophenolate mofetil [MMF], cyclophosphamide [CTX], or tacrolimus)",
+     "Targeted biologics (belimumab, telitacicept)."
+    ],
+    "safety_warnings": [
+     "Long-term hydroxychloroquine use requires annual fundus examination and visual field/OCT examination to screen for retinal macular pigmentary changes",
+     "During high-dose glucocorticoid pulse and potent immunosuppressive therapy, severe opportunistic infections (fungal, CMV, Pneumocystis jirovecii) are highly likely; fever must be closely monitored and infection prevention provided",
+     "Cyclophosphamide carries risks of premature ovarian failure, bone marrow suppression, and hemorrhagic cystitis; hydration and urinary alkalinization are required during use"
+    ],
+    "personalization": [
+     "Lupus nephritis (LN types III/IV/V): high-dose glucocorticoids combined with mycophenolate mofetil or cyclophosphamide during induction, followed by maintenance after remission",
+     "Management of lupus during pregnancy: pregnancy may be planned under close monitoring only after complete stable remission for >=6 months and stable organ function; hydroxychloroquine and low-dose prednisone may be used during pregnancy",
+     "Mild disease with only skin and joint involvement: low-dose glucocorticoids combined with hydroxychloroquine and methotrexate are sufficient"
+    ]
+   },
+   "disease": "Systemic lupus erythematosus",
+   "department": "Immunology & Rheumatology"
+  },
+  {
+   "presentation": "Symmetric, persistent, erosive polyarthritis, mainly involving small joints such as the wrists of both hands, proximal interphalangeal (PIP) joints, metacarpophalangeal (MCP) joints, and metatarsophalangeal joints; characteristic morning stiffness (joint stiffness and tightness in the morning lasting >=1 hour, relieved by activity); local joint swelling, tenderness, and limited range of motion; in advanced disease, swan-neck deformity, buttonhole deformity, and ulnar deviation may occur, with extra-articular manifestations (rheumatoid nodules, pulmonary interstitial fibrosis).",
+   "interview_guide": {
+    "first_questions": [
+     "After waking in the morning, do the finger joints of both hands feel stiff and unable to make a fist? How long does this stiffness usually last before it eases (does it last more than 1 hour)?",
+     "Is the joint swelling and pain symmetric in both hands? Is it mainly in the knuckles at the base of the fingers, the middle finger joints, or the wrists?",
+     "How many months have the finger joint pain and swelling lasted (has it been >=6 weeks)?"
+    ],
+    "followup_questions": [
+     "Have the finger joints become bent, deformed, or crooked, or have you felt small painless hard lumps under the skin (rheumatoid nodules)?",
+     "After activity or doing chores, does the joint pain improve or worsen?",
+     "Have you had a dry cough, shortness of breath after activity (to evaluate for rheumatoid interstitial lung disease), or dry eyes and dry mouth?"
+    ],
+    "stop_conditions": [
+     "Core clinical criteria of symmetric small-joint arthritis, morning stiffness >1 hour, and disease duration >=6 weeks have been confirmed",
+     "The degree of joint deformity and extra-articular systemic damage have been assessed",
+     "History of disease-modifying antirheumatic drug (DMARD) use has been fully obtained"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Rheumatoid factor (RF) and anti-cyclic citrullinated peptide antibody (anti-CCP antibody—highly specific marker for early diagnosis)",
+     "Erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP) (to assess inflammatory disease activity)",
+     "Anteroposterior plain radiographs of both hands and wrists (early: soft tissue swelling and osteoporosis; late: joint space narrowing and bone erosion)",
+     "Complete blood count and liver and kidney function (pre-DMARD assessment)"
+    ],
+    "if_suspected": [
+     "High-frequency musculoskeletal ultrasound/MRI of both hands (early detection of subclinical synovitis, tenosynovitis, and microerosions)",
+     "High-resolution chest CT (HRCT) (to evaluate for rheumatoid arthritis-associated interstitial lung disease [ILD])",
+     "Anti-AKA/APF antibodies"
+    ],
+    "avoid": [
+     "Blind whole-body volumetric bone mineral density ECT scanning in patients with early mild disease",
+     "Misuse of high-field brain MRI without central nervous system signs"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Start conventional synthetic disease-modifying antirheumatic drugs (csDMARDs) as early as possible: methotrexate (MTX, single weekly oral dose of 7.5-15mg, with folic acid to reduce adverse effects) is preferred; leflunomide, sulfasalazine, or hydroxychloroquine sulfate may be combined",
+     "Symptomatic bridging therapy during acute phase: nonsteroidal anti-inflammatory drugs (NSAIDs such as celecoxib) or short-term low-dose glucocorticoid bridging",
+     "For moderate-to-severe refractory disease, use targeted biologics (TNF-α inhibitors adalimumab/etanercept, IL-6 receptor antagonist tocilizumab) or small-molecule targeted drugs (JAK inhibitors tofacitinib/baricitinib)."
+    ],
+    "safety_warnings": [
+     "Methotrexate must be strictly administered as a single weekly dose! It must never be taken daily; misuse can cause fatal severe pancytopenia due to bone marrow suppression",
+     "Monitor complete blood count and liver function regularly",
+     "Glucocorticoids are only for short-term low-dose 'bridging' symptom relief before DMARDs take effect; long-term high-dose glucocorticoid monotherapy as a substitute for disease-modifying drugs is strictly prohibited",
+     "Before using biologics and JAK inhibitors, active tuberculosis (T-SPOT/PPD) and hepatitis B must be strictly screened"
+    ],
+    "personalization": [
+     "Patients with rheumatoid arthritis-associated interstitial lung disease (RA-ILD): use methotrexate with caution; cyclosporine, tacrolimus, or biologics may be preferred",
+     "Patients of childbearing age who wish to conceive: discontinue methotrexate and leflunomide (cholestyramine washout required); sulfasalazine or hydroxychloroquine may be used instead during preconception",
+     "Older patients at high risk of gastric ulcer: for symptomatic analgesia, prefer selective COX-2 inhibitors (celecoxib) combined with a PPI"
+    ]
+   },
+   "disease": "Rheumatoid arthritis",
+   "department": "Immunology & Rheumatology"
+  },
+  {
+   "presentation": "Sudden severe redness, swelling, heat, and pain in the unilateral first metatarsophalangeal joint (at the big toe), ankle, or knee; onset is often at night, with knife-like, tearing severe pain that peaks within hours; the overlying skin is red, shiny, warm, and painful to touch; it is self-limited (resolves spontaneously within days to 2 weeks), with no symptoms between attacks; recurrent attacks may progress to chronic tophaceous gouty arthritis, joint deformity, and gouty nephropathy (urinary tract stones/chronic interstitial nephritis).",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had sudden severe redness, swelling, heat, and pain in the big toe joint (first metatarsophalangeal joint), ankle, or knee?",
+     "Do attacks often wake you from sleep in the middle of the night with pain? Is the pain so severe that even the bedsheet touching it is unbearable (knife-like severe pain)?",
+     "Before an attack, have you drunk beer or liquor, or eaten seafood, hot pot, meat broth, or animal organs?"
+    ],
+    "followup_questions": [
+     "Does this severe pain improve on its own within a few days? Have you had recurrent attacks before?",
+     "Have you felt yellow-white hard lumps (tophi) around the ears, toes, fingers, or other joints?",
+     "What is the highest blood uric acid level you have had? Have you had kidney stones or passed stones in your urine?"
+    ],
+    "stop_conditions": [
+     "Characteristic involvement sites such as the first metatarsophalangeal joint, sudden nocturnal onset, and severe redness, swelling, heat, and pain have been clarified",
+     "High-purine dietary triggers and the self-limited recurrent attack pattern have been identified",
+     "Blood uric acid level, tophus formation, and renal involvement have been clearly obtained"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum uric acid (SUA) measurement (blood uric acid may be transiently normal during acute attacks and should be rechecked 2-4 weeks into the remission phase)",
+     "High-frequency musculoskeletal ultrasound of the affected joint (to detect the characteristic 'double contour sign' on the articular cartilage surface and hyperechoic tophaceous deposits)",
+     "Complete blood count, C-reactive protein (CRP), and erythrocyte sedimentation rate (ESR) (acute inflammatory markers)",
+     "Complete renal function panel (serum creatinine, blood urea nitrogen, estimated eGFR) and urinary system ultrasound (to evaluate for uric acid kidney stones)"
+    ],
+    "if_suspected": [
+     "Polarized light microscopy of joint aspirate (needle-shaped strongly negatively birefringent urate crystals in synovial fluid—gold standard for diagnosis)",
+     "Dual-energy CT (DECT) (specifically shows green urate crystal deposits in and around joints)",
+     "Plain radiography of the affected joint (late bone defects show punched-out/rat-bite changes)"
+    ],
+    "avoid": [
+     "Blindly adding high-dose urate-lowering drugs (allopurinol/febuxostat) directly during an acute attack; this can cause a sudden drop in blood uric acid and worsen pain due to crystal dissolution",
+     "Misuse of whole-brain and whole-spine MRI without neurologic symptoms"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Anti-inflammatory and analgesic treatment during acute attacks (start as early as possible within 24 hours of onset): colchicine is preferred (low-dose regimen: initial dose 1.0mg, 0.5mg after 1 hour, then 0.5mg once or twice daily) or NSAIDs (such as etoricoxib, diclofenac sodium) or short-term oral glucocorticoids",
+     "Urate-lowering therapy during intercritical/chronic phases (target serum uric acid <360umol/L; <300umol/L for severe tophi): febuxostat, allopurinol, or benzbromarone is preferred; when starting urate-lowering therapy, prophylactically combine low-dose colchicine for 3-6 months."
+    ],
+    "safety_warnings": [
+     "Before using allopurinol in Han Chinese populations, HLA-B*5801 genetic screening is strongly recommended; it is contraindicated in positive patients (to prevent fatal exfoliative dermatitis and severe drug eruption)",
+     "Benzbromarone promotes renal uric acid excretion and is contraindicated in patients with uric acid kidney stones and severe renal insufficiency",
+     "During treatment, drink large amounts of water and take oral sodium bicarbonate to alkalinize the urine",
+     "Avoid excessive colchicine use; watch for gastrointestinal toxicity such as diarrhea and nausea and for liver and kidney function impairment"
+    ],
+    "personalization": [
+     "Patients with hypertension or coronary heart disease plus gout: for urate lowering, prefer febuxostat or benzbromarone (for concomitant hypertension, losartan may be chosen for blood pressure control and its additional urate-lowering effect)",
+     "Patients with renal insufficiency (CKD stage 3-4): febuxostat is preferred for urate lowering, with dose adjustment",
+     "Benzbromarone is contraindicated",
+     "Patients with tophi or chronic arthritis: a stricter urate-lowering target (<300umol/L) is needed to promote tophus dissolution"
+    ]
+   },
+   "disease": "Gout",
+   "department": "Immunology & Rheumatology"
+  },
+  {
+   "presentation": "Patients often have sudden high fever, remittent type, peaking every afternoon or evening, with transient pale red maculopapular rash that appears as temperature rises and disappears after fever subsides. Typical manifestations include sore throat, arthralgia (often involving large joints such as the knees and wrists), and lymphadenopathy. Some patients have hepatosplenomegaly, and the condition is easily misdiagnosed as infection or tumor.",
+   "interview_guide": {
+    "first_questions": [
+     "Is your fever regular? Do you suddenly develop a high fever above 39°C every afternoon or evening that resolves on its own after sweating?",
+     "When you have a fever, does a red rash appear on your body, and does the rash disappear completely without leaving marks after the fever subsides?",
+     "Besides fever and rash, have you had significant sore throat or joint swelling and pain?"
+    ],
+    "followup_questions": [
+     "If you have joint pain, which joints are affected? Is it accompanied by morning stiffness or limited movement?",
+     "Recently, have you had wasting symptoms such as marked weight loss, night sweats, or persistent cough?",
+     "Have you previously received long-term antibiotics without effect, or been treated for infection/rheumatic disease with poor results?"
+    ],
+    "stop_conditions": [
+     "The classic triad of remittent fever, transient rash, and arthralgia has been clearly described, and antibiotic treatment has been ineffective.",
+     "No evidence of active infection has been confirmed (e.g., negative blood cultures), and common connective tissue diseases such as systemic lupus erythematosus have been excluded.",
+     "The patient has provided recent complete blood count, inflammatory marker, and ferritin results that support the diagnostic direction."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum ferritin measurement (usually markedly elevated, >1000ng/mL and even >10000ng/mL)",
+     "Complete blood count (markedly elevated white blood cells, predominantly neutrophils, with anemia or thrombocytopenia)",
+     "C-reactive protein and erythrocyte sedimentation rate (both markedly elevated)",
+     "Autoantibody profile (ANA and RF are usually negative; used to exclude other rheumatic diseases)"
+    ],
+    "if_suspected": [
+     "Bone marrow aspiration (to exclude leukemia and hemophagocytic syndrome)",
+     "Abdominal ultrasound or CT (to assess hepatosplenomegaly and lymph nodes)",
+     "Synovial fluid analysis (to exclude septic arthritis; shows nonspecific inflammation)"
+    ],
+    "avoid": [
+     "Empiric long-term use of broad-spectrum antibiotics (unless there is clear evidence of concomitant bacterial infection)",
+     "Unnecessary repeated blood cultures (when there is no clear infection focus and cultures are repeatedly negative)",
+     "Blind glucocorticoid pulse therapy before infection workup is completed"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line use of nonsteroidal anti-inflammatory drugs (NSAIDs) to control mild disease, such as naproxen or ibuprofen. Patients with moderate-to-severe disease need early glucocorticoids (e.g., prednisone 0.5-1mg/kg/d); intravenous methylprednisolone pulse therapy may be used in the acute phase. If glucocorticoid-dependent or refractory, add biologics (e.g., IL-1 inhibitor anakinra or IL-6 inhibitor tocilizumab). The course is gradually tapered according to remission, usually requiring several months."
+    ],
+    "safety_warnings": [
+     "High-dose glucocorticoids require vigilance for the risks of gastrointestinal bleeding, osteoporosis, and secondary infection.",
+     "Before using biologics, latent infections such as tuberculosis and hepatitis B must be screened; monitor liver function during treatment.",
+     "Be alert for macrophage activation syndrome (MAS); if persistent high fever, coagulation abnormalities, or abrupt elevation of liver enzymes occur, stop the drug immediately and provide emergency rescue."
+    ],
+    "personalization": [
+     "In older patients, use high-dose glucocorticoids with caution and prefer biologics to reduce metabolic adverse effects.",
+     "Women of childbearing age planning pregnancy should avoid methotrexate; relatively safe biologics may be chosen.",
+     "Patients with hepatosplenomegaly or a tendency toward hemophagocytosis require close monitoring of complete blood count and ferritin, with timely adjustment of immunosuppression intensity."
+    ]
+   },
+   "disease": "Adult-onset Still disease",
+   "department": "Immunology & Rheumatology"
+  },
+  {
+   "presentation": "Patients often report symmetrically distributed, palpable purpuric rash on both lower extremities that does not blanch on pressure, often accompanied by joint swelling and pain or abdominal pain. Some patients develop hematuria or proteinuria. The rash is most common on the extensor aspects of the lower legs and ankles, appears in crops, and may coalesce into patches. If the kidneys are involved, gross hematuria or foamy urine may be seen. Symptoms often occur acutely after infection or exposure to an allergen.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had a recent upper respiratory tract infection or exposure to new foods or medications?",
+     "Have you noticed whether the rash is mainly on both legs and whether it fades when pressed?",
+     "Have you had abdominal pain, joint pain, or changes in urine color?"
+    ],
+    "followup_questions": [
+     "Is the abdominal pain paroxysmal colicky pain or persistent dull pain? Is there any vomiting or blood in the stool?",
+     "Does the joint pain affect walking, and which joints are involved?",
+     "Has the urine turned red or tea-colored, and is there any edema?"
+    ],
+    "stop_conditions": [
+     "The rash distribution has been clearly defined and other bleeding disorders have been excluded",
+     "It has been confirmed that there are no signs of severe gastrointestinal bleeding or acute kidney injury",
+     "Basic laboratory tests have been completed and disease severity has been preliminarily assessed"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete blood count (with focus on platelet count)",
+     "Urinalysis and urine sediment microscopy",
+     "Four-item coagulation panel"
+    ],
+    "if_suspected": [
+     "Renal function and electrolytes",
+     "Serum IgA level measurement",
+     "Abdominal ultrasound (to evaluate for intussusception or bowel wall edema)"
+    ],
+    "avoid": [
+     "Bone marrow aspiration (unless hematologic malignancy is suspected)",
+     "Skin biopsy (invasive testing is not needed in typical cases)",
+     "Antinuclear antibody panel (not the preferred screening test for non-autoimmune disease)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is mainly symptomatic supportive care; mild cases require only rest and avoidance of triggers. For moderate to severe abdominal pain or joint pain, nonsteroidal anti-inflammatory drugs such as ibuprofen can be used",
+     "For severe abdominal pain or nephritis, short-term glucocorticoids (e.g., prednisone 1mg/kg/d) are needed for 2-4 weeks. For patients with kidney involvement, ACEI agents should be added. Nonpharmacologic interventions include bed rest, a low-salt high-quality protein diet, and close monitoring of urine output changes."
+    ],
+    "safety_warnings": [
+     "Glucocorticoid use requires vigilance for hyperglycemia, gastrointestinal ulceration, and secondary infection",
+     "NSAIDs may increase the burden on the kidneys and should be used with caution in patients with renal impairment",
+     "Avoid known sensitizing drugs and foods to prevent recurrence"
+    ],
+    "personalization": [
+     "In pediatric patients, glucocorticoid doses should be calculated precisely according to body weight, with attention to effects on growth and development",
+     "In older patients, pay attention to cardiovascular risk and prefer short-acting glucocorticoid regimens",
+     "NSAIDs are contraindicated in pregnant patients; glucocorticoid use requires weighing maternal and fetal risks"
+    ]
+   },
+   "disease": "Henoch-Schönlein purpura",
+   "department": "Immunology & Rheumatology"
+  },
+  {
+   "presentation": "Patients often report chronic low back pain characterized by insidious onset, lasting more than 3 months, accompanied by morning stiffness (stiffness in the lower back upon waking in the morning that improves with activity). Pain often worsens at night, may even awaken the patient from sleep, and is not relieved by rest. Some patients may develop alternating buttock pain or swelling and pain of peripheral joints (such as the hip and knee). If the thoracic cage is involved, breathing restriction or chest pain may occur. Symptoms show a fluctuating progression and are more common in young men.",
+   "interview_guide": {
+    "first_questions": [
+     "How long has your low back pain lasted? Has it been more than 3 months?",
+     "Do you have stiffness in your lower back when you get up in the morning? Does it improve with activity?",
+     "Is your pain worse at night, or does it wake you from sleep?"
+    ],
+    "followup_questions": [
+     "Have you had buttock pain that alternates between the left and right sides?",
+     "Have you recently had red, painful eyes, blurred vision (uveitis), or diarrhea?",
+     "Is there a family history of similar joint pain or ankylosing spondylitis?"
+    ],
+    "stop_conditions": [
+     "The disease duration has been confirmed to be more than 3 months, with typical features of inflammatory back pain (morning stiffness, improvement with activity, no relief with rest).",
+     "Peripheral arthritis, enthesitis, or extra-articular manifestations such as ocular or intestinal involvement have been confirmed.",
+     "The patient’s age is consistent with the susceptible population (under 40 years), and initial screening is positive for HLA-B27."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "HLA-B27 genetic testing",
+     "Sacroiliac joint MRI (preferred, sensitive in early disease) or plain radiography",
+     "Inflammatory marker testing (erythrocyte sedimentation rate [ESR], C-reactive protein [CRP])"
+    ],
+    "if_suspected": [
+     "Whole-spine radiography or CT (to assess osteophyte formation and bamboo spine)",
+     "Musculoskeletal ultrasound (to assess peripheral joint synovitis or enthesitis)",
+     "Ophthalmologic slit-lamp examination (to evaluate for acute anterior uveitis)"
+    ],
+    "avoid": [
+     "Routine lumbar CT (unnecessary in early disease without bone destruction and increases radiation exposure)",
+     "Nonspecific tumor marker screening (avoid excessive testing when not indicated)",
+     "Invasive joint aspiration (unless concomitant infection needs to be differentiated)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is nonsteroidal anti-inflammatory drugs (NSAIDs), such as celecoxib 200 mg once or twice daily or etoricoxib 60-90 mg once daily, used continuously for at least 2-4 weeks to assess efficacy; if ineffective, another NSAID can be switched to. At the same time, patients should be instructed to perform regular functional exercise and posture training. If NSAIDs are ineffective or disease activity is high, biologic therapy (such as the TNF-α inhibitor adalimumab) should be started as early as possible, and the course needs long-term maintenance to control inflammation and prevent deformity."
+    ],
+    "safety_warnings": [
+     "NSAIDs are contraindicated in patients with active peptic ulcer disease, severe renal impairment, and heart failure; vigilance for the risk of gastrointestinal bleeding is required.",
+     "Before starting biologics, screening for tuberculosis (T-SPOT/PPD) and hepatitis B virus is mandatory, and live vaccines must not be administered during treatment.",
+     "Long-term glucocorticoid use requires prevention of osteoporosis and infection risk, and it is not a routine first-line option."
+    ],
+    "personalization": [
+     "Women of childbearing age who are planning pregnancy should use methotrexate with caution, and biologics with a better safety profile should be preferred.",
+     "In older patients, the starting dose should be low, with close monitoring of changes in blood pressure and renal function.",
+     "In patients with concomitant inflammatory bowel disease, IL-17 inhibitors should be avoided, and TNF-α inhibitors are preferred."
+    ]
+   },
+   "disease": "Ankylosing spondylitis",
+   "department": "Immunology & Rheumatology"
+  },
+  {
+   "presentation": "Patients often report recurrent oral aphthous ulcers, accompanied by genital ulcers, ocular inflammation (such as uveitis causing blurred vision), and skin lesions (erythema nodosum or acneiform rash). Symptoms occur periodically and may involve blood vessels, the nervous system, or the gastrointestinal tract. The typical presentation is the 'oral-ocular-genital' triad, and vigilance is needed for severe complications caused by multisystem involvement.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had recurrent oral ulcers? How often do they occur, and how long do they last?",
+     "Have you recently had painful ulcers in the genital area, or eye redness and swelling with decreased vision?",
+     "Have you had red, painful nodules or acne-like rash on your body?"
+    ],
+    "followup_questions": [
+     "If you have joint pain, which joints are involved? Is it accompanied by morning stiffness?",
+     "Have you had lower limb swelling, chest pain, or hemoptysis (suggesting vasculitis)?",
+     "Have you had headache, limb numbness, or impaired consciousness (suggesting neurologic involvement)?"
+    ],
+    "stop_conditions": [
+     "The frequency and characteristics of the three core symptoms—oral, ocular, and genital—have been clearly documented.",
+     "Simple recurrent aphthous ulcers or other common skin diseases have been excluded.",
+     "Vascular, neurologic, and gastrointestinal involvement have been preliminarily assessed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Pathergy test",
+     "Ophthalmologic slit-lamp examination",
+     "Inflammatory marker testing (ESR, CRP)",
+     "HLA-B51 genetic testing"
+    ],
+    "if_suspected": [
+     "Angiography or CTA/MRA (to evaluate for large-vessel disease)",
+     "Brain MRI (to evaluate for neuro-Behçet disease)",
+     "Colonoscopy (to evaluate for intestinal ulcers)"
+    ],
+    "avoid": [
+     "Skin biopsy without indication (unless the diagnosis is unclear)",
+     "Routine antibiotic therapy (noninfectious)",
+     "Overreliance on a single imaging test for diagnosis"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is mainly glucocorticoids (e.g., prednisone 0.5-1mg/kg/d) combined with immunosuppressants. For mild mucocutaneous lesions, colchicine or thalidomide can be used",
+     "For moderate to severe active disease, azathioprine or methotrexate is preferred. For ocular involvement, local or systemic glucocorticoids should be used as early as possible, and biologics (such as TNF-α inhibitors) should be added if necessary. The treatment course should be individualized, with gradual tapering to maintenance after control in the acute phase."
+    ],
+    "safety_warnings": [
+     "Long-term glucocorticoid use requires prevention of the risks of osteoporosis, hypertension, and hyperglycemia.",
+     "Immunosuppressants may increase the risk of infection; during treatment, regular monitoring of complete blood count and liver and kidney function is required.",
+     "Thalidomide is teratogenic, and women of childbearing age must use strict contraception."
+    ],
+    "personalization": [
+     "In pediatric patients, doses should be adjusted according to body weight, with attention to effects on growth and development.",
+     "Methotrexate and thalidomide are contraindicated in pregnant women; azathioprine or biologics may be selected.",
+     "In older patients, NSAIDs should be used with caution, and regimens with less gastrointestinal irritation should be preferred."
+    ]
+   },
+   "disease": "Behçet syndrome",
+   "department": "Immunology & Rheumatology"
+  },
+  {
+   "presentation": "Patients often report unexplained polyarticular pain and morning stiffness, accompanied by recurrent fever and fatigue. Skin findings may include malar rash, photosensitivity, or Raynaud phenomenon (fingers turning white and purple on cold exposure). Some patients develop dry mouth and dry eyes, oral ulcers, or symptoms of serosal effusion. Symptoms have a chronic fluctuating course, and multisystem involvement is a core feature.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had joint swelling and pain or morning stiffness lasting more than 6 weeks?",
+     "Have you recently had a facial rash, skin rash, or unusual sensitivity to sunlight?"
+    ],
+    "followup_questions": [
+     "If you have joint pain, please describe the specific locations and whether it is symmetric.",
+     "Have you had dry mouth, dry eyes, or recurrent oral ulcers?",
+     "Do your fingers change color noticeably on cold exposure (white-purple-red)?"
+    ],
+    "stop_conditions": [
+     "Multisystem involvement has been clearly identified and baseline autoantibody screening has been completed.",
+     "The patient’s symptoms are typical, there are no signs of other system involvement, and the preliminary diagnosis is clear.",
+     "Common differential diagnoses such as infection and malignancy have been excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Antinuclear antibody profile (ANA Profile)",
+     "Erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP)",
+     "Complete blood count and urinalysis"
+    ],
+    "if_suspected": [
+     "Complement C3 and C4 level measurement",
+     "Specific antibody testing (such as anti-dsDNA, anti-Sm, anti-SSA/SSB)",
+     "Muscle enzymes and pulmonary function tests"
+    ],
+    "avoid": [
+     "Unnecessary whole-body CT scanning (unless severe organ involvement is suspected)",
+     "Empirical long-term use of broad-spectrum antibiotics",
+     "Bone marrow aspiration without indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is based on glucocorticoids (e.g., prednisone 0.5mg/kg/d) combined with hydroxychloroquine; in the acute phase, short-term high-dose pulse therapy may be used. Nonsteroidal anti-inflammatory drugs are used to relieve joint pain. The treatment course should be adjusted according to disease activity; glucocorticoids are usually gradually tapered to a maintenance dose, and hydroxychloroquine requires long-term use. Nonpharmacologic interventions include sun protection, moderate exercise, and psychological support."
+    ],
+    "safety_warnings": [
+     "Glucocorticoid use requires vigilance for osteoporosis, hyperglycemia, and infection risk; calcium and vitamin D supplementation are recommended.",
+     "Hydroxychloroquine has retinal toxicity; fundus examination is required before treatment and every 6-12 months.",
+     "Avoid concomitant use with drugs that may increase liver and kidney burden, and regularly monitor liver and kidney function."
+    ],
+    "personalization": [
+     "Hydroxychloroquine is preferred in pregnant women; methotrexate should be used with caution, and glucocorticoids should be used under obstetric supervision.",
+     "In older adults, the starting dose should be low, with a focus on preventing falls and fractures.",
+     "In pediatric patients, attention should be paid to effects on growth and development, and biologics should be preferred to replace long-term high-dose glucocorticoids."
+    ]
+   },
+   "disease": "Connective tissue disease",
+   "department": "Immunology & Rheumatology"
+  },
+  {
+   "presentation": "Patients often report persistent erythema on the face, ears, or scalp, accompanied by scaling and follicular keratosis. Atrophic scarring may appear in the center of lesions, with surrounding hyperpigmentation or hypopigmentation. Lesions are usually asymptomatic or cause only mild pruritus or burning, and worsen after sun exposure. If the scalp is involved, it can lead to permanent hair loss; focus on asking about disease duration and whether scarring remains.",
+   "interview_guide": {
+    "first_questions": [
+     "How long have the skin lesions been present? Do they worsen with sun exposure?",
+     "Do the skin lesions hurt, itch, or burn?",
+     "Is there permanent hair loss or scarring on the scalp or face?"
+    ],
+    "followup_questions": [
+     "Have you recently had oral ulcers, joint pain, or a history of photosensitivity?",
+     "Is there a family history of systemic lupus erythematosus or other autoimmune diseases?",
+     "Are you currently taking medications that may trigger photosensitivity (such as tetracyclines)?"
+    ],
+    "stop_conditions": [
+     "The lesion characteristics (erythema, scaling, atrophy, scarring) are clearly defined and the distribution is typical.",
+     "Drug-induced photosensitivity and other common triggers of skin disease have been excluded.",
+     "The patient has no systemic symptoms (such as fever or severe joint pain), and the condition is initially judged to be localized cutaneous disease."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Skin biopsy (histopathologic examination)",
+     "Direct immunofluorescence (DIF)",
+     "Antinuclear antibody panel (ANA, anti-Ro/La, etc.)"
+    ],
+    "if_suspected": [
+     "Complete blood count and urinalysis (to evaluate systemic involvement)",
+     "Complement C3/C4 levels",
+     "Chest X-ray or CT (if interstitial lung disease is suspected)"
+    ],
+    "avoid": [
+     "Unnecessary extensive imaging screening (e.g., if there are no systemic symptoms)",
+     "Repeated testing of nonspecific inflammatory markers (such as ESR/CRP if there are no signs of activity)",
+     "Empiric use of potent corticosteroids without histopathologic confirmation"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is topical corticosteroids (such as halometasone cream) combined with a calcineurin inhibitor (tacrolimus ointment). For multiple or refractory lesions, oral hydroxychloroquine (200-400 mg/day) is the standard regimen, for at least 3-6 months. Strict sun protection (SPF50+) and avoidance of ultraviolet exposure are also required. Intralesional triamcinolone acetonide injection can be used for hypertrophic plaques."
+    ],
+    "safety_warnings": [
+     "Long-term hydroxychloroquine use requires regular ophthalmologic examinations to prevent retinal toxicity.",
+     "Avoid casual use of retinoids during early pregnancy or lactation.",
+     "Long-term topical use of potent corticosteroids requires vigilance for skin atrophy, telangiectasia, and secondary infection."
+    ],
+    "personalization": [
+     "In pediatric patients, adjust the hydroxychloroquine dose according to body weight and strengthen visual monitoring.",
+     "In pregnant women, hydroxychloroquine is preferred; methotrexate and isotretinoin are contraindicated.",
+     "For patients with severe photosensitivity, recommend combined physical blocking measures rather than relying only on sunscreen."
+    ]
+   },
+   "disease": "Discoid lupus erythematosus (DLE)",
+   "department": "Immunology & Rheumatology"
+  },
+  {
+   "presentation": "Patients often present with a long history of rheumatoid arthritis, accompanied by progressive splenomegaly and recurrent infections. Typical complaints include persistent joint swelling and pain, marked morning stiffness, recent unexplained fever, fatigue, or recurrent respiratory, skin, and urinary tract infections. Some patients may mention pallor (anemia) or a bleeding tendency (thrombocytopenia), and physical examination may reveal significant splenomegaly.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have a long history of rheumatoid arthritis? How well are your joint symptoms currently controlled?",
+     "Have you recently noticed a mass-like sensation in the abdomen or left upper quadrant fullness or pain?",
+     "In the past six months, have you had recurrent fever or frequent infections?"
+    ],
+    "followup_questions": [
+     "If you have recurrent infections, where are they located (for example, lungs or skin)?",
+     "Do you have any bleeding manifestations such as gum bleeding, nosebleeds, or skin bruises?",
+     "Do you feel marked fatigue, dizziness, or shortness of breath after activity?"
+    ],
+    "stop_conditions": [
+     "The diagnosis of rheumatoid arthritis has been established and the triad of rheumatoid arthritis, splenomegaly, and neutropenia has been confirmed.",
+     "Detailed history taking regarding infection frequency, type, and bleeding tendency has been completed.",
+     "Other common causes of splenomegaly and cytopenia (such as cirrhosis and hematologic malignancies) have been excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete blood count with differential (focus on absolute neutrophil count)",
+     "Rheumatoid factor (RF) and anti-cyclic citrullinated peptide (anti-CCP) antibody testing",
+     "Abdominal ultrasound (to assess spleen size and liver status)"
+    ],
+    "if_suspected": [
+     "Bone marrow aspiration and biopsy (to exclude leukemia or other hematologic malignancies)",
+     "Autoantibody panel (ANA, ENA, etc.) to evaluate for overlap syndrome",
+     "Chest CT (to assess pulmonary infection or interstitial disease)"
+    ],
+    "avoid": [
+     "Whole-body PET-CT scanning without an indication",
+     "Unnecessary liver biopsy",
+     "Broad screening cultures before routine antibiotic use (unless in an acute infection phase)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is methotrexate combined with glucocorticoids (such as prednisone) to control underlying rheumatoid arthritis inflammation and increase the neutrophil count. For refractory cases, consider biologics (such as rituximab) or short-term granulocyte colony-stimulating factor (G-CSF) to raise the white blood cell count. Strict infection prevention is also required, with prophylactic antibiotics when necessary. The course usually lasts several months, with dose adjustment based on blood counts and joint symptoms."
+    ],
+    "safety_warnings": [
+     "Methotrexate has hepatotoxic and bone marrow suppressive risks; monitor liver function and complete blood count regularly.",
+     "Long-term corticosteroid use requires vigilance for osteoporosis, hypertension, and hyperglycemia; calcium and vitamin D supplementation are recommended.",
+     "Avoid live vaccines during severe neutropenia to prevent opportunistic infections."
+    ],
+    "personalization": [
+     "In older patients, reduce the starting dose and closely monitor renal function and fall risk.",
+     "For patients with severe infection, prioritize G-CSF supportive treatment and defer potent immunosuppressants.",
+     "Methotrexate is contraindicated in pregnant women; switch to hydroxychloroquine or a low-dose corticosteroid regimen."
+    ]
+   },
+   "disease": "Felty syndrome",
+   "department": "Immunology & Rheumatology"
+  },
+  {
+   "presentation": "Patients often complain of widespread generalized pain lasting more than 3 months, involving multiple sites such as the neck, back, and limbs. The pain is often aching, sore, or burning, with marked morning stiffness. It is commonly accompanied by severe fatigue, sleep disturbance (such as nonrestorative sleep), memory decline, and anxiety. Physical examination may reveal multiple tender points, but there are no signs of organic disease such as joint swelling or muscle atrophy.",
+   "interview_guide": {
+    "first_questions": [
+     "Where exactly is your pain located? Is it symmetric on both sides and present in both the upper and lower limbs?",
+     "How long has this pain lasted? Does it affect your daily activities or sleep?"
+    ],
+    "followup_questions": [
+     "Besides pain, do you have marked fatigue, memory decline, or low mood?",
+     "Do you feel stiff when you get up in the morning? Does it improve after activity?"
+    ],
+    "stop_conditions": [
+     "The pain has been confirmed as widespread and persistent, and other rheumatic immune diseases have been excluded.",
+     "The patient's symptoms meet the Widespread Pain Index (WPI) and Symptom Severity (SS) scale criteria.",
+     "Necessary laboratory tests have been completed to exclude organic diseases such as rheumatoid arthritis and lupus erythematosus."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete blood count",
+     "Erythrocyte sedimentation rate (ESR)",
+     "C-reactive protein (CRP)",
+     "Antinuclear antibody panel (ANA)"
+    ],
+    "if_suspected": [
+     "Thyroid function tests (to exclude similar symptoms caused by hypothyroidism)",
+     "Muscle enzyme panel (CK, LDH, to exclude myositis)",
+     "Vitamin D level testing"
+    ],
+    "avoid": [
+     "Routine X-ray or CT/MRI examinations (unless fracture or tumor is suspected)",
+     "Repeated unnecessary autoantibody screening",
+     "Long-term empiric use of glucocorticoids"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment uses a multimodal intervention: preferred medications are duloxetine (60 mg/day) or pregabalin (150-450 mg/day in divided doses), with efficacy assessed after at least 8 weeks.",
+     "Nonpharmacologic interventions are central, including aerobic exercise (3 times per week, 30 minutes each time), cognitive behavioral therapy, and sleep hygiene education. Avoid excessive reliance on analgesics and emphasize patient education and functional rehabilitation training."
+    ],
+    "safety_warnings": [
+     "Duloxetine is contraindicated in patients with uncontrolled glaucoma and severe liver disease; monitor blood pressure changes.",
+     "Pregabalin may cause dizziness and somnolence; older adults should take fall precautions, and abrupt discontinuation is strictly prohibited to prevent rebound.",
+     "Avoid long-term opioid use to prevent tolerance, dependence, and worsening pain sensitization."
+    ],
+    "personalization": [
+     "Older patients should start at a low dose and titrate slowly, with particular attention to fall risk.",
+     "For patients with comorbid depression, prefer SNRI antidepressants, which address both mood and pain management.",
+     "Before prescribing to women of childbearing potential, assess pregnancy plans and adjust to medications safe during pregnancy."
+    ]
+   },
+   "disease": "Fibromyalgia syndrome",
+   "department": "Immunology & Rheumatology"
+  },
+  {
+   "presentation": "Patients often present with recurrent upper respiratory tract sinusitis, otitis media, or nasal ulcers, accompanied by persistent cough, hemoptysis, and dyspnea. Systemic symptoms such as fever, fatigue, and weight loss may also be present, along with renal involvement causing hematuria, proteinuria, and rapidly worsening renal function. Some patients develop peripheral neuropathy (such as foot drop) or skin purpura. Symptoms worsen progressively and are easily misdiagnosed as ordinary infection or chronic obstructive pulmonary disease.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had nasal congestion, purulent nasal discharge, or nasal crusting and bleeding lasting more than two weeks?",
+     "Have you recently had unexplained fever, marked weight loss, or extreme fatigue?",
+     "Has your urine become red or more frothy, and do you have lower limb edema?"
+    ],
+    "followup_questions": [
+     "If you have coughed up blood, please describe whether it is blood-streaked sputum or a large amount of fresh blood?",
+     "Do you have numbness, tingling, or weakness when walking (foot drop)?",
+     "Have you had similar episodes before, or is there a family history of autoimmune disease?"
+    ],
+    "stop_conditions": [
+     "Typical symptoms of the upper respiratory tract, lung, and kidney triad have been clearly asked about and documented.",
+     "It has been confirmed whether there are manifestations of nervous system involvement (such as mononeuritis).",
+     "The patient has provided a complete medication history and allergy history sufficient to assess initial risk."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Antineutrophil cytoplasmic antibody (ANCA) testing (focus on c-ANCA/PR3)",
+     "Serum creatinine and blood urea nitrogen measurement (to assess renal function)",
+     "Chest high-resolution CT (HRCT) (to observe pulmonary nodules, cavities, or infiltrates)",
+     "Urinalysis and sediment microscopy (to evaluate hematuria and casts)"
+    ],
+    "if_suspected": [
+     "Sinus CT scan (to assess bone destruction and soft tissue lesions)",
+     "Renal biopsy (to confirm the renal pathologic type)",
+     "Bronchoscopy and bronchoalveolar lavage (to obtain lower respiratory tract specimens)",
+     "Nerve conduction velocity studies (to assess the severity of peripheral neuropathy)"
+    ],
+    "avoid": [
+     "Long-term broad-spectrum antibiotic therapy without an indication (may mask the disease and increase the risk of resistance)",
+     "Unnecessary invasive surgical exploration (should be avoided before diagnosis is confirmed)",
+     "Blind pulse corticosteroid therapy based solely on imaging without laboratory evidence"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For induction of remission, first-line treatment is glucocorticoids combined with cyclophosphamide or rituximab. Oral prednisone 1 mg/kg/d is usually given and then gradually tapered.",
+     "Cyclophosphamide 2 mg/kg/d orally or by intravenous pulse, for a 6-month course. For severe or relapsing patients, plasma exchange may be added. Use azathioprine or methotrexate during the maintenance phase, with a total course of at least 18-24 months. Concurrent gastric mucosal protection and Pneumocystis jirovecii pneumonia prophylaxis are required."
+    ],
+    "safety_warnings": [
+     "High-dose corticosteroids or immunosuppressants must not be used alone when active severe infection is uncontrolled.",
+     "Cyclophosphamide has reproductive and bladder toxicity; monitor complete blood count and ensure regular hydration to prevent hemorrhagic cystitis.",
+     "Long-term corticosteroid use requires vigilance for osteoporosis, hyperglycemia, and hypertension; calcium and vitamin D supplementation should be provided."
+    ],
+    "personalization": [
+     "In older patients, reduce the initial corticosteroid dose and closely monitor infection risk.",
+     "Cyclophosphamide is contraindicated in women of childbearing potential; prefer rituximab and require strict contraception.",
+     "In patients with renal insufficiency, adjust drug doses according to creatinine clearance to avoid accumulation and toxicity."
+    ]
+   },
+   "disease": "Granulomatosis with polyangiitis",
+   "department": "Immunology & Rheumatology"
+  },
+  {
+   "presentation": "Patients often complain of sudden-onset, non-pitting, painless or burning local swelling, most commonly involving the face, limbs, external genitalia, and gastrointestinal tract. Attacks are not accompanied by pruritus or urticaria and resolve spontaneously within several days. When the gastrointestinal tract is involved, manifestations include severe abdominal pain, nausea, and vomiting, and it is easily misdiagnosed as an acute abdomen. There is often a family history or a history of recurrent attacks; triggers include trauma, stress, or use of ACE inhibitors.",
+   "interview_guide": {
+    "first_questions": [
+     "Is the swelling accompanied by itching or wheals?",
+     "Have you had similar recurrent episodes in the past?",
+     "Recently, have you had trauma, surgery, or taken antihypertensive drugs (such as ACE inhibitors)?"
+    ],
+    "followup_questions": [
+     "If abdominal pain occurs, is it accompanied by nausea and vomiting without fever?",
+     "Does any first-degree relative have similar symptoms or unexplained death?",
+     "Was there clear emotional stress or a physical stimulus before the attack?"
+    ],
+    "stop_conditions": [
+     "Confirmed absence of pruritus/urticaria and exclusion of allergy history",
+     "Clear family history or prior confirmed diagnosis documented",
+     "Typical attack features and triggers have been fully described"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "C1 esterase inhibitor functional assay",
+     "C1 esterase inhibitor antigen level assay",
+     "Complement C4 level testing"
+    ],
+    "if_suspected": [
+     "C1q level testing (to differentiate acquired cases)",
+     "Prekallikrein activity assay",
+     "Genetic sequencing (SERPING1 gene)"
+    ],
+    "avoid": [
+     "Skin prick test (ineffective for HAE)",
+     "Routine allergen screening",
+     "Assessment of response after empiric antihistamine treatment as a diagnostic basis"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For acute attacks, first-line treatment is intravenous infusion of C1 esterase inhibitor concentrate. If unavailable, icatibant subcutaneous injection or a bradykinin B2 receptor antagonist can be used. Patients with severe gastrointestinal symptoms may receive short-term opioid analgesics. For prophylactic treatment, long-acting C1 esterase inhibitor once-weekly subcutaneous injection is recommended, or long-term oral androgen derivatives such as danazol. Non-pharmacologic interventions require avoidance of known triggers and estrogen-containing drugs."
+    ],
+    "safety_warnings": [
+     "Epinephrine and glucocorticoids are strictly prohibited for treating acute attacks because the mechanism differs and they are ineffective",
+     "Avoid ACEI drugs because they can trigger or worsen the condition",
+     "Long-term danazol use requires monitoring for liver function and dyslipidemia"
+    ],
+    "personalization": [
+     "During pregnancy, C1 esterase inhibitor is preferred as an alternative to androgen drugs",
+     "In pediatric patients, the C1 esterase inhibitor dose must be precisely calculated according to body weight",
+     "Female patients should avoid estrogen-containing contraceptives and switch to progestogen preparations"
+    ]
+   },
+   "disease": "hereditary angioedema",
+   "department": "Immunology & Rheumatology"
+  },
+  {
+   "presentation": "Patients often present with fever of unknown origin, fatigue, and weight loss. Typical symptoms include severely painful subcutaneous nodules distributed along blood vessels, accompanied by livedo reticularis or purpura. Unilateral or multiple peripheral neuropathies (such as foot drop) may occur, as well as visceral ischemic manifestations such as abdominal pain, hematuria, or hypertension. If the kidneys are involved, rapid deterioration of renal function may be seen.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had persistent fever, unexplained weight loss, or extreme fatigue?",
+     "Have you had painful red indurations or reticular purplish-blue patches on your body?",
+     "Recently, have you had numbness or weakness in the hands or feet, or sudden severe abdominal pain?"
+    ],
+    "followup_questions": [
+     "If you have joint or muscle pain, where exactly is it located and how long does it last?",
+     "Do you have a history of hypertension, or has your blood pressure recently risen suddenly and become difficult to control?",
+     "Do you have a history of hepatitis B virus infection or a record of related vaccination?"
+    ],
+    "stop_conditions": [
+     "The classic triad of skin nodules, neuropathy, and visceral involvement has been clearly described.",
+     "It has been confirmed that there are no distinguishing features of other systemic lupus erythematosus or vasculitis.",
+     "A complete past medical history (especially hepatitis B infection history) and medication history have been obtained."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "ANCA testing (usually negative; used to exclude microscopic polyangiitis)",
+     "Serologic tests: HBsAg, anti-HBc, complement C3/C4",
+     "Assessment of involved organ function: creatinine, blood urea nitrogen, liver function, electromyography"
+    ],
+    "if_suspected": [
+     "Digital subtraction angiography (DSA): shows microaneurysms or vascular stenosis",
+     "Biopsy of involved tissue (skin, nerve, or muscle): confirms necrotizing arteritis",
+     "Chest CT: to screen for pulmonary involvement"
+    ],
+    "avoid": [
+     "Routine glucocorticoid use without first excluding active tuberculosis",
+     "Blind renal biopsy before a clear diagnosis is established (unless glomerulonephritis is highly suspected)",
+     "Unnecessary whole-body PET-CT scanning (low cost-effectiveness as an initial screening tool)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "After diagnosis, first-line treatment is high-dose glucocorticoids (prednisone 1 mg/kg/d) combined with intravenous pulse cyclophosphamide. For patients without severe prognostic factors, rituximab may be considered as an alternative to cyclophosphamide. The course usually lasts 6–12 months, with gradual tapering according to remission status. At the same time, hypertension should be actively controlled and renal function protected."
+    ],
+    "safety_warnings": [
+     "Long-term glucocorticoid use requires vigilance for osteoporosis, hyperglycemia, and opportunistic infections",
+     "Cyclophosphamide carries risks of bone marrow suppression and bladder toxicity; regular monitoring of blood counts and urine is required",
+     "Hepatitis B virus must be screened before treatment to prevent reactivation leading to fulminant hepatitis"
+    ],
+    "personalization": [
+     "Elderly patients require a lower initial glucocorticoid dose and strengthened fall-prevention measures",
+     "Patients with renal impairment require cyclophosphamide dose adjustment or avoidance of nephrotoxic drugs",
+     "Women of childbearing age require strict contraception to avoid teratogenic drugs affecting fetal development"
+    ]
+   },
+   "disease": "Polyarteritis nodosa",
+   "department": "Immunology & Rheumatology"
+  },
+  {
+   "presentation": "Patients often complain of symmetric proximal muscle weakness, manifesting as difficulty climbing stairs, difficulty rising from a seated position, or limited ability to raise the arms to comb hair. Some patients have dysphagia, hoarseness, and shortness of breath. The course is mostly subacute, with symptoms worsening over weeks to months; low-grade fever, fatigue, and weight loss may be present, but sensory impairment is usually absent.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently found it particularly difficult to climb stairs, stand up after squatting, or raise your hand to comb your hair?",
+     "Is this weakness symmetric on both sides? Is it accompanied by difficulty swallowing or slurred speech?"
+    ],
+    "followup_questions": [
+     "How long have the symptoms been present? Did they worsen gradually or occur suddenly?",
+     "Have you had a rash, joint pain, or a recent infection?",
+     "Is muscle pain pronounced at night while resting?"
+    ],
+    "stop_conditions": [
+     "Symmetric proximal muscle weakness is clearly described, and trauma has been excluded",
+     "It has been confirmed that there is no sensory abnormality (such as numbness or tingling) to differentiate neuropathy",
+     "Key history has been obtained (onset time, rate of progression, accompanying symptoms)"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum muscle enzymes (CK, ALT, AST, LDH, aldolase)",
+     "Electromyography (EMG)",
+     "Muscle biopsy pathologic analysis"
+    ],
+    "if_suspected": [
+     "Autoantibody panel testing (anti-Jo-1, Mi-2, MDA5, etc.)",
+     "High-resolution chest CT (to screen for interstitial lung disease)",
+     "Cardiac MRI or echocardiography (to assess myocardial involvement)"
+    ],
+    "avoid": [
+     "Routine lumbar puncture (unless concomitant nervous system infection is suspected)",
+     "Nonspecific whole-body PET-CT (low cost-effectiveness as initial screening)",
+     "Repeated muscle enzyme testing without clinical indications"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is glucocorticoids, such as oral prednisone 1 mg/kg/d; for severe cases, intravenous pulse methylprednisolone for 3 days. Combine with immunosuppressants such as azathioprine (2–2.5 mg/kg/d) or methotrexate (10–25 mg/week). The course should last more than 6–12 months, with slow tapering. Supplement with rehabilitation training to maintain muscle strength and avoid overexertion."
+    ],
+    "safety_warnings": [
+     "Long-term glucocorticoid use requires vigilance for osteoporosis, diabetes, and infection risk",
+     "Azathioprine may cause bone marrow suppression; regular monitoring of blood counts is required",
+     "Be alert to drug interactions, especially increased bleeding risk when combined with warfarin"
+    ],
+    "personalization": [
+     "In elderly patients, the initial dose should be halved, with prevention of falls and metabolic complications",
+     "In patients with interstitial lung disease, high-dose glucocorticoids should be used with caution, and rituximab should be prioritized as an add-on",
+     "Methotrexate is contraindicated in pregnant women; azathioprine or hydroxychloroquine may be selected"
+    ]
+   },
+   "disease": "Polymyositis",
+   "department": "Immunology & Rheumatology"
+  },
+  {
+   "presentation": "Patients often complain of sudden redness, swelling, heat, and pain in asymmetric large joints of the lower limbs (such as the knees and ankles), accompanied by limited mobility. The typical presentation is a 'triad': arthritis, urethritis (dysuria, urinary frequency), and conjunctivitis (red eyes, photophobia). Some patients may have keratoderma blennorrhagicum on the soles or palms, presenting as waxy yellow papules or pustules. Symptoms usually appear 1–4 weeks after infection, with abrupt onset, and may be accompanied by low-grade fever and fatigue.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had diarrhea, abdominal pain, or a history of consuming contaminated food?",
+     "Before the onset, did you have increased urethral discharge or painful urination?",
+     "Have you had red eyes, tearing, or blurred vision?"
+    ],
+    "followup_questions": [
+     "Is the joint pain mainly in the knees or ankles, and is it asymmetric between the left and right sides?",
+     "Has the skin on the soles or palms developed small yellow pustules or peeling?",
+     "Have you had similar episodes before, or does anyone in your family have ankylosing spondylitis?"
+    ],
+    "stop_conditions": [
+     "A preceding infection history (diarrhea or urinary tract infection) has been clearly confirmed, and the typical joint, ocular, and skin triad is present.",
+     "The patient has clearly described the temporal sequence and location features of symptoms, sufficient to support the clinical diagnostic direction.",
+     "The patient has no manifestations of other system involvement, and key differential symptoms have been excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "HLA-B27 antigen testing",
+     "Complete blood count and C-reactive protein (CRP)",
+     "Rheumatoid factor (RF) and anti-CCP antibodies"
+    ],
+    "if_suspected": [
+     "Joint fluid aspiration examination (to exclude septic arthritis)",
+     "Chlamydia/gonococcus nucleic acid testing (urine or swab)",
+     "Sacroiliac joint X-ray or MRI (to assess spinal involvement)"
+    ],
+    "avoid": [
+     "Unnecessary whole-body CT scanning (unless serious complications are suspected)",
+     "Routine antibiotic treatment of undiagnosed bacterial infection (pathogen must be identified first)",
+     "Repeated blood cultures without indications"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is nonsteroidal anti-inflammatory drugs (NSAIDs), such as celecoxib or diclofenac sodium, to control inflammation and pain for at least 2–4 weeks. If infection is present, doxycycline or azithromycin is selected according to the pathogen to treat Chlamydia/gonococcus. For refractory arthritis, short-term local glucocorticoid injection or oral prednisone may be used. Physical therapy helps maintain joint function."
+    ],
+    "safety_warnings": [
+     "NSAIDs are contraindicated in patients with a history of gastrointestinal ulcer or bleeding; gastrointestinal reactions should be monitored.",
+     "Tetracyclines are contraindicated in pregnant women and children under 8 years of age; watch for photosensitivity reactions.",
+     "Long-term glucocorticoid use requires prevention of osteoporosis and secondary infection risks."
+    ],
+    "personalization": [
+     "Use NSAIDs with caution in elderly patients; concomitant proton pump inhibitors are recommended to protect the gastric mucosa.",
+     "Patients with renal impairment require dose adjustment or avoidance of nephrotoxic drugs.",
+     "Women of childbearing age require strict assessment of pregnancy status before medication to avoid teratogenic drugs."
+    ]
+   },
+   "disease": "Reiter syndrome",
+   "department": "Immunology & Rheumatology"
+  },
+  {
+   "presentation": "Patients often report sudden redness, swelling, heat, and pain of the auricle, with marked tenderness but no purulent skin changes; accompanied by nasal collapse or nasal congestion. Some develop bilateral conjunctival hyperemia and photophobia (scleritis), or sudden hearing loss, tinnitus, and vertigo. Respiratory symptoms such as hoarseness, inspiratory stridor, cough, and dyspnea may be present, suggesting tracheal cartilage involvement.",
+   "interview_guide": {
+    "first_questions": [
+     "Have your ears ever been red, swollen, and painful, but your doctor said there was no infection?",
+     "Recently, have you had a collapsed nose, difficulty breathing, or sudden hoarseness?",
+     "Have your eyes felt painful, red, or has your vision been blurry?"
+    ],
+    "followup_questions": [
+     "If your ears hurt, is the pain severe when pressed, and is the earlobe spared?",
+     "Have you had sudden hearing loss or severe episodes of vertigo?",
+     "Recently, have you had joint swelling and pain or unexplained fever?"
+    ],
+    "stop_conditions": [
+     "Typical symptoms of the ears, nose, eyes, and respiratory tract have been clearly asked about, with no signs of other systemic involvement.",
+     "The patient has described a typical relapsing course (alternating remission and exacerbation).",
+     "No recent history of trauma or local infection has been confirmed, ruling out simple inflammation."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum inflammatory markers (ESR, CRP)",
+     "Anti-collagen antibody testing (type II collagen antibodies)",
+     "Otolaryngology specialist examination (assessment of auricular, nasal, and laryngotracheal structures)"
+    ],
+    "if_suspected": [
+     "Chest CT (high-resolution) to assess tracheobronchial stenosis or malacia",
+     "Temporal bone CT or MRI to assess inner ear and vestibulocochlear nerve involvement",
+     "Joint ultrasound or MRI to screen for arthritis"
+    ],
+    "avoid": [
+     "Long-course antibiotic therapy without indication (non-bacterial infection)",
+     "Auricular incision and drainage (predisposes to deformity and is ineffective)",
+     "Routine bacterial culture (unless clear secondary infection is present)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is glucocorticoids (e.g., prednisone 0.5-1 mg/kg/day); severe acute cases require intravenous methylprednisolone pulse therapy. After disease control, taper slowly and maintain for 6-12 months. For refractory or steroid-dependent patients, add immunosuppressants (e.g., methotrexate, azathioprine, or cyclophosphamide). Severe airway stenosis requires emergency tracheotomy or stent placement."
+    ],
+    "safety_warnings": [
+     "Long-term corticosteroid use requires monitoring for osteoporosis, hyperglycemia, and risk of gastrointestinal bleeding",
+     "Avoid concomitant use with NSAIDs, which increases the risk of gastrointestinal ulceration",
+     "Be alert for severe infections, especially opportunistic infections (e.g., Pneumocystis pneumonia)"
+    ],
+    "personalization": [
+     "Elderly patients should start at lower doses, with close monitoring of blood pressure and psychiatric symptoms",
+     "Use methotrexate and cyclophosphamide with caution in pregnant women; azathioprine or hydroxychloroquine may be selected",
+     "Adjust immunosuppressant doses in patients with renal impairment and monitor blood drug concentrations"
+    ]
+   },
+   "disease": "Relapsing polychondritis",
+   "department": "Immunology & Rheumatology"
+  },
+  {
+   "presentation": "Patients often report fingers turning white, then purple, then red on cold exposure (Raynaud phenomenon), accompanied by progressive thickening, tightness, and shininess of the finger skin, with \"sausage-like\" changes. Some patients develop loss of facial expression and radial perioral wrinkles. If internal organs are involved, they may report exertional dyspnea, dry cough, or dysphagia. The course is insidious, and early disease is easily mistaken for arthritis or primary Raynaud disease.",
+   "interview_guide": {
+    "first_questions": [
+     "Do your fingers change color (white-purple-red) when exposed to cold?",
+     "Recently, have you felt that the skin on your hands or face has become hard, tight, or difficult to pinch up?"
+    ],
+    "followup_questions": [
+     "Do you have a feeling of food sticking or symptoms of acid regurgitation and heartburn?",
+     "Recently, have you had unexplained dyspnea or a persistent dry cough?"
+    ],
+    "stop_conditions": [
+     "Typical Raynaud phenomenon with characteristic skin sclerosis has been clearly established.",
+     "No signs of internal organ involvement have been confirmed, and skin changes meet the staging criteria.",
+     "The patient has provided previous autoantibody test results and imaging reports."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Antinuclear antibody panel (ANA) and specific antibody testing (e.g., anti-Scl-70, anti-centromere antibodies)",
+     "Nailfold capillaroscopy",
+     "Pulmonary function tests (including diffusing capacity, DLCO)"
+    ],
+    "if_suspected": [
+     "High-resolution CT (HRCT) of the chest without contrast",
+     "Echocardiography to assess pulmonary arterial hypertension and cardiac function",
+     "Barium swallow esophagography or gastroscopy to assess gastrointestinal involvement"
+    ],
+    "avoid": [
+     "Routine chest X-ray (low sensitivity for early interstitial lung disease)",
+     "Unnecessary muscle biopsy (unless overlap syndrome is suspected)",
+     "Empirical long-term use of high-dose glucocorticoids (increases the risk of renal crisis)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment focuses on improving microcirculation and inhibiting fibrosis. For Raynaud phenomenon, calcium channel blockers are preferred (e.g., nifedipine sustained-release tablets 30 mg/day). For skin sclerosis and early interstitial lung disease, methotrexate (15-20 mg/week) combined with low-dose corticosteroids, or mycophenolate mofetil (1.5-2 g/day), is recommended. High-dose pulse corticosteroid therapy is strictly prohibited to prevent scleroderma renal crisis. Rehabilitation training should be combined to maintain joint range of motion."
+    ],
+    "safety_warnings": [
+     "Avoid prednisone at doses exceeding 15 mg/day to prevent scleroderma renal crisis.",
+     "Regular monitoring of complete blood count and liver and kidney function is required with immunosuppressant use.",
+     "Pay attention to drug interactions; in particular, concomitant use of methotrexate and NSAIDs may increase toxicity."
+    ],
+    "personalization": [
+     "Patients with pulmonary arterial hypertension require additional targeted drugs (e.g., endothelin receptor antagonists).",
+     "Patients with renal impairment require adjusted immunosuppressant doses and close monitoring of creatinine.",
+     "Women of childbearing age should discontinue teratogenic drugs (e.g., methotrexate, mycophenolate mofetil) for at least 3 months before attempting conception."
+    ]
+   },
+   "disease": "Systemic sclerosis",
+   "department": "Immunology & Rheumatology"
+  }
+ ]
+}

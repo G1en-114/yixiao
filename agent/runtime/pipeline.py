@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-"""临床管线：从一条主诉到一份可复盘诊疗报告的端到端状态机。
+"""Clinical pipeline: an end-to-end state machine from one chief complaint to a replayable clinical report.
 
-可暂停/可恢复：问诊等待患者回答，检查等待用户录入结果，失败可从阶段重试。
+Pausable / resumable: the interview waits for patient answers, exams wait for user-entered results, failures retry per stage.
 """
 import threading
 import uuid
@@ -37,7 +37,7 @@ class Pipeline:
         self.cases = {}                  # case_id -> dict(state, thread, wait_event, lock)
         self._lock = threading.Lock()
 
-    # ---- 创建与推进 ----
+    # ---- create and advance ----
     def create_case(self, intake, auto=False):
         case_id = uuid.uuid4().hex[:12]
         state = CaseState(intake)
@@ -47,14 +47,14 @@ class Pipeline:
             self.cases[case_id] = entry
         self.store.create_case(case_id, intake)
         self.bus.emit(case_id, 'system', 'case_created',
-                      f'病例创建：{intake.get("chief_complaint", "")}', {'intake': intake})
+                      f'Case created: {intake.get("chief_complaint", "")}', {'intake': intake})
         t = threading.Thread(target=self._run_intake, args=(case_id,), daemon=True)
         entry['thread'] = t
         t.start()
         return case_id
 
     def _auto_respond(self, case_id, kind, payload):
-        """SDK/评测模式：自动应答追问与自动录入检查结果（Web 演示为人工输入）。"""
+        """SDK / evaluation mode: auto-answer questions and auto-enter exam results (the web demo uses human input)."""
         entry = self.cases.get(case_id)
         if not entry or not entry.get('auto'):
             return
@@ -65,13 +65,13 @@ class Pipeline:
                 answers = {}
                 for q in payload.get('questions', []):
                     custom = (intake.get('interview_answers') or {}).get(q['question'])
-                    answers[q['id']] = custom or '无上述情况（自动应答）'
+                    answers[q['id']] = custom or 'None of the above (auto-answer)'
                 self.submit_answers(case_id, answers)
             else:
                 results = {}
                 for exam in payload.get('exams', []):
                     custom = (intake.get('exam_results') or {}).get(exam)
-                    results[exam] = custom or '已完成，未见明显异常（自动录入）'
+                    results[exam] = custom or 'Done, no significant abnormality (auto-entered)'
                 self.submit_exam_results(case_id, results)
         threading.Timer(0.3, _go).start()
 
@@ -91,14 +91,14 @@ class Pipeline:
         result = self.orch.run(case_id, 'interview', state, round_no=round_no)
         questions = result.payload.get('questions', [])
         stop = bool(result.payload.get('stop_interview'))
-        if not questions or (stop and round_no >= MIN_INTERVIEW_ROUNDS) or round_no >= MAX_INTERVIEW_ROUNDS:
+        if not questions or (stop and round_no >= MIN_INTERVIEW_ROUNDS):
             self._after_interview(case_id)
             return
         entry['phase'] = 'await_answers'
         entry['pending_round'] = round_no
         state.apply('system', {'stage': f'interview_r{round_no}'})
         self.bus.emit(case_id, 'system', 'await_user',
-                      f'等待患者回答第 {round_no} 轮追问', {'round': round_no, 'questions': questions})
+                      f'Waiting for the patient to answer round {round_no}', {'round': round_no, 'questions': questions})
         self._auto_respond(case_id, 'answers', {'questions': questions})
 
     def submit_answers(self, case_id, answers):
@@ -110,19 +110,22 @@ class Pipeline:
             rounds = state.get('interview_rounds')
             current = rounds[-1]
             for q in current['questions']:
-                current['answers'][q['id']] = answers.get(q['id'], '（未答）')
+                current['answers'][q['id']] = answers.get(q['id'], '(no answer)')
                 self.store.add_message(case_id, current['round'], 'user_answer',
                                        f"{q['question']} → {answers.get(q['id'], '')}")
             entry['phase'] = 'running'
             round_no = current['round']
-        self.bus.emit(case_id, 'system', 'answers_received', f'第 {round_no} 轮回答已提交', {'answers': answers})
+        self.bus.emit(case_id, 'system', 'answers_received', f'Round {round_no} answers submitted', {'answers': answers})
         threading.Thread(target=self._continue_interview, args=(case_id, round_no), daemon=True).start()
         return True
 
     def _continue_interview(self, case_id, round_no):
         entry = self.cases[case_id]
         try:
-            self._interview_round(case_id, round_no + 1)
+            if round_no >= MAX_INTERVIEW_ROUNDS:     # the last allowed round has been answered
+                self._after_interview(case_id)
+            else:
+                self._interview_round(case_id, round_no + 1)
         except Exception as exc:
             self._fail(case_id, exc)
 
@@ -133,7 +136,7 @@ class Pipeline:
         self.orch.run(case_id, 'examination', state)
         state.apply('system', {'stage': 'await_exams'})
         entry['phase'] = 'await_exams'
-        self.bus.emit(case_id, 'system', 'await_user', '等待用户录入检查结果（系统不伪造检查数据）',
+        self.bus.emit(case_id, 'system', 'await_user', 'Waiting for user-entered exam results (the system never invents exam data)',
                       {'exams': [p['exam'] for p in state.get('exam_plan')]})
         self._auto_respond(case_id, 'exams', {'exams': [p['exam'] for p in state.get('exam_plan')]})
 
@@ -144,7 +147,7 @@ class Pipeline:
                 return False
             entry['phase'] = 'running'
             entry['state'].apply('system', {'exam_inputs': results})
-        self.bus.emit(case_id, 'system', 'exam_results_received', '检查结果已录入', {'results': results})
+        self.bus.emit(case_id, 'system', 'exam_results_received', 'Exam results entered', {'results': results})
         threading.Thread(target=self._run_consultation, args=(case_id,), daemon=True).start()
         return True
 
@@ -152,7 +155,7 @@ class Pipeline:
         entry = self.cases[case_id]
         state = entry['state']
         try:
-            # ⑤ 双专科并行会诊
+            # (5) dual-specialist consult in parallel
             cands = state.get('differential').get('differential_diagnoses', [])
             depts = []
             for c in cands:
@@ -162,14 +165,14 @@ class Pipeline:
             for dept in state.get('triage').get('candidate_departments', []):
                 if dept not in depts:
                     depts.append(dept)
-            depts = (depts + ['心内科', '呼吸内科'])[:2]
+            depts = (depts + ['Cardiology', 'Respiratory Medicine'])[:2]
             state.apply('system', {'stage': 'specialist'})
             threads = []
             results = {}
             for i, dept in enumerate(depts[:2], 1):
                 lane = 'AB'[i - 1]
                 self.bus.emit(case_id, f'specialist_{lane}', 'agent_start',
-                              f'双专科并行会诊启动：通道{lane} · {dept}', {'department': dept, 'lane': lane})
+                              f'Parallel specialist consult started: lane {lane} · {dept}', {'department': dept, 'lane': lane})
 
                 def _run_specialist(dept=dept, lane=lane):
                     try:
@@ -186,7 +189,7 @@ class Pipeline:
             state.apply('specialist', {'specialists': {
                 lane: r.payload for lane, r in results.items()}})
 
-            # ⑥⑦ 主治 → 安全审查（驳回重试最多 2 轮）
+            # (6)(7) attending -> safety review (at most 2 rounds on rejection)
             state.apply('system', {'stage': 'attending'})
             revision_no = 0
             while True:
@@ -199,31 +202,31 @@ class Pipeline:
                 entry['last_rejection'] = {
                     'rejection_reasons': safety_result.payload.get('rejection_reasons', []),
                     'required_revision': safety_result.payload.get('required_revision', '')}
-                # 修订落实前置条件：主治把驳回要求写入 preconditions，系统登记排除信息
+                # revision: the attending writes the rejection into preconditions and the system records the exclusion
                 self._apply_revision(state, safety_result.payload)
                 revision_no += 1
                 self.bus.emit(case_id, 'system', 'revision',
-                              f'主治按驳回意见修订（第 {revision_no} 次）', {'revision_no': revision_no})
+                              f'Attending revises per the rejection (revision {revision_no})', {'revision_no': revision_no})
 
-            # ⑧ 审计 → 最终报告
+            # (8) audit -> final report
             self.orch.run(case_id, 'audit', state, stats=self.orch.stats_for(case_id))
             final = self._build_final(case_id, state, safety_result)
             state.apply('audit', {'final': final})
             state.apply('system', {'stage': 'final'})
             self.store.finish_case(case_id, 'final', final)
-            self.bus.emit(case_id, 'system', 'case_final', '诊疗报告交付（可验收·可复盘）', {'final': final})
+            self.bus.emit(case_id, 'system', 'case_final', 'Clinical report delivered (verifiable · replayable)', {'final': final})
         except Exception as exc:
             self._fail(case_id, exc)
 
     def _apply_revision(self, state, safety_payload):
-        """把驳回要求登记为方案前置条件；硝酸酯类驳回同步登记 PDE-5 排除动作。"""
+        """Record the rejection as plan preconditions; a nitrate rejection also records the PDE-5 exclusion step."""
         reasons = safety_payload.get('rejection_reasons', [])
         preconds = list(state.get('safety_preconditions'))
         preconds += reasons
         patch = {'safety_preconditions': preconds}
-        if any('PDE-5' in r or '硝酸' in r for r in reasons) and not state.get('pde5_exclusion'):
-            patch['pde5_exclusion'] = ('已登记前置条件：使用硝酸酯前必须排除 PDE-5 抑制剂'
-                                       '（西地那非/伐地那非/他达拉非）使用史（24-48 小时内）')
+        if any('PDE-5' in r or 'nitrate' in r.lower() for r in reasons) and not state.get('pde5_exclusion'):
+            patch['pde5_exclusion'] = ('PDE-5 exclusion recorded as a precondition: before any nitrate, use of a PDE-5 inhibitor '
+                                       '(sildenafil / vardenafil / tadalafil) within the last 24-48 h must be ruled out')
         state.apply('attending', patch)
 
     def _build_final(self, case_id, state, safety_result):
@@ -236,11 +239,11 @@ class Pipeline:
         reds = d['triage'].get('red_flags', [])
         warnings = []
         if not approved:
-            warnings.append('安全审查两轮修订后仍未完全通过，以下为低风险保守建议，请线下就医确认。')
+            warnings.append('The safety review did not fully pass after two revisions; the advice below is a low-risk conservative fallback. Please confirm with an in-person doctor.')
         if reds or d['triage'].get('urgency') in ('high', 'emergency'):
-            warnings.append('存在急症红旗征象：请立即线下急诊，不要延误。')
+            warnings.append('Emergency red flags present: go to the emergency department now. Do not delay.')
         return {
-            'title': '医晓结构化诊疗报告（教学演示）',
+            'title': 'YiXiao Structured Clinical Report (teaching demo)',
             'patient': {'age': d['age'], 'sex': d['sex']},
             'chief_complaint': d['chief_complaint'],
             'triage': d['triage'],
@@ -262,15 +265,15 @@ class Pipeline:
                        'warning': warnings},
             'audit': d['audit'],
             'stats': {'events': len(events), **stats},
-            'disclaimer': '本报告仅用于教学演示与临床决策辅助研究，不替代真实医疗诊断、处方或急救。',
+            'disclaimer': 'For teaching demos and clinical decision-support research only. Not a substitute for real diagnosis, prescriptions or emergency care.',
         }
 
     def _fail(self, case_id, exc):
         state = self.cases[case_id]['state']
         state.apply('system', {'error': str(exc)})
-        self.bus.emit(case_id, 'system', 'error', f'流程失败，如实上报：{exc}', {'error': str(exc)})
+        self.bus.emit(case_id, 'system', 'error', f'Pipeline failed (reported as-is): {exc}', {'error': str(exc)})
 
-    # ---- 查询 ----
+    # ---- queries ----
     def view(self, case_id):
         entry = self.cases.get(case_id)
         if not entry:

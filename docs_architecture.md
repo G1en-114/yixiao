@@ -1,8 +1,8 @@
-# Hospital Agent 真实多 Agent 架构
+# YiXiao Hospital Agent: Real Multi-Agent Architecture
 
 ## Runtime implementation
 
-比赛 SDK 仍通过 `MyDoctorAgent` 暴露单一入口，但入口内部由 `Orchestrator` 调度八个独立角色实例。疾病 Skill 是 Agent 使用的专业知识模块，不计作 Agent。
+The competition SDK still exposes a single entry point through `MyDoctorAgent`, but inside that entry point the `Orchestrator` schedules eight independent role instances. Disease Skills are specialized knowledge modules used by the Agents and are not counted as Agents.
 
 ```text
 BasicAgent / MyDoctorAgent
@@ -25,36 +25,35 @@ BasicAgent / MyDoctorAgent
                     SDK submission
 ```
 
-每次交接记录来源、目标、任务、状态、风险等级、Skill 证据和校验结果。Agent 只返回结构化 patch，由 Orchestrator 按写权限合并到中心 `CaseState`。
+Each handoff records source, target, task, status, risk level, Skill evidence, and validation results. Agents only return structured patches, which the Orchestrator merges into the central `CaseState` according to write permissions.
 
-
-## 1. 总体架构总览
+## 1. Overall Architecture Overview
 
 ```mermaid
 flowchart TB
-    subgraph ARENA["Arena 环境"]
-        P["智能体患者"]
-        S["比赛服务"]
+    subgraph ARENA["Arena Environment"]
+        P["Patient Agent"]
+        S["Competition Service"]
     end
 
-    subgraph AGENT["医生智能体"]
+    subgraph AGENT["Doctor Agent"]
         direction TB
-        ST["结构化状态"]
-        T["分诊医生"]
-        H["启发式补充"]
-        G["信息差分析"]
-        A["多轮问诊"]
-        D["去重"]
-        EC["类别选择"]
-        EI["项目选择"]
-        SE["过度医疗抑制"]
-        SP1["专科医生1"]
-        SP2["专科医生2"]
-        AT["主治医生"]
-        SF["安全审查"]
-        EV["评估"]
-        RF["反思生成"]
-        ME["记忆存储"]
+        ST["Structured State"]
+        T["Triage Doctor"]
+        H["Heuristic Supplement"]
+        G["Information Gap Analysis"]
+        A["Multi-turn Consultation"]
+        D["Deduplication"]
+        EC["Category Selection"]
+        EI["Item Selection"]
+        SE["Overtreatment Suppression"]
+        SP1["Specialist 1"]
+        SP2["Specialist 2"]
+        AT["Attending Doctor"]
+        SF["Safety Review"]
+        EV["Evaluation"]
+        RF["Reflection Generation"]
+        ME["Memory Storage"]
     end
 
     P <--> S
@@ -74,38 +73,38 @@ flowchart TB
     SP1 --> AT
     SP2 --> AT
     AT --> SF
-    SF --> OUT["最终结果"]
+    SF --> OUT["Final Result"]
     OUT --> EV
     EV --> RF
     RF --> ME
     ME -.-> ST
 ```
 
-## 2. 数据流主循环
+## 2. Main Data Flow Loop
 
 ```mermaid
 flowchart TD
-    START["Patient"] --> INIT["初始问诊"]
-    INIT --> TRI["分诊"]
-    TRI --> GAP{"需要更多信息?"}
-    GAP -->|"是"| ASK["追问"]
-    ASK --> ANS["患者回答"]
-    ANS --> UPD["更新状态"]
+    START["Patient"] --> INIT["Initial Interview"]
+    INIT --> TRI["Triage"]
+    TRI --> GAP{"Need more information?"}
+    GAP -->|"Yes"| ASK["Follow-up Question"]
+    ASK --> ANS["Patient Answer"]
+    ANS --> UPD["Update State"]
     UPD --> GAP
-    GAP -->|"否"| EX["检查阶段"]
-    EX --> EXC["选检查类别"]
-    EXC --> EXI["选检查项目"]
+    GAP -->|"No"| EX["Examination Phase"]
+    EX --> EXC["Select Examination Category"]
+    EXC --> EXI["Select Examination Item"]
     EXI --> ORD["order_examination"]
-    ORD --> RES["检查结果"]
-    RES --> SP1["专科1"]
-    RES --> SP2["专科2"]
-    SP1 --> AT["主治医生"]
+    ORD --> RES["Examination Results"]
+    RES --> SP1["Specialist 1"]
+    RES --> SP2["Specialist 2"]
+    SP1 --> AT["Attending Doctor"]
     SP2 --> AT
-    AT --> SF["安全审查"]
-    SF --> FIN["提交终诊"]
+    AT --> SF["Safety Review"]
+    SF --> FIN["Submit Final Diagnosis"]
 ```
 
-## 3. 论文对应关系
+## 3. Paper Correspondence
 
 ```mermaid
 flowchart LR
@@ -115,12 +114,12 @@ flowchart LR
         PA["Attending"]
     end
 
-    subgraph OURS["本架构"]
-        OT["分诊医生"]
-        OS1["专科1"]
-        OS2["专科2"]
-        OA["主治医生"]
-        OSF["安全审查"]
+    subgraph OURS["Our Architecture"]
+        OT["Triage Doctor"]
+        OS1["Specialist 1"]
+        OS2["Specialist 2"]
+        OA["Attending Doctor"]
+        OSF["Safety Review"]
     end
 
     PT --> OT
@@ -130,81 +129,81 @@ flowchart LR
     OA --> OSF
 ```
 
-## 4. Token 优化
+## 4. Token Optimization
 
 ```mermaid
 flowchart TD
-    A["轮数上限"] --> G["Token 降低"]
-    B["去重"] --> G
-    C["信息差驱动"] --> G
-    D["有限疾病列表"] --> G
-    E["JSON 输出"] --> G
-    F["记忆复用"] --> G
+    A["Turn Limit"] --> G["Token Reduction"]
+    B["Deduplication"] --> G
+    C["Information Gap Driven"] --> G
+    D["Limited Disease List"] --> G
+    E["JSON Output"] --> G
+    F["Memory Reuse"] --> G
 ```
 
-## 5. 完整流程图
+## 5. Complete Flowchart
 
 ```mermaid
 flowchart TB
-    PID["patient_id"] --> Q1["开放式问诊"]
-    MEM["memory"] --> T1["分诊"]
+    PID["patient_id"] --> Q1["Open-ended Interview"]
+    MEM["memory"] --> T1["Triage"]
     Q1 --> T1
-    T1 --> H1["启发式补充"]
-    H1 --> C1["候选科室"]
-    C1 --> G1["信息差分析"]
+    T1 --> H1["Heuristic Supplement"]
+    H1 --> C1["Candidate Departments"]
+    C1 --> G1["Information Gap Analysis"]
     MEM --> G1
     
-    G1 --> G2{"还需追问?"}
-    G2 -- "是" --> G3["针对性问诊"]
-    G3 --> G4["去重检查"]
-    G4 --> G5["提取症状"]
-    G5 --> G6["更新鉴别"]
+    G1 --> G2{"Need follow-up?"}
+    G2 -- "Yes" --> G3["Targeted Interview"]
+    G3 --> G4["Deduplication Check"]
+    G4 --> G5["Extract Symptoms"]
+    G5 --> G6["Update Differential"]
     G6 --> G1
     
-    G2 -- "否" --> E1["选检查类别"]
-    E1 --> E2["选检查项目"]
-    E2 --> E3["调用检查"]
-    E3 --> E4["保存结果"]
+    G2 -- "No" --> E1["Select Examination Category"]
+    E1 --> E2["Select Examination Item"]
+    E2 --> E3["Order Examination"]
+    E3 --> E4["Save Results"]
     E4 --> E1
     
-    E4 --> P1["专科1"]
-    E4 --> P2["专科2"]
-    P1 --> P3["主治决策"]
+    E4 --> P1["Specialist 1"]
+    E4 --> P2["Specialist 2"]
+    P1 --> P3["Attending Decision"]
     P2 --> P3
-    P3 --> P4["安全审查"]
-    P4 --> P5["提交终诊"]
+    P3 --> P4["Safety Review"]
+    P4 --> P5["Submit Final Diagnosis"]
     
-    P5 --> R1["获取评估"]
-    R1 --> R2["生成反思"]
-    R2 --> R3["写入记忆"]
+    P5 --> R1["Get Evaluation"]
+    R1 --> R2["Generate Reflection"]
+    R2 --> R3["Write to Memory"]
 ```
 
-## 6. 角色一览
+## 6. Role Overview
 
-| 角色 | Prompt | 职责 |
+| Role | Prompt | Responsibility |
 |------|--------|------|
-| 分诊医生 | TRIAGE_PROMPT | 判断科室 |
-| 信息差分析 | INFO_GAP_PROMPT | 决定追问 |
-| 专科医生1 | SPECIALIST | 全科评估 |
-| 专科医生2 | SPECIALIST | 鉴别诊断 |
-| 主治医生 | ATTENDING | 综合决策 |
-| 安全审查 | SAFETY_REVIEW | 检查禁忌 |
+| Triage Doctor | TRIAGE_PROMPT | Determine department |
+| Information Gap Analysis | INFO_GAP_PROMPT | Decide follow-up questions |
+| Specialist 1 | SPECIALIST | General assessment |
+| Specialist 2 | SPECIALIST | Differential diagnosis |
+| Attending Doctor | ATTENDING | Comprehensive decision |
+| Safety Review | SAFETY_REVIEW | Check contraindications |
 
-## 7. 对比
+## 7. Comparison
 
 ```mermaid
 flowchart LR
     subgraph BASE["Baseline"]
-        B1["单LLM循环"]
-        B2["线性流程"]
-        B3["简单状态"]
+        B1["Single LLM Loop"]
+        B2["Linear Flow"]
+        B3["Simple State"]
     end
 
-    subgraph ENH["增强版"]
-        E1["多智能体"]
-        E2["多视角验证"]
-        E3["结构化状态"]
-        E4["安全审查"]
+    subgraph ENH["Enhanced Version"]
+        E1["Multi-Agent"]
+        E2["Multi-perspective Validation"]
+        E3["Structured State"]
+        E4["Safety Review"]
     end
 
     BASE --> ENH

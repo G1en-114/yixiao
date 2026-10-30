@@ -1,0 +1,1246 @@
+{
+ "department": "Hematology",
+ "skills": [
+  {
+   "presentation": "Fatigue, easy fatigability, pallor, dizziness, blurred vision, palpitations, shortness of breath, rapid breathing after activity, poor concentration; in severe cases, iron deficiency-specific signs appear: dry hair and hair loss, flat nails and koilonychia (spoon nails), angular cheilitis, atrophy of lingual papillae, dysphagia (Plummer-Vinson syndrome), and pica (e.g., craving dirt, raw rice, ice).",
+   "interview_guide": {
+    "first_questions": [
+     "How long have you had dizziness, generalized weakness, and pallor? Do you feel palpitations and shortness of breath when climbing stairs or walking fast?",
+     "What are your usual dietary habits? Do you have long-term picky eating, dieting, rarely eat red meat, or follow a long-term vegetarian diet?",
+     "If you are a woman, is your menstrual flow very heavy? How many sanitary pads do you use? Are there blood clots?"
+    ],
+    "followup_questions": [
+     "Have you had long-term stomach pain, acid reflux, black stools, or recurrent bleeding from hemorrhoids? (to evaluate chronic gastrointestinal blood loss)",
+     "Have you ever had gastrointestinal surgery, or do you have chronic diarrhea or malabsorption?",
+     "Have your fingernails become flat, depressed, and thin like small spoons (koilonychia)?"
+    ],
+    "stop_conditions": [
+     "The onset time and progression rate of anemia and the manifestations of systemic tissue hypoxia have been clarified",
+     "The core cause of iron deficiency (chronic blood loss, insufficient intake, absorption impairment) has been identified",
+     "The history of prior iron supplementation and gastrointestinal tolerance has been fully obtained"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete blood count + red blood cell indices (microcytic hypochromic anemia: decreased Hb, MCV<80fl, MCH<27pg, MCHC<320g/L)",
+     "Serum ferritin (Ferritin) (<14ug/L is the most sensitive and specific indicator for diagnosing iron deficiency)",
+     "Serum iron (SI), total iron-binding capacity (TIBC), transferrin saturation (TSAT<15%)",
+     "Fecal occult blood test (FOBT) (to evaluate occult gastrointestinal blood loss)"
+    ],
+    "if_suspected": [
+     "Gastroscopy and colonoscopy (adult men and postmenopausal women with unexplained iron deficiency anemia must undergo gastroscopy and colonoscopy to evaluate gastrointestinal tumors and ulcers)",
+     "Gynecologic pelvic ultrasound (for women of reproductive age with menorrhagia to evaluate uterine fibroids and adenomyosis)",
+     "Bone marrow aspiration and iron staining (for difficult cases to differentiate sideroblastic anemia and myelodysplastic syndrome)"
+    ],
+    "avoid": [
+     "Ordering whole-body PET-CT for simple mild iron deficiency anemia without indication",
+     "Direct long-term blind intravenous blood transfusion without identifying the cause of iron deficiency (unless hemoglobin is extremely low and life-threatening)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Etiologic treatment is fundamental (cure menorrhagia, remove polyps, treat ulcers or hemorrhoids, correct dietary bias)",
+     "First-line iron supplementation is oral iron preparations (ferrous sulfate, ferrous succinate, polysaccharide iron complex), combined with vitamin C to promote iron absorption",
+     "After hemoglobin returns to normal, oral iron must be continued to replenish iron stores for 3-6 months."
+    ],
+    "safety_warnings": [
+     "Oral iron commonly causes nausea, epigastric discomfort, constipation or diarrhea; stools may turn black (this is normal and should be explained in advance)",
+     "Avoid taking oral iron simultaneously with strong tea, coffee, milk, calcium supplements, and antacids, to prevent binding and precipitation that impede absorption",
+     "Intravenous iron (iron sucrose/ferric carboxymaltose) is only for those who cannot tolerate oral iron, have severe malabsorption, or have a severe urgent need for iron replenishment, and hypersensitivity reactions must be guarded against"
+    ],
+    "personalization": [
+     "Patients with severe gastrointestinal reactions who cannot tolerate oral iron: may choose polysaccharide iron complex or switch to intravenous iron (e.g., iron sucrose)",
+     "Iron deficiency anemia in mid-to-late pregnancy: supplement iron and folic acid under guidance in a standardized manner to ensure maternal and fetal safety",
+     "Adult men or postmenopausal women: gastroscopy and colonoscopy must be routinely performed to thoroughly screen for potential malignant lesions of the digestive tract"
+    ]
+   },
+   "disease": "Iron deficiency anemia",
+   "department": "Hematology"
+  },
+  {
+   "presentation": "Spontaneous bleeding of the skin and mucous membranes predominates: petechiae, purpura, ecchymoses, pinpoint hemorrhages, gingival bleeding, epistaxis, oral blood blisters, menorrhagia in women, prolonged bleeding after tooth extraction or trauma; in severe cases (platelets <20x10^9/L), hematochezia, hemoptysis, gross hematuria, and even fatal intracranial hemorrhage (sudden severe headache, vomiting, impaired consciousness) may occur.",
+   "interview_guide": {
+    "first_questions": [
+     "How long have you had small red spots on the skin and bruises that are blue-purple? Have you had any trauma or collisions?",
+     "Do your gums often bleed when brushing your teeth? Have you had recurrent nosebleeds or blood blisters in your mouth?",
+     "If you are a woman, is your menstrual flow significantly heavier or your period longer?"
+    ],
+    "followup_questions": [
+     "Did you have a cold, viral infection, or vaccination in the 1-3 weeks before onset?",
+     "Have you had sudden severe headache, blurred vision, nausea with projectile vomiting, or limb numbness? (extremely urgent evaluation for cerebral hemorrhage)",
+     "Have you had weight loss, fever, pain in multiple joints, or facial rash? (to evaluate secondary immune thrombocytopenia such as SLE)"
+    ],
+    "stop_conditions": [
+     "The bleeding site, severity of bleeding tendency, and critical platelet value status have been clarified",
+     "Dangerous indicators of massive intracranial hemorrhage and massive internal organ hemorrhage have been excluded",
+     "Drug-induced, rheumatic immune disease, and hematologic tumor secondary factors have been excluded"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete blood count + peripheral blood smear microscopy (isolated marked decrease in platelet count PLT, red blood cell and white blood cell counts usually normal; peripheral blood smear excludes pseudothrombocytopenia and abnormal cells)",
+     "Bone marrow aspiration and smear examination (megakaryocyte number normal or increased, with maturation arrest; platelet-producing megakaryocytes significantly reduced)",
+     "Full coagulation panel (PT, APTT, fibrinogen normal; evaluate DIC and coagulation factor abnormalities)",
+     "Full autoantibody panel (ANA, anti-ds-DNA; evaluate secondary systemic lupus erythematosus)"
+    ],
+    "if_suspected": [
+     "Platelet-associated antibodies (PAIgG/PAIgM)",
+     "Helicobacter pylori (Hp) breath test (Hp infection is associated with the pathogenesis of some ITP)",
+     "Full hepatitis panel, HIV, and EBV/CMV serology"
+    ],
+    "avoid": [
+     "Blind deep intramuscular injection or puncture biopsy during severe thrombocytopenia (prone to deep hematoma and massive bleeding)",
+     "Misuse of whole-spine myelography in simple ITP without focal neurologic signs"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is glucocorticoids (oral prednisone 1mg/kg/d or high-dose dexamethasone 40mg/d for 4 consecutive days)",
+     "For severe bleeding or critical platelet values (<20x10^9/L), combine with high-dose intravenous human immunoglobulin (IVIG, 0.4g/kg/d for 5 consecutive days or 1g/kg/d for 1-2 days)",
+     "Second-line treatment: thrombopoietin receptor agonists (TPO receptor agonists such as eltrombopag, avatrombopag, recombinant human thrombopoietin rhTPO), rituximab, or splenectomy."
+    ],
+    "safety_warnings": [
+     "Patients with platelet count <20x10^9/L accompanied by oral blood blisters or severe headache have an extremely high risk of sudden death from intracranial hemorrhage; absolute bed rest is required, avoid severe coughing and forceful breath-holding, and immediately administer emergency intravenous IVIG pulse therapy",
+     "Platelet transfusion is only for life-threatening severe massive internal organ hemorrhage or emergency surgery rescue (because transfused platelets are rapidly destroyed by antibodies in the body)",
+     "Avoid aspirin, clopidogrel, ibuprofen, and other drugs that inhibit platelet function, as well as anticoagulants"
+    ],
+    "personalization": [
+     "Patients positive for Helicobacter pylori: standardized Hp eradication therapy; in some patients platelet count may increase significantly thereafter",
+     "Chronic refractory ITP: first choose oral TPO receptor agonists (e.g., eltrombopag) to maintain platelet count at a safe level (>30-50x10^9/L)",
+     "Acute ITP in children: most are self-limited; mild cases with only skin petechiae may be closely observed with steroids temporarily withheld"
+    ]
+   },
+   "disease": "Idiopathic thrombocytopenic purpura",
+   "department": "Hematology"
+  },
+  {
+   "presentation": "Anemia (pallor, fatigue, dizziness, palpitations); bleeding (petechiae and ecchymoses, gingival bleeding, epistaxis, melena); infection and fever (persistent high fever or recurrent infections); tissue and organ infiltration (generalized superficial painless lymphadenopathy, marked hepatosplenomegaly, severe bone and joint aching pain, especially marked tenderness over the mid-to-lower sternum; central nervous system leukemia manifests as headache, vomiting, somnolence, and neck stiffness).",
+   "interview_guide": {
+    "first_questions": [
+     "How long have you had pallor, dizziness, fatigue, and recurrent fever?",
+     "Do you have large purpura or ecchymoses on the skin, or frequent bleeding from the gums or nose?",
+     "Do you have obvious severe pain when pressing the sternum (mid-to-lower sternum) or the bones and joints of the limbs?"
+    ],
+    "followup_questions": [
+     "Have you felt many painless enlarged lymph nodes on both sides of the neck, in the axillae, or in the groin? Is your abdomen distended, or have you felt an enlarged spleen?",
+     "Have you had severe headache, double vision, projectile nausea and vomiting, or convulsions? (to evaluate central nervous system leukemia CNSL)",
+     "Before onset, were you ever exposed long-term to benzene-based chemical solvents, paint, radioactive radiation from marble, or antitumor alkylating agents?"
+    ],
+    "stop_conditions": [
+     "The four core leukemia syndrome components—anemia, bleeding, fever, and extramedullary infiltration—have been comprehensively collected",
+     "Central nervous system involvement and critical signs of severe pancytopenia with infection and bleeding have been strictly assessed",
+     "The indication evaluation for bone marrow aspiration and morphologic-immunophenotypic-cytogenetic-molecular (MICM) classification has been clarified"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete blood count + peripheral blood smear microscopy (WBC count often markedly increased or decreased, with numerous blasts and immature lymphocytes, accompanied by severe normocytic normochromic anemia and severe thrombocytopenia)",
+     "Bone marrow aspiration and smear + biopsy (bone marrow nucleated cell hyperplasia extremely or markedly active, blasts + immature lymphocytes >=20%—the gold standard for diagnosis)",
+     "Bone marrow cell immunophenotyping by flow cytometry (precisely distinguishes B-ALL from T-ALL)",
+     "Bone marrow cytogenetic karyotype analysis and fusion gene PCR/FISH (evaluate high-risk markers such as Ph chromosome/BCR-ABL1)"
+    ],
+    "if_suspected": [
+     "Lumbar puncture for cerebrospinal fluid routine and biochemical tests and centrifugation to identify lymphoblasts + prophylactic intrathecal injection (to confirm CNSL)",
+     "High-resolution chest CT (to evaluate mediastinal mass, which is more common in T-ALL, and severe pulmonary infection)",
+     "Four coagulation tests, serum uric acid, lactate dehydrogenase (LDH; to assess tumor lysis syndrome)"
+    ],
+    "avoid": [
+     "Blind empiric chemotherapy before bone marrow aspiration MICM classification is clarified",
+     "Blind forceful rough lumbar puncture when platelet count is severely low with severe headache"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Induction remission chemotherapy is the core: VP regimen (vincristine + prednisone) combined with anthracyclines (daunorubicin/idarubicin) and L-asparaginase (L-Asp)/pegaspargase to form the four-drug VDLP induction regimen",
+     "Ph+ ALL must be combined with tyrosine kinase inhibitors (TKIs such as imatinib/dasatinib) throughout treatment",
+     "Prevention and treatment of central nervous system leukemia (CNSL) (routine regular intrathecal injection of methotrexate MTX + cytarabine + dexamethasone)",
+     "After remission, consolidation and intensification chemotherapy and allogeneic hematopoietic stem cell transplantation (allo-HSCT) are performed."
+    ],
+    "safety_warnings": [
+     "During the initial stage of chemotherapy, tumor lysis syndrome (TLS) is highly likely to occur (hyperuricemia, hyperkalemia, hyperphosphatemia, hypocalcemia, and acute renal failure); adequate hydration, urine alkalinization, and use of allopurinol/rasburicase are required",
+     "During pegaspargase/L-asparaginase use, acute pancreatitis, coagulation disorders, and severe hypersensitivity reactions must be closely monitored",
+     "During severe bone marrow suppression with neutropenia, fatal sepsis is highly likely; strict protective isolation and empiric use of broad-spectrum antibiotics are required"
+    ],
+    "personalization": [
+     "Ph-positive (BCR-ABL+) adult ALL: first-line chemotherapy combined with a second-generation TKI (dasatinib) throughout; after achieving complete remission, allogeneic hematopoietic stem cell transplantation is preferred",
+     "Standard-risk B-ALL in children: treat with a standardized pediatric cooperative group protocol; cure rate can reach 85-90%, and bone marrow transplantation in first remission is mostly unnecessary",
+     "Relapsed/refractory ALL: CD19/CD22-targeted CAR-T cell immunotherapy or bispecific antibodies (blinatumomab) may be selected"
+    ]
+   },
+   "disease": "Acute lymphoblastic leukemia",
+   "department": "Hematology"
+  },
+  {
+   "presentation": "Patients often complain of persistent fatigue and palpitations and shortness of breath after activity, accompanied by pallor or sallow complexion. Some patients have dizziness, tinnitus, and poor concentration; severe cases may have angina or syncope. On observation, pale eyelid conjunctiva, thin and brittle nails, or koilonychia may be seen; some patients with iron deficiency anemia have pica (e.g., craving ice, dirt).",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently felt unusually tired or had palpitations and shortness of breath with slight activity?",
+     "Has your facial color or eyelid color become noticeably pale?",
+     "What is your recent diet like? Have you followed a long-term vegetarian diet or had picky eating?"
+    ],
+    "followup_questions": [
+     "If you have black stools or hematemesis, I need to ask about the amount and duration of the bleeding.",
+     "If you are a woman with increased menstrual flow, I need to ask about the number of days of your period and how often you change sanitary pads.",
+     "If you have pica or difficulty swallowing, I need to ask about your specific dietary habits and whether you have a sensation of a foreign body when swallowing."
+    ],
+    "stop_conditions": [
+     "It has been clarified that the main symptoms are fatigue and pallor with typical signs.",
+     "Key history has been obtained: bleeding history, menstrual history, dietary history, and medication history.",
+     "The patient has no manifestations of acute massive bleeding shock, and vital signs are stable."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete blood count (focus on Hb, MCV, MCH, RDW)",
+     "Reticulocyte count",
+     "Serum ferritin measurement"
+    ],
+    "if_suspected": [
+     "Serum iron, total iron-binding capacity, transferrin saturation",
+     "Vitamin B12 and folate levels",
+     "Fecal occult blood test"
+    ],
+    "avoid": [
+     "Blind bone marrow aspiration before the cause is clarified",
+     "Whole-body CT scanning without indication",
+     "Unnecessary full trace element screening"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For iron deficiency anemia, first-line treatment is oral ferrous sulfate or ferrous succinate, 150-200mg elemental iron daily, taken in divided doses; it is recommended to take with vitamin C to promote absorption; the course of treatment should be at least 3 months until hemoglobin is normal and iron stores are restored. For megaloblastic anemia, supplement folic acid or vitamin B12. At the same time, actively identify and treat the primary disease, such as controlling gastrointestinal bleeding or adjusting menstrual disorders."
+    ],
+    "safety_warnings": [
+     "Iron preparations are contraindicated in patients with hemochromatosis or hemosiderosis.",
+     "Avoid taking with tea, coffee, or calcium supplements to prevent reducing iron absorption rate.",
+     "Be alert to the risk of gastrointestinal reactions and iron poisoning caused by iron overdose."
+    ],
+    "personalization": [
+     "Pregnant women need increased iron dose and monitoring of fetal development.",
+     "Patients with renal insufficiency should use erythropoietin with caution and require dose adjustment.",
+     "In older adults, assess cardiovascular tolerance to prevent worsening heart failure."
+    ]
+   },
+   "disease": "anemia",
+   "department": "Hematology"
+  },
+  {
+   "presentation": "Patients often present with painless, progressively enlarging superficial lymphadenopathy, most commonly in the neck and axilla. Some patients have systemic symptoms such as fatigue, night sweats, and weight loss. Early stages may cause no obvious discomfort, and abnormalities may be found only on routine blood tests during physical examination (such as lymphocytosis). In advanced stages, splenomegaly, anemia, or recurrent infections may occur.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had unexplained lymph node enlargement or fatigue?",
+     "Have you recently had night sweats or significant weight loss?"
+    ],
+    "followup_questions": [
+     "If you have lymph node enlargement, please describe how its size has changed and whether it is accompanied by pain.",
+     "Have you had a history of recurrent infections or a tendency to bleed?"
+    ],
+    "stop_conditions": [
+     "The patient has been confirmed to have typical clinical manifestations and the complete blood count shows significantly increased lymphocytes.",
+     "The patient has provided a complete past medical history and family genetic information.",
+     "The initial assessment does not require further questioning before diagnostic testing can be arranged."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Peripheral blood smear and flow cytometry for CD5/CD19 expression",
+     "Bone marrow aspiration and biopsy",
+     "Quantitative immunoglobulin testing and β2-microglobulin testing"
+    ],
+    "if_suspected": [
+     "FISH testing for chromosomal abnormalities (such as del(17p), del(11q))",
+     "IgVH gene mutation status analysis",
+     "Abdominal ultrasound to assess the spleen and abdominal lymph nodes"
+    ],
+    "avoid": [
+     "Whole-body CT scanning without an indication",
+     "Unnecessary tissue biopsy (unless transformation is suspected)",
+     "Routine antibiotic use for infection prophylaxis (when asymptomatic)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment usually uses a BTK inhibitor (such as ibrutinib) or a BCL-2 inhibitor (such as venetoclax) combined with an anti-CD20 monoclonal antibody (such as obinutuzumab). The specific regimen should be determined according to the patient's risk stratification. The treatment course is generally continuous therapy until disease progression or intolerable toxicity. Supportive treatment includes infection prevention, correction of anemia, and monitoring for complications."
+    ],
+    "safety_warnings": [
+     "Pay attention to drug interactions, especially the effects of CYP3A4 inhibitors or inducers on the metabolism of BTK inhibitors.",
+     "Be alert for serious adverse reactions such as cardiotoxicity, increased bleeding risk, and the occurrence of second primary tumors.",
+     "Avoid use of the relevant drugs during pregnancy or breastfeeding."
+    ],
+    "personalization": [
+     "Older patients require dose adjustment and close monitoring of liver and kidney function.",
+     "Use BTK inhibitors with caution in patients with cardiovascular disease, and prefer other regimens.",
+     "Patients with high-risk genetic features should consider targeted therapy or clinical trials as early as possible."
+    ]
+   },
+   "disease": "Chronic lymphocytic leukemia",
+   "department": "Hematology"
+  },
+  {
+   "presentation": "Patients often present with unexplained fatigue, low-grade fever, night sweats, and weight loss. Some patients may have palpable splenomegaly, causing fullness or pain in the left upper abdomen. The skin may show pallor (anemia) or ecchymoses (thrombocytopenia), and a few patients have gingival hyperplasia or lymphadenopathy. Symptoms progress slowly and are easily mistaken for ordinary fatigue or infection; identification requires correlation with complete blood count abnormalities.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had fatigue, fever, or night sweats lasting more than two weeks?",
+     "Do you feel bloating, pain, or early satiety in the abdomen (especially the left upper abdomen)?"
+    ],
+    "followup_questions": [
+     "If you have gingival swelling or a tendency to bleed, what are the specific manifestations?",
+     "Have you recently had unexplained weight loss or a history of recurrent infections?"
+    ],
+    "stop_conditions": [
+     "The patient has clearly described typical systemic symptoms and has signs of splenomegaly.",
+     "The complete blood count shows an elevated absolute monocyte count, and other causes have been excluded.",
+     "Bone marrow examination has confirmed or made CMML highly suspected, and no further questioning is needed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Peripheral blood smear and complete blood count",
+     "Bone marrow aspiration and biopsy (including flow cytometry)",
+     "Chromosomal karyotyping and gene mutation testing (such as SRSF2, TET2, ASXL1, etc.)"
+    ],
+    "if_suspected": [
+     "Abdominal ultrasound or CT to assess spleen size",
+     "Iron metabolism indices and vitamin B12 level measurement",
+     "HIV and hepatitis virus screening to exclude secondary monocytosis"
+    ],
+    "avoid": [
+     "Whole-body PET-CT scanning without an indication",
+     "Unnecessary repeat testing with myelofibrosis-specific stains",
+     "Long-term empirical broad-spectrum antibiotic use before infection has been excluded"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For low-risk patients, the first choice is a hypomethylating agent (such as azacitidine 500mg/m² subcutaneously on days 1-5, with each 28-day period as one course) or hydroxyurea to control blood cell counts. For intermediate- and high-risk patients, consider allogeneic hematopoietic stem cell transplantation as the only curative modality. Supportive treatment includes transfusion to correct anemia and anti-infective management. Non-pharmacologic interventions emphasize nutritional support and moderate activity."
+    ],
+    "safety_warnings": [
+     "Hypomethylating agents may cause severe myelosuppression, and complete blood counts require close monitoring.",
+     "Avoid concomitant use with strong CYP3A4 inhibitors to prevent drug accumulation and toxicity.",
+     "Be alert for the risk of tumor lysis syndrome, especially in patients with high tumor burden."
+    ],
+    "personalization": [
+     "Older patients require adjustment of hypomethylating agent doses according to performance status.",
+     "Patients with renal impairment require longer azacitidine dosing intervals or dose reduction.",
+     "In patients with severe infection, temporarily defer chemotherapy and prioritize infection control."
+    ]
+   },
+   "disease": "Chronic myelomonocytic leukemia",
+   "department": "Hematology"
+  },
+  {
+   "presentation": "Patients often present with persistent cyanosis (bluish discoloration) since childhood, especially prominent on the lips, nail beds, and earlobes, but without dyspnea or symptoms of hypoxia. Oxygen saturation monitoring shows reduced values that do not improve with oxygen supplementation. Some patients may have dizziness, fatigue, or decreased exercise tolerance, and severe cases may develop neurologic symptoms such as somnolence or confusion.",
+   "interview_guide": {
+    "first_questions": [
+     "When did you first notice bluish discoloration of your lips or nails?",
+     "Does this bluish discoloration worsen with a cold or fatigue?",
+     "Does anyone else in your family have similar skin color changes?"
+    ],
+    "followup_questions": [
+     "When the bluish discoloration occurs, is it accompanied by obvious chest tightness or shortness of breath?",
+     "How is your usual exercise tolerance? Can you perform daily exercise normally?",
+     "Have you recently taken any medications that may cause cyanosis (such as benzocaine)?"
+    ],
+    "stop_conditions": [
+     "The age of onset, triggers, and family history have been clearly elicited, and the symptom description is consistent with typical features.",
+     "The patient is confirmed to have no signs of acute hypoxia, and vital signs are stable.",
+     "Secondary cyanosis caused by environmental factors (such as cold) or cardiopulmonary disease has been excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Arterial blood gas analysis (including co-oximetry for hemoglobin measurement)",
+     "Complete blood count and peripheral blood smear",
+     "Methemoglobin reduction test"
+    ],
+    "if_suspected": [
+     "NADH-methemoglobin reductase activity assay",
+     "CYP5B gene sequencing",
+     "Electrocardiogram and chest CT (to exclude structural cardiopulmonary disease)"
+    ],
+    "avoid": [
+     "Routine oxygen therapy as a diagnostic test (not helpful for diagnosis and potentially misleading)",
+     "Unnecessary invasive bone marrow aspiration",
+     "Nonspecific antibiotic therapy"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Asymptomatic patients usually require no specific treatment and only regular follow-up. For symptomatic patients or those with marked cyanosis, oral methylene blue (1-2mg/kg) three times daily is preferred, with the course adjusted according to the condition. If ineffective or not tolerated, high-dose oral vitamin C (100-300mg/day) may be considered. At the same time, avoid exposure to oxidizing drugs and foods and maintain adequate fluid intake."
+    ],
+    "safety_warnings": [
+     "Methylene blue is contraindicated in patients with G6PD deficiency; otherwise, it may induce hemolytic crisis.",
+     "Methylene blue overdose may cause paradoxical worsening of methemoglobinemia.",
+     "Concomitant use with monoamine oxidase inhibitors may trigger serotonin syndrome."
+    ],
+    "personalization": [
+     "Pediatric patients require precise calculation of methylene blue dose based on body weight and close observation of reactions.",
+     "Use methylene blue with caution in pregnant women, and prefer vitamin C or supportive therapy.",
+     "Older patients require attention to the effects of reduced liver and kidney function on drug metabolism and appropriate dose reduction."
+    ]
+   },
+   "disease": "Congenital methemoglobinemia",
+   "department": "Hematology"
+  },
+  {
+   "presentation": "Patients often present with painless, progressively enlarging lymphadenopathy, most commonly in the neck, axilla, or groin. Some patients have systemic symptoms such as fever, night sweats, and weight loss (B symptoms). If extranodal organs are involved, symptoms related to the affected site may occur, such as gastrointestinal discomfort, dyspnea, or neurologic abnormalities.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had unexplained lymph node enlargement?",
+     "Have you recently had fever, night sweats, or weight loss?"
+    ],
+    "followup_questions": [
+     "Is the enlarged lymph node accompanied by pain or tenderness?",
+     "Do you have abnormal symptoms in other areas, such as abdominal pain, cough, or headache?"
+    ],
+    "stop_conditions": [
+     "The patient has clearly described typical lymphadenopathy and B symptoms.",
+     "The patient has provided complete past medical history and family history information.",
+     "The patient has undergone an initial physical examination, and key signs have been confirmed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Lymph node biopsy (pathologic examination)",
+     "Whole-body PET-CT scan",
+     "Bone marrow aspiration and biopsy"
+    ],
+    "if_suspected": [
+     "Serum lactate dehydrogenase (LDH) testing",
+     "Immunohistochemical marker analysis (such as CD20, CD10, etc.)"
+    ],
+    "avoid": [
+     "Routine chest X-ray (of limited value for early diagnosis)",
+     "Abdominal ultrasound without an indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment usually uses the R-CHOP regimen (rituximab + cyclophosphamide + doxorubicin + vincristine + prednisone), with each 21-day period as one cycle, for a total of 6 cycles. Non-pharmacologic interventions include nutritional support and psychological counseling."
+    ],
+    "safety_warnings": [
+     "Avoid using immunosuppressants when severe infection is uncontrolled.",
+     "Note that rituximab may cause infusion reactions, and pretreatment is required.",
+     "Monitor for cardiotoxicity, especially when using anthracycline drugs."
+    ],
+    "personalization": [
+     "Older patients require dose adjustment to reduce adverse reactions.",
+     "Patients with renal impairment require adjustment of chemotherapy drug doses.",
+     "Use anthracyclines with caution in patients with cardiovascular disease."
+    ]
+   },
+   "disease": "Diffuse large B-cell lymphoma",
+   "department": "Hematology"
+  },
+  {
+   "presentation": "Patients often report unexplained rash, pruritus, or urticaria, accompanied by respiratory symptoms such as wheezing and dyspnea. Some patients have gastrointestinal discomfort such as abdominal pain, diarrhea, nausea, and vomiting, or nonspecific systemic symptoms such as arthralgia, fatigue, and low-grade fever. If the heart is involved, palpitations and chest pain may occur; if the nervous system is involved, paresthesia may occur. Symptoms are often chronic and progressive and are easily misdiagnosed as allergy or asthma.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had recurrent rash, pruritus, or dyspnea?",
+     "Have you recently taken a new medication or been exposed to a new food or pet?",
+     "Have you had long-standing abdominal pain, diarrhea, or weight loss?"
+    ],
+    "followup_questions": [
+     "If fever or night sweats are present, please describe the specific temperature and duration.",
+     "Do you have a history of asthma, allergic rhinitis, or parasitic infection?",
+     "Is there a family history of similar hematologic disease or autoimmune disease?"
+    ],
+    "stop_conditions": [
+     "A clear history of recent drug allergy has been established, and the complete blood count shows a transient elevation.",
+     "Primary hematologic malignancy has been excluded after peripheral blood smear and bone marrow examination have been completed.",
+     "A definite parasitic infection has been confirmed and anthelmintic treatment has been started."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete blood count with differential (including absolute eosinophil count)",
+     "Peripheral blood smear morphologic examination",
+     "Serum IgE level measurement",
+     "Stool routine and ova and parasite examination"
+    ],
+    "if_suspected": [
+     "Bone marrow aspiration and biopsy (to exclude clonal proliferation)",
+     "Abdominal CT or ultrasound (to assess hepatosplenomegaly, lymphadenopathy, and organ infiltration)",
+     "Autoantibody panel testing (to rule out connective tissue disease)",
+     "JAK2/CALR/MPL gene mutation screening"
+    ],
+    "avoid": [
+     "Whole-body PET-CT scanning without indication",
+     "Unnecessary empiric use of broad-spectrum antibiotics",
+     "Pulse corticosteroid therapy before the cause is clearly identified"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is glucocorticoids (e.g., prednisone 0.5-1mg/kg/d), with the dose gradually tapered according to response after a 2-4 week course. Secondary factors should be managed concurrently: discontinue suspected sensitizing drugs, provide standardized antiparasitic treatment, or control the primary allergic disease. For patients with refractory disease or high disease burden, hydroxyurea or interferon alfa may be added. Nonpharmacologic interventions include avoidance of known allergens and regular monitoring of the complete blood count."
+    ],
+    "safety_warnings": [
+     "Long-term corticosteroid use requires vigilance for osteoporosis, hyperglycemia, and secondary infection risk.",
+     "Avoid concomitant use with NSAIDs to prevent increased risk of gastrointestinal bleeding.",
+     "Liver function and electrolyte changes must be closely monitored during treatment."
+    ],
+    "personalization": [
+     "In pediatric patients, doses must be calculated precisely by body weight, and effects on growth and development should be monitored.",
+     "Older adults should start at low doses and titrate slowly to prevent falls and cardiovascular events.",
+     "For pregnant patients, prioritize regimens safe for the fetus, and use immunosuppressants with caution."
+    ]
+   },
+   "disease": "Eosinophilia",
+   "department": "Hematology"
+  },
+  {
+   "presentation": "Patients often report unexplained headache, dizziness, blurred vision, or burning pain and redness of the distal extremities (fingers/toes), and some have a mild bleeding tendency such as epistaxis or gingival oozing. Physical examination may reveal mild splenomegaly. Symptoms are often worse at rest and relieved by activity, and are easily misdiagnosed as migraine or peripheral neuropathy.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have recurrent headache, numbness, or burning in the hands and feet?",
+     "Have you recently had unexplained nosebleeds or skin bruises?"
+    ],
+    "followup_questions": [
+     "Are these symptoms more pronounced at rest and relieved after activity?",
+     "Is there a family history of similar hematologic disease or thrombosis?"
+    ],
+    "stop_conditions": [
+     "The complete blood count clearly shows persistently and markedly elevated platelets, and secondary factors have been excluded.",
+     "The patient has already been diagnosed and is receiving standard treatment, so baseline information does not need to be collected again.",
+     "The symptom description is clear and highly consistent with the typical clinical presentation, with no need for differential diagnosis."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete blood count and peripheral blood smear",
+     "JAK2 V617F gene mutation testing",
+     "Bone marrow aspiration biopsy and histopathologic examination"
+    ],
+    "if_suspected": [
+     "CALR or MPL gene mutation testing",
+     "Full coagulation panel and D-dimer",
+     "Abdominal ultrasound to assess spleen size"
+    ],
+    "avoid": [
+     "Excessively invasive angiography before routine anticoagulation",
+     "Whole-body PET-CT scanning without indication",
+     "Unnecessary full iron studies (unless iron deficiency is suspected)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "For high-risk patients, oral hydroxyurea is first-line, starting at 15-20mg/kg/d and adjusted according to platelet count",
+     "For low-risk young patients, aspirin (100mg/d) combined with interferon alfa may be selected. Treatment requires long-term maintenance, with the goal of keeping platelets below 400×10^9/L to reduce thrombotic risk. Smoking cessation, blood pressure control, and lipid control are also recommended."
+    ],
+    "safety_warnings": [
+     "Hydroxyurea carries a risk of bone marrow suppression; regular CBC monitoring is required to prevent agranulocytosis.",
+     "Long-term use of hydroxyurea may increase the risk of secondary malignant tumors; benefits and risks must be weighed.",
+     "Aspirin is contraindicated in patients with active gastrointestinal ulcer or severe bleeding tendency."
+    ],
+    "personalization": [
+     "Hydroxyurea is contraindicated in pregnant patients; interferon alfa should be used.",
+     "In older patients, the starting dose should be halved and titrated slowly to avoid severe bone marrow suppression.",
+     "In patients with renal impairment, the frequency of drug metabolism monitoring should be adjusted to avoid toxic accumulation."
+    ]
+   },
+   "disease": "Essential thrombocythemia",
+   "department": "Hematology"
+  },
+  {
+   "presentation": "Patients often present with progressive pancytopenia and report fatigue, recurrent infections, or unexplained bleeding. Typical signs include skin hyperpigmentation, nail abnormalities, microcephaly, and congenital anomalies such as absent thumb/radius. Onset is often in childhood, and bone marrow failure worsens with age; vigilance is needed for the risk of leukemic transformation.",
+   "interview_guide": {
+    "first_questions": [
+     "Is there a family history of similar anemia or birth defects?",
+     "Have you recently had unexplained fatigue, fever, or skin bruises?",
+     "During growth and development, have you had abnormalities of the fingers, bones, or kidney structure?"
+    ],
+    "followup_questions": [
+     "If you have noticed skin color changes, when did they appear and where are they located?",
+     "If you have recurrent infections, how often do they occur, and how well do antibiotics work?",
+     "If you have a bleeding tendency, where does the bleeding occur (such as nosebleeds or gums), and how long does it last?"
+    ],
+    "stop_conditions": [
+     "Congenital anomaly features have been clearly identified and are accompanied by progressive pancytopenia.",
+     "Family history clearly suggests an inherited bone marrow failure syndrome.",
+     "Initial screening shows a positive chromosome breakage test result."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Peripheral blood complete blood count and reticulocyte count",
+     "Chromosome breakage test (induced by mitomycin C or diepoxybutane)",
+     "Bone marrow aspiration and biopsy to assess hematopoietic function"
+    ],
+    "if_suspected": [
+     "Genetic testing (FANC gene panel sequencing)",
+     "Abdominal ultrasound to assess kidney and liver structure",
+     "Tumor marker screening to exclude early malignant transformation"
+    ],
+    "avoid": [
+     "Long-term high-dose iron therapy without indication",
+     "Unnecessary excessive immunosuppressive conditioning before bone marrow transplantation",
+     "Routine use of chemotherapeutic agents that may induce DNA damage as initial screening"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is androgen combined with hematopoietic growth factor stimulation, such as oral stanozolol daily, for at least 6 months to observe efficacy. For severe cases, early evaluation for allogeneic hematopoietic stem cell transplantation is required, as this is the only curative treatment. At the same time, regular CBC monitoring is needed to prevent infection and bleeding, with platelet or red blood cell transfusion support as necessary."
+    ],
+    "safety_warnings": [
+     "Long-term androgen use requires vigilance for hepatotoxicity and virilizing side effects",
+     "Avoid exposure to alkylating agents and other strongly mutagenic drugs to prevent induction of leukemia",
+     "Before transplantation, donor matching and GVHD risk must be strictly assessed"
+    ],
+    "personalization": [
+     "In pediatric patients, androgen doses must be precisely adjusted by body weight and bone age monitored",
+     "In female patients, attention should be paid to the effects of androgens on menstruation and fertility",
+     "In patients with solid tumors, radiotherapy and chemotherapy regimens need to be adjusted to reduce DNA damage"
+    ]
+   },
+   "disease": "Fanconi anemia",
+   "department": "Hematology"
+  },
+  {
+   "presentation": "Patients often present with progressive fatigue, recurrent infections, or unexplained fever. Physical examination may show marked splenomegaly (sometimes with hepatomegaly), but lymphadenopathy is rare. A typical laboratory feature is pancytopenia, especially monocytopenia, and bone marrow shows a 'dry tap' phenomenon. If this combination of symptoms is present, the disease should be highly suspected.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had extreme fatigue lasting several weeks or recurrent fever?",
+     "Recently, have you felt abdominal fullness or vague left upper quadrant pain?",
+     "Have you recently had unexplained petechiae or frequent infections?"
+    ],
+    "followup_questions": [
+     "If you have been told that your spleen is enlarged, has a doctor felt that your abdomen is much larger than usual?",
+     "If anemia is mentioned, do you have marked shortness of breath after activity or palpitations even at rest?",
+     "Have you ever taken immunosuppressants long-term, or do you have a history of chemotherapy?"
+    ],
+    "stop_conditions": [
+     "Pancytopenia and splenomegaly have been clearly described, and there are no complaints of involvement of other systems.",
+     "The patient has provided recent complete blood count and bone marrow aspiration results showing typical changes.",
+     "Symptoms and signs are highly consistent with the typical presentation, and further differentiation from other hematologic malignancies is not needed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Peripheral blood smear and flow cytometry (testing for CD11c, CD25, CD103, Annexin A1)",
+     "Bone marrow aspiration and biopsy (to assess reticulin fibrosis and hairy cell morphology)",
+     "BRAF V600E gene mutation testing"
+    ],
+    "if_suspected": [
+     "Abdominal ultrasound or CT (to assess spleen size and presence of infiltration)",
+     "Immunoglobulin quantification (to assess the degree of hypogammaglobulinemia)",
+     "HIV and hepatitis virus screening (to exclude secondary factors)"
+    ],
+    "avoid": [
+     "Routine lymph node biopsy (because this disease rarely involves lymph nodes, making it an ineffective procedure)",
+     "Empiric long-course treatment with nonspecific broad-spectrum antibiotics (avoid masking the condition before diagnosis)",
+     "Bone marrow cytogenetic karyotyping (unless concomitant other complex clonal abnormalities are suspected)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is purine analog therapy, such as cladribine (0.14 mg/kg/day intravenously for 5-7 consecutive days) or pentostatin (4 mg/m² once every 28 days for 4 doses). Blood count recovery must be closely monitored during treatment. For patients who cannot tolerate these agents, a rituximab-containing regimen may be considered. Nonpharmacologic interventions include prophylactic anti-infective measures and red blood cell or platelet transfusion support when necessary."
+    ],
+    "safety_warnings": [
+     "Risk of severe bone marrow suppression; regular CBC monitoring is required until complete recovery.",
+     "Cladribine may cause delayed lymphopenia and increase the risk of opportunistic infections (such as Pneumocystis pneumonia); prophylactic medication is recommended.",
+     "Contraindicated in pregnant women; patients of childbearing age must use strict contraception before and after treatment."
+    ],
+    "personalization": [
+     "In older patients, doses should be adjusted according to renal function, and the observation period should be extended to prevent infection.",
+     "In patients with massive splenomegaly, vigilance for splenic rupture risk is needed early in treatment, and vigorous exercise should be avoided.",
+     "For relapsed or refractory patients, hematopoietic stem cell transplantation evaluation may be considered, but age and performance status must be weighed."
+    ]
+   },
+   "disease": "Hairy cell leukemia",
+   "department": "Hematology"
+  },
+  {
+   "presentation": "Patients often report recurrent, spontaneous epistaxis, usually beginning in childhood. Some patients have bright red spider-like telangiectasias on the skin or mucosa (e.g., lips, tongue, fingertips) that blanch on pressure. If visceral involvement occurs, hemoptysis, hematochezia, or hematuria may occur; chronic long-term blood loss can cause iron deficiency anemia, manifesting as fatigue and pallor. There is often a similar family history.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you ever had recurrent epistaxis that is difficult to stop? At what age did it begin?",
+     "Are there small red spots on your lips, tongue, or fingers that disappear when pressed?",
+     "Do any of your first-degree relatives have similar bleeding symptoms or have they undergone related surgery?"
+    ],
+    "followup_questions": [
+     "Besides the nose, have you recently had hemoptysis, black stool, or hematuria?",
+     "Have you had unexplained headache, dizziness, or seizures (suggesting cerebral arteriovenous malformations)?",
+     "Have you ever had a blood transfusion for anemia or undergone nasal/lung surgery?"
+    ],
+    "stop_conditions": [
+     "The typical triad (epistaxis, telangiectasia, family history) has been clearly established, with no signs of other systemic involvement.",
+     "The patient has provided a complete family bleeding history and prior endoscopy results.",
+     "Other common coagulation disorders have been excluded, and the clinical diagnostic basis is sufficient."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "CBC (to assess the degree of anemia)",
+     "Full coagulation panel (to exclude other coagulation disorders)",
+     "Nasal endoscopy (to observe nasal vascular lesions)"
+    ],
+    "if_suspected": [
+     "Chest CT angiography (to screen for pulmonary arteriovenous malformations)",
+     "Brain MRI/MRA (to screen for cerebral arteriovenous malformations)",
+     "Genetic testing (to confirm HHT-related gene mutations)"
+    ],
+    "avoid": [
+     "Routine platelet aggregation function tests (unless concomitant other platelet disorders are suspected)",
+     "Invasive liver biopsy (unless there is high suspicion of hepatic vascular malformation and differentiation is needed)",
+     "Unnecessary systemic angiography (high radiation risk; noninvasive imaging is preferred)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment focuses on symptomatic hemostasis and correction of anemia. Topical tranexamic acid spray or oral formulations reduce the frequency of epistaxis.",
+     "For severe anemia, supplement iron or transfuse blood. For refractory epistaxis, laser coagulation or electrocautery can be performed. Avoid antiplatelet drugs such as aspirin. Nonpharmacologic interventions include keeping the nasal cavity moist and avoiding nose picking."
+    ],
+    "safety_warnings": [
+     "Caution is needed for thrombosis risk when using estrogen drugs (e.g., oral contraceptives), especially in patients with pulmonary arteriovenous malformations.",
+     "Long-term use of antifibrinolytic drugs (e.g., tranexamic acid) requires attention to the potential risk of deep vein thrombosis.",
+     "Central venous catheterization or tooth extraction and other procedures are strictly prohibited without screening for pulmonary arteriovenous malformations to prevent air embolism."
+    ],
+    "personalization": [
+     "Pregnant patients require adjustment of antifibrinolytic drug dosage and close monitoring for fetal and maternal hypoxia.",
+     "Elderly patients should have a reduced initial dose of antifibrinolytic drugs to prevent thrombotic complications.",
+     "For pediatric patients, local physical therapy is preferred, and systemic hormones or potent hemostatic drugs should be used with caution."
+    ]
+   },
+   "disease": "hereditary hemorrhagic telangiectasia",
+   "department": "Hematology"
+  },
+  {
+   "presentation": "Patients often report unexplained fatigue, increased susceptibility to infection, or a bleeding tendency, such as gum bleeding and skin ecchymoses. Some patients may have dull pain or fullness in the left upper abdomen, and physical examination shows marked splenomegaly. Symptoms are usually chronic and progressive, and CBC reveals pancytopenia (anemia, leukopenia, thrombocytopenia); identification requires correlation with the history of the primary disease.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had easy fatigue, recurrent fever, or unexplained bruises on your body?",
+     "Have you had distending pain in the left upper abdomen or postprandial fullness/discomfort?"
+    ],
+    "followup_questions": [
+     "How long have these symptoms lasted, and have they worsened recently?",
+     "Have you ever had liver cirrhosis, a hematologic disease, or long-term exposure to chemical toxins?"
+    ],
+    "stop_conditions": [
+     "Splenomegaly has been clearly established and CBC shows three-lineage cytopenia, and the primary cause has been identified.",
+     "The patient has completed key examinations such as abdominal imaging and bone marrow aspiration.",
+     "Symptoms and signs are highly consistent, and a preliminary plan can be made without further questioning."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "CBC and reticulocyte count",
+     "Abdominal ultrasound or CT (to assess spleen size and morphology)",
+     "Liver function and viral hepatitis marker testing"
+    ],
+    "if_suspected": [
+     "Bone marrow aspiration and biopsy (to exclude hematopoietic dysfunction)",
+     "Abdominal angiography or contrast-enhanced CT (to screen for portal hypertension)",
+     "Autoantibody panel screening (to exclude autoimmune disease)"
+    ],
+    "avoid": [
+     "Whole-body PET-CT without indication",
+     "Unnecessary invasive lymph node biopsy",
+     "Invasive procedures before coagulation function is assessed"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "The core of treatment is to control the primary disease. Mild patients can be monitored periodically.",
+     "For moderate-to-severe disease with severe cytopenias, drug treatment of the primary disease is first-line (e.g., antiviral therapy, hepatoprotective therapy). If drugs are ineffective and there is a high risk of severe bleeding, consider splenectomy or splenic artery embolization. Postoperatively, prevent thrombosis and overwhelming infection, and administer vaccines as needed. Nonpharmacologic interventions include avoiding abdominal trauma and high-protein dietary support."
+    ],
+    "safety_warnings": [
+     "After splenectomy, be alert for overwhelming post-splenectomy infection (OPSI); before surgery, vaccinate against pneumococcus and Haemophilus influenzae.",
+     "Anticoagulant drugs should be used cautiously to prevent postoperative deep vein thrombosis.",
+     "When using immunosuppressants, closely monitor for signs of infection and bone marrow suppression."
+    ],
+    "personalization": [
+     "For pediatric patients, partial splenectomy is preferred to preserve immune function.",
+     "Patients with cirrhosis and portal hypertension require assessment of liver function grade, and major surgery should be used cautiously.",
+     "For pregnant patients, conservative treatment is preferred, and delivery requires multidisciplinary collaborative management."
+    ]
+   },
+   "disease": "hypersplenism",
+   "department": "Hematology"
+  },
+  {
+   "presentation": "Patients often report unexplained persistent fever, fatigue, and pallor. Some patients have gum swelling and bleeding, epistaxis, or skin petechiae and ecchymoses, suggesting thrombocytopenia. If bone or joint pain, sternal tenderness, or lymphadenopathy/hepatosplenomegaly occurs, high vigilance is required. Symptoms are usually progressively worsening, and routine anti-infective treatment is ineffective.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had persistent fever, abnormal fatigue, or unexplained skin bleeding points?",
+     "Have you felt bone pain (especially in the sternum), or noticed painless masses on your body (such as enlarged lymph nodes)?"
+    ],
+    "followup_questions": [
+     "Are the bleeding symptoms spontaneous or do they occur after minor trauma? Is there black stool or blood in urine?",
+     "Have you had significant weight loss recently? Do you have night sweats?",
+     "Have you ever had benzene exposure, radiation exposure, or chemotherapy drug use?"
+    ],
+    "stop_conditions": [
+     "The patient has clearly described typical anemia, bleeding, and infiltration symptoms, and the course is consistent with acute progression.",
+     "The patient has provided recent CBC results showing abnormally high or low white blood cells with blasts.",
+     "The patient's vital signs are stable, with no signs of emergency massive bleeding or severe septic shock, and the patient can proceed to the examination stage."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Peripheral blood smear and CBC (with focus on blast proportion)",
+     "Bone marrow aspiration and bone marrow biopsy (gold standard for diagnosis)",
+     "Flow cytometry immunophenotyping (to determine leukemia type)"
+    ],
+    "if_suspected": [
+     "Chromosome karyotype analysis and fusion gene testing (to assess prognosis and targeted therapy)",
+     "Lumbar puncture for cerebrospinal fluid examination (to screen for central nervous system infiltration)",
+     "Full coagulation panel (to assess DIC risk)"
+    ],
+    "avoid": [
+     "Deep intramuscular injection before excluding coagulation dysfunction",
+     "Unnecessary contrast-enhanced CT (to avoid contrast nephrotoxicity unless organ infiltration must be assessed)",
+     "Blind empiric use of broad-spectrum antibiotics without obtaining culture specimens"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Develop a regimen according to the subtype: for acute lymphoblastic leukemia, the VDLP regimen is preferred (vincristine, daunorubicin, L-asparaginase, prednisone); for acute myeloid leukemia, the DA regimen is commonly used (idarubicin + cytarabine). The induction remission period is about 4 weeks, followed by consolidation and intensification therapy. Throughout the entire course, transfusion support, anti-infection measures, and prevention of tumor lysis syndrome are required."
+    ],
+    "safety_warnings": [
+     "Strictly prohibit invasive procedures when platelets <20×10^9/L to prevent fatal bleeding",
+     "Use of anthracyclines requires close monitoring of cardiac function to prevent irreversible myocardial injury",
+     "L-asparaginase may induce pancreatitis and hypersensitivity reactions; a skin test is required before administration and emergency drugs should be available"
+    ],
+    "personalization": [
+     "For elderly patients, adjust the dose according to performance status, preferring low-intensity regimens or hypomethylating agents",
+     "For pediatric patients, pay attention to growth and developmental effects, and strengthen psychological intervention and long-term follow-up",
+     "For patients with hepatic and renal impairment, adjust doses of drugs such as cytarabine according to creatinine clearance"
+    ]
+   },
+   "disease": "Leukemia",
+   "department": "Hematology"
+  },
+  {
+   "presentation": "Patients often present with painless, progressive generalized superficial lymphadenopathy, mostly in the neck and axilla. Some patients have hepatosplenomegaly. Systemic symptoms include unexplained fever, night sweats, and weight loss (B symptoms). In advanced stages, bone marrow infiltration can cause anemia, thrombocytopenia, or leukocyte abnormalities, and occasional gastrointestinal involvement causes abdominal pain or malabsorption.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently noticed a painless mass or enlarged lymph node anywhere on your body?",
+     "Have you had unexplained fever, heavy night sweats, or significant weight loss in the past three months?"
+    ],
+    "followup_questions": [
+     "If lymphadenopathy is present, please describe its size, how quickly it changes, and whether it is painful?",
+     "Do you have symptoms suggesting impaired bone marrow function, such as fatigue, skin ecchymoses, or recurrent infections?"
+    ],
+    "stop_conditions": [
+     "The distribution and size of major lymph nodes and details of accompanying B symptoms have been clearly recorded.",
+     "It has been confirmed that there are no other system-specific symptoms (such as severe gastrointestinal bleeding or focal neurologic signs).",
+     "The patient's past medical history includes no family history of similar hematologic malignancy or related autoimmune disease."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Peripheral blood smear and flow cytometry immunophenotyping",
+     "Bone marrow aspiration and biopsy with pathologic morphologic examination",
+     "FISH testing for CCND1 gene rearrangement (t(11",
+     "14))"
+    ],
+    "if_suspected": [
+     "Whole-body PET-CT to assess the extent of metabolically active lesions",
+     "Abdominal contrast-enhanced CT or ultrasound to evaluate the liver, spleen, and abdominal lymph nodes",
+     "Serum LDH and β2-microglobulin level measurement"
+    ],
+    "avoid": [
+     "Routine open lung biopsy (unless there is an isolated pulmonary lesion and noninvasive methods cannot confirm the diagnosis)",
+     "Unnecessary repeat bone marrow aspiration (if recent clear results are available)",
+     "Whole-body radionuclide scanning without indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment usually uses rituximab-containing combination chemotherapy regimens, such as the BR regimen (bendamustine + rituximab) or R-CHOP. For young transplant-eligible patients, autologous hematopoietic stem cell transplantation consolidation can be performed after induction remission. During treatment, CBC and liver and renal function should be monitored; the course is usually 6 cycles, adjusted according to response assessment."
+    ],
+    "safety_warnings": [
+     "Bendamustine may cause severe delayed hypersensitivity reactions and bone marrow suppression; strict infection prevention is required.",
+     "During rituximab infusion, be alert for infusion reactions; the first dose should be infused slowly and rescue drugs should be available.",
+     "Avoid concomitant use with strong CYP3A4 inhibitors to prevent increased toxicity due to abnormal drug metabolism."
+    ],
+    "personalization": [
+     "For elderly patients or those with poor performance status (ECOG ≥2), alkylating agents should be used at reduced doses or a single-agent regimen should be selected.",
+     "For patients with chronic hepatitis B infection, anti-CD20 monoclonal antibodies should be used under antiviral therapy protection to prevent viral reactivation.",
+     "For relapsed/refractory patients, BTK inhibitors (e.g., ibrutinib) or CAR-T cell therapy may be considered."
+    ]
+   },
+   "disease": "Mantle cell lymphoma",
+   "department": "Hematology"
+  },
+  {
+   "presentation": "Patients often report persistent, progressively worsening bone pain, most commonly in the lower back or ribs, worse at night. Some patients develop unexplained anemia symptoms, such as fatigue and pallor. If accompanied by recurrent infections (e.g., pneumonia) or unexplained manifestations of hypercalcemia (nausea, polyuria, confusion), a high index of suspicion is required. Ask about any recent history of fracture or pathologic fracture.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had persistent lower back or bone pain?",
+     "Have you had unexplained fatigue, dizziness, or recurrent fever?"
+    ],
+    "followup_questions": [
+     "Does the pain worsen at night or after mild activity?",
+     "Have you had any recent fractures or a noticeable decrease in height?"
+    ],
+    "stop_conditions": [
+     "Typical bone pain and anemia symptoms have been clearly described, with no interference from other systemic diseases.",
+     "The patient has provided recent complete blood count and biochemistry results showing hypercalcemia or renal dysfunction.",
+     "The patient's complaints are consistent with the previously confirmed medical history, and basic information does not need to be collected again."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum protein electrophoresis and immunofixation electrophoresis",
+     "Serum free light chain assay",
+     "24-hour urine protein quantification and urine immunofixation electrophoresis",
+     "Whole-body low-dose CT or whole-body MRI examination"
+    ],
+    "if_suspected": [
+     "Bone marrow aspirate smear and flow cytometry",
+     "Bone marrow biopsy pathologic examination",
+     "β2-microglobulin and lactate dehydrogenase testing"
+    ],
+    "avoid": [
+     "Routine plain radiography (insensitive to early lesions and prone to missed diagnosis)",
+     "Unnecessary invasive bone scan (unless metastatic tumor is suspected)",
+     "PET-CT without an indication (low cost-effectiveness as an initial screening method)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment usually uses a triplet or quadruplet regimen, such as bortezomib combined with lenalidomide and dexamethasone (VRd). Bortezomib initial dose 1.3mg/m² subcutaneously once weekly",
+     "Lenalidomide 25mg orally on days 1-21",
+     "Dexamethasone 40mg orally on days 1, 8, 15, and 22. The course is usually 6-9 cycles. At the same time, bisphosphonates should be given to prevent skeletal-related events, and hydration and calcium-lowering treatment should be provided for hypercalcemia."
+    ],
+    "safety_warnings": [
+     "Bortezomib may cause peripheral neuropathy; monitor for limb numbness and adjust the dose promptly.",
+     "Lenalidomide is teratogenic; women of childbearing potential must use strict contraception.",
+     "Long-term dexamethasone use requires vigilance for the risks of hyperglycemia, gastrointestinal bleeding, and osteoporosis."
+    ],
+    "personalization": [
+     "Older patients or those with poor performance status may receive reduced-dose proteasome inhibitors or single-agent treatment.",
+     "In patients with renal impairment, adjust the doses of lenalidomide and bortezomib according to creatinine clearance.",
+     "Patients with diabetes require close blood glucose monitoring and, if necessary, adjustment of insulin dosage."
+    ]
+   },
+   "disease": "Multiple myeloma",
+   "department": "Hematology"
+  },
+  {
+   "presentation": "Patients often present with anemia symptoms such as progressive fatigue and pallor, and some have recurrent infections or unexplained fever. Bleeding tendencies such as petechiae, ecchymoses, or gingival bleeding may be seen. The course is insidious, and early symptoms are atypical, so it is easily mistaken for ordinary anemia or age-related frailty; vigilance is needed when cytopenias persist and are unresponsive to conventional iron supplementation.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently felt unusually fatigued or short of breath after activity?",
+     "Have you had unexplained fever, recurrent infections, or bruising/bleeding on the body?"
+    ],
+    "followup_questions": [
+     "How long have these symptoms lasted? Have you had a complete blood count, and if so, what were the results?",
+     "Have you recently had exposure to chemical toxins or radiation, or long-term use of specific medications?"
+    ],
+    "stop_conditions": [
+     "A history of pancytopenia lasting more than 3 months has been clearly established.",
+     "The patient has been diagnosed with MDS and is receiving related treatment, so basic questioning does not need to be repeated.",
+     "Symptoms are clearly described, and common benign causes such as iron deficiency anemia have been excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Peripheral blood smear and complete blood count (focus on trilineage cytopenia and dysplasia)",
+     "Bone marrow aspirate smear and biopsy (assess blast percentage and morphology)",
+     "Bone marrow cytogenetic karyotype analysis (assess prognostic stratification)"
+    ],
+    "if_suspected": [
+     "Flow cytometric immunophenotyping (adjunctive diagnosis and minimal residual disease monitoring)",
+     "Molecular genetic mutation testing (e.g., SF3B1, TP53, NPM1, etc.)",
+     "Iron metabolism indices and vitamin B12/folate level testing (to exclude other anemias)"
+    ],
+    "avoid": [
+     "Whole-body CT or PET-CT scanning without an indication (unless concurrent solid tumor is suspected)",
+     "Unnecessary repeated bone marrow aspirations (increase pain and have low yield)",
+     "Empirical high-dose pulse corticosteroid therapy (contraindicated when there is no clear indication)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Develop a regimen according to IPSS-R risk stratification. For the low-risk group, first-line treatment is a hypomethylating agent (e.g., azacitidine 500mg/m² subcutaneously on days 1-5, every 28 days as one course) combined with erythropoietin",
+     "For the intermediate- to high-risk group, a hypomethylating agent alone or combined with chemotherapy is recommended. Supportive treatment includes blood component transfusion to maintain hemoglobin >70g/L and, if necessary, G-CSF to increase neutrophils."
+    ],
+    "safety_warnings": [
+     "Hypomethylating agents may worsen myelosuppression; complete blood count must be monitored closely.",
+     "When antibiotics are used long-term to prevent infection, vigilance is needed for fungal resistance and superinfection.",
+     "Frequent transfusions may lead to iron overload; serum ferritin should be monitored regularly and iron chelation therapy initiated when appropriate."
+    ],
+    "personalization": [
+     "Older patients or those with poor performance status (ECOG≥3) should receive reduced drug doses or only best supportive care.",
+     "Patients with severe hepatic and renal impairment require dose adjustment of hypomethylating agents or should avoid them.",
+     "Allogeneic hematopoietic stem cell transplantation is a potential cure in younger patients with a suitable donor and should be evaluated as early as possible."
+    ]
+   },
+   "disease": "myelodysplastic syndrome",
+   "department": "Hematology"
+  },
+  {
+   "presentation": "Patients often present with progressive fatigue, weight loss, and left upper abdominal fullness (due to splenomegaly). Some patients have unexplained anemia symptoms, such as pallor and palpitations. Physical examination may reveal marked splenomegaly, with occasional hepatomegaly. In advanced stages, bone pain or pruritus may occur.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had persistent fatigue, weight loss, or left upper abdominal discomfort?",
+     "Have you recently had unexplained anemia or a bleeding tendency?"
+    ],
+    "followup_questions": [
+     "If you have symptoms of an enlarged spleen, have you had early satiety or worsening abdominal bloating?",
+     "If you have bone pain, where is the pain, and is it related to activity?"
+    ],
+    "stop_conditions": [
+     "The main symptoms have been clarified and the sign of splenomegaly has been confirmed.",
+     "The patient has no history of other systemic diseases and the symptoms are typical.",
+     "Initial laboratory tests have been completed and show abnormalities."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete blood count (CBC)",
+     "Peripheral blood smear",
+     "Bone marrow aspiration and biopsy"
+    ],
+    "if_suspected": [
+     "JAK2 V617F mutation testing",
+     "CALR or MPL gene mutation analysis",
+     "Abdominal ultrasound or CT to assess spleen size"
+    ],
+    "avoid": [
+     "Routine X-ray examination (unless pathologic fracture is suspected)",
+     "Unnecessary whole-body PET-CT scanning",
+     "Repeat bone marrow aspiration (if there are no new symptoms)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes JAK inhibitors (e.g., ruxolitinib) to relieve splenomegaly and symptoms, with the dose adjusted according to platelet levels. For high-risk patients, allogeneic hematopoietic stem cell transplantation should be considered. Supportive treatment should also be given, such as blood transfusion to correct anemia or erythropoietin. Nonpharmacologic interventions include avoiding strenuous exercise to prevent splenic rupture."
+    ],
+    "safety_warnings": [
+     "Note that JAK inhibitors may increase infection risk; complete blood count should be monitored regularly.",
+     "Avoid concomitant use with other immunosuppressants to prevent serious adverse reactions.",
+     "Be alert for drug-induced neutropenia or thrombocytopenia."
+    ],
+    "personalization": [
+     "Older patients require a reduced starting dose and close monitoring for adverse effects.",
+     "Patients with renal impairment require adjustment of the drug metabolism regimen.",
+     "JAK inhibitors are contraindicated in pregnant women; supportive treatment should be preferred."
+    ]
+   },
+   "disease": "myelofibrosis",
+   "department": "Hematology"
+  },
+  {
+   "presentation": "Patients often present with painless or painful subcutaneous nodules or masses, most commonly on the chest wall, back, or lymph node regions. Some patients may have systemic symptoms such as fever and fatigue. If the central nervous system is involved, headache, vomiting, or neurologic deficits may be seen. The masses are relatively firm and grow rapidly, and are easily misdiagnosed as soft tissue tumors or lymphoma; judgment should be made in conjunction with hematologic abnormalities (e.g., leukocytosis, anemia).",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have any rapidly growing mass on your body? Where is it located, and how large is it?",
+     "Have you recently had unexplained fever, night sweats, or weight loss?",
+     "Do you have any history of leukemia or records of abnormal hematologic tests?"
+    ],
+    "followup_questions": [
+     "Is the mass accompanied by pain or changes in skin color?",
+     "Have you had neurologic symptoms such as gingival swelling, blurred vision, or limb numbness?",
+     "Did recent complete blood count results show an abnormal increase in white blood cells or a decrease in platelets?"
+    ],
+    "stop_conditions": [
+     "The nature of the mass has been clarified and confirmed to be related to a hematologic disease",
+     "The patient's presenting symptoms are typical and accompanied by clear hematologic abnormalities",
+     "Initial physical examination has been completed and key laboratory data obtained"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Bone marrow aspiration and biopsy",
+     "Flow cytometric immunophenotyping",
+     "Histopathologic examination and immunohistochemical staining"
+    ],
+    "if_suspected": [
+     "Whole-body PET-CT scanning to assess disease extent",
+     "Chromosomal karyotype analysis and gene mutation testing",
+     "Lumbar puncture for cerebrospinal fluid examination to exclude central nervous system involvement"
+    ],
+    "avoid": [
+     "Routine plain radiography (low soft tissue resolution)",
+     "Nonspecific inflammatory marker screening (e.g., testing only CRP without a targeted indication)",
+     "Blind excisional biopsy of the mass without prior imaging evaluation"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is an intensive chemotherapy regimen (e.g., DA, IA, or CLAG-M) combined with a targeted drug (e.g., gemtuzumab ozogamicin). The course is usually 2-3 cycles, and whether to perform hematopoietic stem cell transplantation is determined according to the response. Local radiotherapy may be used to control isolated lesions or to shrink the tumor before surgery. Treatment requires close monitoring of blood counts and hepatic and renal function, and prevention of infectious and bleeding complications."
+    ],
+    "safety_warnings": [
+     "Avoid using myelotoxic drugs during severe myelosuppression",
+     "Note the risk of hepatic veno-occlusive disease that may be caused by gemtuzumab ozogamicin",
+     "Strictly prevent serious infections caused by neutropenia during chemotherapy"
+    ],
+    "personalization": [
+     "Older patients require reduced chemotherapy doses and enhanced supportive care",
+     "In patients with hepatic and renal impairment, adjust pharmacokinetic parameters",
+     "Teratogenic chemotherapy drugs are contraindicated in pregnant women; a multidisciplinary consultation is needed to formulate an alternative regimen"
+    ]
+   },
+   "disease": "myeloid sarcoma",
+   "department": "Hematology"
+  },
+  {
+   "presentation": "Patients often present with progressive osteosclerosis and a predisposition to fractures. Typical symptoms include visual or hearing loss caused by cranial nerve compression, and dysphagia and facial palsy caused by cranial nerve palsies. Because of narrowing of the marrow cavity, severe anemia, bleeding tendency, and recurrent infections may occur. In pediatric patients, growth retardation, delayed tooth eruption, and abnormal enlargement of the jaw may be seen.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had any unexplained fractures or bone pain?",
+     "Recently, have you noticed blurred vision, hearing loss, or facial numbness?",
+     "Is there any family history of similar bone hardening or recurrent infections?"
+    ],
+    "followup_questions": [
+     "If anemia symptoms are present, ask: Do you have pallor, fatigue, or palpitations after activity?",
+     "If dysphagia is mentioned, ask: Is eating solid food obstructed, or do you choke?",
+     "If dental problems are noted, ask: Did your teeth erupt very late, or do you have recurrent toothache?"
+    ],
+    "stop_conditions": [
+     "Typical osteosclerosis, multiple fractures, and cranial nerve compression symptoms have been explicitly asked about and documented.",
+     "Family history has been confirmed, or a gene mutation related to osteogenesis imperfecta has been diagnosed.",
+     "The patient has already undergone imaging (such as X-ray) confirming generalized increased bone density throughout the skeleton."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Complete physical examination (with emphasis on bone hardness and neurologic signs)",
+     "Plain radiographs of the whole skeleton (to observe cortical thickening and loss of the medullary cavity)",
+     "Complete blood count (to assess the degree of anemia and thrombocytopenia)"
+    ],
+    "if_suspected": [
+     "Head CT or MRI (to assess cranial nerve compression and hydrocephalus)",
+     "Bone mineral density measurement (DXA scan to quantify abnormal bone density)",
+     "Genetic testing (to screen for mutations in osteoblast-related genes such as COL1A1/COL1A2)"
+    ],
+    "avoid": [
+     "Unnecessary bone biopsy (because the bone is extremely hard, the procedure carries high risk and has limited diagnostic value)",
+     "Excessive coagulation screening before routine anticoagulation (unless there is a clear indication of bleeding)",
+     "Whole-body radionuclide bone scan without indication (increases radiation exposure and has low specificity for osteosclerotic bone)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "There is currently no curative treatment; management is mainly symptomatic and supportive. For severe anemia, regular red blood cell transfusions are required.",
+     "Broad-spectrum antibiotics should be used promptly when infection occurs. For the skeletal disease, bisphosphonates may be considered to inhibit bone resorption, but renal function must be monitored closely. Physical therapy helps maintain joint mobility and prevent muscle atrophy."
+    ],
+    "safety_warnings": [
+     "Bisphosphonates may cause osteonecrosis of the jaw; oral status must be assessed before use.",
+     "Avoid invasive procedures in osteoporotic areas to prevent iatrogenic fractures.",
+     "Long-term use of steroid analgesics requires vigilance for gastrointestinal bleeding and the risk of immunosuppression."
+    ],
+    "personalization": [
+     "Infants and young children require adjusted drug doses, with priority given to growth and developmental needs.",
+     "Bisphosphonates are contraindicated in pregnant patients; management should focus on nutritional support and symptom control.",
+     "In older patients, the drug dosing interval should be adjusted according to renal function to prevent accumulation and toxicity."
+    ]
+   },
+   "disease": "Osteopetrosis",
+   "department": "Hematology"
+  },
+  {
+   "presentation": "Patients often present with acute onset accompanied by extreme fatigue, fever, and bone pain. Typical features are a markedly elevated plasma cell proportion in peripheral blood (usually ≥20% or an absolute count ≥2×10^9/L), together with anemia, bleeding tendency, and hepatosplenomegaly and lymphadenopathy. Some patients may rapidly progress to multi-organ failure; be alert to impaired consciousness or rapid renal deterioration caused by hypercalcemia.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had persistent high fever or severe bone pain of unknown cause?",
+     "Have you noticed any abnormal bleeding spots on your body or gums that keep oozing blood?",
+     "Has your weight dropped noticeably in a short period recently?"
+    ],
+    "followup_questions": [
+     "If bone pain is present, please describe the exact location and whether it worsens at night.",
+     "Do you have symptoms suggestive of hypercalcemia, such as blurred vision, thirst, or frequent urination?",
+     "Have you had a history of myeloma or long-term use of related medications?"
+    ],
+    "stop_conditions": [
+     "Peripheral blood smear has clearly shown numerous immature plasma cells and bone marrow biopsy has confirmed the diagnosis.",
+     "The patient's vital signs are unstable and the patient requires immediate transfer to the resuscitation pathway; no further detailed history-taking is needed.",
+     "Key laboratory results (complete blood count, chemistry) have been reported and support the diagnosis."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Peripheral blood smear and flow cytometry to determine the plasma cell proportion",
+     "Bone marrow aspiration and biopsy with immunohistochemical analysis",
+     "Serum protein electrophoresis and immunofixation electrophoresis"
+    ],
+    "if_suspected": [
+     "Whole-body low-dose CT or PET-CT to assess bone destruction",
+     "β2-microglobulin and lactate dehydrogenase measurement to assess tumor burden",
+     "Genetic mutation screening (such as TP53, MYC) to guide prognostic stratification"
+    ],
+    "avoid": [
+     "Lumbar puncture without indication (unless central nervous system involvement is suspected)",
+     "Invasive organ biopsy in non-emergency settings",
+     "Repeated routine infection screening with no clinical significance"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line therapy is a bortezomib-based combination chemotherapy regimen (such as VCD or VRd), together with high-dose chemotherapy and autologous hematopoietic stem cell transplantation. Bisphosphonates should be used concurrently to control bone disease, and hydration and alkalinization should be given to prevent tumor lysis syndrome. The treatment course is typically induction followed by maintenance therapy, with the specific regimen adjusted according to the patient's performance status."
+    ],
+    "safety_warnings": [
+     "Invasive procedures are strictly prohibited when the platelet count is extremely low, to prevent fatal bleeding",
+     "Note that bortezomib may induce peripheral neuropathy and herpes zoster reactivation",
+     "Be alert to the risk of arrhythmia and renal failure caused by hypercalcemia"
+    ],
+    "personalization": [
+     "Elderly patients or those with poor performance status require reduced chemotherapy doses or a switch to single-agent maintenance",
+     "In patients with renal impairment, drug doses should be adjusted according to creatinine clearance",
+     "In patients with diabetes, the effects of steroids and proteasome inhibitors on blood glucose must be monitored closely"
+    ]
+   },
+   "disease": "Plasma cell leukemia",
+   "department": "Hematology"
+  },
+  {
+   "presentation": "Patients often report recurrent bleeding that is spontaneous or prolonged after minor trauma, typically presenting as mucocutaneous bleeding (such as epistaxis, gum oozing), menorrhagia, and delayed bleeding after surgery or tooth extraction. Some patients have deep hematomas in joints or muscles. Severity varies; mild patients may show a bleeding tendency only under stress, and assessment requires combining family history with bleeding time.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have recurrent nosebleeds, bleeding when brushing your teeth, or heavy menstrual periods?",
+     "Have you ever had difficulty stopping bleeding after surgery, tooth extraction, or childbirth?"
+    ],
+    "followup_questions": [
+     "Is the bleeding associated with minor bumps or with no obvious trigger?",
+     "Do any of your immediate family members have a similar history of bleeding?",
+     "Have you recently taken aspirin, ibuprofen, or other drugs that affect platelet function?"
+    ],
+    "stop_conditions": [
+     "The bleeding pattern has been clearly established as predominantly mucosal/skin without deep hematomas, and a family history has been confirmed.",
+     "Anticoagulant use or acquired coagulation factor inhibitors have been excluded.",
+     "The patient's history is clear, and the frequency and severity of bleeding are sufficient to initiate laboratory screening."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Coagulation panel (PT, APTT, FIB, TT)",
+     "von Willebrand factor antigen assay (vWF:Ag)",
+     "von Willebrand factor activity assay (vWF:RCo or vWF:GPIbM)",
+     "Factor VIII activity assay (FVIII:C)"
+    ],
+    "if_suspected": [
+     "Ristocetin cofactor activity assay (vWF:RCo)",
+     "von Willebrand factor multimer analysis",
+     "Platelet aggregation test (ristocetin-induced)",
+     "Genetic testing (vWF gene mutation analysis)"
+    ],
+    "avoid": [
+     "Routine bone marrow aspiration (unless another hematologic malignancy is suspected)",
+     "Unnecessary invasive biopsy (increases bleeding risk)",
+     "Diagnosing hemophilia A based solely on a prolonged APTT while ignoring vWF testing"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Desmopressin (DDAVP) is the first choice, 0.3 μg/kg by intravenous infusion or subcutaneous injection, suitable for type 1 and some type 2A VWD; it raises endogenous vWF and FVIII levels",
+     "For severe bleeding or when DDAVP is ineffective, use cryoprecipitate containing high-purity vWF or specific concentrate products. The treatment course depends on bleeding severity; a single dose is usually effective, and repeat dosing requires monitoring of tolerability. Local hemostatic measures should be combined, and antiplatelet drugs such as aspirin should be avoided."
+    ],
+    "safety_warnings": [
+     "Continuous use of desmopressin for more than 48 hours tends to produce tachyphylaxis; repeat dosing should be at intervals of at least 24–48 hours.",
+     "Be alert to the risk of hyponatremia and water intoxication; fluid intake must be strictly restricted during treatment.",
+     "Contraindicated in patients with known hypersensitivity to desmopressin or severe cardiovascular disease."
+    ],
+    "personalization": [
+     "In pediatric patients, doses must be calculated precisely by body weight, with close monitoring of electrolytes.",
+     "In pregnant and peripartum patients, vWF-containing concentrates should be preferred to avoid uterine atony caused by DDAVP.",
+     "In older patients, cardiac and renal function should be assessed, and desmopressin used cautiously to prevent volume overload."
+    ]
+   },
+   "disease": "von Willebrand disease",
+   "department": "Hematology"
+  }
+ ]
+}

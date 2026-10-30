@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
-"""⑥ AttendingAgent 主治：归纳一致项与冲突项，输出最终诊断和一线治疗方案（诊断名 100% 对齐名录）。"""
+"""(6) AttendingAgent: summarise agreements and conflicts, output the final diagnosis and first-line plan (names aligned to the catalog)."""
 from agent.roles.base import RoleAgent
+
+FALLBACK_DIAGNOSIS = 'Refer for specialist evaluation'
 
 
 class AttendingAgent(RoleAgent):
@@ -19,29 +21,31 @@ class AttendingAgent(RoleAgent):
         knowledge = self.kb.format_skills(skills[:4])
         opinions = []
         for lane, op in d['specialists'].items():
-            opinions.append(f"[通道 {lane} · {op.get('department')}] 主判断：{op.get('primary_opinion')}；"
-                            f"倾向疾病：{', '.join(op.get('likely_diseases', []))}；"
-                            f"建议：{', '.join(op.get('recommendations', []))}")
-        user = _case_text(d) + '\n\n双专科会诊意见：\n' + '\n'.join(opinions)
+            opinions.append(f"[Lane {lane} · {op.get('department')}] Main judgement: {op.get('primary_opinion')}; "
+                            f"leading diseases: {', '.join(op.get('likely_diseases', []))}; "
+                            f"recommendations: {', '.join(op.get('recommendations', []))}")
+        names = sorted({c.get('disease', '') for c in cands} |
+                       {n for op in d['specialists'].values() for n in op.get('likely_diseases', [])
+                        if self.kb.canonical_disease(n)})
+        user = (_case_text(d) + '\n\nDual-specialist opinions:\n' + '\n'.join(opinions) +
+                f"\n\nStandard disease names available for diagnosis_candidates (copy exactly): {'; '.join(names)}")
         if rejection:
-            user += (f"\n\n【安全审查第 {revision_no} 轮驳回意见，必须逐条落实修订】\n" +
+            user += (f"\n\n[Safety review round {revision_no} REJECTED the plan. Address every point below.]\n" +
                      '\n'.join(f'- {r}' for r in rejection.get('rejection_reasons', [])) +
-                     f"\n修订要求：{rejection.get('required_revision', '')}"
-                     "\n请在 treatment_plan 中逐条体现修订，或在 safety_preconditions 中记录已确认的前置条件。")
+                     f"\nRequired revision: {rejection.get('required_revision', '')}"
+                     "\nReflect each revision in treatment_plan, or record the confirmed precondition in safety_preconditions.")
         data = self.ask_json(case_id, knowledge, user)
         fixed = []
         for name in data.get('diagnosis_candidates', []):
-            if self.kb.is_standard_disease(name):
-                fixed.append(name)
-            else:                            # 诊断名对齐标准名录（取含关键词的名录项）
-                match = [n for n in self.kb.disease_names if name and (name in n or n.split('（')[0] in name)]
-                fixed.append(match[0] if match else '建议专科进一步评估')
-        data['diagnosis_candidates'] = fixed[:3]
+            canon = self.kb.canonical_disease(name)
+            fixed.append(canon or FALLBACK_DIAGNOSIS)
+        data['diagnosis_candidates'] = list(dict.fromkeys(fixed))[:3]
         data['revision_no'] = revision_no
         if rejection:
             data['revised_from_rejection'] = rejection
-        state.apply('attending', {'attending': data})
-        self.handoff(case_id, 'safety', f'主治方案{"（第 %d 次修订）" % revision_no if revision_no else ""}提交安全审查',
+        state.apply('attending', {'attending': data, 'attending_history': list(d['attending_history']) + [data]})
+        self.handoff(case_id, 'safety',
+                     f'attending plan{" (revision %d)" % revision_no if revision_no else ""} submitted for safety review',
                      _result(data), data.get('diagnosis_candidates', []))
         return _result(data)
 

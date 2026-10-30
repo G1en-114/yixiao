@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""角色基类：角色化 System Prompt + 检索注入 + 结构化 JSON 输出校验（不合规自动重试）。"""
+"""Role base class: role System Prompt + retrieval injection + structured JSON output validation (auto-retry on non-compliance)."""
 import json
 import os
 
@@ -23,7 +23,7 @@ class RoleAgent:
     def _usage(self):
         cid = getattr(self, '_case_id', None)
         if cid and self.orchestrator:
-            return None  # usage 由 call_llm 直接上报
+            return None  # usage is reported directly by call_llm
         return None
 
     def call_llm(self, case_id, system, user):
@@ -33,27 +33,27 @@ class RoleAgent:
         return text
 
     def ask_json(self, case_id, knowledge, user, risk='low'):
-        """角色提示词 + 检索注入 + 结构化 JSON 输出；不合规自动重试一次。"""
+        """Role prompt + retrieval injection + structured JSON output; one automatic retry when non-compliant."""
         system = self.prompt
         if knowledge:
-            system += '\n\n## 知识库检索结果（唯一取数口径）\n' + knowledge
-        system += ('\n\n## 输出硬约束\n只输出一个 JSON 对象，不要输出任何解释文字、'
-                   f'不要使用 markdown 代码围栏；必须包含字段：{", ".join(self.required_keys)}。')
+            system += '\n\n## Knowledge-base retrieval (the only source of truth)\n' + knowledge
+        system += ('\n\n## Hard output constraints\nOutput exactly one JSON object, written in English, with no '
+                   f'explanation and no markdown code fences. It must contain the fields: {", ".join(self.required_keys)}.')
         text = self.call_llm(case_id, system, user)
         try:
             data = extract_json(text)
             missing = [k for k in self.required_keys if k not in data]
             if missing:
-                raise ValueError(f'缺少字段 {missing}')
+                raise ValueError(f'missing fields {missing}')
         except (ValueError, json.JSONDecodeError) as exc:
-            self._emit(case_id, 'validate_retry', f'{self.name} 输出不合规，自动重试: {exc}')
+            self._emit(case_id, 'validate_retry', f'{self.name} output non-compliant, retrying: {exc}')
             text = self.call_llm(
                 case_id, system,
-                user + f'\n\n注意：上一次输出不合规（{exc}）。请严格只输出符合字段要求的 JSON 对象。')
+                user + f'\n\nNote: the previous output was non-compliant ({exc}). Output only a JSON object with the required fields.')
             data = extract_json(text)
             missing = [k for k in self.required_keys if k not in data]
             if missing:
-                raise ValueError(f'{self.name} 重试后仍缺少字段 {missing}')
+                raise ValueError(f'{self.name} still missing fields after retry: {missing}')
         return data
 
     def _emit(self, case_id, etype, summary):

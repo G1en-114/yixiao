@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
-"""把材料包 knowledge_base 的 CSV/JSON 构建为运行时数据：data/skills/。"""
+"""Build runtime data (data/skills/) from the original Chinese knowledge_base CSV/JSON in the materials pack.
+
+The shipped English data/skills/ was produced from that build by scripts/translate_kb.py.
+"""
 import csv
 import json
 import os
@@ -10,13 +13,13 @@ SRC = sys.argv[1] if len(sys.argv) > 1 else os.path.join(
     os.path.dirname(ROOT), 'work', 'AIC_platform_pack', 'knowledge_base')
 OUT = os.path.join(ROOT, 'data', 'skills')
 
-SPLITTERS = '；;\n'
+SPLITTERS = '\uff1b;\n'   # full-width and ASCII semicolons
 
 
 def split_list(text):
     if not text:
         return []
-    parts = [p.strip() for p in text.replace('\r', '').split('；')]
+    parts = [p.strip() for p in text.replace('\r', '').split('\uff1b')]
     out = []
     for p in parts:
         for q in p.split(';'):

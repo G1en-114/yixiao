@@ -1,0 +1,1760 @@
+{
+ "department": "Obstetrics & Gynecology",
+ "skills": [
+  {
+   "presentation": "Severe vulvar and vaginal itching, burning pain, dyspareunia, and dysuria, with increased vaginal discharge; characteristic leukorrhea is white, thick, cottage-cheese-like or curd-like; gynecologic examination shows vulvar redness and swelling, scratch marks, and hyperemia of the inner aspect of the labia minora and vaginal mucosa with adherent white membranous material that, when wiped away, reveals an erythematous and edematous mucosal surface.",
+   "interview_guide": {
+    "first_questions": [
+     "Is the vulvovaginal itching very severe? Does it even affect your sleep and work?",
+     "Is there a lot of vaginal discharge? Does it look like cottage cheese or thick yogurt/curd?",
+     "Do you have noticeable stinging or burning when urinating or during intercourse?"
+    ],
+    "followup_questions": [
+     "Have you recently taken large amounts of oral broad-spectrum antibiotics or glucocorticoids? Or do you have diabetes or are you pregnant?",
+     "Do you routinely use vaginal douches frequently or wear tight, nonbreathable synthetic underwear?",
+     "Does this severe itching tend to worsen before menstruation? Has it occurred more than 4 times in a year?"
+    ],
+    "stop_conditions": [
+     "Core features of cottage-cheese-like discharge and severe vulvar itching have been confirmed",
+     "Host predisposing factors such as diabetes, antibiotic misuse, and pregnancy have been screened for",
+     "A distinction has been made between uncomplicated and recurrent (RVVC) infection"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Gynecologic bimanual examination and vaginal speculum examination (to observe vaginal mucosal hyperemia and cottage-cheese-like pseudomembranous discharge)",
+     "Wet mount microscopy of vaginal discharge (10% KOH hanging-drop microscopy showing Candida pseudohyphae and budding spores; pH is usually <4.5)",
+     "Fasting blood glucose or urine glucose (to screen for diabetic complications)"
+    ],
+    "if_suspected": [
+     "Fungal culture and antifungal susceptibility testing (for refractory recurrent RVVC or when microscopy is negative but clinical symptoms are typical)",
+     "Vaginal five-panel testing/multiplex pathogen PCR testing (to evaluate for coinfection with Trichomonas or bacterial vaginosis)"
+    ],
+    "avoid": [
+     "Blindly ordering contrast-enhanced pelvic CT or MRI for uncomplicated candidal vaginitis",
+     "Blindly prescribing large amounts of broad-spectrum antibiotics without fungal smear microscopy (which can significantly worsen fungal proliferation)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Antifungal therapy is the mainstay: topical vaginal suppositories/capsules (clotrimazole vaginal tablet 500 mg as a single vaginal dose, or miconazole suppositories, nystatin vaginal effervescent tablets)",
+     "or oral antifungal therapy (fluconazole 150 mg as a single oral dose)",
+     "with a topical antifungal ointment (clotrimazole cream) applied to the vulva to relieve itching",
+     "Remove predisposing factors: change cotton underwear frequently, stop unnecessary antibiotics, and control blood glucose."
+    ],
+    "safety_warnings": [
+     "Oral fluconazole is strictly prohibited in pregnant women (potential fetal teratogenic toxicity); local vaginal suppositories (clotrimazole or nystatin) must be used, and insertion should be gentle",
+     "Oral antifungals (fluconazole, itraconazole) require vigilance for liver injury; long-term use requires monitoring of transaminases",
+     "Sexual intercourse is strictly prohibited during treatment; underwear and towels should be scalded with boiling water, boiled for disinfection, and sun-dried"
+    ],
+    "personalization": [
+     "Recurrent vulvovaginal candidiasis (RVVC, >=4 episodes per year): induction therapy (oral fluconazole 150 mg on days 1, 4, and 7) followed by sequential maintenance consolidation therapy (fluconazole 150 mg once weekly for 6 months)",
+     "Breastfeeding women: topical clotrimazole vaginal suppositories are preferred",
+     "If the sexual partner has balanitis with erythema and itching: the sexual partner should concurrently apply topical antifungal ointment"
+    ]
+   },
+   "disease": "Vulvovaginal candidiasis",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "Abnormally increased vaginal discharge that is thin, purulent, yellow-green, frothy, and malodorous; accompanied by severe vulvovaginal itching, burning, and pain; urethral involvement may cause urinary frequency, urgency, dysuria, and hematuria; gynecologic examination shows vaginal mucosal hyperemia and hyperemic spots, and cervical mucosal hyperemia with the classic \"strawberry cervix\".",
+   "interview_guide": {
+    "first_questions": [
+     "Is the amount of vaginal discharge (leukorrhea) clearly increased? Is it yellow-green? Is it frothy and does it have a noticeable fishy offensive odor?",
+     "Do you have noticeable itching or burning pain in the vulva and inside the vagina?",
+     "When urinating, do you have urinary frequency, urgency, dysuria, or lower abdominal discomfort?"
+    ],
+    "followup_questions": [
+     "Do the symptoms clearly worsen just after menstruation ends?",
+     "Does your spouse/sexual partner have urethral burning pain, stinging/itching, or urethral discharge?",
+     "Have you recently visited public baths or hot springs, or shared towels or bathtubs with others?"
+    ],
+    "stop_conditions": [
+     "The features of yellow-green frothy malodorous discharge and vulvar itching have been confirmed",
+     "Clues to sexual transmission and indirect contact transmission have been identified",
+     "The principle of concurrent treatment of both partners and medication contraindications have been clarified"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Saline wet mount microscopy of vaginal discharge (microscopy shows pear-shaped Trichomonas vaginalis trophozoites with undulating motility and numerous white blood cells; pH is usually >4.5)",
+     "Gynecologic speculum and bimanual examination (to observe vaginal hyperemia and the classic \"strawberry cervix\")"
+    ],
+    "if_suspected": [
+     "Trichomonas vaginalis nucleic acid amplification testing (NAAT/PCR, highest sensitivity) or Trichomonas culture (when microscopy is negative but clinical suspicion is high)",
+     "Screening for gonorrhea, chlamydia, and syphilis serology (trichomoniasis is a sexually transmitted disease, and coinfection with other STDs should be evaluated)"
+    ],
+    "avoid": [
+     "Blindly prescribing antifungals or large amounts of washes based solely on itching without Trichomonas microscopy of discharge",
+     "Ordering whole-abdomen CT or extensive MRI for uncomplicated trichomoniasis"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Systemic oral nitroimidazole therapy is required: first-line metronidazole (2 g as a single oral dose, or 400 mg orally twice daily for 7 days) or tinidazole (2 g as a single oral dose)",
+     "Sexual partners must receive concurrent treatment with the same regimen (concurrent treatment of both partners)",
+     "Alcohol consumption is strictly prohibited during treatment and after stopping the drug, and unprotected sexual intercourse is strictly prohibited until both partners test negative on follow-up."
+    ],
+    "safety_warnings": [
+     "Alcohol consumption is absolutely prohibited during medication and within 72 hours after stopping the drug (including alcoholic beverages and medications), otherwise it can easily induce severe \"disulfiram-like reaction\" (facial flushing, headache, palpitations, dyspnea, and even anaphylactic shock and death)",
+     "Common gastrointestinal adverse reactions of metronidazole include nausea, decreased appetite, and metallic taste in the mouth",
+     "Trichomoniasis is a systemic and urogenital parasitic infection; local vaginal suppositories alone cannot cure pathogens latent in the urethra and glands, so systemic oral therapy is required"
+    ],
+    "personalization": [
+     "Breastfeeding women: after a single 2 g oral dose of metronidazole, breastfeeding should be suspended for 12-24 hours (tinidazole requires suspension for 3 days); expressed breast milk should be discarded",
+     "Trichomoniasis in pregnancy: for symptomatic pregnant women, oral metronidazole 400 mg bid for 7 days is recommended (use in a standardized manner after fully weighing the benefits and risks)",
+     "Metronidazole-resistant refractory trichomoniasis: tinidazole dose may be increased to 2 g/day for 14 days combined with local vaginal administration"
+    ]
+   },
+   "disease": "Trichomonas vaginitis",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "Before and after menstruation or during menstruation, cramping colicky pain and bearing-down distending pain occur in the lower abdomen, often radiating to the lumbosacral region and inner thighs; it is usually most severe several hours before the onset of menstruation or on days 1-2 of menstruation and gradually relieves after lasting 2-3 days; in severe cases, it is accompanied by pallor, profuse cold sweating, nausea, vomiting, diarrhea, dizziness, and even weakness and syncope.",
+   "interview_guide": {
+    "first_questions": [
+     "Is the abdominal pain most severe before each menstrual period or on days 1-2 of menstruation? How many days does the pain last each time before it resolves?",
+     "Is the abdominal pain a dull distending pain or paroxysmal severe cramping/colicky pain? Does it radiate to the lower back or thighs?",
+     "When the dysmenorrhea is most severe, is it accompanied by nausea and vomiting, diarrhea, cold sweats, or even fainting from the pain?"
+    ],
+    "followup_questions": [
+     "Did the dysmenorrhea begin one to two years after menarche (primary dysmenorrhea), or did it appear only in recent years in adulthood and become progressively worse (progressively worsening secondary dysmenorrhea)?",
+     "Is your usual menstrual flow heavy? Do you have dyspareunia during menstruation or a rectal bearing-down sensation? (to highly evaluate for endometriosis/adenomyosis)",
+     "Do oral analgesics such as ibuprofen usually provide effective pain relief?"
+    ],
+    "stop_conditions": [
+     "The association between dysmenorrhea episodes and the menstrual cycle, pain severity, and accompanying systemic symptoms have been clarified",
+     "Primary dysmenorrhea (functional) has been differentiated from secondary dysmenorrhea (endometriosis/adenomyosis/reproductive tract malformations)",
+     "Medication response and fertility needs have been fully collected"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Gynecologic bimanual/rectovaginal examination (for unmarried women without a history of sexual intercourse, perform rectoabdominal examination to evaluate for an enlarged tender uterus, tender nodules in the posterior fornix, and adnexal masses)",
+     "Gynecologic transvaginal/transrectal ultrasound (to assess uterine size, whether myometrial echogenicity is homogeneous or shows adenomyosis changes, and to evaluate for ovarian endometriotic cysts/chocolate cysts)"
+    ],
+    "if_suspected": [
+     "High-resolution pelvic MRI (suspected severe adenomyosis or deep infiltrating endometriosis [DIE])",
+     "Serum CA-125 and HE4 (may be mildly to moderately elevated in endometriosis and adenomyosis)",
+     "Laparoscopy (gold standard for diagnosis and treatment of difficult secondary dysmenorrhea)"
+    ],
+    "avoid": [
+     "Blindly ordering pelvic CT or high-dose whole-body radiation examinations for young unmarried patients with primary dysmenorrhea",
+     "Blindly performing surgery for uncomplicated primary dysmenorrhea without obvious organic disease"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Primary dysmenorrhea is managed mainly by inhibiting prostaglandin synthesis and relieving uterine spasms: first-line nonsteroidal anti-inflammatory drugs (NSAIDs such as ibuprofen sustained-release capsules, diclofenac sodium, and naproxen, taken regularly as early as possible at the prodrome of pain or on day 1 of menstruation)",
+     "Oral combined short-acting contraceptives (COCs such as drospirenone and ethinyl estradiol tablets) to inhibit ovulation and reduce prostaglandins",
+     "Along with abdominal heat application and regular sleep/wake habits",
+     "Secondary dysmenorrhea is treated according to the underlying disease (dienogest, Mirena LNG-IUS, GnRH-a, or laparoscopic surgery)."
+    ],
+    "safety_warnings": [
+     "NSAIDs are most effective when taken immediately at the onset of pain; they are contraindicated in patients with active gastric ulcer and a history of severe asthma",
+     "Combined oral contraceptives (COCs) are contraindicated in women aged >=35 years who smoke long-term and in patients at high risk for deep vein thrombosis",
+     "Patients with severe progressively worsening dysmenorrhea and infertility should not rely solely on long-term blind use of analgesics; early surgery or specialized endometriosis intervention is needed"
+    ],
+    "personalization": [
+     "Reproductive-age women with dysmenorrhea who need contraception: combined oral contraceptives (COCs) or the levonorgestrel-releasing intrauterine system (Mirena) are preferred",
+     "Patients with adenomyosis complicated by menorrhagia and severe dysmenorrhea: Mirena insertion or long-term oral dienogest maintenance is preferred",
+     "Adolescent women without organic disease: regular ibuprofen use during menstruation plus warmth for symptom relief are preferred"
+    ]
+   },
+   "disease": "Dysmenorrhea",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "An endocrine and metabolic disorder syndrome in reproductive-age women. Core manifestations include menstrual abnormalities (oligomenorrhea, prolonged menstrual bleeding, amenorrhea, or irregular uterine bleeding); ovulatory dysfunction and infertility; clinical hyperandrogenism: severe refractory facial acne, hirsutism (dense, coarse, dark body hair on the upper lip/perioral area, chin, areolae, and linea alba), female-pattern hair loss (sparse hair at the scalp part), and seborrhea; metabolic abnormalities: central obesity, insulin resistance, and acanthosis nigricans (velvety gray-brown hyperpigmentation and hyperkeratosis of the skin on the posterior neck and axillae).",
+   "interview_guide": {
+    "first_questions": [
+     "Is your menstrual cycle regular? About how many months apart are your periods? Have you ever gone several months or even half a year without a period (amenorrhea)?",
+     "Do you have recurrent severe pimples (acne) on your face and chin? Is the body hair around your lips, on your chest, or on your abdomen very dense?",
+     "Has your weight increased noticeably in recent years? Is losing weight especially difficult?"
+    ],
+    "followup_questions": [
+     "Have you been unable to conceive despite not using contraception after marriage (infertility)?",
+     "Has the skin on the back of your neck or in your armpits (axillae) become dark and rough, as if it cannot be washed clean (acanthosis nigricans)?",
+     "Have you previously had blood tests for glucose, insulin, or lipids? Is there any family history of diabetes?"
+    ],
+    "stop_conditions": [
+     "Oligomenorrhea/anovulation, clinical signs of hyperandrogenism, and obesity/metabolic manifestations have been collected",
+     "Assessment against the core elements of the Rotterdam diagnostic criteria has been completed",
+     "Congenital adrenal hyperplasia, Cushing syndrome, and androgen-secreting ovarian/adrenal tumors have been excluded"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Transvaginal/transrectal gynecologic pelvic ultrasound (polycystic ovarian morphology [PCOM]: >=12 small follicles 2-9 mm in diameter in one or both ovaries, and/or ovarian volume >=10 ml)",
+     "Serum sex hormone panel (six tests: blood draw on days 2-4 of menstruation or during amenorrhea when ultrasound shows no dominant follicle: LH/FSH ratio >=2-3, elevated total testosterone or free androstenedione)",
+     "Oral glucose tolerance test (OGTT) + insulin release test (to assess abnormal glucose metabolism and hyperinsulinemia/insulin resistance)",
+     "Complete lipid panel and liver function tests"
+    ],
+    "if_suspected": [
+     "Serum dehydroepiandrosterone sulfate (DHEA-S) and 17-hydroxyprogesterone (17-OHP) (to exclude nonclassic congenital adrenal hyperplasia)",
+     "Serum cortisol rhythm and adrenocorticotropic hormone (ACTH) (to exclude Cushing syndrome)",
+     "Anti-Müllerian hormone (AMH, often markedly elevated, reflecting excessive antral follicle reserve)"
+    ],
+    "avoid": [
+     "Blindly ordering contrast-enhanced pelvic CT or whole-body PET-CT for uncomplicated PCOS without indications of malignancy",
+     "Blindly using ovulation induction drugs without endocrine/metabolic evaluation (which can easily induce ovarian hyperstimulation syndrome [OHSS])"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Lifestyle intervention is the first-line cornerstone (dietary control with low-GI foods, regular exercise, and 5%-10% weight loss can restore ovulation and improve metabolism)",
+     "To regulate the menstrual cycle and provide antiandrogen effects, combined oral contraceptives (COCs such as ethinyl estradiol and cyproterone acetate tablets/Diane-35) are preferred, taken continuously in cycles for 3-6 months",
+     "To improve insulin resistance: metformin (500 mg orally tid)",
+     "For those with fertility needs, ovulation induction is performed after metabolic targets are met: letrozole (LE) or clomiphene citrate (CC) is preferred."
+    ],
+    "safety_warnings": [
+     "Before treatment with COCs such as Diane-35, high-risk factors for venous thrombosis must be assessed (use with caution in those with severe obesity BMI >30, long-term smoking, and age >35 years)",
+     "In patients with long-term amenorrhea and anovulation, the endometrium is continuously exposed to unopposed estrogen stimulation without progesterone antagonism, which can readily lead to atypical endometrial hyperplasia and endometrial cancer; progesterone-induced withdrawal bleeding must be used regularly every 2-3 months to protect the endometrium",
+     "During ovulation induction, follicular development must be closely monitored by ultrasound, with strict precautions against ovarian hyperstimulation syndrome (OHSS) and multiple pregnancy"
+    ],
+    "personalization": [
+     "No fertility desire in the near term and only menstrual irregularity: Diane-35 to regulate the menstrual cycle and provide antiandrogen effects, or luteal-phase progesterone therapy",
+     "Patients with obesity and severe insulin resistance: metformin combined with a GLP-1 receptor agonist (semaglutide) to assist with weight loss and improve metabolism",
+     "Infertile patients resistant to ovulation induction drugs: laparoscopic ovarian drilling (LOD) or in vitro fertilization-embryo transfer (IVF-ET) may be considered"
+    ]
+   },
+   "disease": "Polycystic ovary syndrome",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "Patients often report a small amount of vaginal bleeding after amenorrhea, with blood usually dark red or bright red and no passage of tissue. It is accompanied by mild lower abdominal dragging pain, backache, or intermittent abdominal pain. Symptoms usually occur before 28 weeks of gestation; the bleeding amount is less than menstrual flow, the cervical os is closed, the membranes are intact, and uterine size is consistent with the duration of amenorrhea. If symptoms worsen, it may progress to inevitable miscarriage.",
+   "interview_guide": {
+    "first_questions": [
+     "When was your last menstrual period? How many weeks of amenorrhea have you had so far?",
+     "What is the color and amount of the vaginal bleeding? Have you passed any blood clots or tissue?",
+     "Do you have abdominal pain or backache? What is the nature and severity of the pain?"
+    ],
+    "followup_questions": [
+     "Have you had any previous spontaneous miscarriages or adverse pregnancy outcomes?",
+     "Have you recently had strenuous exercise, sexual intercourse, or abdominal trauma?",
+     "Have you already had an ultrasound examination to confirm an intrauterine pregnancy and fetal cardiac activity?"
+    ],
+    "stop_conditions": [
+     "A clear history of amenorrhea and typical bleeding symptoms are established, and ultrasound confirms a live intrauterine fetus",
+     "Ectopic pregnancy, hydatidiform mole, and other high-risk conditions have been excluded",
+     "The patient's vital signs are stable, and the bleeding amount is stable with no increasing trend"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Transvaginal ultrasound (to confirm intrauterine pregnancy, embryo viability, and gestational sac morphology)",
+     "Quantitative serum β-hCG testing (to assess pregnancy viability)",
+     "Serum progesterone level measurement (to help assess luteal function)"
+    ],
+    "if_suspected": [
+     "Full coagulation panel (to rule out coagulation disorders)",
+     "Blood type and Rh factor testing (to prevent hemolytic risk)",
+     "Thyroid function and blood glucose testing (to rule out endocrine abnormalities)"
+    ],
+    "avoid": [
+     "Unnecessary abdominal CT (to avoid radiation exposure)",
+     "Routine uterine exploration or induced abortion (destructive procedures are strictly prohibited before diagnosis is confirmed)",
+     "Blind use of potent tocolytic agents (use only after a clear diagnosis and according to medical advice)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line management is bed rest, with sexual intercourse and strenuous exercise prohibited. Pharmacologic treatment mainly consists of progesterone supplementation; commonly used regimens are dydrogesterone tablets 10mg bid or progesterone injection 40mg qd intramuscularly, usually continued until symptoms resolve and then for another 1-2 weeks. Vitamin E may be given as adjunctive treatment. If an immunologic factor is the cause, an individualized regimen is required. Nonpharmacologic interventions include psychological counseling to reduce anxiety and maintaining regular bowel movements."
+    ],
+    "safety_warnings": [
+     "Contraindication: contraindicated in patients allergic to progesterone drugs",
+     "Use with caution in patients with unexplained vaginal bleeding in whom ectopic pregnancy has not been excluded",
+     "Drug interactions: avoid concomitant use with hepatic enzyme inducers such as rifampin and phenobarbital to prevent reduced efficacy",
+     "Prevention of serious adverse reactions: long-term high-dose use requires monitoring of liver function and thrombotic risk, with vigilance for central nervous system reactions such as dizziness and somnolence"
+    ],
+    "personalization": [
+     "In multiple pregnancy or advanced maternal age, the course of pregnancy maintenance therapy may be appropriately extended and monitoring strengthened",
+     "In patients with a history of thrombosis, use injectable progesterone with caution and prefer oral dydrogesterone",
+     "In patients with comorbid diabetes or thyroid disease, the underlying disease should be controlled concurrently and the pregnancy maintenance regimen adjusted"
+    ]
+   },
+   "disease": "Threatened abortion",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "Patients report severe vulvar itching, burning pain, or stinging pain, often accompanied by redness, swelling, erosion, or ulceration. Some patients describe worsened pain during urination (dysuria), or difficulty walking due to local swelling. Increased discharge with abnormal characteristics (such as cottage-cheese-like or yellow-green purulent) is a common accompanying symptom, mostly caused by infection or allergy, with acute onset.",
+   "interview_guide": {
+    "first_questions": [
+     "What are the specific sites and duration of the itching and pain?",
+     "Have you recently had unprotected or high-risk sexual intercourse or changed to a new cleansing product?",
+     "How have the color, odor, and amount of the discharge changed?"
+    ],
+    "followup_questions": [
+     "If you have fever or swollen inguinal lymph nodes, do you have any symptoms of systemic infection?",
+     "If you have diabetes, how well is your blood glucose controlled, and have you had similar episodes before?",
+     "If contact dermatitis is suspected, have you used new underwear, sanitary pads, or medications?"
+    ],
+    "stop_conditions": [
+     "When typical symptoms are clear and there are no high-risk factors (such as HIV or uncontrolled diabetes)",
+     "When the key history has been obtained and targeted laboratory tests are planned",
+     "When the patient develops a severe allergic reaction requiring emergency management."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Routine gynecologic inspection and palpation",
+     "Wet mount microscopy of vaginal discharge (KOH/saline)",
+     "Bacterial culture and antimicrobial susceptibility testing of discharge"
+    ],
+    "if_suspected": [
+     "Fungal culture (to rule out non-albicans Candida infection)",
+     "HSV-PCR testing (when herpes simplex virus infection is suspected)",
+     "Blood glucose measurement (to evaluate diabetes as a predisposing factor)"
+    ],
+    "avoid": [
+     "Routine pelvic CT scanning (without indication)",
+     "Invasive cervical biopsy (unless malignancy is suspected)",
+     "Blind medication before long-term use of empiric broad-spectrum antibiotics"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Etiology-directed treatment: for Candida infection, first-line therapy is clotrimazole suppository 500mg as a single dose or oral fluconazole 150mg; for bacterial infection, use metronidazole 400mg twice daily for 7 days; for trichomoniasis, use metronidazole 2g as a single oral dose. At the same time, keep the vulva clean and dry, avoid scratching, and wear loose cotton underwear. Topical erythromycin ointment or zinc oxide ointment may be applied locally to relieve symptoms; the course is usually 3-7 days."
+    ],
+    "safety_warnings": [
+     "Oral fluconazole is contraindicated in pregnant women; topical azoles are preferred",
+     "Alcohol is strictly prohibited during metronidazole use and for 48 hours after stopping the drug",
+     "The corresponding drugs are contraindicated in patients allergic to sulfonamides or imidazoles"
+    ],
+    "personalization": [
+     "In pregnant patients, adjust the dose and avoid oral antifungal drugs",
+     "In patients with diabetes, intensify glycemic control concurrently to prevent recurrence",
+     "In older postmenopausal women, assess for coexisting estrogen deficiency and consider topical estrogen supplementation as appropriate"
+    ]
+   },
+   "disease": "Acute vulvitis",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "Patients often present with persistent lower abdominal pain, which may be accompanied by fever and increased purulent vaginal discharge. Some patients have menstrual abnormalities or dyspareunia. Symptoms usually worsen after fatigue or sexual intercourse, and physical examination may reveal cervical motion tenderness and adnexal tenderness.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had lower abdominal pain or fever recently?",
+     "Has your vaginal discharge increased or developed an abnormal odor?"
+    ],
+    "followup_questions": [
+     "Is the pain related to your menstrual cycle?",
+     "Have you recently had unprotected or high-risk sexual intercourse?"
+    ],
+    "stop_conditions": [
+     "The patient has clearly described typical symptoms (such as abdominal pain, fever, or abnormal discharge).",
+     "The history already includes key risk factors (such as recent surgery or high-risk sexual intercourse).",
+     "The patient declines to provide further information but symptoms are obvious."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Gynecologic examination (including bimanual examination)",
+     "Complete blood count",
+     "Vaginal discharge culture"
+    ],
+    "if_suspected": [
+     "Pelvic ultrasound",
+     "C-reactive protein testing",
+     "Urine pregnancy test"
+    ],
+    "avoid": [
+     "Routine X-ray examination",
+     "CT scanning without indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes combination antibiotic therapy, commonly a cephalosporin combined with metronidazole, usually for 14 days. Bed rest is also recommended, and strenuous activity should be avoided. If symptoms are severe, hospitalization for intravenous administration is required."
+    ],
+    "safety_warnings": [
+     "Related antibiotics are contraindicated in patients allergic to penicillins or cephalosporins.",
+     "Concomitant use of metronidazole and alcohol may cause a disulfiram-like reaction.",
+     "Long-term antibiotic use requires monitoring of liver and kidney function."
+    ],
+    "personalization": [
+     "In pregnant women, choose antibiotics that are safe for the fetus (such as azithromycin).",
+     "In breastfeeding women, assess the risk of drug passage into breast milk.",
+     "In older patients, consider the impact of underlying diseases on drug metabolism."
+    ]
+   },
+   "disease": "adnexitis",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "Patients report cessation of menstruation for more than 3 months (secondary) or no menarche by age 16 (primary). It is often accompanied by cyclic lower abdominal dragging pain suggesting reproductive tract obstruction, or galactorrhea, headache, and visual changes suggesting pituitary disease. Some patients have hyperandrogenic manifestations such as hirsutism, acne, and sudden weight gain, or hypoestrogenic symptoms such as hot flashes and night sweats. Comprehensive assessment should be combined with the previous menstrual history and medication history.",
+   "interview_guide": {
+    "first_questions": [
+     "When was your last menstrual period? Are your cycles usually regular?",
+     "Have you recently been sexually active, used contraception, or is there any possibility you could be pregnant?",
+     "In the past 6 months, have you had significant weight changes or excessive exercise?"
+    ],
+    "followup_questions": [
+     "Have you had breast discharge outside of breastfeeding, headache, or blurred vision?",
+     "Have you had facial hirsutism, deepening of the voice, or severe acne?",
+     "Have you had menopause-like symptoms such as hot flashes, night sweats, or vaginal dryness?"
+    ],
+    "stop_conditions": [
+     "Pregnancy has been clearly excluded and the history is complete, providing an initial direction for differential diagnosis.",
+     "The patient has provided detailed menstrual records for the past 3-6 months and a medication list.",
+     "It has been confirmed that there are no critical signs requiring emergency management, such as acute abdominal pain or heavy bleeding."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Blood β-hCG testing (to exclude pregnancy)",
+     "Sex hormone panel (FSH, LH, E2, P, T, PRL)",
+     "Pelvic ultrasound (to assess uterine and ovarian morphology)"
+    ],
+    "if_suspected": [
+     "Thyroid function testing (TSH, FT4)",
+     "Cranial MRI (when pituitary adenoma is suspected)",
+     "Chromosome karyotype analysis (when primary amenorrhea is suspected to involve a genetic abnormality)"
+    ],
+    "avoid": [
+     "CT radiation examination before pregnancy has been excluded",
+     "Blind diagnostic curettage without indication",
+     "Repeated dynamic hormone tests without clinical significance"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Etiology-directed treatment: for hyperprolactinemia, bromocriptine is preferred; for polycystic ovary syndrome, lifestyle intervention combined with metformin or a short-acting oral contraceptive is used to regulate cycles; for hypothalamic amenorrhea, increase nutritional intake and reduce exercise. For hypoestrogenism, give sequential estrogen-progestin therapy to establish an artificial cycle and protect bone. The course is usually at least 3-6 months, during which hormone levels and endometrial thickness are monitored regularly."
+    ],
+    "safety_warnings": [
+     "Before using estrogen, breast cancer, thrombotic disease, and active liver disease must be excluded.",
+     "Bromocriptine may cause orthostatic hypotension; it is recommended to start with a low dose and take it at bedtime.",
+     "In patients with long-term anovulation, be alert to the risk of endometrial hyperplasia and even carcinoma, and avoid progesterone-only withdrawal bleeding masking the condition."
+    ],
+    "personalization": [
+     "In adolescent patients, use high-dose hormones with caution; prioritize lifestyle adjustment and, if necessary, use low-dose therapy to induce menstruation.",
+     "In perimenopausal women, assess cardiovascular risk and choose the lowest effective dose for hormone replacement therapy.",
+     "In patients with fertility needs, ovulation induction should be prioritized over menstrual regulation alone."
+    ]
+   },
+   "disease": "amenorrhea",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "The patient usually reports a painless mass in the lower third of one labium majus that slowly enlarges over time. If secondary infection occurs and an abscess forms, it presents with severe local pain, redness, swelling, and marked tenderness, worsened by walking or sitting, and in severe cases may be accompanied by fever and general malaise. The skin over the mass is tense and shiny, and some patients may palpate fluctuance.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you noticed a mass under the labium majus? Did it appear suddenly or grow slowly?",
+     "Have you recently had significant pain, redness or swelling, or difficulty walking?"
+    ],
+    "followup_questions": [
+     "If you have pain, do you also have fever, chills, or other systemic symptoms?",
+     "Have you recently had high-risk sexual activity or vulvar trauma?"
+    ],
+    "stop_conditions": [
+     "The location and size of the mass and whether core symptoms such as pain and redness or swelling are present have been clearly described.",
+     "It has been confirmed that there are no signs of complications requiring urgent management, such as fever or difficulty urinating.",
+     "The patient's complaints are clear enough to proceed with an initial physical examination assessment."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Gynecologic bimanual examination (to assess the location, size, consistency, and fluctuance of the mass)",
+     "Complete blood count (to measure white blood cell count when infection is suspected)"
+    ],
+    "if_suspected": [
+     "Discharge smear and culture (to identify the pathogen and guide antibiotic use)",
+     "Ultrasound examination (to differentiate a deep abscess or exclude other tumors)"
+    ],
+    "avoid": [
+     "Routine X-ray examination (low diagnostic value for soft-tissue lesions and unnecessary radiation)",
+     "Blind needle aspiration (before diagnosis, it can easily lead to spread or recurrence of infection)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Asymptomatic small cysts can be observed with follow-up. For symptomatic cases, marsupialization (Word catheter placement) is the first choice, retaining the drainage opening for 4-6 weeks to prevent closure by adhesion. If it is an acute abscess, incision and drainage with placement of a drainage strip are required. When infection is present, oral metronidazole combined with cephalosporin antibiotics for 7-10 days. After surgery, keep the vulva clean and perform warm sitz baths daily to promote healing."
+    ],
+    "safety_warnings": [
+     "It is strictly forbidden to forcibly squeeze the cyst without anesthesia or adequate disinfection, to prevent spread of infection to the pelvis.",
+     "Before using antibiotics, ask about allergy history and watch for cross-allergic reactions to cephalosporins.",
+     "After surgery, closely monitor drainage to prevent premature dislodgement of the catheter, which could cause the cyst cavity to close again."
+    ],
+    "personalization": [
+     "In pregnant patients, avoid tetracyclines and quinolones; preferentially choose penicillins or cephalosporins.",
+     "Patients with diabetes need strict glycemic control and a prolonged antibiotic course to prevent poor wound healing.",
+     "In older postmenopausal women with recurrent episodes, be alert to the possibility of malignant transformation; excision and pathologic examination are recommended."
+    ]
+   },
+   "disease": "Bartholin cyst",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "Patients often present with infertility, recurrent spontaneous abortion, or preterm birth. Typical complaints include regular menstrual cycles but abnormal menstrual volume, and some have cyclical dull lower abdominal pain. Gynecologic examination may reveal a depressed or irregular uterine fundus. Most patients are asymptomatic, and a heart-shaped or bifid uterine shape is found incidentally only during ultrasound examination for pregnancy complications (such as abnormal fetal position or placental abruption).",
+   "interview_guide": {
+    "first_questions": [
+     "Have you ever been pregnant? How many times, and what were the outcomes?",
+     "Have you had recurrent spontaneous abortions or preterm births?",
+     "Are you currently planning to become pregnant or experiencing infertility?"
+    ],
+    "followup_questions": [
+     "If you have had a miscarriage, at what gestational age did it occur, and have you ever had painless cervical dilation?",
+     "If you have infertility, have you previously undergone hysterosalpingography or hysteroscopy?",
+     "Do you have cyclical abdominal pain or pain during intercourse, which may help exclude other malformations?"
+    ],
+    "stop_conditions": [
+     "A history of two or more consecutive unexplained second- or third-trimester pregnancy losses has been clearly established.",
+     "Imaging has indicated a uterine malformation and the symptoms are consistent with the anatomy.",
+     "The patient has completed childbearing and has no related symptoms."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Transvaginal three-dimensional ultrasound examination",
+     "Pelvic magnetic resonance imaging (MRI)"
+    ],
+    "if_suspected": [
+     "Hysterosalpingography (HSG)",
+     "Hysteroscopy"
+    ],
+    "avoid": [
+     "Routine abdominal plain radiography",
+     "Unnecessary invasive exploratory surgery"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Asymptomatic patients require no special treatment and can be followed up regularly. For those with a history of adverse pregnancy outcomes, conservative management and enhanced monitoring during pregnancy are preferred. If recurrent miscarriage is confirmed and other factors are excluded, Strassman metroplasty may be considered before pregnancy; strict contraception is required for 6-12 months after surgery before conception. During pregnancy, be alert to the risk of preterm birth and, if necessary, use progesterone support or cervical cerclage."
+    ],
+    "safety_warnings": [
+     "Avoid blind intrauterine procedures to prevent perforation",
+     "The diagnosis must be confirmed by MRI or three-dimensional ultrasound before surgery to avoid misdiagnosis and mistreatment",
+     "Pregnancy after surgery requires close monitoring for the risk of uterine rupture"
+    ],
+    "personalization": [
+     "Young nulliparous patients with a history of adverse pregnancy outcomes: actively evaluate surgical indications",
+     "Older patients or those with severe medical comorbidities: preferentially choose conservative treatment and perinatal monitoring",
+     "Patients planning assisted reproduction: adjust the treatment plan in conjunction with the embryo transfer strategy"
+    ]
+   },
+   "disease": "Bicornuate uterus",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "Patients often have no obvious subjective symptoms and are mostly detected during routine screening. Some patients may present with contact bleeding (such as a small amount of bleeding after sexual intercourse or gynecologic examination), increased vaginal discharge that is watery or rice-water-like, and occasionally malodorous. If the lesion progresses, irregular vaginal bleeding or postmenopausal bleeding may occur. The typical feature is asymptomatic disease but a history of high-risk HPV infection or cytologic abnormality.",
+   "interview_guide": {
+    "first_questions": [
+     "When was your most recent cervical cancer screening (TCT/HPV), and what was the result?",
+     "Have you had postcoital bleeding or unexplained abnormal vaginal discharge?",
+     "Do you have a history of treatment for cervical lesions or persistent HPV infection?"
+    ],
+    "followup_questions": [
+     "If you have contact bleeding, how much bleeding is there, and does it occur with every sexual intercourse?",
+     "If you have discharge, what is its color and odor, and how long has it lasted?",
+     "Do you have a history of immunosuppressive disease (such as HIV), or have you been taking immunosuppressants long term?"
+    ],
+    "stop_conditions": [
+     "Recent HPV genotyping and TCT results are clear and point to a CIN diagnosis",
+     "Colposcopy has been completed and a biopsy pathology report has been obtained",
+     "The patient has no new symptoms and a follow-up plan has been made"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Cervical cytology (TCT/LBC)",
+     "Human papillomavirus (HPV) DNA testing",
+     "Colposcopy-directed cervical biopsy"
+    ],
+    "if_suspected": [
+     "Pelvic ultrasound (to assess the uterus and adnexa)",
+     "Endocervical curettage (ECC, for patients with an unclear squamocolumnar junction)",
+     "Immunohistochemical testing (such as p16/Ki-67 to assist grading)"
+    ],
+    "avoid": [
+     "Blind cervical conization without pathologic evidence",
+     "Diagnosing high-grade lesions directly based on naked-eye observation alone",
+     "Choosing total hysterectomy as the first option for young nulliparous women"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Develop the plan according to lesion grade: CIN1 is mostly managed with regular follow-up observation; CIN2-3 is preferably treated with loop electrosurgical excision procedure (LEEP) or cold-knife conization to remove the lesion and preserve fertility. Postoperative HPV vaccination should be combined to prevent recurrence. Non-surgical treatment includes local interferon and other agents, but the level of evidence is low and it is not the first choice."
+    ],
+    "safety_warnings": [
+     "Surgery may cause cervical incompetence or stenosis, affecting future pregnancy",
+     "After surgery, be alert to the risks of heavy bleeding and infection, and avoid sexual intercourse too early",
+     "Avoid overtreatment that causes unnecessary psychological burden and physical harm"
+    ],
+    "personalization": [
+     "For nulliparous women, preferentially choose conservative surgery (such as LEEP) and strictly evaluate the depth of excision",
+     "When CIN2-3 is found during pregnancy, it is usually recommended to defer treatment until after delivery unless invasive cancer is suspected",
+     "For immunocompromised patients, shorten the follow-up interval and consider a more active treatment strategy"
+    ]
+   },
+   "disease": "Cervical intraepithelial neoplasia",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "Patients often present with irregular vaginal bleeding, especially contact bleeding after sexual intercourse or gynecologic examination. Some patients may have increased vaginal discharge that is yellow or blood-streaked. A few patients have no obvious symptoms and are found only during routine physical examination. Typical manifestations include intermittent small amounts of bleeding that last for a long time and are easily mistaken for menstrual irregularity or inflammation.",
+   "interview_guide": {
+    "first_questions": [
+     "Do you have bleeding after sexual intercourse?",
+     "Have you recently had abnormal vaginal discharge or increased vaginal discharge?",
+     "Is the bleeding related to your menstrual cycle?"
+    ],
+    "followup_questions": [
+     "If you have bleeding, is it accompanied by abdominal pain or fever?",
+     "Have you recently used hormonal medications or contraception?",
+     "Do you have a history of cervical lesions or surgery?"
+    ],
+    "stop_conditions": [
+     "The patient has clearly described typical symptoms (such as contact bleeding) and has no other complex history.",
+     "The patient has completed the necessary gynecologic examination and the diagnosis has been confirmed.",
+     "The patient understands the treatment plan and agrees to further management."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Gynecologic pelvic examination",
+     "Cervical cytology (TCT)",
+     "Colposcopy"
+    ],
+    "if_suspected": [
+     "HPV testing",
+     "Pelvic ultrasound examination",
+     "Cervical biopsy"
+    ],
+    "avoid": [
+     "Unnecessary whole-body imaging examinations (such as CT or MRI)",
+     "Non-indicated serum tumor marker testing"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is cervical polypectomy, usually performed in the outpatient setting under local anesthesia. Pathologic examination is required after surgery to exclude malignant lesions. For patients at risk of infection, short-term antibiotics may be used to prevent infection. After surgery, it is recommended to avoid sexual intercourse and tub baths for 2 weeks and to have regular follow-up to ensure good recovery."
+    ],
+    "safety_warnings": [
+     "Contraindication: postpone surgery in patients with acute genital tract infection.",
+     "Drug interactions: if the patient is taking anticoagulants, assess the bleeding risk in advance.",
+     "Prevention of serious adverse reactions: closely observe bleeding after surgery to prevent heavy bleeding or spread of infection."
+    ],
+    "personalization": [
+     "For pregnant patients, carefully assess the timing of surgery and, if necessary, defer treatment until after delivery.",
+     "Postmenopausal women should be followed up more closely and monitored for possible malignant transformation.",
+     "For patients who desire fertility, protect cervical function and avoid excessive manipulation that could affect pregnancy."
+    ]
+   },
+   "disease": "Cervical polyp",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "Patients often present with recurrent increased vaginal discharge and contact bleeding (e.g., postcoital bleeding); some have lower abdominal dragging pain or lumbosacral soreness. Symptoms usually appear after a history of childbirth and gradually worsen over time, possibly accompanied by menstrual abnormalities or infertility.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you ever had a difficult delivery or cesarean section?",
+     "Have you recently had postcoital bleeding or abnormal discharge?"
+    ],
+    "followup_questions": [
+     "Is the bleeding related to your menstrual cycle?",
+     "Have you had long-term lower abdominal dragging pain or backache?"
+    ],
+    "stop_conditions": [
+     "History of childbirth and typical symptoms have been established.",
+     "The patient's described symptoms are consistent with previous examinations.",
+     "A preliminary assessment can be made without further questioning."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Gynecologic internal examination",
+     "Cervical smear test",
+     "Colposcopy"
+    ],
+    "if_suspected": [
+     "Pelvic ultrasound",
+     "Cervical biopsy"
+    ],
+    "avoid": [
+     "Routine abdominal CT scan",
+     "MRI without indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes local repair surgery for symptomatic patients. Regular follow-up after surgery is needed to prevent infection. Nonpharmacologic interventions include avoiding strenuous exercise and sexual intercourse for at least 4 weeks."
+    ],
+    "safety_warnings": [
+     "Preoperative exclusion of cervical precancerous lesions is required.",
+     "Pay attention to anti-infective treatment after surgery.",
+     "Avoid resuming sexual intercourse too early to prevent wound dehiscence."
+    ],
+    "personalization": [
+     "Assess healing capacity in older patients.",
+     "Strengthen glycemic control in patients with diabetes.",
+     "Choose the surgical approach cautiously in nulliparous women."
+    ]
+   },
+   "disease": "old cervical laceration",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "Patients often have unilateral lower abdominal dull pain or fullness in the latter half of the menstrual cycle. If cyst rupture or pedicle torsion occurs, sudden severe abdominal pain with nausea and vomiting may occur. Some patients have a small amount of irregular vaginal bleeding. Symptoms are mostly related to the postovulatory timing, and pain severity can range from mild discomfort to an acute abdomen; identification should incorporate history of amenorrhea and menstrual cycle characteristics.",
+   "interview_guide": {
+    "first_questions": [
+     "When was your last menstrual period? Are your cycles usually regular?",
+     "Did your current abdominal pain start suddenly or worsen gradually? Where exactly is it located?"
+    ],
+    "followup_questions": [
+     "When you have abdominal pain, do you also have dizziness, palpitations, or rectal pressure?",
+     "Have you recently had strenuous exercise, sexual intercourse, or abdominal trauma?"
+    ],
+    "stop_conditions": [
+     "It has been established that the menstrual cycle is in the luteal phase, symptoms are typical, and vital signs are stable.",
+     "High-risk factors for ectopic pregnancy and other acute abdominal conditions have been excluded.",
+     "The patient has no signs of shock, abdominal pain is controllable, and emergency surgical intervention is not needed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Gynecologic ultrasound (transvaginal ultrasound preferred)",
+     "Serum hCG measurement",
+     "Complete blood count and C-reactive protein"
+    ],
+    "if_suspected": [
+     "Pelvic magnetic resonance imaging (MRI) for differentiation of complex cysts",
+     "Tumor marker testing (e.g., CA125) to exclude malignancy",
+     "Culdocentesis (when intra-abdominal bleeding is suspected)"
+    ],
+    "avoid": [
+     "Routine noncontrast abdominal CT (limited diagnostic value for ovarian cysts and increases radiation exposure)",
+     "Blind laparoscopic exploration (in asymptomatic or stable patients)",
+     "Repeated serum progesterone testing (low specificity for diagnosing corpus luteum cysts)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "The vast majority of corpus luteum cysts are physiologic; management is expectant, with advice to rest, avoid strenuous exercise and sexual intercourse, and undergo periodic ultrasound follow-up to observe resolution. If rupture with active bleeding is confirmed or pedicle torsion occurs, immediate laparoscopic surgery is needed to achieve hemostasis or detorsion/excision. For significant pain, short-term NSAIDs may be used for symptomatic relief; specific drug therapy is usually unnecessary."
+    ],
+    "safety_warnings": [
+     "Do not blindly use ovulation induction drugs or hormone therapy before ectopic pregnancy has been excluded.",
+     "Be alert for gastrointestinal bleeding risk when using NSAIDs, especially in patients with a history of ulcer.",
+     "If signs of shock such as decreased blood pressure or increased heart rate occur, immediately establish intravenous access and prepare for blood transfusion."
+    ],
+    "personalization": [
+     "For those identified during pregnancy, close monitoring is required; avoid interfering with maintenance of pregnancy unless severe complications occur.",
+     "In patients with coagulation disorders, adjust the analgesic regimen and closely monitor bleeding parameters.",
+     "For postmenopausal women in whom similar cysts are found, maintain high vigilance for malignancy, use a lower threshold for further evaluation, and actively complete tumor marker testing."
+    ]
+   },
+   "disease": "corpus luteum cyst",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "Patients report crampy lower abdominal pain occurring before or during menstruation, often radiating to the lumbosacral region or inner thighs. Pain is usually most severe 1 day before menstruation or on days 1-2 of menstruation, lasting from several hours to 3 days, and may be accompanied by nausea, vomiting, diarrhea, fatigue, and dizziness. Symptoms are cyclical, with no evidence of pelvic organic disease; gynecologic examination is usually normal.",
+   "interview_guide": {
+    "first_questions": [
+     "On which day of your menstrual cycle does the pain specifically start? How long does it last?",
+     "Is the pain crampy or a continuous dull ache? Is it accompanied by nausea or diarrhea?"
+    ],
+    "followup_questions": [
+     "Have you had similar symptoms before? How much relief do you get after using pain relievers?",
+     "Have you recently been sexually active or changed contraceptive methods? Do you have abdominal pain outside your period?"
+    ],
+    "stop_conditions": [
+     "It has been established that the pain is highly related to the menstrual cycle and there are no signs of organic disease.",
+     "Pregnancy, ectopic pregnancy, acute pelvic inflammatory disease, and other acute abdominal conditions have been excluded.",
+     "The patient responds well to NSAIDs and has no contraindications."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Gynecologic bimanual examination",
+     "Urine hCG test (to exclude pregnancy)",
+     "Pelvic ultrasound"
+    ],
+    "if_suspected": [
+     "CA125 testing (if endometriosis is suspected)",
+     "Laparoscopy (diagnostic gold standard, for difficult cases)",
+     "Thyroid function tests (to exclude endocrine disorders)"
+    ],
+    "avoid": [
+     "Routine CT scanning (higher radiation and lower soft-tissue resolution than ultrasound)",
+     "Empiric antibiotic therapy (when there is no evidence of infection)",
+     "Overly invasive intrauterine procedures (e.g., blind dilation and curettage)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is NSAIDs, such as oral ibuprofen 400mg every 6-8 hours; it is recommended to start 1-2 days before menstruation or at the onset of pain and not to continue for more than 3 days. Also recommend applying heat to the lower abdomen, moderate exercise, and a regular sleep schedule. If NSAIDs are ineffective or contraception is desired, consider a combined oral contraceptive, 1 tablet daily for 21 consecutive days followed by 7 days off as one cycle."
+    ],
+    "safety_warnings": [
+     "NSAIDs are contraindicated in patients with active peptic ulcer, severe renal insufficiency, or aspirin-induced asthma.",
+     "Avoid concomitant use with anticoagulants (e.g., warfarin) to reduce bleeding risk.",
+     "Long-term high-dose NSAID use requires vigilance for gastrointestinal bleeding and cardiovascular events."
+    ],
+    "personalization": [
+     "For adolescent patients, NSAIDs are preferred; avoid premature use of hormonal drugs.",
+     "Use estrogen-containing contraceptives cautiously in obese women with high thrombotic risk or who smoke.",
+     "Breastfeeding women may use acetaminophen or specific NSAIDs; consult a physician."
+    ]
+   },
+   "disease": "Functional dysmenorrhea",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "Patients often report a protruding mass, pain, or itching in the anal region, especially aggravated during defecation. Typical manifestations are blood on toilet paper after defecation or dripping of bright red blood. In some pregnant women, constipation increases intra-abdominal pressure, precipitating incarcerated hemorrhoids or thrombosis and causing severe distending pain. Symptoms often worsen with uterine enlargement in the second and third trimesters of pregnancy and may be slightly relieved by lying down to rest.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you recently had difficulty passing stool or hard, dry stools?",
+     "Have you had bleeding, pain, or felt a lump in the anal area?"
+    ],
+    "followup_questions": [
+     "Is the bleeding bright red or dark red, and is it heavy?",
+     "Does the pain persist after defecation, or is it accompanied by fever?"
+    ],
+    "stop_conditions": [
+     "The relationship of symptoms to defecation and body position has been established, and there are no signs of infection.",
+     "Gestational age and history of hemorrhoids have been confirmed.",
+     "Other anorectal diseases such as anal fissure and rectal polyp have been excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Anal inspection",
+     "Digital rectal examination"
+    ],
+    "if_suspected": [
+     "Anoscopy (perform gently)",
+     "Complete blood count (to assess anemia and infection)"
+    ],
+    "avoid": [
+     "Colonoscopy (unless malignancy is highly suspected and benefits outweigh risks)",
+     "Abdominal CT (avoid radiation exposure)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Conservative treatment is preferred, including a high-fiber diet, increased water intake, and warm sitz baths to soften stool and relieve symptoms. Topical hemorrhoid ointments/suppositories containing lidocaine or hydrocortisone may be applied locally 2-3 times daily for no more than 1 week. If constipation is severe, short-term oral lactulose solution may be used. Surgical intervention is generally unnecessary; manage according to the situation after delivery."
+    ],
+    "safety_warnings": [
+     "Do not use topical agents containing musk or other components that promote blood circulation and menstruation, to prevent miscarriage.",
+     "Avoid long-term use of potent corticosteroid ointments, which can cause skin atrophy.",
+     "Be alert to possible fetal nephrotoxicity caused by NSAIDs."
+    ],
+    "personalization": [
+     "Use any medication cautiously in early pregnancy; prioritize physical therapy.",
+     "In late pregnancy, if incarceration and necrosis occur, consider emergency management under obstetric supervision.",
+     "In patients with a history of cesarean section, protect the perineal area to avoid aggravating local edema."
+    ]
+   },
+   "disease": "Hemorrhoids in pregnancy",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "Most patients are adolescent girls who complain of cyclic lower abdominal pain but no menstrual bleeding (primary amenorrhea). The pain is progressively worsening and may be accompanied by rectal tenesmus. Gynecologic examination shows an outward-bulging hymen with a purple-blue surface and fluctuance on palpation, suggesting hematocolpos. In some patients, the accumulated blood compresses the bladder or rectum, causing difficulty urinating or constipation.",
+   "interview_guide": {
+    "first_questions": [
+     "Are you already 14 years old and still have not had a menstrual period?",
+     "Do you have cyclic lower abdominal pain that worsens over time?",
+     "When the pain occurs, is it accompanied by rectal tenesmus or difficulty having a bowel movement?"
+    ],
+    "followup_questions": [
+     "If you have confirmed cyclic abdominal pain, please describe the exact location and duration of the pain?",
+     "Have you had difficulty urinating, urinary frequency, or urinary retention?",
+     "Have you previously had similar abdominal pain that resolved on its own?"
+    ],
+    "stop_conditions": [
+     "Primary amenorrhea with cyclic abdominal pain and typical signs has been confirmed.",
+     "The patient's complaints are highly consistent with the physical examination findings.",
+     "Other common causes of amenorrhea have been excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Pelvic ultrasound (to assess the degree of hematocolpos and the uterine condition)",
+     "Gynecologic specialty examination (inspection of hymen morphology and palpation for fluctuance)",
+     "Complete blood count (to evaluate for infection or anemia)"
+    ],
+    "if_suspected": [
+     "MRI (to define anatomic structures in complex cases)",
+     "Urinary tract ultrasound (to assess for coexisting urinary tract anomalies)",
+     "Chromosomal karyotype analysis (to differentiate congenital developmental anomalies of the reproductive tract)"
+    ],
+    "avoid": [
+     "Routine hysteroscopy (cannot be performed before incision and increases risk)",
+     "Blind puncture and drainage (may spread infection)",
+     "Full hormone panel screening (not a first-line diagnostic method)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is surgery, i.e., X-shaped hymenotomy under anesthesia to drain the accumulated blood and suture the incision edges to prevent adhesions. Postoperatively, daily vaginal dilation or placement of a drainage strip for 2 weeks is required to prevent re-closure. No drug therapy is needed; the focus is on relieving the obstruction. Postoperative antibiotics are given to prevent infection, the vulva should be kept clean, and follow-up should be scheduled until healing."
+    ],
+    "safety_warnings": [
+     "Forcible dilation without anesthesia is strictly prohibited to avoid laceration and bleeding",
+     "Pay attention to differentiating coexisting transverse vaginal septum or cervical atresia",
+     "Be alert to pelvic inflammatory disease or abscess formation caused by postoperative infection"
+    ],
+    "personalization": [
+     "For minor patients, fully communicate and obtain guardian consent",
+     "Patients with coexisting urinary tract anomalies require multidisciplinary combined surgery",
+     "Psychological counseling: address the patient's anxiety caused by long-term pain"
+    ]
+   },
+   "disease": "Imperforate hymen",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "Pregnant women often complain of abnormally enlarged abdomen or excessive weight gain, or at prenatal visits the fundal height and abdominal circumference are significantly greater than expected for gestational age. Some patients have a history of gestational diabetes. Before labor, they may feel unusually frequent fetal movements or difficulty with fetal head engagement. During delivery, they present with prolonged labor and an increased risk of shoulder dystocia; the newborn birth weight is usually over 4000 grams, with abundant subcutaneous fat visible on the body surface.",
+   "interview_guide": {
+    "first_questions": [
+     "What is your current gestational age? How much weight have you gained recently?",
+     "Have you been diagnosed with gestational diabetes or elevated blood glucose during pregnancy?",
+     "What were the estimated fetal weight and amniotic fluid findings on the most recent ultrasound?"
+    ],
+    "followup_questions": [
+     "If macrosomia is suspected, ask further: \"Have you had a previous delivery of a macrosomic infant or a history of shoulder dystocia?\"",
+     "If dyspnea or worsening edema occurs, ask further: \"Do you have symptoms of hypertension or proteinuria?\"",
+     "Ask about changes in fetal movements: \"Have you noticed that the fetal movements are unusually frequent or decreased recently?\""
+    ],
+    "stop_conditions": [
+     "Gestational age, estimated fetal weight, and maternal glycemic control have been clarified.",
+     "Whether pregnancy complications (such as diabetes and hypertension) are present has been confirmed.",
+     "Prior delivery history and key indicators from the current prenatal visit have been assessed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Obstetric ultrasound (focusing on fetal biparietal diameter, abdominal circumference, and femur length)",
+     "Fasting blood glucose and glycated hemoglobin testing",
+     "Pelvimetry (to assess the cephalopelvic relationship)"
+    ],
+    "if_suspected": [
+     "Oral glucose tolerance test (OGTT) to confirm gestational diabetes",
+     "Fetal biophysical profile (to assess fetal well-being)",
+     "Cervical maturity assessment (to guide selection of delivery mode)"
+    ],
+    "avoid": [
+     "Routine X-ray pelvimetry without indication (radiation risk)",
+     "Overreliance on palpation to estimate fetal weight (large error)",
+     "Unnecessary repeat ultrasound examinations (unless the condition changes)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "The primary measure is strict control of diet and exercise; insulin therapy is used for patients with gestational diabetes. Delivery mode requires individualized assessment: cesarean delivery is recommended if the estimated fetal weight is >4500g (nondiabetic) or >4000g (diabetic)",
+     "Otherwise, a trial of labor may be attempted but requires close monitoring to prevent shoulder dystocia. Monitor neonatal blood glucose immediately after birth to prevent hypoglycemia."
+    ],
+    "safety_warnings": [
+     "Blind induction of labor is strictly prohibited to avoid precipitating shoulder dystocia and causing brachial plexus injury",
+     "Insulin therapy requires vigilance for hypoglycemic reactions; dose adjustments must follow medical advice",
+     "Cesarean delivery requires precautions against postpartum hemorrhage and impaired wound healing risk"
+    ],
+    "personalization": [
+     "Patients with diabetes require intensified blood glucose monitoring, with a target fasting glucose <5.3mmol/L",
+     "For multiparous women with a roomy pelvis, the indications for trial of labor may be appropriately relaxed",
+     "For multiple gestation or polyhydramnios, an emergency cesarean delivery plan should be prepared in advance"
+    ]
+   },
+   "disease": "Macrosomia",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "Patients often develop progressive abdominal distension and abdominal pain, accompanied by nausea and vomiting, after ovulation induction or assisted reproduction. Severe cases may present with decreased urine output, dyspnea, lower extremity edema, and rapid short-term weight gain (e.g., >2kg within 3 days). Physical examination shows abdominal distension and positive shifting dullness; some patients have signs of pleural effusion and ascites. Symptom severity is related to the degree of ovarian enlargement and third-space fluid distribution.",
+   "interview_guide": {
+    "first_questions": [
+     "When was your most recent ovulation induction or oocyte retrieval procedure?",
+     "How many kilograms has your weight increased in the past three days?",
+     "Do you currently have significant abdominal bloating, abdominal pain, or difficulty breathing?"
+    ],
+    "followup_questions": [
+     "If abdominal bloating is severe, please describe the exact location and nature of the pain (distending pain or stabbing pain)?",
+     "Have your urinary frequency and urine volume decreased significantly today? Is the urine dark yellow?",
+     "Are you having nausea, vomiting, or inability to eat?"
+    ],
+    "stop_conditions": [
+     "Recent ovulation induction history has been confirmed, and the patient has typical abdominal bloating, rapid weight gain, and oliguria.",
+     "The patient's vital signs are stable, with no acute dyspnea or shock, so there is no need for urgent questioning about emergency details.",
+     "Weight change data within the key time window and descriptions of urinary symptoms have been obtained."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Transvaginal ultrasound (to assess ovarian volume, follicle count, and pelvic fluid)",
+     "Serum electrolytes and renal function tests (to monitor sodium, potassium, and creatinine levels)",
+     "Complete blood count (to monitor elevated hemoglobin and hematocrit caused by hemoconcentration)"
+    ],
+    "if_suspected": [
+     "Chest X-ray or CT (to evaluate pleural effusion and atelectasis)",
+     "Full coagulation panel (to assess the risk of hypercoagulability)",
+     "Liver function tests (to exclude hepatic capsular stretch injury)"
+    ],
+    "avoid": [
+     "Unnecessary repeat pelvic puncture and drainage (unless massive ascites causes severe compression and conservative treatment is ineffective)",
+     "Routine use of contrast-enhanced CT with iodinated contrast (to avoid increasing renal burden)",
+     "Invasive abdominal exploration without indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Mild cases are managed mainly by outpatient observation; oral rehydration is encouraged (isotonic saline or electrolyte-containing beverages), and high-protein diet is restricted to prevent worsening of hypoproteinemia. Moderate-to-severe cases require hospitalization, strict bed rest, and intravenous colloid fluids (such as albumin) to maintain blood volume; low-molecular-weight heparin is given when necessary to prevent thrombosis. Closely monitor intake and output and body weight, and avoid strenuous activity to prevent ovarian torsion."
+    ],
+    "safety_warnings": [
+     "Diuretics must not be used indiscriminately, to avoid worsening hemoconcentration and thrombosis risk.",
+     "Be alert to drug interactions and avoid nonsteroidal anti-inflammatory drugs that may affect coagulation.",
+     "Prevent ovarian rupture and torsion; abdominal pressure or strenuous exercise is prohibited."
+    ],
+    "personalization": [
+     "Patients with polycystic ovary syndrome (PCOS) are at higher risk and require earlier initiation of preventive measures.",
+     "Older or obese patients should receive intensified thrombosis prevention, with the anticoagulation course appropriately extended.",
+     "Patients with pregnancy complicated by OHSS require a longer observation period because continued hCG secretion may worsen the condition."
+    ]
+   },
+   "disease": "Ovarian hyperstimulation syndrome",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "Patients often present with ambiguous external genitalia, such as marked clitoromegaly, labial fusion, or hypospadias, making it difficult to clearly distinguish male from female. In some children, a mass may be palpable in the inguinal region or large scrotum (possibly testicular tissue); after puberty, irregular menstruation, amenorrhea, or virilizing signs may occur. Chief complaints mostly center on 'ambiguous sex,' 'difficulty urinating,' or 'abnormal development of secondary sexual characteristics at puberty.'",
+   "interview_guide": {
+    "first_questions": [
+     "How did the doctor describe your genital appearance at birth? Were you assigned male or female?",
+     "Do you currently have menstrual periods? If so, are the cycle and flow normal?",
+     "Is there a family history of similar disorders of sex development or fertility difficulties?"
+    ],
+    "followup_questions": [
+     "If a mass is present, does it move with changes in position or is it painful?",
+     "During puberty, have you developed virilizing features such as deepening of the voice or increased body hair?",
+     "Have you previously undergone hormone level testing or chromosome testing? What were the results?"
+    ],
+    "stop_conditions": [
+     "The description of external genital morphology and prior surgical history have been clarified.",
+     "Preliminary chromosome karyotype analysis results have been obtained (such as 46,XX/46,XY mosaicism).",
+     "Baseline hormone levels (FSH, LH, testosterone, estradiol) have been assessed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Pelvic and inguinal ultrasound",
+     "Chromosome karyotype analysis",
+     "Measurement of six serum sex hormones"
+    ],
+    "if_suspected": [
+     "Laparoscopic exploration (to locate ovarian and testicular tissue)",
+     "Anti-Müllerian hormone (AMH) and inhibin B testing",
+     "Adrenal cortical function and 17-hydroxyprogesterone screening"
+    ],
+    "avoid": [
+     "Blind gonadal excision or biopsy without indication",
+     "Gender reassignment surgery before a definitive diagnosis",
+     "Unnecessary whole-body CT scans (radiation risk)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Treatment requires multidisciplinary collaboration, with individualized sex assignment as the first priority. If a female phenotype is determined and fertility potential is to be preserved, gonadectomy with preservation of ovarian tissue can be performed",
+     "If there is a risk of malignant transformation (such as Y chromosome material), early gonadectomy and estrogen replacement therapy are recommended. In childhood, psychological intervention and, when necessary, labia minoraplasty can be performed. At puberty, hormone replacement should be initiated according to gender identity to maintain secondary sexual development."
+    ],
+    "safety_warnings": [
+     "Routine gonadectomy is strictly prohibited before gonadal tumor has been excluded",
+     "Hormone replacement therapy requires monitoring for thrombosis risk and liver function",
+     "Avoid androgenic drugs that may worsen virilization"
+    ],
+    "personalization": [
+     "In infancy and early childhood, priority should be given to functional reconstruction of the urogenital tract",
+     "In adolescence, fully respect the gender identity wishes of the patient and family",
+     "For those with fertility needs, assess the possibility of preserving ovarian tissue and assisted reproductive options"
+    ]
+   },
+   "disease": "Ovotesticular disorder of sex development (Ovotesticular DSD)",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "Patients are mostly women aged 45-55 years, presenting with menstrual cycle irregularities (such as decreased or increased menstrual flow, prolonged or shortened cycles), accompanied by hot flashes and night sweats (a sudden sensation of heat in the face and upper body), palpitations, insomnia, mood swings (irritability or anxiety), and joint and muscle pain. Symptoms are often paroxysmal and worse at night, severely affecting sleep and quality of life. Some patients have genitourinary atrophy symptoms such as vaginal dryness or urinary frequency.",
+   "interview_guide": {
+    "first_questions": [
+     "When was your last menstrual period? Have you noticed any changes in your cycle length or menstrual flow?",
+     "Do you often experience sudden feelings of heat and sweating, or cold sweats at night while sleeping?",
+     "Recently, have you had significant difficulty sleeping, irritability, or memory decline?"
+    ],
+    "followup_questions": [
+     "How often do hot flashes occur? Do they affect your daily activities or work?",
+     "Have you had vaginal dryness, pain during intercourse, or recurrent urinary tract infections?",
+     "Do you have a history of breast cancer, thrombosis, or a family history of hereditary cancer?"
+    ],
+    "stop_conditions": [
+     "The pattern of menstrual change has been clarified and typical vasomotor symptoms have persisted for more than 3 months.",
+     "Baseline risk assessment has been completed (including breast, uterine, and cardiovascular risks).",
+     "The patient's symptom score (e.g., Kupperman Index) is sufficient to support the clinical diagnosis and no further differential workup is needed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum follicle-stimulating hormone (FSH) measurement",
+     "Serum estradiol (E2) measurement",
+     "Gynecologic ultrasound (to assess endometrial thickness and ovarian status)"
+    ],
+    "if_suspected": [
+     "Thyroid function tests (to exclude similar symptoms caused by hyperthyroidism/hypothyroidism)",
+     "Mammography or breast ultrasound (to screen for breast lesions)",
+     "Bone density testing (to assess osteoporosis risk)"
+    ],
+    "avoid": [
+     "Routine full sex hormone panel (six tests) (repeat testing is not beneficial when not necessary)",
+     "Invasive diagnostic curettage in asymptomatic patients",
+     "Blind use of tumor marker screening (when not indicated)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Individualized menopausal hormone therapy (MHT) is preferred. For patients with an intact uterus, use estrogen combined with progestogen (e.g., estradiol valerate 1 mg/day + dydrogesterone 10 mg/day, taken in the latter half of the cycle)",
+     "For patients without a uterus, use estrogen alone. Treatment is usually recommended for at least 3-6 months, adjusted according to symptom relief. Lifestyle interventions are also recommended: regular exercise, calcium and vitamin D supplementation, a healthy diet, and psychological counseling."
+    ],
+    "safety_warnings": [
+     "Contraindications: known or suspected pregnancy, unexplained vaginal bleeding, active venous thromboembolism, severe hepatic or renal impairment, and hormone-dependent malignancies.",
+     "Drug interactions: enzyme inducers such as rifampicin and carbamazepine may reduce the efficacy of hormones",
+     "Concomitant warfarin requires monitoring of coagulation function.",
+     "Prevent deep vein thrombosis: caution is needed in patients with prolonged bed rest or obesity; if lower-limb swelling or pain occurs, stop the medication immediately and seek medical care."
+    ],
+    "personalization": [
+     "For older patients (>60 years) or those more than 10 years since menopause, initiating MHT requires careful assessment of the benefit-risk ratio, with non-hormonal treatment preferred.",
+     "Oral estrogen should be used with caution in patients with a history of gallbladder disease; a transdermal route may be considered.",
+     "Patients with hypertension or diabetes require close monitoring of blood pressure and glucose changes, and formulations with minimal metabolic effects are preferred."
+    ]
+   },
+   "disease": "Perimenopausal syndrome",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "Patients often have no obvious subjective symptoms and are usually discovered incidentally during gynecologic examination or ultrasound. Some patients may report mild lower abdominal dull pain, a feeling of heaviness, or occasional unilateral abdominal pain during the menstrual cycle (suggesting a risk of corpus luteum rupture or cyst torsion). The typical finding is a unilateral, thin-walled, anechoic cystic structure, usually less than 5 cm in diameter, which may shrink or resolve spontaneously with changes in the menstrual cycle.",
+   "interview_guide": {
+    "first_questions": [
+     "When was your last menstrual period? Are your periods usually regular?",
+     "Was this examination because of abdominal pain or discomfort, or was it found during a routine checkup?"
+    ],
+    "followup_questions": [
+     "Is the abdominal pain related to your menstrual cycle, and does it worsen around ovulation or before your period?",
+     "Recently, have you had sudden abdominal pain after strenuous exercise or sexual intercourse?"
+    ],
+    "stop_conditions": [
+     "The cyst size, morphology, and relationship to the menstrual cycle have been clarified, and there are no signs of an acute abdomen.",
+     "The patient has no signs of critical illness such as persistent severe abdominal pain, fever, or syncope.",
+     "It has been confirmed that emergency surgical intervention is not needed and follow-up observation can be arranged."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Transvaginal color Doppler ultrasound",
+     "Serum CA125 testing (for initial exclusion of malignancy)"
+    ],
+    "if_suspected": [
+     "Pregnancy test (HCG) to exclude ectopic pregnancy",
+     "Pelvic MRI (when ultrasound images are unclear or further characterization is needed)"
+    ],
+    "avoid": [
+     "Unnecessary repeated high-frequency ultrasound examinations (unless the condition changes)",
+     "Invasive needle biopsy in asymptomatic young women with typical imaging findings",
+     "Blind use of hormonal drugs for preventive treatment"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Expectant management is adopted, and no specific drug treatment is needed. Patients are advised to undergo repeat transvaginal ultrasound 3-7 days after the end of their next menstrual period to observe whether the cyst resolves spontaneously. During this period, avoid strenuous exercise and heavy physical labor to prevent cyst rupture or pedicle torsion. If the cyst persists for more than 2-3 menstrual cycles or increases in diameter to more than 5 cm, the treatment plan should be reassessed."
+    ],
+    "safety_warnings": [
+     "Do not use ovulation-inducing drugs blindly before ectopic pregnancy has been excluded.",
+     "Be alert for sudden severe abdominal pain, which may indicate cyst rupture or pedicle torsion and requires immediate emergency management.",
+     "Avoid self-administering traditional Chinese medicines that promote blood circulation and remove blood stasis, to prevent an increased risk of bleeding."
+    ],
+    "personalization": [
+     "Ovarian cysts in postmenopausal women require high vigilance; follow-up intervals should be shortened and tumor marker screening should be completed.",
+     "If a cyst is found during pregnancy and is asymptomatic, it is usually observed until delivery, avoiding surgery during pregnancy.",
+     "For patients with fertility needs, avoid excessive intervention, preserve ovarian function, and regular monitoring is sufficient."
+    ]
+   },
+   "disease": "Physiologic ovarian cyst",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "Patients usually develop mood swings (such as anxiety or depression), physical symptoms (such as breast tenderness, abdominal bloating, and headache), and behavioral changes (such as increased appetite and fatigue) 1-2 weeks before menstruation. Symptoms resolve rapidly after menstruation begins and recur cyclically each month. The degree to which symptoms affect daily life should be assessed.",
+   "interview_guide": {
+    "first_questions": [
+     "Do your symptoms worsen before your period and improve after your period begins?",
+     "Do you experience significant mood swings or physical discomfort?",
+     "Do these symptoms affect your work or daily life?"
+    ],
+    "followup_questions": [
+     "Have you had severe depression or suicidal thoughts?",
+     "Are your symptoms related to stressful events?",
+     "Have you tried medication before? How effective was it?"
+    ],
+    "stop_conditions": [
+     "Symptoms are consistent with a typical cyclical pattern and the impact on life is clear",
+     "Other organic diseases have been excluded",
+     "The patient's complaints are clear and no further questioning is necessary"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Gynecologic ultrasound",
+     "Hormone level testing (e.g., FSH, LH, estradiol)",
+     "Psychological assessment scales (e.g., PMS questionnaire)"
+    ],
+    "if_suspected": [
+     "Thyroid function testing",
+     "Blood glucose and lipid testing",
+     "Breast ultrasound"
+    ],
+    "avoid": [
+     "Unnecessary CT or MRI examinations",
+     "Repeat hormone testing (unless the condition is complex)",
+     "Nonspecific blood tests"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes lifestyle modification (regular exercise, reduced caffeine intake) and pharmacologic intervention. Commonly used drugs are selective serotonin reuptake inhibitors (SSRIs), such as fluoxetine 20 mg/day, taken only during the luteal phase. For severe dysmenorrhea, nonsteroidal anti-inflammatory drugs (NSAIDs) may be used short-term."
+    ],
+    "safety_warnings": [
+     "Avoid long-term use of high-dose SSRIs to prevent dependence",
+     "Note that NSAIDs may cause gastrointestinal bleeding",
+     "SSRIs should be used with caution in pregnant and breastfeeding women"
+    ],
+    "personalization": [
+     "Adolescent patients require adjusted drug doses and enhanced psychological support",
+     "Older patients should have hepatic and renal function assessed before medication use",
+     "Patients with a history of depression should be preferentially treated with SSRIs and closely monitored"
+    ]
+   },
+   "disease": "Premenstrual syndrome",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "Patients often present with oligomenorrhea or amenorrhea for more than 4 months before age 40, accompanied by hypoestrogenic symptoms such as hot flashes, night sweats, and vaginal dryness. Some patients complain of infertility or experience mood swings, sleep disturbance, and decreased libido. Vigilance is needed for the risk of osteoporosis caused by long-term estrogen deficiency, such as unexplained bone pain or loss of height.",
+   "interview_guide": {
+    "first_questions": [
+     "When was your last menstrual period? Have your periods been regular since then?",
+     "Recently, have you experienced hot flashes, night sweats, or vaginal dryness?",
+     "Do you have a desire to conceive or a history of infertility?"
+    ],
+    "followup_questions": [
+     "If menstrual abnormalities are present, ask further: is there a family history of premature menopause or a history of autoimmune disease?",
+     "If hot flashes are present, ask further: how often do they occur and how much do they affect daily life?",
+     "If there are fertility plans, ask further: have you previously received chemotherapy, radiotherapy, or pelvic surgery?"
+    ],
+    "stop_conditions": [
+     "It has been established that menstruation has ceased for more than 4 months and FSH is elevated; no further details about menstruation are needed.",
+     "Typical menopausal symptoms are obvious and there are no signs of other systemic involvement; questioning about nonspecific symptoms can stop.",
+     "When the patient declines further examination or treatment and only counseling advice is needed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum follicle-stimulating hormone (FSH) testing (two values >25 IU/L obtained more than 4 weeks apart)",
+     "Serum estradiol (E2) testing",
+     "Pelvic ultrasound (to assess ovarian volume and antral follicle count)"
+    ],
+    "if_suspected": [
+     "Chromosomal karyotype analysis (to investigate genetic factors such as Turner syndrome)",
+     "FMR1 premutation screening (to investigate fragile X syndrome-associated POI)",
+     "Thyroid function and antibodies, adrenal cortical function and antibodies (to investigate autoimmune disease)"
+    ],
+    "avoid": [
+     "Routine progestogen withdrawal test (of limited value and potentially misleading in the diagnosis of POI)",
+     "Repeated monitoring of AMH as a basis for diagnosis (AMH levels fluctuate widely and cannot establish the diagnosis alone)",
+     "Ovarian biopsy without indication (invasive and of limited help for clinical decision-making)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Hormone replacement therapy (HRT) is preferred, supplementing estrogen and progestogen to mimic the physiological cycle. Transdermal estradiol patches (50-100 μg/day) combined with oral micronized progesterone (200 mg/night for 12-14 days each month) are recommended. Treatment should continue at least until the natural age of menopause (about 50 years). Calcium (1000-1200 mg/day) and vitamin D supplementation are also recommended, and weight-bearing exercise is encouraged to prevent osteoporosis."
+    ],
+    "safety_warnings": [
+     "Estrogen-containing preparations should be used with caution in women at high risk of breast cancer, with rigorous assessment of the benefit-risk ratio.",
+     "In patients with a history of venous thromboembolism, avoid oral estrogen and prefer the transdermal route.",
+     "Long-term use requires regular monitoring of the breasts and endometrium to prevent endometrial hyperplasia or malignant transformation."
+    ],
+    "personalization": [
+     "For patients with fertility needs: HRT is not a contraceptive, and they should be informed of the possibility of natural ovulation; assisted reproductive technology evaluation is recommended.",
+     "Adolescent patients: adjust the dose according to skeletal development to promote secondary sexual characteristics and bone mass accrual.",
+     "Patients with autoimmune disease: manage jointly with rheumatology/immunology, and note drug interactions and infection risk."
+    ]
+   },
+   "disease": "Primary ovarian insufficiency (POI)",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "The patient complains of lower abdominal pain during or after menstruation that is progressively worsening, often beginning several years after menarche. The pain is usually located in the midline of the lower abdomen or radiates to the lumbosacral region and inner thighs, and may be accompanied by a sensation of rectal tenesmus. It is often accompanied by dyspareunia, nonmenstrual pelvic pain, increased menstrual volume, or prolonged menstruation. Unlike primary dysmenorrhea, the pain may begin premenstrually and persist postmenstrually, and it responds poorly to conventional analgesics.",
+   "interview_guide": {
+    "first_questions": [
+     "When did your dysmenorrhea begin? Has the pain worsened year by year?",
+     "Besides menstrual abdominal pain, do you have lower abdominal pain outside your period or pain during sexual intercourse?",
+     "Has your menstrual flow increased significantly compared with before, or has your period become longer?"
+    ],
+    "followup_questions": [
+     "If there is a history of infertility, ask further: 'How long have you been trying to conceive without success? Have you had any miscarriages or ectopic pregnancies?'",
+     "If the pain is severe with nausea and vomiting, ask further: 'Does the pain prevent you from working or carrying out daily activities? Is it accompanied by fever?'",
+     "If menstruation is abnormal, ask further: 'Have you had intermenstrual bleeding or spotting outside your period?'"
+    ],
+    "stop_conditions": [
+     "The pain has been clearly established as progressively worsening and is accompanied by typical associated symptoms (such as dyspareunia or infertility).",
+     "The patient has provided a complete menstrual history, reproductive history, and history of prior gynecologic surgery.",
+     "The preliminary assessment points to endometriosis or adenomyosis, and there is no need to ask about unrelated systemic symptoms."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Gynecologic bimanual examination (to assess uterine size, mobility, adnexal masses, and tender nodules)",
+     "Transvaginal ultrasonography (preferred, to evaluate myometrial echotexture, endometrial thickness, and adnexa)",
+     "Serum CA125 testing (adjunctive diagnosis of endometriosis)"
+    ],
+    "if_suspected": [
+     "Pelvic MRI (when ultrasound findings are unclear or deep infiltrating endometriosis needs assessment)",
+     "Laparoscopy (gold standard for diagnosis and concurrent treatment)",
+     "Hysteroscopy (when concurrent intrauterine lesions such as polyps or adhesions are suspected)"
+    ],
+    "avoid": [
+     "Plain abdominal radiography alone (no diagnostic value for pelvic soft-tissue lesions)",
+     "Routine full-panel tumor marker screening (unless malignancy is highly suspected, it readily leads to overtreatment)",
+     "Blind antibiotic treatment (should not be used as a routine diagnostic measure when there is no evidence of infection)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment mainly consists of medications that suppress ovulation and lower estrogen levels. Commonly used nonsteroidal anti-inflammatory drugs (NSAIDs) include ibuprofen 400mg 3 times daily, started 1-2 days before menstruation",
+     "or oral short-acting contraceptives (such as drospirenone/ethinyl estradiol), taken continuously or cyclically for 3-6 months. For patients with suspected endometriosis, progestins (such as dienogest 2mg/day) or GnRH-a injections may be considered. Nonpharmacologic interventions such as warm compresses and moderate exercise are also recommended."
+    ],
+    "safety_warnings": [
+     "NSAIDs are contraindicated in patients with active peptic ulcer disease, severe renal impairment, or a history of aspirin-induced asthma.",
+     "Oral contraceptives are contraindicated in smokers older than 35 years, those with a history of venous thromboembolism, or those with migraine with aura.",
+     "Long-term GnRH-a use may cause hypoestrogenic adverse effects (such as hot flashes and decreased bone mineral density), and add-back therapy should be considered."
+    ],
+    "personalization": [
+     "For patients seeking fertility: avoid long-term ovulation suppression; prioritize NSAIDs or short-term progestins, and refer for surgery early if necessary.",
+     "For patients not seeking fertility with severe symptoms: long-term oral contraceptives or placement of a levonorgestrel-releasing intrauterine system (Mirena) may be considered.",
+     "Perimenopausal women: use hormone therapy cautiously, closely monitor breast and endometrial changes, and add androgen opposition if necessary."
+    ]
+   },
+   "disease": "Secondary dysmenorrhea",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "The patient previously had regular menstrual cycles and now has amenorrhea for more than 3 cycles or more than 6 months. It is often accompanied by hypoestrogenic symptoms such as hot flashes and night sweats, or hyperandrogenic manifestations such as galactorrhea, hirsutism, and acne. Some patients may have cyclic lower abdominal pain (suggesting genital tract obstruction) or headache and visual changes (suggesting pituitary disease). Recent weight changes, psychological stress, and medication history should be specifically elicited to help identify the cause.",
+   "interview_guide": {
+    "first_questions": [
+     "When was your last menstrual period? Were your periods regular before that?",
+     "Have you recently had significant weight loss, excessive exercise, or increased psychological stress?",
+     "Have you had nipple discharge outside breastfeeding, headache, or blurred vision?"
+    ],
+    "followup_questions": [
+     "If hirsutism or acne is present, ask further: 'Did these body hair changes appear suddenly in recent months?'",
+     "If there is galactorrhea, ask further: 'Does the discharge occur spontaneously or only with squeezing? Is it milky white?'",
+     "If pregnancy is suspected, ask further: 'Have you had unprotected sexual intercourse recently? Have you already done a urine pregnancy test yourself?'"
+    ],
+    "stop_conditions": [
+     "Pregnancy has been clearly excluded and amenorrhea has been confirmed to last more than 6 months.",
+     "A complete menstrual history, reproductive history, and recent weight change record have been obtained.",
+     "The patient has described typical associated symptoms (such as galactorrhea or hirsutism) sufficient to initially localize the cause."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Serum beta-human chorionic gonadotropin (β-hCG) measurement",
+     "Six sex hormone panel (FSH, LH, E2, P, T, PRL)",
+     "Thyroid function tests (TSH, FT4)"
+    ],
+    "if_suspected": [
+     "Pelvic ultrasonography (to assess endometrial thickness and ovarian morphology)",
+     "Pituitary MRI (when hyperprolactinemia or pituitary adenoma is suspected)",
+     "Progesterone withdrawal test (to assess endogenous estrogen levels and uterine response)"
+    ],
+    "avoid": [
+     "Blind use of progesterone to induce withdrawal bleeding before pregnancy is excluded",
+     "Hysteroscopy without an indication (unless intrauterine adhesions are highly suspected and other tests cannot confirm the diagnosis)",
+     "Routine chromosome karyotype analysis (unless FSH is markedly elevated and age is <40 years)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Treatment should be directed at the underlying cause. For hypothalamic amenorrhea, lifestyle intervention is first-line (increased caloric intake, reduced exercise, and stress relief), with estrogen-progestin sequential therapy added if necessary to establish artificial cycles. For polycystic ovary syndrome, metformin combined with short-acting oral contraceptives is preferred to regulate menstruation. For hyperprolactinemia, bromocriptine or dopamine agonists are preferred. All patients require regular bone mineral density monitoring to prevent osteoporosis."
+    ],
+    "safety_warnings": [
+     "Before estrogen use, breast cancer, a history of thrombosis, and unexplained vaginal bleeding must be excluded.",
+     "Bromocriptine may cause nausea and dizziness; starting at a low dose and taking it with food is recommended to prevent hypotension.",
+     "Long-term high-dose glucocorticoid use may cause Cushing syndrome and requires strict monitoring."
+    ],
+    "personalization": [
+     "In adolescent patients, avoid potent ovulation-suppressing drugs and focus on nutritional support.",
+     "In perimenopausal women, use estrogen replacement therapy cautiously and assess cardiovascular risk.",
+     "For patients seeking fertility, long-acting contraception is contraindicated, and ovulation induction is preferred."
+    ]
+   },
+   "disease": "Secondary amenorrhea",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "Patients are mostly postmenopausal women who complain of vaginal dryness, burning, or dyspareunia. There is often thin, pale yellow, or purulent discharge, occasionally with a small amount of bloody leukorrhea. Some patients have urinary irritative symptoms such as urinary frequency and urgency. Symptoms often worsen after fatigue or sexual intercourse, with no obvious vulvar pruritus or only mild discomfort.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you reached menopause? Have you recently had vaginal dryness or pain during sexual intercourse?",
+     "Have there been any changes in the color, character, or amount of your discharge? Is there any odor or blood streaking?"
+    ],
+    "followup_questions": [
+     "Do you have urinary symptoms such as frequency, urgency, or difficulty urinating?",
+     "Have you recently used topical medications or hormone replacement therapy?"
+    ],
+    "stop_conditions": [
+     "Menopausal status is clear and typical symptoms (dryness, yellow watery discharge) are clearly described.",
+     "Recent abnormal bleeding or high-risk factors for malignancy have been excluded.",
+     "The patient has no signs of severe systemic infection or complex comorbidities requiring further investigation."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Gynecologic pelvic examination (to observe vaginal mucosal atrophy and hyperemia)",
+     "Routine vaginal discharge testing (pH measurement and microscopy)",
+     "Cervical cytology (TCT) to exclude cervical lesions"
+    ],
+    "if_suspected": [
+     "Colposcopy (if suspicious ulcers or masses are found)",
+     "Pelvic ultrasonography (to assess endometrial thickness and adnexa)",
+     "Six sex hormone panel testing (to help assess the degree of ovarian function decline)"
+    ],
+    "avoid": [
+     "Routine bacterial culture (unless resistant organisms or complicated infection are suspected)",
+     "Unnecessary combination of broad-spectrum antibiotics",
+     "Excessively invasive biopsy procedures (when there is no clear indication)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Topical estrogen therapy is preferred, such as estriol cream or promestriene vaginal capsules, once nightly for 2 weeks, then reduced to 2-3 times per week for maintenance. Lactobacillus preparations are used to regulate the vaginal microbiota. Nonpharmacologic interventions include keeping the vulva clean and dry, avoiding irritating washes, and using lubricants during sexual intercourse. The course usually needs to continue for several months to improve mucosal atrophy."
+    ],
+    "safety_warnings": [
+     "Estrogens are contraindicated in patients with a history of breast cancer or endometrial cancer.",
+     "In unexplained vaginal bleeding, malignancy must be excluded before medication can be used.",
+     "Be alert to thromboembolic risk; long-term users require regular monitoring."
+    ],
+    "personalization": [
+     "Patients with diabetes require strict glycemic control to prevent secondary infection.",
+     "In patients with hepatic impairment, oral estrogens should be used cautiously, with topical administration preferred.",
+     "In individuals at high risk of thrombosis, the benefit-risk ratio should be rigorously assessed."
+    ]
+   },
+   "disease": "Atrophic vaginitis",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "Patients are mostly more than 2 weeks postpartum, complaining of persistently incomplete or heavy lochia, with the color changing from pale red to bright red or dark red, accompanied by clots. They often describe lower abdominal bearing-down fullness, dull pain, or backache; when the uterine fundus is palpated, there is marked pain and the uterine body is soft and enlarged, located higher than expected. Some patients have low-grade fever or generalized fatigue, and vigilance for secondary infection is required.",
+   "interview_guide": {
+    "first_questions": [
+     "How long has it been since you gave birth? How have the color and amount of your lochia changed compared with just after delivery?",
+     "Do you have lower abdominal bearing-down pain or backache? How severe is the pain?"
+    ],
+    "followup_questions": [
+     "Does the lochia have a foul odor or contain large clots?",
+     "Have you recently had fever, chills, dizziness, or fatigue?"
+    ],
+    "stop_conditions": [
+     "The duration of lochia has been clearly established as exceeding the normal range and is accompanied by typical signs such as abdominal pain and uterine fundal tenderness.",
+     "Other clear causes such as retained placental fragments and puerperal infection have been excluded.",
+     "The patient's vital signs are stable, with no signs of acute hemorrhagic shock."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Gynecologic bimanual examination (to assess uterine size, consistency, tenderness, and position)",
+     "Transvaginal ultrasonography (to screen for intrauterine retained products and fluid)",
+     "Complete blood count (to assess infection markers and degree of anemia)"
+    ],
+    "if_suspected": [
+     "Complete coagulation panel (to exclude bleeding due to coagulation disorders)",
+     "C-reactive protein and procalcitonin (to differentiate whether severe infection is present)",
+     "Urine HCG testing (to exclude gestational trophoblastic disease)"
+    ],
+    "avoid": [
+     "Blind diagnostic curettage (perforation is likely before retained pregnancy products are excluded)",
+     "Routine use of potent hemostatic agents without identifying the cause",
+     "Unnecessary pelvic CT (radiation risk and lower soft-tissue resolution than ultrasound)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment is intravenous infusion or intramuscular injection of oxytocin to promote uterine contraction, along with Chinese patent medicines such as Motherwort granules to assist in expelling blood stasis. If infection is present, broad-spectrum antibiotics (such as cephalosporins + metronidazole) should be used in combination. During treatment, encourage the mother to breastfeed early to stimulate endogenous oxytocin secretion, and advise moderate activity to promote lochia drainage. The course is usually 3-7 days, until uterine involution returns to normal size and lochia turns white."
+    ],
+    "safety_warnings": [
+     "Potent uterotonic agents must not be used alone when the placenta has not completely separated or retained products are present, to prevent tissue entrapment.",
+     "Monitor blood pressure changes; oxytocin overdose may cause hypotension or water intoxication.",
+     "If high fever or severe abdominal pain occurs, stop the drug immediately and reassess for endometritis or sepsis."
+    ],
+    "personalization": [
+     "After cesarean delivery, be alert to poor incisional healing; drug doses should be adjusted according to body weight and hepatic and renal function.",
+     "For breastfeeding women, prefer drugs safe for the infant and avoid preparations that affect milk secretion.",
+     "In patients with a history of hypertension, use oxytocin cautiously; ergonovine (with blood pressure monitoring) or traditional Chinese medicine may be used instead."
+    ]
+   },
+   "disease": "Subinvolution of the uterus",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "Patients often present with increased menstrual bleeding, prolonged menses, or irregular vaginal bleeding, and some have anemia symptoms. They may experience lower abdominal fullness or pressure symptoms such as urinary frequency and constipation. Gynecologic examination may reveal an enlarged uterus with a smooth surface but firm consistency, and a mass may be seen protruding through the cervical os.",
+   "interview_guide": {
+    "first_questions": [
+     "Are your menstrual cycles regular? Has your menstrual flow increased significantly?",
+     "Have you recently had irregular vaginal bleeding or symptoms of anemia (such as dizziness or fatigue)?"
+    ],
+    "followup_questions": [
+     "If you have abnormal bleeding, is it related to sexual intercourse or strenuous exercise?",
+     "Do you have lower abdominal pain or pressure symptoms (such as urinary frequency or constipation)?"
+    ],
+    "stop_conditions": [
+     "The patient has clearly described typical menstrual abnormalities and anemia symptoms and has no other complex medical history.",
+     "The patient has provided a complete menstrual history and prior gynecologic examination results.",
+     "The patient indicates that no further questioning is needed, and the symptoms are consistent with common presentations."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Transvaginal ultrasonography",
+     "Complete blood count",
+     "Pelvic MRI (if necessary)"
+    ],
+    "if_suspected": [
+     "Hysteroscopy",
+     "Diagnostic curettage",
+     "Tumor marker testing (e.g., CA125)"
+    ],
+    "avoid": [
+     "Routine X-ray examination (low soft-tissue resolution)",
+     "Unnecessary radionuclide scanning",
+     "Laparoscopic exploration without an indication"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes medical therapy (such as GnRH agonists to reduce fibroid volume) and surgical treatment (hysteroscopic myomectomy). For asymptomatic small fibroids, regular follow-up may be used. The course of medication is usually 3-6 months, and the appropriate surgical approach should be selected according to fibroid size and location. After surgery, attention should be paid to preventing infection and bleeding."
+    ],
+    "safety_warnings": [
+     "Avoid long-term use of GnRH agonists, which can lead to osteoporosis",
+     "Assess coagulation function before surgery to prevent the risk of intraoperative bleeding",
+     "Be alert for postoperative intrauterine adhesions or infectious complications"
+    ],
+    "personalization": [
+     "For women of reproductive age, prioritize surgical approaches that preserve fertility",
+     "Postmenopausal women without symptoms may be managed with conservative observation",
+     "Patients with anemia should receive iron supplementation and have hemoglobin levels monitored"
+    ]
+   },
+   "disease": "Submucosal uterine leiomyoma",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "Patients often present with tall stature, hypotonia, or delayed motor development, and some have learning disabilities or delayed language development. Gynecologically, most patients have normal menarche, but they may show oligomenorrhea, dysmenorrhea, or signs of diminished ovarian function. Some patients have a history of recurrent spontaneous abortion or a complaint of infertility. Typical signs include mild intellectual disability, seizures, or urogenital malformations, but many adult patients are not identified early because symptoms are subtle.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you had multiple spontaneous abortions or unexplained infertility?",
+     "Have you or your child had significant growth and developmental delay, learning difficulties, or delayed language development?",
+     "Is there a family history of similar chromosomal abnormalities or recurrent miscarriage?"
+    ],
+    "followup_questions": [
+     "If you have menstrual abnormalities, are they specifically prolonged cycles, reduced menstrual flow, or amenorrhea?",
+     "Have you ever had unexplained seizures or severe behavioral and emotional problems?",
+     "Have you previously undergone chromosomal karyotype analysis or other genetic testing?"
+    ],
+    "stop_conditions": [
+     "When a diagnosis of 47,XXX has been clearly established and there are no acute complications requiring management.",
+     "When the patient and family have sufficient understanding of the disease and no further genetic counseling is needed.",
+     "When the necessary fertility assessment has been completed and a follow-up plan has been developed."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Peripheral blood lymphocyte chromosome karyotype analysis (G-banding)",
+     "Sex hormone six-item panel (FSH, LH, E2, etc.)",
+     "Pelvic ultrasonography (to assess uterine and ovarian morphology)"
+    ],
+    "if_suspected": [
+     "FMR1 gene methylation testing (to exclude overlapping fragile X syndrome)",
+     "Thyroid function testing (to evaluate accompanying endocrine abnormalities)",
+     "Electroencephalography (if there is a history of seizures)"
+    ],
+    "avoid": [
+     "Invasive prenatal diagnosis without an indication (e.g., amniocentesis) solely for screening purposes",
+     "Nontargeted whole-body CT scanning (radiation risk exceeds benefit)",
+     "Routine tumor marker screening (in the absence of specific clinical indications)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "There is currently no specific curative treatment, and symptomatic supportive care is the main approach. For menstrual irregularities, short-term sequential estrogen-progestin therapy may be used to regulate the cycle",
+     "For patients with developmental delay, rehabilitation training and special education should be introduced as early as possible. Monitoring of sex hormone levels and bone mineral density every 6-12 months is recommended to prevent osteoporosis. Psychological support and genetic counseling are core interventions that help patients and families cope with potential learning and fertility challenges."
+    ],
+    "safety_warnings": [
+     "Long-term estrogen replacement therapy requires vigilance for the risk of thrombosis, especially in patients with a smoking history or obesity.",
+     "Avoid indiscriminate use of ovulation induction drugs, which may increase the risk of multiple pregnancy and ovarian hyperstimulation syndrome.",
+     "Pay attention to drug interactions, especially the metabolic effects between antiepileptic drugs and hormonal drugs."
+    ],
+    "personalization": [
+     "Women of reproductive age: ovarian reserve function should be assessed in detail before planning pregnancy, with assisted reproductive technology intervention if necessary.",
+     "Adolescent patients: focus on the height growth curve and development of secondary sexual characteristics, and initiate growth hormone assessment at the appropriate time.",
+     "Older patients: strengthen bone health management and regularly screen for the risk of breast and gynecologic malignancies."
+    ]
+   },
+   "disease": "Triple X syndrome (47,XXX)",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "Patients often report that uterine enlargement is significantly faster than in a singleton pregnancy, severe nausea and vomiting in early pregnancy, and frequent fetal movements or abnormal abdominal distention in the middle and late trimesters. They may have dyspnea, worsening lower extremity edema, and symptoms of hypertensive disorders of pregnancy. Watch for signs of preterm labor such as regular uterine contractions, vaginal bleeding, or rupture of membranes.",
+   "interview_guide": {
+    "first_questions": [
+     "What is your last menstrual period and estimated due date?",
+     "Is it known that you have a twin pregnancy? Is there a family history?",
+     "Have you recently had abdominal pain, vaginal bleeding, or abnormal discharge?"
+    ],
+    "followup_questions": [
+     "If you have contractions, what is their frequency and duration?",
+     "Do you have headache, blurred vision, or other hypertension-related symptoms?",
+     "Do you have a history of miscarriage, preterm birth, or cesarean delivery?"
+    ],
+    "stop_conditions": [
+     "Twin type (chorionicity) and gestational age have been clearly determined",
+     "No acute complications and stable vital signs",
+     "Basic obstetric assessment and necessary tests have been completed"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Transvaginal ultrasonography (to determine chorionicity and fetal number)",
+     "Complete blood count and coagulation function testing",
+     "Blood pressure monitoring and urine protein testing"
+    ],
+    "if_suspected": [
+     "Glucose tolerance test (to screen for gestational diabetes mellitus)",
+     "Cervical length measurement (to assess preterm birth risk)",
+     "Fetal growth ultrasonography (to monitor growth discrepancy)"
+    ],
+    "avoid": [
+     "Routine X-ray examination (unless there is an emergency indication)",
+     "Unnecessary invasive procedures (such as amniocentesis)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "First-line treatment includes regular prenatal visits (every 2-4 weeks), folic acid and iron supplementation, and nutritional support. Progesterone or magnesium sulfate may be used to prevent preterm birth. If preeclampsia occurs, blood pressure must be controlled and pregnancy should be terminated at the appropriate time. Planned delivery at 36-37 weeks is recommended to avoid complications caused by spontaneous labor."
+    ],
+    "safety_warnings": [
+     "NSAIDs are contraindicated to prevent fetal renal impairment",
+     "Pay attention to drug interactions, especially between anticoagulants and antihypertensive drugs",
+     "Be alert for the risk of postpartum hemorrhage and prepare blood products in advance"
+    ],
+    "personalization": [
+     "For pregnant women of advanced maternal age, strengthen blood glucose and blood pressure monitoring",
+     "For multiple pregnancies, increase the iron dose to prevent anemia",
+     "Consider cervical cerclage in patients with a history of preterm birth"
+    ]
+   },
+   "disease": "Twin pregnancy",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "Patients often seek care for infertility, recurrent spontaneous abortion, or preterm birth. Typical manifestations include regular menstrual cycles but possibly reduced menstrual flow, and some patients have cyclic lower abdominal pain (if there is a rudimentary horn with endometrium). During pregnancy, abnormal fetal presentation, placental abruption, and late miscarriage are likely to occur. Gynecologic examination may reveal asymmetric uterine morphology, with one uterine horn full and the other empty.",
+   "interview_guide": {
+    "first_questions": [
+     "Have you ever been pregnant? Specifically, was it a term delivery, miscarriage, or preterm birth?",
+     "Are your menstrual cycles regular? Has your menstrual flow changed significantly compared with before?",
+     "Have you had cyclic abdominal pain or unexplained infertility?"
+    ],
+    "followup_questions": [
+     "If you have had a miscarriage, at what gestational week did it occur? Was it accompanied by severe abdominal pain?",
+     "If you have abdominal pain, is the pain related to your menstrual cycle? Does it radiate to the lumbosacral region?",
+     "If you are planning pregnancy, have you previously undergone imaging tests related to uterine structure?"
+    ],
+    "stop_conditions": [
+     "The patient has clearly reported a history of infertility or recurrent miscarriage, and uterine malformation is highly suspected",
+     "The patient's reported symptoms are typical, and key reproductive history information has been provided",
+     "The patient refuses further examination or clearly states that only consultation is needed"
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Three-dimensional ultrasonography (3D-US)",
+     "Magnetic resonance imaging (MRI), pelvic non-contrast plus contrast-enhanced"
+    ],
+    "if_suspected": [
+     "Hysteroscopy (to assess uterine cavity morphology and rudimentary horn status)",
+     "Laparoscopy (to confirm diagnosis and assess pelvic adhesions and fallopian tube status)"
+    ],
+    "avoid": [
+     "Routine X-ray hysterosalpingography (low soft-tissue resolution; not first-line)",
+     "Blind diagnostic curettage (increases the risk of injury when there is no indication)"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Asymptomatic patients do not require special treatment and can undergo regular follow-up. If a functional rudimentary horn causes dysmenorrhea or hematometra, laparoscopic resection of the rudimentary horn should be performed. For those with fertility needs, uterine cavity morphology should be assessed before pregnancy",
+     "During pregnancy, strengthen monitoring, prevent preterm birth, and perform cervical cerclage if necessary. After delivery, pay attention to contraception to avoid the increased risk associated with unintended pregnancy."
+    ],
+    "safety_warnings": [
+     "Induced abortion is strictly prohibited before rudimentary horn pregnancy has been excluded, to prevent uterine rupture",
+     "When using tocolytic agents during pregnancy, closely monitor fetal heart rate and maternal blood pressure",
+     "Surgical procedures should avoid injury to adjacent ureters and blood vessels"
+    ],
+    "personalization": [
+     "For young nulliparous women, prioritize minimally invasive surgical approaches that preserve fertility",
+     "For older patients or those with severe complications, multidisciplinary consultation is needed to develop an individualized delivery plan",
+     "For patients with other reproductive tract malformations, related anatomic abnormalities should be managed concurrently"
+    ]
+   },
+   "disease": "Unicornuate uterus",
+   "department": "Obstetrics & Gynecology"
+  },
+  {
+   "presentation": "Patients complain of single or multiple painless masses on the vulva, varying in size, which may slowly enlarge over time. Some patients develop local redness and swelling, severe pain, and marked tenderness due to cyst infection or rupture, and may even have fever and difficulty walking. The skin over the mass may be red; if it is a Bartholin gland cyst, it is usually located in the posterior part of the labium majus; if it is a sebaceous cyst, it is mostly located in hair follicle-bearing areas, with a central black dot visible.",
+   "interview_guide": {
+    "first_questions": [
+     "How long have you had the vulvar lump, and has it grown rapidly recently?",
+     "Do you have pain, redness, swelling, or warmth at the lump?",
+     "Have you recently had trauma or childbirth, or do you have a history of similar masses?"
+    ],
+    "followup_questions": [
+     "If you have pain, does it affect urination or walking?",
+     "Has the mass ever ruptured on its own, draining pus or blood?",
+     "Have you had a history of high-risk sexual contact or recurrent vaginitis?"
+    ],
+    "stop_conditions": [
+     "The location, size, consistency, and presence or absence of fluctuance of the mass have been determined.",
+     "It has been confirmed that there are no acute systemic infection symptoms (such as high fever or chills).",
+     "High-risk factors related to malignancy (such as induration or fixation) have been excluded."
+    ]
+   },
+   "exam_strategy": {
+    "essential": [
+     "Gynecologic bimanual examination",
+     "Inspection and palpation of the vulva",
+     "Gram stain of discharge smear"
+    ],
+    "if_suspected": [
+     "Pelvic ultrasonography",
+     "Cytologic examination of cyst aspirate",
+     "Complete blood count and C-reactive protein testing"
+    ],
+    "avoid": [
+     "Blind incision and drainage of an undiagnosed solid mass",
+     "Routine use of broad-spectrum antibiotics without an indication of infection",
+     "Unnecessary extensive biopsy in young women"
+    ]
+   },
+   "treatment": {
+    "first_line": [
+     "Asymptomatic small cysts can be observed and followed up. When symptomatic or infected, incision and drainage with placement of a Word catheter for marsupialization is preferred, leaving it in place for 2–4 weeks to prevent recurrence. If infection is present, oral antibiotics (such as a cephalosporin combined with metronidazole) are needed for 5–7 days. Noninfected cysts can be treated with laser marsupialization or cyst excision. After surgery, keep the vulva clean and avoid friction."
+    ],
+    "safety_warnings": [
+     "Never forcibly squeeze the cyst without anesthesia to prevent spread of infection.",
+     "Pay attention to the history of drug allergy, especially to penicillins and cephalosporins.",
+     "Be alert to the risk of sepsis caused by abscess formation, and monitor body temperature closely."
+    ],
+    "personalization": [
+     "For pregnant patients, conservative treatment or simple drainage under local anesthesia is preferred, and general anesthesia should be avoided.",
+     "For patients with diabetes, strengthen glycemic control and prolong the antibiotic course to prevent recurrence.",
+     "For postmenopausal women, if the cyst persists, be alert to the possibility of malignant transformation; complete excision with pathologic examination is recommended."
+    ]
+   },
+   "disease": "Vulvar cyst",
+   "department": "Obstetrics & Gynecology"
+  }
+ ]
+}

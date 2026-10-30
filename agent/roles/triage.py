@@ -1,6 +1,17 @@
 # -*- coding: utf-8 -*-
-"""① TriageAgent 分诊：主诉理解 → 科室假设 + 风险分级（科室目录约束输出范围）。"""
+"""(1) TriageAgent: understand the complaint -> department hypotheses + risk level (department catalog bounds the output)."""
+import re
+
 from agent.roles.base import RoleAgent
+
+DEFAULT_DEPTS = ['Cardiology', 'Respiratory Medicine']
+# deterministic red-flag keywords -> label added to red_flags
+RED_FLAG_RULES = [
+    (r'chest (pain|tightness|pressure)', 'Chest pain'),
+    (r'short(ness)? of breath|breathless|difficulty breathing|dyspn', 'Shortness of breath'),
+    (r'unconscious|altered (mental|consciousness)|confus|faint|syncope', 'Altered consciousness'),
+    (r'\bshock\b', 'Shock'),
+]
 
 
 class TriageAgent(RoleAgent):
@@ -11,28 +22,28 @@ class TriageAgent(RoleAgent):
     def run(self, case_id, state):
         self._case_id = case_id
         d = state.data
-        user = (f"主诉：{d['chief_complaint']}\n年龄：{d['age']}\n性别：{d['sex']}\n"
-                f"持续时间：{d['duration']}\n症状：{', '.join(d['symptoms'])}\n"
-                f"既往史：{d['past_history']}\n过敏史：{d['allergies']}\n当前用药：{d['medications']}\n"
-                f"可选科室（只能从中选择）：{'、'.join(sorted(self.kb.departments))}")
+        user = (f"Chief complaint: {d['chief_complaint']}\nAge: {d['age']}\nSex: {d['sex']}\n"
+                f"Duration: {d['duration']}\nSymptoms: {', '.join(d['symptoms'])}\n"
+                f"Past history: {d['past_history']}\nAllergies: {d['allergies']}\nCurrent medications: {d['medications']}\n"
+                f"Allowed departments (choose only from these): {', '.join(sorted(self.kb.departments))}")
         data = self.ask_json(case_id, '', user)
-        # 确定性后验：红旗征象强制升级 + 急诊建议
+        # deterministic post-check: red flags force escalation + emergency advice
         reds = data.get('red_flags') or []
-        complaint = d['chief_complaint'] + ' ' + ' '.join(d['symptoms'])
-        auto_flags = [k for k in ('胸痛', '呼吸困难', '意识障碍', '休克') if k in complaint]
+        complaint = (d['chief_complaint'] + ' ' + ' '.join(d['symptoms'])).lower()
+        auto_flags = [label for pat, label in RED_FLAG_RULES if re.search(pat, complaint)]
         for flag in auto_flags:
-            if flag not in reds:
+            if not any(flag.lower() in str(r).lower() for r in reds):
                 reds.append(flag)
         if auto_flags and data.get('urgency') not in ('high', 'emergency'):
             data['urgency'] = 'high'
-            data['triage_reasoning'] += '（规则引擎：存在急症红旗征象，紧急程度上调）'
-        if auto_flags and '急诊' not in data.get('next_step', ''):
-            data['next_step'] += '；请患者立即线下急诊就医'
+            data['triage_reasoning'] += ' (Rule engine: emergency red flags present, urgency raised.)'
+        if auto_flags and 'emergency' not in data.get('next_step', '').lower():
+            data['next_step'] += '; the patient should go to the emergency department now'
         data['red_flags'] = reds
         data['candidate_departments'] = [x for x in data.get('candidate_departments', [])
-                                         if x in self.kb.departments] or ['心内科', '呼吸内科']
+                                         if x in self.kb.departments] or list(DEFAULT_DEPTS)
         state.apply('triage', {'triage': data})
-        self.handoff(case_id, 'interview', '分诊完成，进入问诊',
+        self.handoff(case_id, 'interview', 'triage complete, moving to interview',
                      _result(data), data.get('candidate_departments'))
         return _result(data)
 

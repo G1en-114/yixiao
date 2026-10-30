@@ -1,15 +1,46 @@
 # -*- coding: utf-8 -*-
-"""知识资产：19 科室 Skill 检索器 + 837 项检查目录 + 标准疾病名录。"""
+"""Knowledge assets: 19-department Skill retriever + 837-item exam catalog + standard disease catalog."""
+import difflib
 import json
 import os
 import re
 
+_STOP = set('''a an and are as at be been but by for from has have he her his i in is it its me my of on or our she
+that the their them they this to was we were what when which who will with you your not no any all can may
+patient patients year years old male female history about after before since day days hour hours week weeks
+minute minutes ago also more most than then there these those such very'''.split())
 
-def _bigrams(text):
-    text = re.sub(r'[^\u4e00-\u9fa5a-zA-Z0-9]+', '', text or '')
-    if len(text) < 2:
-        return {text} if text else set()
-    return {text[i:i + 2] for i in range(len(text) - 1)}
+
+def _stem(w):
+    for suf in ('ies', 'es', 's', 'ing', 'ed'):
+        if len(w) > len(suf) + 3 and w.endswith(suf):
+            return w[:-len(suf)] + ('y' if suf == 'ies' else '')
+    return w
+
+
+def _tokens(text):
+    words = re.findall(r'[a-z0-9]+(?:-[a-z0-9]+)*', (text or '').lower())
+    return {_stem(w) for w in words if len(w) > 2 and w not in _STOP}
+
+
+# words that say what kind of test it is, not which test it is
+_GENERIC = set('''test testing assay examination exam study panel marker level monitoring scan imaging analysis
+measurement screening evaluation check profile'''.split())
+# clinical shorthand in Skill exam lines -> words used in catalog exam names
+_SYNONYMS = {'troponin': 'cardiac enzyme', 'ck-mb': 'cardiac enzyme', 'hs-ctni': 'cardiac enzyme', 'hs-ctnt': 'cardiac enzyme',
+             'injury': 'enzyme', 'ecg': 'electrocardiography', 'cxr': 'chest x-ray', 'cbc': 'complete blood count'}
+
+
+def _expand(tokens):
+    out = set(tokens)
+    for t in tokens:
+        if t in _SYNONYMS:
+            out |= _tokens(_SYNONYMS[t])
+    return out
+
+
+def _norm(name):
+    return re.sub(r'\s+', ' ', (name or '').strip().lower())
 
 
 class KnowledgeBase:
@@ -46,24 +77,87 @@ class KnowledgeBase:
                     self.exams_by_name[it['name']] = it
                     self.exam_categories.setdefault(it['category'], []).append(it['name'])
 
+        self._disease_lc = {_norm(n): n for n in self.disease_names}
+        self._exam_lc = {_norm(n): n for n in self.exams_by_name}
         self._index = []
         for s in self.all_skills:
-            grams = _bigrams(s['disease']) | _bigrams(s['presentation'][:120])
+            grams = _tokens(s['disease']) | _tokens(s['presentation'])
             self._index.append((s, grams))
+        self._exam_index = [(n, _tokens(n), _tokens(it.get('description', '')))
+                            for n, it in self.exams_by_name.items()]
 
     def stats(self):
         return {'departments': len(self.departments), 'skills': len(self.all_skills),
                 'diseases': len(self.diseases), 'exams': len(self.exams_by_name)}
 
+    # ---- catalog alignment ----
     def is_standard_disease(self, name):
         return name in self.disease_names
 
     def is_valid_exam(self, name):
         return name in self.exams_by_name
 
+    def canonical_disease(self, name, cutoff=0.82):
+        """Map a model-written disease name to the catalog's exact name (case-insensitive, then close match)."""
+        key = _norm(name)
+        if not key:
+            return None
+        if key in self._disease_lc:
+            return self._disease_lc[key]
+        base = re.split(r'\s*[(\[]', key)[0]
+        for lc, n in self._disease_lc.items():
+            if base and (lc == base or re.split(r'\s*[(\[]', lc)[0] == base):
+                return n
+        hit = difflib.get_close_matches(key, list(self._disease_lc), n=1, cutoff=cutoff)
+        return self._disease_lc[hit[0]] if hit else None
+
+    def canonical_exam(self, name, cutoff=0.86):
+        key = _norm(name)
+        if not key:
+            return None
+        if key in self._exam_lc:
+            return self._exam_lc[key]
+        hit = difflib.get_close_matches(key, list(self._exam_lc), n=1, cutoff=cutoff)
+        return self._exam_lc[hit[0]] if hit else None
+
+    def match_exam_line(self, line, top=2):
+        """Best catalog exams for one free-text exam line of a Skill (name overlap weighs more than description)."""
+        q = _expand(_tokens(line))
+        scored = []
+        for n, name_t, desc_t in self._exam_index:
+            core = name_t - _GENERIC
+            hit = len(q & core)
+            if not hit:
+                continue
+            s = 2 * hit / len(core) + 0.25 * len((q - _GENERIC) & desc_t)
+            if s >= 0.6:
+                scored.append((s, n))
+        scored.sort(key=lambda x: -x[0])
+        return [n for _, n in scored[:top]]
+
+    def exam_covers(self, have, want):
+        """True when catalog exam `have` is `want` or a more specific form of it (e.g. TTE covers Echocardiography)."""
+        if have == want:
+            return True
+        a = _tokens(have) - _GENERIC
+        b = _tokens(want) - _GENERIC
+        return bool(b) and b <= a
+
+    def related_exams(self, skills, top_k=40):
+        """Catalog exams that match the candidate Skills' exam strategy, essential lines first (offered to the model by exact name)."""
+        out = []
+        for key in ('essential', 'if_suspected'):
+            for s in skills:
+                for line in s['exam_strategy'][key]:
+                    for n in self.match_exam_line(line):
+                        if n not in out:
+                            out.append(n)
+        return out[:top_k]
+
+    # ---- retrieval ----
     def retrieve(self, query, candidate_departments=None, top_k=5):
-        """按主诉/病例状态检索 Top-K 候选疾病 Skill（检索增强注入）。"""
-        qg = _bigrams(query)
+        """Top-K candidate disease Skills for a complaint / case state (retrieval-augmented injection)."""
+        qg = _tokens(query)
         scored = []
         for s, grams in self._index:
             score = len(qg & grams) / (len(qg) or 1)
@@ -75,28 +169,29 @@ class KnowledgeBase:
         return [s for _, s in scored[:top_k]]
 
     def find_skill(self, disease):
+        name = self.canonical_disease(disease) or disease
         for s in self.all_skills:
-            if s['disease'] == disease:
+            if s['disease'] == name:
                 return s
         return None
 
     @staticmethod
     def format_skills(skills):
-        """把候选 Skill 格式化注入 System Prompt 知识区块。"""
+        """Format candidate Skills for the System Prompt knowledge block."""
         blocks = []
         for i, s in enumerate(skills, 1):
             guide = s['interview_guide']
             exam = s['exam_strategy']
             treat = s['treatment']
             blocks.append(
-                f"[Skill {i}] {s['disease']}（{s['department']}）\n"
-                f"典型表现：{s['presentation']}\n"
-                f"首问：{'；'.join(guide['first_questions'][:3])}\n"
-                f"追问：{'；'.join(guide['followup_questions'][:4])}\n"
-                f"停止条件：{'；'.join(guide['stop_conditions'][:2])}\n"
-                f"必要检查：{'；'.join(exam['essential'][:4])}\n"
-                f"鉴别检查：{'；'.join(exam['if_suspected'][:3])}\n"
-                f"避免检查：{'；'.join(exam['avoid'][:3])}\n"
-                f"一线方案：{'；'.join(treat['first_line'][:3])}\n"
-                f"安全警示：{'；'.join(treat['safety_warnings'][:2])}")
+                f"[Skill {i}] {s['disease']} ({s['department']})\n"
+                f"Typical presentation: {s['presentation']}\n"
+                f"First questions: {'; '.join(guide['first_questions'][:3])}\n"
+                f"Follow-up questions: {'; '.join(guide['followup_questions'][:4])}\n"
+                f"Stop when: {'; '.join(guide['stop_conditions'][:2])}\n"
+                f"Essential exams: {'; '.join(exam['essential'][:4])}\n"
+                f"If suspected: {'; '.join(exam['if_suspected'][:3])}\n"
+                f"Avoid: {'; '.join(exam['avoid'][:3])}\n"
+                f"First-line management: {'; '.join(treat['first_line'][:3])}\n"
+                f"Safety warnings: {'; '.join(treat['safety_warnings'][:2])}")
         return '\n'.join(blocks)
